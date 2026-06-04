@@ -437,7 +437,7 @@
                                 </note>, <q>it is also going collaborative. Knowledge and knowledge production are more extensively networked than ever before and are deeply embedded socially. The digital turn has led to the advent of increasingly large-scale and ambitious projects within the humanities</q>
                                 <note place="inline">
                                     <bibl>18</bibl>
-                                </note>. <ref target="#economics">Funding large, interdisciplinary digital humanities (<abbr>DH</abbr>) projects is certainly a challenge. The problem of funding, however, pales in comparison to a bigger challenge: developing viable models of collaboration.</ref> If the Editing Modernism in Canada (<abbr>EMiC</abbr>) knowledge network, for example, of which our group at <orgName key="University of Alberta." ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/AxUcZPYAbFq" type="real" cert="high">the University of Alberta</orgName> (<abbr>EMiC UA</abbr>) is part, wants researchers—faculty and students—in a number of disciplines to <q>collaborate, edit, learn</q>
+                                </note>. <ref target="#economics">Funding large, interdisciplinary digital humanities (<abbr>DH</abbr>) projects is certainly a challenge. The problem of funding, however, pales in comparison to a bigger challenge: developing viable models of collaboration.</ref> If the Editing Modernism in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/wrtGf5UtkLw">Canada</placeName> (<abbr>EMiC</abbr>) knowledge network, for example, of which our group at <orgName key="University of Alberta." ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/AxUcZPYAbFq" type="real" cert="high">the University of Alberta</orgName> (<abbr>EMiC UA</abbr>) is part, wants researchers—faculty and students—in a number of disciplines to <q>collaborate, edit, learn</q>
                                 <note place="inline">
                                     <bibl>
                                         <title level="a">About Us</title>
@@ -485,8 +485,8 @@
                     </p>
                     <p xml:id="p1080">
                         <ref target="#collaboration">
-                            <ref target="#theme_or_topic">In this chapter, members of the Editing Modernism in Canada research collaboratory at <orgName key="University of Alberta." ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/DVrcnynEqW0">the University of Alberta</orgName> report on our attempt to develop a viable model of collaboration.</ref> How can we produce a model for consent and collaboration that recognizes the disparate forms and conditions of labour connected to humanities research and presentation? <ref target="#intertextuality">
-                                <abbr>EMiC UA</abbr> has opted to develop a project charter on the iterative model advanced by Stan Ruecker and Milena Radzikowska and adapted for use by the Implementing New Knowledge Environments (<abbr>INKE</abbr>) project.</ref> Since this work is ongoing, this chapter is necessarily an interim report on ongoing discussions. When we began work on the project charter, <abbr>EMiC UA</abbr> consisted of nine researchers: two tenured faculty members, <persName key="Hjartarson, Paul Ivar" ref="http://viaf.org/viaf/39401783" ana="webannotation:http://temp.lincsproject.ca/5QSdWvvLRyQ">Paul Hjartarson</persName> and <persName key="Quamen, Harvey" ref="http://viaf.org/viaf/235167803166517771996" ana="webannotation:http://temp.lincsproject.ca/s24UnOSdi93">Harvey Quamen</persName>; an archivist, Raymond Frogner; and six graduate students, five in English—Rebecca Blakey, Kristin Fast, Andrea Hasenbank, <persName key="McGregor, Hannah" ref="http://viaf.org/viaf/20153713810358661443" ana="webannotation:http://temp.lincsproject.ca/2FC6L835op3">Hannah McGregor</persName>, and Nick van Orden—and one, Matt Bouchard, in information studies. Postdoctoral fellow <persName key="Lent, Vanessa, 1979-" ref="http://viaf.org/viaf/141147423127944882061" ana="webannotation:http://temp.lincsproject.ca/A5VxaIQJmkc">Vanessa Lent</persName> joined us in January 2012. We also work with a number of researchers—Gregory Betts, Wayne DeFehr, Joseph MacKinnon, Linda Morra, Shirley Neuman, and Paul Tiessen, for example—who may or may not ultimately join the collaboratory. Although most <abbr>EMiC UA</abbr> members are based at <orgName key="University of Alberta." ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/GlsyRBqOLRK">the University of Alberta</orgName>, Raymond Frogner works in the Archives, Collections and Knowledge Division, BC Archives in Victoria, and Matt Bouchard is a doctoral student at <orgName key="University of Toronto." ref="http://viaf.org/viaf/130333233" ana="webannotation:http://temp.lincsproject.ca/xDjhNLvHDHR" type="real" cert="high">the University of Toronto</orgName>. (In October 2013, <persName key="McGregor, Hannah" ref="http://viaf.org/viaf/20153713810358661443" ana="webannotation:http://temp.lincsproject.ca/Eopn43VGz2Y">Hannah McGregor</persName>, who was a doctoral student at <orgName key="University of Guelph." ref="http://viaf.org/viaf/125486960" ana="webannotation:http://temp.lincsproject.ca/UsqpBuIYuCm" type="real" cert="high">the University of Guelph</orgName>, returned to <orgName key="University of Alberta." ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/v0hlv3syaMU">the University of Alberta</orgName> and to <abbr>EMiC UA</abbr> as a <abbr>SSHRC</abbr> postdoctoral fellow.) <ref target="#technology">
+                            <ref target="#theme_or_topic">In this chapter, members of the Editing Modernism in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/dXb2tgRNXJO">Canada</placeName> research collaboratory at <orgName key="University of Alberta." ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/DVrcnynEqW0">the University of Alberta</orgName> report on our attempt to develop a viable model of collaboration.</ref> How can we produce a model for consent and collaboration that recognizes the disparate forms and conditions of labour connected to humanities research and presentation? <ref target="#intertextuality">
+                                <abbr>EMiC UA</abbr> has opted to develop a project charter on the iterative model advanced by Stan Ruecker and Milena Radzikowska and adapted for use by the Implementing New Knowledge Environments (<abbr>INKE</abbr>) project.</ref> Since this work is ongoing, this chapter is necessarily an interim report on ongoing discussions. When we began work on the project charter, <abbr>EMiC UA</abbr> consisted of nine researchers: two tenured faculty members, <persName key="Hjartarson, Paul Ivar" ref="http://viaf.org/viaf/39401783" ana="webannotation:http://temp.lincsproject.ca/5QSdWvvLRyQ">Paul Hjartarson</persName> and <persName key="Quamen, Harvey" ref="http://viaf.org/viaf/235167803166517771996" ana="webannotation:http://temp.lincsproject.ca/s24UnOSdi93">Harvey Quamen</persName>; an archivist, Raymond Frogner; and six graduate students, five in English—Rebecca Blakey, Kristin Fast, Andrea Hasenbank, <persName key="McGregor, Hannah" ref="http://viaf.org/viaf/20153713810358661443" ana="webannotation:http://temp.lincsproject.ca/2FC6L835op3">Hannah McGregor</persName>, and Nick van Orden—and one, Matt Bouchard, in information studies. Postdoctoral fellow <persName key="Lent, Vanessa, 1979-" ref="http://viaf.org/viaf/141147423127944882061" ana="webannotation:http://temp.lincsproject.ca/A5VxaIQJmkc">Vanessa Lent</persName> joined us in January 2012. We also work with a number of researchers—Gregory Betts, Wayne DeFehr, Joseph MacKinnon, Linda Morra, Shirley Neuman, and Paul Tiessen, for example—who may or may not ultimately join the collaboratory. Although most <abbr>EMiC UA</abbr> members are based at <orgName key="University of Alberta." ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/GlsyRBqOLRK">the University of Alberta</orgName>, Raymond Frogner works in the Archives, Collections and Knowledge Division, <orgName key="British Columbia Archives" ref="http://viaf.org/viaf/132861680" ana="webannotation:http://temp.lincsproject.ca/0hCKFmQx1H1">BC Archives</orgName> in Victoria, and Matt Bouchard is a doctoral student at <orgName key="University of Toronto." ref="http://viaf.org/viaf/130333233" ana="webannotation:http://temp.lincsproject.ca/xDjhNLvHDHR" type="real" cert="high">the University of Toronto</orgName>. (In October 2013, <persName key="McGregor, Hannah" ref="http://viaf.org/viaf/20153713810358661443" ana="webannotation:http://temp.lincsproject.ca/Eopn43VGz2Y">Hannah McGregor</persName>, who was a doctoral student at <orgName key="University of Guelph." ref="http://viaf.org/viaf/125486960" ana="webannotation:http://temp.lincsproject.ca/UsqpBuIYuCm" type="real" cert="high">the University of Guelph</orgName>, returned to <orgName key="University of Alberta." ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/v0hlv3syaMU">the University of Alberta</orgName> and to <abbr>EMiC UA</abbr> as a <abbr>SSHRC</abbr> postdoctoral fellow.) <ref target="#technology">
                                 <ref target="#theme_or_topic">
                                     <abbr>EMiC UA</abbr> is engaged in three editorial initiatives: the Wilfred and Sheila Watson projects; the Manifestos project; and the Martha Ostenso project. Our mainstay, however, is the Editing Wilfred Watson Archive project. This is the initiative we are using to create digital infrastructure; it is also the initiative we are using to think through the project charter.</ref>
                             </ref>
@@ -811,7 +811,7 @@
                     <p xml:id="p1112" rend="authors-note">
                         <ref target="#collaboration">
                             <ref target="#eduction">
-                                <ref target="#theme_or_topic">The Editing Modernism in Canada project seeks to place graduate education at the centre of its work. In collaboration with the University of Victoria’s Digital Humanities Summer Institute, it provides training in the digital humanities; through its partnership with Trent University’s Public Texts program, it offers courses in the theory and practice of editing; and through <ref target="#economics">funding provided by a <abbr>SSHRC</abbr> Strategic Knowledge Cluster grant, it offers funding, including postdoctoral fellowships, to students who choose to edit Canadian texts.</ref>
+                                <ref target="#theme_or_topic">The Editing Modernism in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/rMTbHztkIiu">Canada</placeName> project seeks to place graduate education at the centre of its work. In collaboration with the University of Victoria’s Digital Humanities Summer Institute, it provides training in the digital humanities; through its partnership with Trent University’s Public Texts program, it offers courses in the theory and practice of editing; and through <ref target="#economics">funding provided by a <abbr>SSHRC</abbr> Strategic Knowledge Cluster grant, it offers funding, including postdoctoral fellowships, to students who choose to edit Canadian texts.</ref>
                                 </ref> Early in its work, the <abbr>EMiC UA</abbr> research group resolved to build on <abbr>EMiC</abbr>’s foundational commitment to the training and mentorship of graduate students and other emerging scholars by developing a collaborative environment in which those scholars could function as full members of a research team and receive credit appropriate to their work on projects.</ref> To that end, <abbr>EMiC UA</abbr> placed a high priority on developing a project charter; we soon realized, however, that the task would prove as difficult and demanding as it was crucial to our work. This document is a work in progress. Because our work is in its early stages, it is grounded more in principles than in policies and practices. As our work develops, these principles will give rise to policies and practices; moreover, all principles, policies, and practices will be more fully tested and revised in our day-to-day operations. This ongoing revision we understand as the heart of an iterative project charter. The present document is part—a small part, at that—of a larger whole. The focus here is on <q>trust</q> because it is essential to equitable collaboration. We have also worked on a <q>play nice</q> cluster, that is, principles we think should govern our collective commitment to tasks, deadlines, and conflict resolution.</ref>
                     </p>
                     <table>
@@ -1023,7 +1023,7 @@
                     <head>Works Cited</head>
                     <listBibl>
                         <bibl>Beck, Kent, with Cynthia Andres. <title level="m">Extreme Programming Explained: Embrace Change</title>. 2nd ed. Boston: Addison-Wesley, 2005.</bibl>
-                        <bibl>Bretz, Andrew, <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/BDgVw35UFqO">Susan Brown</persName>, and <persName key="McGregor, Hannah" ref="http://viaf.org/viaf/20153713810358661443" ana="webannotation:http://temp.lincsproject.ca/612OdYi2T6Q">Hannah McGregor</persName>. <title level="m">Lasting Change: Sustaining Digital Scholarship and Culture in Canada</title>. 2010. <ref target="http://www.cwrc.ca/wp-content/uploads/2011/05/Lasting-Change-Knowledge-Synthesis.pdf">http://www.cwrc.ca/wp-content/uploads/2011/05/Lasting-Change-Knowledge-Synthesis.pdf</ref>
+                        <bibl>Bretz, Andrew, <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/BDgVw35UFqO">Susan Brown</persName>, and <persName key="McGregor, Hannah" ref="http://viaf.org/viaf/20153713810358661443" ana="webannotation:http://temp.lincsproject.ca/612OdYi2T6Q">Hannah McGregor</persName>. <title level="m">Lasting Change: Sustaining Digital Scholarship and Culture in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/OAbVkA4JV5d">Canada</placeName></title>. 2010. <ref target="http://www.cwrc.ca/wp-content/uploads/2011/05/Lasting-Change-Knowledge-Synthesis.pdf">http://www.cwrc.ca/wp-content/uploads/2011/05/Lasting-Change-Knowledge-Synthesis.pdf</ref>
                         </bibl>
                         <bibl><persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/vXdJ7DWthWm">Brown</persName>, Susan. <title level="a">Don’t Mind the Gap: Evolving Digital Modes of Scholarly Production across the Digital-Humanities Divide</title>. <title level="m">Retooling the Humanities: The Culture of Research in Canadian Universities</title>. Ed. Daniel Coleman and Smaro Kamboureli. Edmonton: University of Alberta Press, 2011. 203–31.</bibl>
                         <bibl>Chow, Rey.<title level="a">
@@ -5900,6 +5900,451 @@
         "type": "crm:E53_Place",
         "label": "Canada",
         "description": "null, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/wrtGf5UtkLw">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/wrtGf5UtkLw",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T18:04:59.646Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/L16Qwc662RP",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/L16Qwc662RP/selector/textPosition/obu6AJShYXC",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 2539,
+                "end": 2545,
+                "refinedBy": {
+                    "id": "/target/L16Qwc662RP/selector/textQuote/Pwqmq4XuHKz",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canada",
+                    "prefix": " If the Editing Modernism in",
+                    "suffix": "(EMiC) knowledge network, for example, of which our group at the University of Alberta (EMiC UA) is part, wants researchers—faculty and students—in a number of disciplines to collaborate, edit, learn\n                                \n                                    \n                                        About Us\n                                    \n                                , it needs to develop working environments in which ground rules are collaboratively developed and clearly articulated and in which all project members can thrive"
+                }
+            },
+            {
+                "id": "/target/L16Qwc662RP/selector/css/m9oEbiJXuGb",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/wrtGf5UtkLw]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6251999",
+        "type": "crm:E53_Place",
+        "label": "Canada",
+        "description": "null, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/dXb2tgRNXJO">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/dXb2tgRNXJO",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T18:04:59.773Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/gJ4JSA5wNNv",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/gJ4JSA5wNNv/selector/textPosition/Nba0TZQGexQ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 9585,
+                "end": 9591,
+                "refinedBy": {
+                    "id": "/target/gJ4JSA5wNNv/selector/textQuote/VDEaRx20WBB",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canada",
+                    "prefix": " How does one mentor—can one mentor or be mentored—in a contact zone? Is collaboration itself possible in these conditions?\n                        \n                    \n                    \n                        \n                            In this chapter, members of the Editing Modernism in",
+                    "suffix": "research collaboratory at the University of Alberta report on our attempt to develop a viable model of collaboration"
+                }
+            },
+            {
+                "id": "/target/gJ4JSA5wNNv/selector/css/RyLpdr5vnhc",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/dXb2tgRNXJO]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6251999",
+        "type": "crm:E53_Place",
+        "label": "Canada",
+        "description": "null, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/rMTbHztkIiu">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/rMTbHztkIiu",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T18:04:59.893Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/PfJmsizg9Zl",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/PfJmsizg9Zl/selector/textPosition/8HpDtxxiMGX",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 54768,
+                "end": 54774,
+                "refinedBy": {
+                    "id": "/target/PfJmsizg9Zl/selector/textQuote/vpa6T52WmGV",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canada",
+                    "prefix": "\n                            \n                        \n                    \n                \n                \n                    Appendix\n                    \n                        EMiC UA Project Charter Trust Cluster: Collaboration, Credit, Documentation, and Communication\n                    \n                        \n                            \n                                The Editing Modernism in",
+                    "suffix": "project seeks to place graduate education at the centre of its work"
+                }
+            },
+            {
+                "id": "/target/PfJmsizg9Zl/selector/css/7P9elLCkKdw",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/rMTbHztkIiu]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6251999",
+        "type": "crm:E53_Place",
+        "label": "Canada",
+        "description": "null, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/OAbVkA4JV5d">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/OAbVkA4JV5d",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T18:05:00.018Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/BTKOqyEVQN1",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/BTKOqyEVQN1/selector/textPosition/wQrk40Ev177",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 67845,
+                "end": 67851,
+                "refinedBy": {
+                    "id": "/target/BTKOqyEVQN1/selector/textQuote/ML7QhN4w5kb",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canada",
+                    "prefix": " Lasting Change: Sustaining Digital Scholarship and Culture in",
+                    "suffix": " 2010"
+                }
+            },
+            {
+                "id": "/target/BTKOqyEVQN1/selector/css/G7Sw2Fvknhm",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/OAbVkA4JV5d]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6251999",
+        "type": "crm:E53_Place",
+        "label": "Canada",
+        "description": "null, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/0hCKFmQx1H1">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/0hCKFmQx1H1",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T18:14:48.814Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/J6wCktvXpko",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/J6wCktvXpko/selector/textPosition/toDVCfJFyNe",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 10970,
+                "end": 10981,
+                "refinedBy": {
+                    "id": "/target/J6wCktvXpko/selector/textQuote/2BDVEn3qpxb",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "BC Archives",
+                    "prefix": " Although most EMiC UA members are based at the University of Alberta, Raymond Frogner works in the Archives, Collections and Knowledge Division,",
+                    "suffix": "in Victoria, and Matt Bouchard is a doctoral student at the University of Toronto"
+                }
+            },
+            {
+                "id": "/target/J6wCktvXpko/selector/css/6lqW21rp2OR",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/0hCKFmQx1H1]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/132861680",
+        "type": "crm:E74_Group",
+        "label": "British Columbia Archives",
+        "description": "British Columbia Archives Victoria, British Columbia"
     },
     "P2_has_type": [
         "oa:identifying"
