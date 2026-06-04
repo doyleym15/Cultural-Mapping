@@ -415,7 +415,7 @@
                 <byline>Foundational Concepts of an <abbr>EMiC UA</abbr> Project Charter</byline>
                 <docAuthor><persName key="Hjartarson, Paul Ivar" ref="http://viaf.org/viaf/39401783" ana="webannotation:http://temp.lincsproject.ca/vfLcXH43T1v" type="real" cert="high">Paul Hjartarson</persName>, <persName key="Quamen, Harvey" ref="http://viaf.org/viaf/235167803166517771996" ana="webannotation:http://temp.lincsproject.ca/KNmghC5lYjd" type="real" cert="medium">Harvey Quamen</persName>, <persName key="Hasenbank, Andrea" ref="https://orcid.org/0000-0002-2897-462X" ana="webannotation:http://temp.lincsproject.ca/758dXEzZAXD" type="real">Andrea Hasenbank</persName>, <persName key="Lent, Vanessa, 1979-" ref="http://viaf.org/viaf/141147423127944882061" ana="webannotation:http://temp.lincsproject.ca/hg3p8CioJXp" type="real" cert="medium">Vanessa Lent</persName>, &amp; <abbr>EMiC UA</abbr>*</docAuthor>
                 <q type="block">
-                    <ref target="#education">In the humanities, Ms. Mentor regrets to say, things are murky from the start. As underlings in the academic hierarchy, graduate students are supposed to be humbly grateful for all the training they can imbibe. Sometimes they’re paid, but often they receive only an inside-the-book acknowledgment.…<ref target="#collaboration">Generous mentors can create once-in-a-lifetime opportunities. Stephen Ambrose’s students, for instance, spent summers retracing <ref target="#history">the steps of Lewis and Clark with their professor—sharing discoveries over campfires first, and later in books and articles.</ref> Theirs was a genuine community of scholars.</ref>
+                    <ref target="#education">In the humanities, Ms. Mentor regrets to say, things are murky from the start. As underlings in the academic hierarchy, graduate students are supposed to be humbly grateful for all the training they can imbibe. Sometimes they’re paid, but often they receive only an inside-the-book acknowledgment.…<ref target="#collaboration">Generous mentors can create once-in-a-lifetime opportunities. Stephen Ambrose’s students, for instance, spent summers retracing <ref target="#history">the steps of <persName key="Lewis, Meriwether, 1774-1809." ref="http://viaf.org/viaf/64071776" ana="webannotation:http://temp.lincsproject.ca/ADcTHQRFNoM">Lewis</persName> and Clark with their professor—sharing discoveries over campfires first, and later in books and articles.</ref> Theirs was a genuine community of scholars.</ref>
                     </ref>
                     <lb/> —<bibl>Ms. Mentor [<persName key="Toth, Emily." ref="http://viaf.org/viaf/27133714" ana="webannotation:http://temp.lincsproject.ca/Tt3H6VkMrhm" type="real" cert="high">Emily Toth</persName>], <title level="a">Who Owns Your Mind?</title>
                         <title level="j">Chronicle of Higher Education</title>
@@ -4913,6 +4913,95 @@
         "P2_has_type": [
             "edit:modeReal"
         ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ADcTHQRFNoM">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ADcTHQRFNoM",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T18:00:32.941Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/7YZs1h306xE",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/7YZs1h306xE/selector/textPosition/yUUT9KWqSxh",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 770,
+                "end": 775,
+                "refinedBy": {
+                    "id": "/target/7YZs1h306xE/selector/textQuote/OqHRm57nROM",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Lewis",
+                    "prefix": " Stephen Ambrose’s students, for instance, spent summers retracing the steps of",
+                    "suffix": "and Clark with their professor—sharing discoveries over campfires first, and later in books and articles"
+                }
+            },
+            {
+                "id": "/target/7YZs1h306xE/selector/css/eFURmjDOoFz",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ADcTHQRFNoM]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/64071776",
+        "type": "crm:E21_Person",
+        "label": "Lewis, Meriwether, 1774-1809.",
+        "description": "Lewis, Meriwether"
     },
     "P2_has_type": [
         "oa:identifying"
