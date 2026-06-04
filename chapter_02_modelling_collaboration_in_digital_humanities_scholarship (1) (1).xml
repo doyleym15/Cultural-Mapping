@@ -415,7 +415,7 @@
                 <byline>Foundational Concepts of an <abbr>EMiC UA</abbr> Project Charter</byline>
                 <docAuthor><persName key="Hjartarson, Paul Ivar" ref="http://viaf.org/viaf/39401783" ana="webannotation:http://temp.lincsproject.ca/vfLcXH43T1v" type="real" cert="high">Paul Hjartarson</persName>, <persName key="Quamen, Harvey" ref="http://viaf.org/viaf/235167803166517771996" ana="webannotation:http://temp.lincsproject.ca/KNmghC5lYjd" type="real" cert="medium">Harvey Quamen</persName>, <persName key="Hasenbank, Andrea" ref="https://orcid.org/0000-0002-2897-462X" ana="webannotation:http://temp.lincsproject.ca/758dXEzZAXD" type="real">Andrea Hasenbank</persName>, <persName key="Lent, Vanessa, 1979-" ref="http://viaf.org/viaf/141147423127944882061" ana="webannotation:http://temp.lincsproject.ca/hg3p8CioJXp" type="real" cert="medium">Vanessa Lent</persName>, &amp; <abbr>EMiC UA</abbr>*</docAuthor>
                 <q type="block">
-                    <ref target="#education">In the humanities, Ms. Mentor regrets to say, things are murky from the start. As underlings in the academic hierarchy, graduate students are supposed to be humbly grateful for all the training they can imbibe. Sometimes they’re paid, but often they receive only an inside-the-book acknowledgment.…<ref target="#collaboration">Generous mentors can create once-in-a-lifetime opportunities. Stephen Ambrose’s students, for instance, spent summers retracing <ref target="#history">the steps of <persName key="Lewis, Meriwether, 1774-1809." ref="http://viaf.org/viaf/64071776" ana="webannotation:http://temp.lincsproject.ca/ADcTHQRFNoM" type="real" cert="high">Lewis</persName> and <persName key="Clark, William, 1770-1838." ref="http://viaf.org/viaf/24667398" ana="webannotation:http://temp.lincsproject.ca/hPoocaEIuCK" type="real" cert="high">Clark</persName> with their professor—sharing discoveries over campfires first, and later in books and articles.</ref> Theirs was a genuine community of scholars.</ref>
+                    <ref target="#education">In the humanities, Ms. <persName key="Toth, Emily." ref="http://viaf.org/viaf/27133714" ana="webannotation:http://temp.lincsproject.ca/Rb4n1kezdka">Mentor</persName> regrets to say, things are murky from the start. As underlings in the academic hierarchy, graduate students are supposed to be humbly grateful for all the training they can imbibe. Sometimes they’re paid, but often they receive only an inside-the-book acknowledgment.…<ref target="#collaboration">Generous mentors can create once-in-a-lifetime opportunities. Stephen Ambrose’s students, for instance, spent summers retracing <ref target="#history">the steps of <persName key="Lewis, Meriwether, 1774-1809." ref="http://viaf.org/viaf/64071776" ana="webannotation:http://temp.lincsproject.ca/ADcTHQRFNoM" type="real" cert="high">Lewis</persName> and <persName key="Clark, William, 1770-1838." ref="http://viaf.org/viaf/24667398" ana="webannotation:http://temp.lincsproject.ca/hPoocaEIuCK" type="real" cert="high">Clark</persName> with their professor—sharing discoveries over campfires first, and later in books and articles.</ref> Theirs was a genuine community of scholars.</ref>
                     </ref>
                     <lb/> —<bibl>Ms. Mentor [<persName key="Toth, Emily." ref="http://viaf.org/viaf/27133714" ana="webannotation:http://temp.lincsproject.ca/Tt3H6VkMrhm" type="real" cert="high">Emily Toth</persName>], <title level="a">Who Owns Your Mind?</title>
                         <title level="j">Chronicle of Higher Education</title>
@@ -593,12 +593,12 @@
                     <p xml:id="p1089">
                         <ref target="#collaboration">
                             <ref target="#education">
-                                <ref target="#writing_climate">No group feels the lack of trust more acutely, perhaps, than graduate students, postdoctoral researchers, contract faculty, and emerging scholars, arguably the most vulnerable members of any collaboratory. <ref target="#authorship">Can these contributors trust faculty members to recognize their hard work, to involve them as co-authors—in short, to give them, as Jessica Schagerl puts it, a place at the table?</ref> Can vulnerable participants collaborate fully without exploitation? Can they place their trust in fellow students and other contract faculty?</ref> Interestingly, Schagerl opens her article on mentoring in <title level="m">Retooling the Humanities: The Culture of Research in Canadian Universities</title> with a quote from Ms. Mentor, aka <persName key="Toth, Emily." ref="http://viaf.org/viaf/27133714" ana="webannotation:http://temp.lincsproject.ca/4alObwmkP94">Emily Toth</persName>:</ref>
+                                <ref target="#writing_climate">No group feels the lack of trust more acutely, perhaps, than graduate students, postdoctoral researchers, contract faculty, and emerging scholars, arguably the most vulnerable members of any collaboratory. <ref target="#authorship">Can these contributors trust faculty members to recognize their hard work, to involve them as co-authors—in short, to give them, as Jessica Schagerl puts it, a place at the table?</ref> Can vulnerable participants collaborate fully without exploitation? Can they place their trust in fellow students and other contract faculty?</ref> Interestingly, Schagerl opens her article on mentoring in <title level="m">Retooling the Humanities: The Culture of Research in Canadian Universities</title> with a quote from Ms. <persName key="Toth, Emily." ref="http://viaf.org/viaf/27133714" ana="webannotation:http://temp.lincsproject.ca/Xgf4MLiH39T">Mentor</persName>, aka <persName key="Toth, Emily." ref="http://viaf.org/viaf/27133714" ana="webannotation:http://temp.lincsproject.ca/4alObwmkP94">Emily Toth</persName>:</ref>
                         </ref>
                     </p>
                     <q type="block">
                         <ref target="#collaboration">
-                            <ref target="#writing_climate">Sometimes Ms. Mentor has to burst hopes, shred bubbles, and be the Grinch. While it is true that scholarly types can be generous, open-minded souls who’ll share software, footnotes, and recipes for cat treats—they can also backstab, withhold, and compete to leave you penniless, naked, and shivering in the cold (metaphorically speaking).</ref>
+                            <ref target="#writing_climate">Sometimes Ms. <persName key="Toth, Emily." ref="http://viaf.org/viaf/27133714" ana="webannotation:http://temp.lincsproject.ca/JVfH7frnyPm">Mentor</persName> has to burst hopes, shred bubbles, and be the Grinch. While it is true that scholarly types can be generous, open-minded souls who’ll share software, footnotes, and recipes for cat treats—they can also backstab, withhold, and compete to leave you penniless, naked, and shivering in the cold (metaphorically speaking).</ref>
                         </ref>
                         <note place="inline">
                             <bibl>95</bibl>
@@ -4913,6 +4913,273 @@
         "P2_has_type": [
             "edit:modeReal"
         ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Rb4n1kezdka">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Rb4n1kezdka",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T18:03:41.005Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/7utP6Bf0AxL",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/7utP6Bf0AxL/selector/textPosition/5SjbMy8hrue",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 354,
+                "end": 360,
+                "refinedBy": {
+                    "id": "/target/7utP6Bf0AxL/selector/textQuote/ivDZptDTypp",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Mentor",
+                    "prefix": "",
+                    "suffix": "regrets to say, things are murky from the start"
+                }
+            },
+            {
+                "id": "/target/7utP6Bf0AxL/selector/css/z6zM84WfyG4",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Rb4n1kezdka]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/27133714",
+        "type": "crm:E21_Person",
+        "label": "Toth, Emily.",
+        "description": "Toth, Emily, 1944-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Xgf4MLiH39T">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Xgf4MLiH39T",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T18:03:41.172Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/z2lMvBuqCKn",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/z2lMvBuqCKn/selector/textPosition/bMgGjIKgcOv",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27067,
+                "end": 27073,
+                "refinedBy": {
+                    "id": "/target/z2lMvBuqCKn/selector/textQuote/HJa3WW4nwGD",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Mentor",
+                    "prefix": "",
+                    "suffix": " aka Emily Toth:\n                        \n                    \n                    \n                        \n                            Sometimes Ms"
+                }
+            },
+            {
+                "id": "/target/z2lMvBuqCKn/selector/css/tntJIJM3JEE",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Xgf4MLiH39T]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/27133714",
+        "type": "crm:E21_Person",
+        "label": "Toth, Emily.",
+        "description": "Toth, Emily, 1944-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/JVfH7frnyPm">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/JVfH7frnyPm",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T18:03:41.276Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/bSPlhDfavsi",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/bSPlhDfavsi/selector/textPosition/xd9MOaeqMvj",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27225,
+                "end": 27231,
+                "refinedBy": {
+                    "id": "/target/bSPlhDfavsi/selector/textQuote/kpNuETUZhxg",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Mentor",
+                    "prefix": "",
+                    "suffix": "has to burst hopes, shred bubbles, and be the Grinch"
+                }
+            },
+            {
+                "id": "/target/bSPlhDfavsi/selector/css/WktfWzYzsa6",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/JVfH7frnyPm]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/27133714",
+        "type": "crm:E21_Person",
+        "label": "Toth, Emily.",
+        "description": "Toth, Emily, 1944-...."
     },
     "P2_has_type": [
         "oa:identifying"
