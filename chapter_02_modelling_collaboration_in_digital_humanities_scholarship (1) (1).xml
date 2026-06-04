@@ -415,7 +415,7 @@
                 <byline>Foundational Concepts of an <abbr>EMiC UA</abbr> Project Charter</byline>
                 <docAuthor><persName key="Hjartarson, Paul Ivar" ref="http://viaf.org/viaf/39401783" ana="webannotation:http://temp.lincsproject.ca/vfLcXH43T1v" type="real" cert="high">Paul Hjartarson</persName>, <persName key="Quamen, Harvey" ref="http://viaf.org/viaf/235167803166517771996" ana="webannotation:http://temp.lincsproject.ca/KNmghC5lYjd" type="real" cert="medium">Harvey Quamen</persName>, <persName key="Hasenbank, Andrea" ref="https://orcid.org/0000-0002-2897-462X" ana="webannotation:http://temp.lincsproject.ca/758dXEzZAXD" type="real">Andrea Hasenbank</persName>, <persName key="Lent, Vanessa, 1979-" ref="http://viaf.org/viaf/141147423127944882061" ana="webannotation:http://temp.lincsproject.ca/hg3p8CioJXp" type="real" cert="medium">Vanessa Lent</persName>, &amp; <abbr>EMiC UA</abbr>*</docAuthor>
                 <q type="block">
-                    <ref target="#education">In the humanities, Ms. Mentor regrets to say, things are murky from the start. As underlings in the academic hierarchy, graduate students are supposed to be humbly grateful for all the training they can imbibe. Sometimes they’re paid, but often they receive only an inside-the-book acknowledgment.…<ref target="#collaboration">Generous mentors can create once-in-a-lifetime opportunities. Stephen Ambrose’s students, for instance, spent summers retracing <ref target="#history">the steps of <persName key="Lewis, Meriwether, 1774-1809." ref="http://viaf.org/viaf/64071776" ana="webannotation:http://temp.lincsproject.ca/ADcTHQRFNoM" type="real">Lewis</persName> and Clark with their professor—sharing discoveries over campfires first, and later in books and articles.</ref> Theirs was a genuine community of scholars.</ref>
+                    <ref target="#education">In the humanities, Ms. Mentor regrets to say, things are murky from the start. As underlings in the academic hierarchy, graduate students are supposed to be humbly grateful for all the training they can imbibe. Sometimes they’re paid, but often they receive only an inside-the-book acknowledgment.…<ref target="#collaboration">Generous mentors can create once-in-a-lifetime opportunities. Stephen Ambrose’s students, for instance, spent summers retracing <ref target="#history">the steps of <persName key="Lewis, Meriwether, 1774-1809." ref="http://viaf.org/viaf/64071776" ana="webannotation:http://temp.lincsproject.ca/ADcTHQRFNoM" type="real" cert="high">Lewis</persName> and Clark with their professor—sharing discoveries over campfires first, and later in books and articles.</ref> Theirs was a genuine community of scholars.</ref>
                     </ref>
                     <lb/> —<bibl>Ms. Mentor [<persName key="Toth, Emily." ref="http://viaf.org/viaf/27133714" ana="webannotation:http://temp.lincsproject.ca/Tt3H6VkMrhm" type="real" cert="high">Emily Toth</persName>], <title level="a">Who Owns Your Mind?</title>
                         <title level="j">Chronicle of Higher Education</title>
@@ -5007,7 +5007,8 @@
         ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh"
     ]
 }]]>
 				
