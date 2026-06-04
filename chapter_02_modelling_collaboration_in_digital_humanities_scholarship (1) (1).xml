@@ -493,7 +493,7 @@
                         </ref>
                     </p>
                     <p xml:id="p1081">
-                        <ref target="#collaboration">Although we have been worrying about the issues of collaboration and documentation for some time, our decision to propose a paper for the second Canadian Writers Research Collaboratory (<abbr>CWRC</abbr>) conference, held at <orgName key="Ryerson University." ref="http://viaf.org/viaf/140971310" ana="webannotation:http://temp.lincsproject.ca/RLf4P2F4cnc" type="real" cert="high">Ryerson University</orgName> in October 2011, signalled a commitment to devote collective time and energy to these issues. Once our proposal was accepted, our three-person group met regularly—approximately once a week over the summer—to push our thinking on these issues. <ref target="#technology">Developing a viable model of collaboration across the digital divide, a model that integrates mentoring into the collaboratory, we believe, is vital not just for our own work but for digital humanities projects generally. What rules of engagement might make collaboration and mentoring possible? Other members of <abbr>EMiC UA</abbr> joined us from time to time—as a break from scanning, to offer other perspectives on the matters at hand, or simply out of curiosity—and we reported on our work at regular meetings. In the weeks leading up to the conference, we devoted two regular <abbr>EMiC UA</abbr> meetings to debate project charter issues. Given the range of issues a project charter needs to address—from the nature of collaboration itself and the need for documentation to transparency in decision making and what we have tentatively termed <q>play nice</q> principles—we decided to focus the <orgName key="Ryerson University." ref="http://viaf.org/viaf/140971310" ana="webannotation:http://temp.lincsproject.ca/8CQk5bK4VGF" type="real" cert="high">Ryerson</orgName> iteration of our charter on what we term the <q>trust</q> cluster of principles: collaboration, credit, communication, and documentation.</ref>
+                        <ref target="#collaboration">Although we have been worrying about the issues of collaboration and documentation for some time, our decision to propose a paper for the second <orgName key="Canadian Writing Research Collaboratory" ref="http://id.lincsproject.ca/Ph49VISFM8m" ana="webannotation:http://temp.lincsproject.ca/vHqN5AFRfGL">Canadian Writers Research Collaboratory</orgName> (<abbr>CWRC</abbr>) conference, held at <orgName key="Ryerson University." ref="http://viaf.org/viaf/140971310" ana="webannotation:http://temp.lincsproject.ca/RLf4P2F4cnc" type="real" cert="high">Ryerson University</orgName> in October 2011, signalled a commitment to devote collective time and energy to these issues. Once our proposal was accepted, our three-person group met regularly—approximately once a week over the summer—to push our thinking on these issues. <ref target="#technology">Developing a viable model of collaboration across the digital divide, a model that integrates mentoring into the collaboratory, we believe, is vital not just for our own work but for digital humanities projects generally. What rules of engagement might make collaboration and mentoring possible? Other members of <abbr>EMiC UA</abbr> joined us from time to time—as a break from scanning, to offer other perspectives on the matters at hand, or simply out of curiosity—and we reported on our work at regular meetings. In the weeks leading up to the conference, we devoted two regular <abbr>EMiC UA</abbr> meetings to debate project charter issues. Given the range of issues a project charter needs to address—from the nature of collaboration itself and the need for documentation to transparency in decision making and what we have tentatively termed <q>play nice</q> principles—we decided to focus the <orgName key="Ryerson University." ref="http://viaf.org/viaf/140971310" ana="webannotation:http://temp.lincsproject.ca/8CQk5bK4VGF" type="real" cert="high">Ryerson</orgName> iteration of our charter on what we term the <q>trust</q> cluster of principles: collaboration, credit, communication, and documentation.</ref>
                         </ref>
                     </p>
                 </div>
@@ -6345,6 +6345,95 @@
         "type": "crm:E74_Group",
         "label": "British Columbia Archives",
         "description": "British Columbia Archives Victoria, British Columbia"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/vHqN5AFRfGL">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/vHqN5AFRfGL",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T18:15:52.003Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/05skdneyNxJ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/05skdneyNxJ/selector/textPosition/MLgL7R2GdPj",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 11941,
+                "end": 11980,
+                "refinedBy": {
+                    "id": "/target/05skdneyNxJ/selector/textQuote/EaShwpeaEAK",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canadian Writers Research Collaboratory",
+                    "prefix": "\n                            \n                        \n                    \n                    \n                        Although we have been worrying about the issues of collaboration and documentation for some time, our decision to propose a paper for the second",
+                    "suffix": "(CWRC) conference, held at Ryerson University in October 2011, signalled a commitment to devote collective time and energy to these issues"
+                }
+            },
+            {
+                "id": "/target/05skdneyNxJ/selector/css/PbuNgWIN47N",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/vHqN5AFRfGL]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://id.lincsproject.ca/Ph49VISFM8m",
+        "type": "crm:E74_Group",
+        "label": "Canadian Writing Research Collaboratory",
+        "description": ""
     },
     "P2_has_type": [
         "oa:identifying"
