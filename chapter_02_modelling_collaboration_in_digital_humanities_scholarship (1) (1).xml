@@ -431,7 +431,7 @@
                     <p xml:id="p1076">
                         <ref target="#collaboration">
                             <ref target="#technology">
-                                <q>As scholarship goes multimedia,</q> Andrew Bretz, <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/Trk9S2JxMZ3" type="real" cert="high">Susan Brown</persName>, and <persName key="McGregor, Hannah" ref="http://viaf.org/viaf/20153713810358661443" ana="webannotation:http://temp.lincsproject.ca/bskDhVf4a0i">Hannah McGregor</persName> argue in <title level="m">Lasting Change: Sustaining Digital Scholarship and Culture in Canada</title>
+                                <q>As scholarship goes multimedia,</q> Andrew Bretz, <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/Trk9S2JxMZ3" type="real" cert="high">Susan Brown</persName>, and <persName key="McGregor, Hannah" ref="http://viaf.org/viaf/20153713810358661443" ana="webannotation:http://temp.lincsproject.ca/bskDhVf4a0i">Hannah McGregor</persName> argue in <title level="m">Lasting Change: Sustaining Digital Scholarship and Culture in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/CEXyPNrpDbT">Canada</placeName></title>
                                 <note place="inline">
                                     <bibl>2010</bibl>
                                 </note>, <q>it is also going collaborative. Knowledge and knowledge production are more extensively networked than ever before and are deeply embedded socially. The digital turn has led to the advent of increasingly large-scale and ambitious projects within the humanities</q>
@@ -1015,7 +1015,7 @@
                 <div type="section">
                     <head>Authors’ Note</head>
                     <p xml:id="p1137" rend="authors-note">* <ref target="#collaboration">
-                            <ref target="#authorship">This document is the work of many hands. Kristin Fast, Andrea Hasenbank, and <persName key="Hjartarson, Paul Ivar" ref="http://viaf.org/viaf/39401783" ana="webannotation:http://temp.lincsproject.ca/K758rZGvYiU">Paul Hjartarson</persName> took the lead in developing the Editing Modernism in Canada University of Alberta (<abbr>EMiC UA</abbr>) project charter and in writing the paper presented at the <abbr>CWRC</abbr> conference held at <orgName key="Ryerson University." ref="http://viaf.org/viaf/140971310" ana="webannotation:http://temp.lincsproject.ca/hbMQ1vk8MTj">Ryerson University</orgName> in October 2011. At one time or another, most members of <abbr>EMiC UA</abbr>, including Matt Bouchard, <persName key="Quamen, Harvey" ref="http://viaf.org/viaf/235167803166517771996" ana="webannotation:http://temp.lincsproject.ca/6YEsZNLWrTf">Harvey Quamen</persName>, Joseph McKinnon, and Charlotte Nobles, participated in our meetings, and all members, including Hannah McGregor, discussed both the charter and the draft prior to its presentation at <orgName key="Ryerson University." ref="http://viaf.org/viaf/140971310" ana="webannotation:http://temp.lincsproject.ca/U5O3pm1ECl7">Ryerson</orgName>. Andrea Hasenbank, <persName key="Hjartarson, Paul Ivar" ref="http://viaf.org/viaf/39401783" ana="webannotation:http://temp.lincsproject.ca/MYBDGJPqNyB">Paul Hjartarson</persName>, <persName key="Lent, Vanessa, 1979-" ref="http://viaf.org/viaf/141147423127944882061" ana="webannotation:http://temp.lincsproject.ca/rDbi1weRkTm">Vanessa Lent</persName>, and <persName key="Quamen, Harvey" ref="http://viaf.org/viaf/235167803166517771996" ana="webannotation:http://temp.lincsproject.ca/lte8aFkqLHm">Harvey Quamen</persName> took the lead in revising both the paper and the project charter for publication. We would also like to acknowledge the invaluable advice offered by Lynne Siemens of the University of Victoria and Stan Ruecker of the <abbr>IIT</abbr> Institute of Design in Chicago, and the support of Dean Irvine, director of <abbr>EMiC</abbr>, and <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/3wIn0K822wN">Susan Brown</persName>, director of <abbr>CWRC</abbr>. The shortcomings of this chapter, however, are entirely our own.</ref>
+                            <ref target="#authorship">This document is the work of many hands. Kristin Fast, Andrea Hasenbank, and <persName key="Hjartarson, Paul Ivar" ref="http://viaf.org/viaf/39401783" ana="webannotation:http://temp.lincsproject.ca/K758rZGvYiU">Paul Hjartarson</persName> took the lead in developing the Editing Modernism in Canada University of Alberta (<abbr>EMiC UA</abbr>) project charter and in writing the paper presented at the <abbr>CWRC</abbr> conference held at <orgName key="Ryerson University." ref="http://viaf.org/viaf/140971310" ana="webannotation:http://temp.lincsproject.ca/hbMQ1vk8MTj">Ryerson University</orgName> in October 2011. At one time or another, most members of <abbr>EMiC UA</abbr>, including Matt Bouchard, <persName key="Quamen, Harvey" ref="http://viaf.org/viaf/235167803166517771996" ana="webannotation:http://temp.lincsproject.ca/6YEsZNLWrTf">Harvey Quamen</persName>, Joseph McKinnon, and Charlotte Nobles, participated in our meetings, and all members, including <persName key="McGregor, Hannah" ref="http://viaf.org/viaf/20153713810358661443" ana="webannotation:http://temp.lincsproject.ca/wYzRDfVnU8N">Hannah McGregor</persName>, discussed both the charter and the draft prior to its presentation at <orgName key="Ryerson University." ref="http://viaf.org/viaf/140971310" ana="webannotation:http://temp.lincsproject.ca/U5O3pm1ECl7">Ryerson</orgName>. Andrea Hasenbank, <persName key="Hjartarson, Paul Ivar" ref="http://viaf.org/viaf/39401783" ana="webannotation:http://temp.lincsproject.ca/MYBDGJPqNyB">Paul Hjartarson</persName>, <persName key="Lent, Vanessa, 1979-" ref="http://viaf.org/viaf/141147423127944882061" ana="webannotation:http://temp.lincsproject.ca/rDbi1weRkTm">Vanessa Lent</persName>, and <persName key="Quamen, Harvey" ref="http://viaf.org/viaf/235167803166517771996" ana="webannotation:http://temp.lincsproject.ca/lte8aFkqLHm">Harvey Quamen</persName> took the lead in revising both the paper and the project charter for publication. We would also like to acknowledge the invaluable advice offered by Lynne Siemens of the University of Victoria and Stan Ruecker of the <abbr>IIT</abbr> Institute of Design in Chicago, and the support of Dean Irvine, director of <abbr>EMiC</abbr>, and <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/3wIn0K822wN">Susan Brown</persName>, director of <abbr>CWRC</abbr>. The shortcomings of this chapter, however, are entirely our own.</ref>
                         </ref>
                     </p>
                 </div>
@@ -1023,7 +1023,7 @@
                     <head>Works Cited</head>
                     <listBibl>
                         <bibl>Beck, Kent, with Cynthia Andres. <title level="m">Extreme Programming Explained: Embrace Change</title>. 2nd ed. Boston: Addison-Wesley, 2005.</bibl>
-                        <bibl>Bretz, Andrew, <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/BDgVw35UFqO">Susan Brown</persName>, and Hannah McGregor. <title level="m">Lasting Change: Sustaining Digital Scholarship and Culture in Canada</title>. 2010. <ref target="http://www.cwrc.ca/wp-content/uploads/2011/05/Lasting-Change-Knowledge-Synthesis.pdf">http://www.cwrc.ca/wp-content/uploads/2011/05/Lasting-Change-Knowledge-Synthesis.pdf</ref>
+                        <bibl>Bretz, Andrew, <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/BDgVw35UFqO">Susan Brown</persName>, and <persName key="McGregor, Hannah" ref="http://viaf.org/viaf/20153713810358661443" ana="webannotation:http://temp.lincsproject.ca/612OdYi2T6Q">Hannah McGregor</persName>. <title level="m">Lasting Change: Sustaining Digital Scholarship and Culture in Canada</title>. 2010. <ref target="http://www.cwrc.ca/wp-content/uploads/2011/05/Lasting-Change-Knowledge-Synthesis.pdf">http://www.cwrc.ca/wp-content/uploads/2011/05/Lasting-Change-Knowledge-Synthesis.pdf</ref>
                         </bibl>
                         <bibl><persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/vXdJ7DWthWm">Brown</persName>, Susan. <title level="a">Don’t Mind the Gap: Evolving Digital Modes of Scholarly Production across the Digital-Humanities Divide</title>. <title level="m">Retooling the Humanities: The Culture of Research in Canadian Universities</title>. Ed. Daniel Coleman and Smaro Kamboureli. Edmonton: University of Alberta Press, 2011. 203–31.</bibl>
                         <bibl>Chow, Rey.<title level="a">
@@ -5633,6 +5633,273 @@
         "type": "crm:E21_Person",
         "label": "McGregor, Hannah",
         "description": "McGregor, Hannah, 1984-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/wYzRDfVnU8N">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/wYzRDfVnU8N",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T18:04:08.293Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/FxUeppewENq",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/FxUeppewENq/selector/textPosition/2Cqdtdij4c7",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 66869,
+                "end": 66884,
+                "refinedBy": {
+                    "id": "/target/FxUeppewENq/selector/textQuote/HlCQZX9EhzL",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Hannah McGregor",
+                    "prefix": " At one time or another, most members of EMiC UA, including Matt Bouchard, Harvey Quamen, Joseph McKinnon, and Charlotte Nobles, participated in our meetings, and all members, including",
+                    "suffix": " discussed both the charter and the draft prior to its presentation at Ryerson"
+                }
+            },
+            {
+                "id": "/target/FxUeppewENq/selector/css/cN9f9vtYhUe",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/wYzRDfVnU8N]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/20153713810358661443",
+        "type": "crm:E21_Person",
+        "label": "McGregor, Hannah",
+        "description": "McGregor, Hannah, 1984-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/612OdYi2T6Q">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/612OdYi2T6Q",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T18:04:08.823Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/z4rbeMGdwq0",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/z4rbeMGdwq0/selector/textPosition/WuSq0Zkl2w7",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 67766,
+                "end": 67781,
+                "refinedBy": {
+                    "id": "/target/z4rbeMGdwq0/selector/textQuote/aPFKwCmunb3",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Hannah McGregor",
+                    "prefix": "\n                        Bretz, Andrew, Susan Brown, and",
+                    "suffix": " Lasting Change: Sustaining Digital Scholarship and Culture in Canada"
+                }
+            },
+            {
+                "id": "/target/z4rbeMGdwq0/selector/css/G8FLoD3W6aV",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/612OdYi2T6Q]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/20153713810358661443",
+        "type": "crm:E21_Person",
+        "label": "McGregor, Hannah",
+        "description": "McGregor, Hannah, 1984-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/CEXyPNrpDbT">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/CEXyPNrpDbT",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-04T18:04:59.416Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/7UhugF3a62T",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/7UhugF3a62T/selector/textPosition/SPRT2cFXLoC",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 1818,
+                "end": 1824,
+                "refinedBy": {
+                    "id": "/target/7UhugF3a62T/selector/textQuote/Zp3PpgePrvq",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canada",
+                    "prefix": " Mentor [Emily Toth], Who Owns Your Mind?\n                        Chronicle of Higher Education\n                    \n                \n                \n                    What is collaboration, exactly? Where in the spectrum from broad, indirect and tacit indebtedness to explicitly joint work do we locate research in the humanities, especially in light of computing? What conclusion do we draw from the attested benefits of collaboration?\n                     —Willard McCarty, Humanities Computing\n                    \n                \n                \n                    Introduction\n                    \n                        \n                            \n                                As scholarship goes multimedia, Andrew Bretz, Susan Brown, and Hannah McGregor argue in Lasting Change: Sustaining Digital Scholarship and Culture in",
+                    "suffix": "                                \n                                    2010\n                                , it is also going collaborative"
+                }
+            },
+            {
+                "id": "/target/7UhugF3a62T/selector/css/lbsR5bpDwin",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/CEXyPNrpDbT]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6251999",
+        "type": "crm:E53_Place",
+        "label": "Canada",
+        "description": "null, CA"
     },
     "P2_has_type": [
         "oa:identifying"
