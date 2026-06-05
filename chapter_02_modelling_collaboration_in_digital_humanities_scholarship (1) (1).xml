@@ -747,7 +747,7 @@
                     <p xml:id="p1107">
                         <ref target="#collaboration">
                             <ref target="#theory">
-                                <ref target="#writing_climate">If dialogue and documentation are essential to collaboration, then communication needs to begin <q>at home,</q> among members of the collaboratory itself. Our subgroup is recommending that <abbr>EMiC UA</abbr> keep its administrative structure as <q>horizontal,</q> that is, non-hierarchical, and as simple as possible: <q>horizontal</q> to facilitate dialogue among group members and simple to minimize bureaucracy and to give <abbr>EMiC UA</abbr> the flexibility it needs to respond quickly to changing conditions and opportunities. Communication at home means access to working documents and as much transparency in decision making as possible. We need to communicate not only with other members of the collaboratory but with <abbr>EMiC UA</abbr> partners. The <abbr>EMiC</abbr> knowledge network is more parent than partner, so if communication begins at home, then <abbr>EMiC</abbr> itself is part of that home, as are the literary executors of the Wilfred and Sheila Watson estates. <abbr>EMiC UA</abbr> partners include <abbr><orgName key="Canadian Writing Research Collaboratory" ref="http://id.lincsproject.ca/Ph49VISFM8m" ana="webannotation:http://temp.lincsproject.ca/FXmX6IuEdIE">CWRC</orgName></abbr>, the University of Alberta Libraries, and the John M. Kelly Library at St. Michael’s College in Toronto. Our commitment to disseminate our work as widely as possible is a commitment to interdisciplinarity, that is, to present our work at gatherings of all disciplines represented on the project, not just to members of our own disciplinary groups.</ref>
+                                <ref target="#writing_climate">If dialogue and documentation are essential to collaboration, then communication needs to begin <q>at home,</q> among members of the collaboratory itself. Our subgroup is recommending that <abbr>EMiC UA</abbr> keep its administrative structure as <q>horizontal,</q> that is, non-hierarchical, and as simple as possible: <q>horizontal</q> to facilitate dialogue among group members and simple to minimize bureaucracy and to give <abbr>EMiC UA</abbr> the flexibility it needs to respond quickly to changing conditions and opportunities. Communication at home means access to working documents and as much transparency in decision making as possible. We need to communicate not only with other members of the collaboratory but with <abbr>EMiC UA</abbr> partners. The <abbr>EMiC</abbr> knowledge network is more parent than partner, so if communication begins at home, then <abbr>EMiC</abbr> itself is part of that home, as are the literary executors of the Wilfred and Sheila Watson estates. <abbr>EMiC UA</abbr> partners include <abbr><orgName key="Canadian Writing Research Collaboratory" ref="http://id.lincsproject.ca/Ph49VISFM8m" ana="webannotation:http://temp.lincsproject.ca/FXmX6IuEdIE">CWRC</orgName></abbr>, the University of Alberta Libraries, and the John M. Kelly Library at St. Michael’s College in <placeName key="Toronto" ref="https://sws.geonames.org/8133394/" ana="webannotation:http://temp.lincsproject.ca/0qsw8wzg5ml">Toronto</placeName>. Our commitment to disseminate our work as widely as possible is a commitment to interdisciplinarity, that is, to present our work at gatherings of all disciplines represented on the project, not just to members of our own disciplinary groups.</ref>
                             </ref>
                         </ref>
                     </p>
@@ -8123,6 +8123,95 @@
         "type": "crm:E21_Person",
         "label": "Beck, Kent.",
         "description": "Beck, Kent, 1961-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/0qsw8wzg5ml">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/0qsw8wzg5ml",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-05T18:40:14.038Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/jUGedc3CvRI",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/jUGedc3CvRI/selector/textPosition/87987AFgSRf",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 46507,
+                "end": 46514,
+                "refinedBy": {
+                    "id": "/target/jUGedc3CvRI/selector/textQuote/QrRE53z0IiO",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Toronto",
+                    "prefix": " Michael’s College in",
+                    "suffix": " Our commitment to disseminate our work as widely as possible is a commitment to interdisciplinarity, that is, to present our work at gatherings of all disciplines represented on the project, not just to members of our own disciplinary groups"
+                }
+            },
+            {
+                "id": "/target/jUGedc3CvRI/selector/css/6H2h8wy3I5K",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/0qsw8wzg5ml]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/8133394/",
+        "type": "crm:E53_Place",
+        "label": "Toronto",
+        "description": ""
     },
     "P2_has_type": [
         "oa:identifying"
