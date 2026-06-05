@@ -423,7 +423,7 @@
                 </q>
                 <q type="block">
                     <ref target="#collaboration">What is collaboration, exactly? Where in the spectrum from broad, indirect and tacit indebtedness to explicitly joint work do we locate research in the humanities, especially in light of computing? What conclusion do we draw from the attested benefits of collaboration?</ref>
-                    <lb/> —<bibl>Willard McCarty, <title level="m">Humanities Computing</title>
+                    <lb/> —<bibl><persName key="McCarty, Willard, 1945-...." ref="http://viaf.org/viaf/119002646" ana="webannotation:http://temp.lincsproject.ca/muXfdpiwjT2">Willard McCarty</persName>, <title level="m">Humanities Computing</title>
                     </bibl>
                 </q>
                 <div type="section">
@@ -5369,6 +5369,95 @@
     "P2_has_type": [
         "oa:identifying",
         "edit:certaintyHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/muXfdpiwjT2">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/muXfdpiwjT2",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-05T18:07:10.220Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Zy0kPfDXbsD",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Zy0kPfDXbsD/selector/textPosition/hWITZPzzB3O",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 1435,
+                "end": 1450,
+                "refinedBy": {
+                    "id": "/target/Zy0kPfDXbsD/selector/textQuote/pXdZRPCd7kK",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Willard McCarty",
+                    "prefix": " Mentor [Emily Toth], Who Owns Your Mind?\n                        Chronicle of Higher Education\n                    \n                \n                \n                    What is collaboration, exactly? Where in the spectrum from broad, indirect and tacit indebtedness to explicitly joint work do we locate research in the humanities, especially in light of computing? What conclusion do we draw from the attested benefits of collaboration?\n                     ",
+                    "suffix": " Humanities Computing\n                    \n                \n                \n                    Introduction\n                    \n                        \n                            \n                                As scholarship goes multimedia, Andrew Bretz, Susan Brown, and Hannah McGregor argue in Lasting Change: Sustaining Digital Scholarship and Culture in Canada\n                                \n                                    2010\n                                , it is also going collaborative"
+                }
+            },
+            {
+                "id": "/target/Zy0kPfDXbsD/selector/css/TYW2wBvqwoh",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/muXfdpiwjT2]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/119002646",
+        "type": "crm:E21_Person",
+        "label": "McCarty, Willard, 1945-....",
+        "description": "McCarty, Willard"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
