@@ -756,10 +756,10 @@
                             <ref target="#intertextuality">
                                 <ref target="#education">
                                     <ref target="#technology">If, as Schagerl argues, new forms of mentorship are needed, then <abbr>DH</abbr> projects may have a role to play in <q>retooling the humanities.</q>
-                                    </ref> For graduate students, postdoctoral fellows, and contract faculty, the value of collaboration extends well beyond traditional notions of training. In addition to training in research and methodology, team members learn to communicate and collaborate within an interdisciplinary environment.</ref> In <title level="a">An Addiction from Which We Never Get Free</title>—the title is Bill Reading’s characterization of thinking— reflects on the nature of <q>humanistic knowledge</q> in the age of information. <q><persName key="Chow, Rey, 1957-...." ref="http://viaf.org/viaf/27220733" ana="webannotation:http://temp.lincsproject.ca/QeCxHq49acg">If the tendency of information is to render knowledge infinitely disposable</persName>,</q> Chow asks, <q>what are the possibilities of a nondisposable knowledge? Does nondisposable knowledge still exist and how may it be preserved? Is there something about the reading, writing, and thinking habits that scholars have cultivated for centuries that may still be relevant here?</q>
+                                    </ref> For graduate students, postdoctoral fellows, and contract faculty, the value of collaboration extends well beyond traditional notions of training. In addition to training in research and methodology, team members learn to communicate and collaborate within an interdisciplinary environment.</ref> In <title level="a">An Addiction from Which We Never Get Free</title>—the title is Bill Reading’s characterization of thinking— reflects on the nature of <q>humanistic knowledge</q> in the age of information. <q><persName key="Chow, Rey, 1957-...." ref="http://viaf.org/viaf/27220733" ana="webannotation:http://temp.lincsproject.ca/QeCxHq49acg">If the tendency of information is to render knowledge infinitely disposable</persName>,</q> <persName key="Chow, Rey, 1957-...." ref="http://viaf.org/viaf/27220733" ana="webannotation:http://temp.lincsproject.ca/GtreINSGgOW">Chow</persName> asks, <q>what are the possibilities of a nondisposable knowledge? Does nondisposable knowledge still exist and how may it be preserved? Is there something about the reading, writing, and thinking habits that scholars have cultivated for centuries that may still be relevant here?</q>
                                 <note place="inline">
                                     <bibl>52</bibl>
-                                </note>.</ref> Thinking itself, Chow argues, may be at once the most vital and elusive thing we need to <q>redeem</q> in the age of information.</ref>
+                                </note>.</ref> Thinking itself, <persName key="Chow, Rey, 1957-...." ref="http://viaf.org/viaf/27220733" ana="webannotation:http://temp.lincsproject.ca/MyGY1N1PIlp">Chow</persName> argues, may be at once the most vital and elusive thing we need to <q>redeem</q> in the age of information.</ref>
                         <q>Such a redemption,</q> she argues,</p>
                     <q type="block">
                         <ref target="#collaboration">
@@ -8293,6 +8293,184 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/QeCxHq49acg]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/27220733",
+        "type": "crm:E21_Person",
+        "label": "Chow, Rey, 1957-....",
+        "description": "Chow, Rey"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/GtreINSGgOW">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/GtreINSGgOW",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-05T18:48:11.174Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/CGlgOrJqgUp",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/CGlgOrJqgUp/selector/textPosition/wNV2kRzPKND",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 47698,
+                "end": 47702,
+                "refinedBy": {
+                    "id": "/target/CGlgOrJqgUp/selector/textQuote/rx3er2MqNB4",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Chow",
+                    "prefix": " If the tendency of information is to render knowledge infinitely disposable,",
+                    "suffix": "asks, what are the possibilities of a nondisposable knowledge? Does nondisposable knowledge still exist and how may it be preserved? Is there something about the reading, writing, and thinking habits that scholars have cultivated for centuries that may still be relevant here?\n                                \n                                    52\n                                "
+                }
+            },
+            {
+                "id": "/target/CGlgOrJqgUp/selector/css/fQkXXyNfROd",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/GtreINSGgOW]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/27220733",
+        "type": "crm:E21_Person",
+        "label": "Chow, Rey, 1957-....",
+        "description": "Chow, Rey"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/MyGY1N1PIlp">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/MyGY1N1PIlp",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-05T18:48:11.658Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/uW15Cz1O4Be",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/uW15Cz1O4Be/selector/textPosition/ulXL9CC0k9o",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 48103,
+                "end": 48107,
+                "refinedBy": {
+                    "id": "/target/uW15Cz1O4Be/selector/textQuote/ZXQXkdLhhwE",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Chow",
+                    "prefix": " Thinking itself,",
+                    "suffix": "argues, may be at once the most vital and elusive thing we need to redeem in the age of information"
+                }
+            },
+            {
+                "id": "/target/uW15Cz1O4Be/selector/css/I6hrgRLWqWV",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/MyGY1N1PIlp]"
             }
         ]
     },
