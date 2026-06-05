@@ -529,27 +529,27 @@
                             <ref target="#canon_formation">Extreme Programming has been designed to help manage change. We might mistakenly believe that computer software is wholly mathematical, or inflexible when faced with the inexorable laws of logic, or that somehow it magically achieves stasis and stability on its own. None of these views is accurate. The stereotypical view of the retrograde humanities, however, is also fading. Humanists are no longer as technophobic as they once were; literary scholars no longer proclaim Luddism as a virtue, even when we lack technical knowledge, and less and less do we exhibit the ambivalent, oxymoronic personality that Tony Davies once referred to as being a <q>pioneer of the old</q>
                                 <note place="inline">
                                     <bibl>74</bibl>
-                                </note>. <q>Everything in software changes,</q> Beck reminds us, and his caveat resonates for the humanities too: <q>The requirements change. The design changes. The business changes. The technology changes. The team changes. The team members change. The problem isn’t change, because change is going to happen; the problem, rather, is our inability to cope with change</q>
+                                </note>. <q>Everything in software changes,</q> <persName key="Beck, Kent." ref="http://viaf.org/viaf/39529441" ana="webannotation:http://temp.lincsproject.ca/IkOsD4v7Jm5">Beck</persName> reminds us, and his caveat resonates for the humanities too: <q>The requirements change. The design changes. The business changes. The technology changes. The team changes. The team members change. The problem isn’t change, because change is going to happen; the problem, rather, is our inability to cope with change</q>
                                 <note place="inline">
                                     <bibl>11</bibl>
-                                </note>. Adaptation and flexibility are so important to the <abbr>XP</abbr> community that Beck has adopted one of its popular mantras as the subtitle of his book: <title level="m" type="sub">Embrace Change</title>.</ref>
+                                </note>. Adaptation and flexibility are so important to the <abbr>XP</abbr> community that <persName key="Beck, Kent." ref="http://viaf.org/viaf/39529441" ana="webannotation:http://temp.lincsproject.ca/7OMrkEdEPA0">Beck</persName> has adopted one of its popular mantras as the subtitle of his book: <title level="m" type="sub">Embrace Change</title>.</ref>
                         </ref>
                     </p>
                     <p xml:id="p1086">
                         <ref target="#technology">
                             <ref target="#theory">
-                                <ref target="#intertextuality">The conceptual framework within which <abbr>XP</abbr> operates is identical to that found in our project charter—practices shaped by both principles and values. <q>Principles,</q> Beck argues, <q>are domain-specific guidelines for life</q>; <q>values are the large-scale criteria we use to judge what we see, think, and do</q>; and <q>practices are the things you do day-to-day</q>—observable <q>evidence of values</q>
+                                <ref target="#intertextuality">The conceptual framework within which <abbr>XP</abbr> operates is identical to that found in our project charter—practices shaped by both principles and values. <q>Principles,</q> <persName key="Beck, Kent." ref="http://viaf.org/viaf/39529441" ana="webannotation:http://temp.lincsproject.ca/crjmKdLOfSM">Beck</persName> argues, <q>are domain-specific guidelines for life</q>; <q>values are the large-scale criteria we use to judge what we see, think, and do</q>; and <q>practices are the things you do day-to-day</q>—observable <q>evidence of values</q>
                                     <note place="inline">
                                         <bibl>13–15</bibl>
                                     </note>. <ref target="#writing_climate">In <abbr>XP</abbr>, principles such as <q>good communication</q> inform practices such as <q>conversation over written communication</q>—the latter is <q>inherently more wasteful</q> and is only <q>one-way</q>
                                         <note place="inline">
-                                            <bibl>Beck 23</bibl>
+                                            <bibl><persName key="Beck, Kent." ref="http://viaf.org/viaf/39529441" ana="webannotation:http://temp.lincsproject.ca/u2kkr5N5cb5">Beck</persName> 23</bibl>
                                         </note>—which in turn demonstrate team values of humanity, respect, diversity, and sharing. Embodying those ideals in the daily routines and dynamics of programming teams is <abbr>XP’s</abbr> secret, manifesting itself in a variety of strategies recognizable to humanists—things like constant and iterative revision (called <q>refactoring</q> in programming circles), continual and repeated exposure to both public and peer feedback (<q>frequent releases</q>), and even collaboration (<q>pair programming</q>). In turn, those team-based strategies affect individual team members’ attitudes, inspiring confidence and the willingness to accept responsibility (<q>Responsibility cannot be assigned; it can only be accepted</q>
                                         <note place="inline">
-                                            <bibl>Beck 34</bibl>
+                                            <bibl><persName key="Beck, Kent." ref="http://viaf.org/viaf/39529441" ana="webannotation:http://temp.lincsproject.ca/AvTzcxQpZc9">Beck</persName> 34</bibl>
                                         </note>), losing the fear of failure (<q>When you don’t know what to do,…risking failure can be the shortest, surest road to success</q>
                                         <note place="inline">
-                                            <bibl>Beck 32</bibl>
+                                            <bibl><persName key="Beck, Kent." ref="http://viaf.org/viaf/39529441" ana="webannotation:http://temp.lincsproject.ca/vO8RAwhEnix">Beck</persName> 32</bibl>
                                         </note>), and promoting <q>the rare ability to recognize simplicity</q>
                                         <note place="inline">
                                             <bibl>Chromatic, section 5.1</bibl>
@@ -722,7 +722,7 @@
                         <ref target="#theory">
                             <ref target="#collaboration">
                                 <ref target="#technology">A set of <q>best practices</q> in <abbr>DH</abbr> documentation, then, might be a hybrid form of the <q>typical practices</q> from both sides of the digital humanities and project documentation itself, the discursive common ground. Documentation is an information interchange, not compensation for failure. Documentation is shared culture. As <abbr>DHers</abbr>, we need not only to promote code literacy on the part of our humanist colleagues but also to encourage an understanding of humanist scholarship on the part of programmers. If documentation, as Martin insists, marks the failure of intent to match expression, then shared practices about documentation and discussions about the values that they embody might be the best way not to mind—that is, to mend—the gap between the digital and the humanities. Martin’s caveats remind us about the various kinds of documentation that digital humanities projects need to generate and the different audiences for whom those documents are intended. Well-written internal documentation, for example, should assist new team members by providing the record of a project’s history and its evolution (<q>The team changes. The team members change,</q> reflects <note place="inline">
-                                        <bibl>Beck [11]</bibl>
+                                        <bibl><persName key="Beck, Kent." ref="http://viaf.org/viaf/39529441" ana="webannotation:http://temp.lincsproject.ca/9zhDv6j5ItA">Beck</persName> [11]</bibl>
                                     </note>) Code comments included for reasons that are legal, clarifying, informative, or expressive of some kind of incomplete intent are wholly worthwhile, Martin maintains. Warnings against potential consequences and leaving <q>to do</q> notes for other programmers is useful, too.</ref>
                             </ref>
                         </ref>
@@ -7492,6 +7492,629 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/C3G2iBnJBaY]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/39529441",
+        "type": "crm:E21_Person",
+        "label": "Beck, Kent.",
+        "description": "Beck, Kent, 1961-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/IkOsD4v7Jm5">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/IkOsD4v7Jm5",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-05T18:15:33.683Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/mFxYwDPPAFC",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/mFxYwDPPAFC/selector/textPosition/naxtknivOzO",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 19077,
+                "end": 19081,
+                "refinedBy": {
+                    "id": "/target/mFxYwDPPAFC/selector/textQuote/sdHWSFsAZBC",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Beck",
+                    "prefix": " Everything in software changes,",
+                    "suffix": "reminds us, and his caveat resonates for the humanities too: The requirements change"
+                }
+            },
+            {
+                "id": "/target/mFxYwDPPAFC/selector/css/ceMmkLKo2ku",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/IkOsD4v7Jm5]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/39529441",
+        "type": "crm:E21_Person",
+        "label": "Beck, Kent.",
+        "description": "Beck, Kent, 1961-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/7OMrkEdEPA0">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/7OMrkEdEPA0",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-05T18:15:33.685Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/pHqqF9erC5D",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/pHqqF9erC5D/selector/textPosition/aM7TkCZSvn0",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 19571,
+                "end": 19575,
+                "refinedBy": {
+                    "id": "/target/pHqqF9erC5D/selector/textQuote/oUNJnICcbry",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Beck",
+                    "prefix": " Adaptation and flexibility are so important to the XP community that",
+                    "suffix": "has adopted one of its popular mantras as the subtitle of his book: Embrace Change"
+                }
+            },
+            {
+                "id": "/target/pHqqF9erC5D/selector/css/bFPhaNfndi2",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/7OMrkEdEPA0]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/39529441",
+        "type": "crm:E21_Person",
+        "label": "Beck, Kent.",
+        "description": "Beck, Kent, 1961-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/crjmKdLOfSM">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/crjmKdLOfSM",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-05T18:15:33.686Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/K4yaoWgb30k",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/K4yaoWgb30k/selector/textPosition/HytjMbVxoaV",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 19973,
+                "end": 19977,
+                "refinedBy": {
+                    "id": "/target/K4yaoWgb30k/selector/textQuote/S9ZOtCKARtw",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Beck",
+                    "prefix": " Principles,",
+                    "suffix": "argues, are domain-specific guidelines for life; values are the large-scale criteria we use to judge what we see, think, and do; and practices are the things you do day-to-day—observable evidence of values\n                                    \n                                        13–15\n                                    "
+                }
+            },
+            {
+                "id": "/target/K4yaoWgb30k/selector/css/8Vj47OjNCfY",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/crjmKdLOfSM]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/39529441",
+        "type": "crm:E21_Person",
+        "label": "Beck, Kent.",
+        "description": "Beck, Kent, 1961-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/u2kkr5N5cb5">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/u2kkr5N5cb5",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-05T18:15:33.687Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/CJXUd0emMFA",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/CJXUd0emMFA/selector/textPosition/Y58bnnotiHh",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 20559,
+                "end": 20563,
+                "refinedBy": {
+                    "id": "/target/CJXUd0emMFA/selector/textQuote/AOuqqY33Yhs",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Beck",
+                    "prefix": " In XP, principles such as good communication inform practices such as conversation over written communication—the latter is inherently more wasteful and is only one-way\n                                        \n                                           ",
+                    "suffix": "23\n                                        —which in turn demonstrate team values of humanity, respect, diversity, and sharing"
+                }
+            },
+            {
+                "id": "/target/CJXUd0emMFA/selector/css/LSRxqyoEfry",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/u2kkr5N5cb5]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/39529441",
+        "type": "crm:E21_Person",
+        "label": "Beck, Kent.",
+        "description": "Beck, Kent, 1961-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/AvTzcxQpZc9">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/AvTzcxQpZc9",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-05T18:15:33.688Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/50IpAe3YN8A",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/50IpAe3YN8A/selector/textPosition/TWmGSEWbWq5",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 21368,
+                "end": 21372,
+                "refinedBy": {
+                    "id": "/target/50IpAe3YN8A/selector/textQuote/haq5gIGHPJx",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Beck",
+                    "prefix": " In turn, those team-based strategies affect individual team members’ attitudes, inspiring confidence and the willingness to accept responsibility (Responsibility cannot be assigned; it can only be accepted\n                                        \n                                           ",
+                    "suffix": "34\n                                        ), losing the fear of failure (When you don’t know what to do,…risking failure can be the shortest, surest road to success\n                                        \n                                            Beck 32\n                                        ), and promoting the rare ability to recognize simplicity\n                                        \n                                            Chromatic, section 5"
+                }
+            },
+            {
+                "id": "/target/50IpAe3YN8A/selector/css/uFQYyharnZS",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/AvTzcxQpZc9]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/39529441",
+        "type": "crm:E21_Person",
+        "label": "Beck, Kent.",
+        "description": "Beck, Kent, 1961-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/vO8RAwhEnix">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/vO8RAwhEnix",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-05T18:15:33.689Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/wF7RSYOatEy",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/wF7RSYOatEy/selector/textPosition/RllasAYD7wu",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 21624,
+                "end": 21628,
+                "refinedBy": {
+                    "id": "/target/wF7RSYOatEy/selector/textQuote/HAWSn4m36vq",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Beck",
+                    "prefix": " In turn, those team-based strategies affect individual team members’ attitudes, inspiring confidence and the willingness to accept responsibility (Responsibility cannot be assigned; it can only be accepted\n                                        \n                                            Beck 34\n                                        ), losing the fear of failure (When you don’t know what to do,…risking failure can be the shortest, surest road to success\n                                        \n                                           ",
+                    "suffix": "32\n                                        ), and promoting the rare ability to recognize simplicity\n                                        \n                                            Chromatic, section 5"
+                }
+            },
+            {
+                "id": "/target/wF7RSYOatEy/selector/css/WwOPgJZ9w4U",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/vO8RAwhEnix]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/39529441",
+        "type": "crm:E21_Person",
+        "label": "Beck, Kent.",
+        "description": "Beck, Kent, 1961-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/9zhDv6j5ItA">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/9zhDv6j5ItA",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-05T18:15:33.689Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/jeF1D5eHXHx",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/jeF1D5eHXHx/selector/textPosition/iLJqvWYIzil",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 42552,
+                "end": 42556,
+                "refinedBy": {
+                    "id": "/target/jeF1D5eHXHx/selector/textQuote/D2c98Lu7ZTe",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Beck",
+                    "prefix": " The team members change, reflects \n                                       ",
+                    "suffix": "[11]\n                                    ) Code comments included for reasons that are legal, clarifying, informative, or expressive of some kind of incomplete intent are wholly worthwhile, Martin maintains"
+                }
+            },
+            {
+                "id": "/target/jeF1D5eHXHx/selector/css/kIm5byzKJqx",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/9zhDv6j5ItA]"
             }
         ]
     },
