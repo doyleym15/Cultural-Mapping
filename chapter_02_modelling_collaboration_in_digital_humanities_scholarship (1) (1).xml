@@ -517,7 +517,7 @@
                     </p>
                     <p xml:id="p1084">
                         <ref target="#technology">
-                            <ref target="#theory">Since the mid-1990s, the computer software community has developed a philosophy known as Extreme Programming or <abbr>XP</abbr>. <ref target="#collaboration">Extreme Programming weaves together principles, practices, and values into strategies that lead not only to better software but to better teams as well. Although concepts like pair programming, frequent software releases, and short development cycles are the popular and well-known components of <abbr>XP</abbr>, its ramifications are larger and much more radical. <q>Extreme Programming,</q> writes <abbr>XP</abbr> guru Kent Beck, <q>is about social change. It is about letting go of habits and patterns that were adaptive in the past, but now get in the way of us doing our best work. It is about giving up the defenses that protect us but interfere with our productivity</q>
+                            <ref target="#theory">Since the mid-1990s, the computer software community has developed a philosophy known as Extreme Programming or <abbr>XP</abbr>. <ref target="#collaboration">Extreme Programming weaves together principles, practices, and values into strategies that lead not only to better software but to better teams as well. Although concepts like pair programming, frequent software releases, and short development cycles are the popular and well-known components of <abbr>XP</abbr>, its ramifications are larger and much more radical. <q>Extreme Programming,</q> writes <abbr>XP</abbr> guru <persName key="Beck, Kent." ref="http://viaf.org/viaf/39529441" ana="webannotation:http://temp.lincsproject.ca/C3G2iBnJBaY">Kent Beck</persName>, <q>is about social change. It is about letting go of habits and patterns that were adaptive in the past, but now get in the way of us doing our best work. It is about giving up the defenses that protect us but interfere with our productivity</q>
                                     <note place="inline">
                                         <bibl>1</bibl>
                                     </note>. A similar attitude has informed our thinking about project charters.</ref>
@@ -1050,7 +1050,7 @@
                         <bibl><persName key="Pratt, Mary Louise, 1948-" ref="http://viaf.org/viaf/24648210" ana="webannotation:http://temp.lincsproject.ca/JcwUzu6lMHi">Pratt</persName>, Mary Louise. <title level="a">Arts of the Contact Zone</title>. <title level="j">Profession</title> (1992): 33–40.</bibl>
                         <bibl>--- <title level="m">Imperial Eyes: Travel Writing and Transculturation</title>. New York: Routledge, 1992.</bibl>
                         <bibl>Ruecker, Stan. <title level="a">Personal communication</title>. 16 July 2012.</bibl>
-                        <bibl>Ruecker, Stan, and Milena Radzikowska. <title level="a">The Iterative Design of a Project Charter for Interdisciplinary Research</title>. <title level="m">Proceedings of the 7th ACM Conference on Designing Interactive Systems</title>. New York: ACM, 2008. 288–94.</bibl>
+                        <bibl>Ruecker, Stan, and <persName key="Radzikowska, Milena" ref="http://viaf.org/viaf/2437148997678359870009" ana="webannotation:http://temp.lincsproject.ca/oyxd5Vih0Y0">Milena Radzikowska</persName>. <title level="a">The Iterative Design of a Project Charter for Interdisciplinary Research</title>. <title level="m">Proceedings of the 7th ACM Conference on Designing Interactive Systems</title>. New York: ACM, 2008. 288–94.</bibl>
                         <bibl>Schagerl, Jessica. <title level="a">“Taking a Place at the Table.”</title>
                             <title level="m">Retooling the Humanities: The Culture of Research in Canadian Universities</title>. Ed. Daniel Coleman and Smaro Kamboureli. Edmonton: University of Alberta Press, 2011. 95–112.</bibl>
                         <bibl>Siemens, Lynne. <title level="a">
@@ -6619,6 +6619,94 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/oyxd5Vih0Y0">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/oyxd5Vih0Y0",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-05T18:09:40.078Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/xmNH4rY1Kun",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/xmNH4rY1Kun/selector/textPosition/cwvfuJYrNWH",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 70424,
+                "end": 70442,
+                "refinedBy": {
+                    "id": "/target/xmNH4rY1Kun/selector/textQuote/9jmBQjhxITg",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Milena Radzikowska",
+                    "prefix": "\n                        Ruecker, Stan, and",
+                    "suffix": " The Iterative Design of a Project Charter for Interdisciplinary Research"
+                }
+            },
+            {
+                "id": "/target/xmNH4rY1Kun/selector/css/ZnrnO3Cy0Q5",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/oyxd5Vih0Y0]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/2437148997678359870009",
+        "type": "crm:E21_Person",
+        "label": "Radzikowska, Milena"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/0hCKFmQx1H1">
 <![CDATA[{
     "@context": [
@@ -7323,6 +7411,95 @@
         "type": "crm:E74_Group",
         "label": "The Orlando Project",
         "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/C3G2iBnJBaY">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/C3G2iBnJBaY",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-05T18:12:40.024Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/D79NP9xoO7f",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/D79NP9xoO7f/selector/textPosition/Apg54Utggrv",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 17685,
+                "end": 17694,
+                "refinedBy": {
+                    "id": "/target/D79NP9xoO7f/selector/textQuote/tSnIkDlqi4V",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Kent Beck",
+                    "prefix": " Extreme Programming, writes XP guru",
+                    "suffix": " is about social change"
+                }
+            },
+            {
+                "id": "/target/D79NP9xoO7f/selector/css/ukLPKWiLdwW",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/C3G2iBnJBaY]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/39529441",
+        "type": "crm:E21_Person",
+        "label": "Beck, Kent.",
+        "description": "Beck, Kent, 1961-...."
     },
     "P2_has_type": [
         "oa:identifying"
