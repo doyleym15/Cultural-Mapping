@@ -508,10 +508,10 @@
                     <p xml:id="p1083">
                         <ref target="#collaboration">
                             <ref target="#technology">
-                                <ref target="#archive">The painstaking work involved in editing the letters exchanged by Wilfred Watson and Sheila Watson from 1956 to 1962, for example, centres on an ongoing dialogue between the literary scholars most familiar with the Wilfred and Sheila Watson archives and the digital specialists who can model and implement digital archives and editions.</ref> Virtually every editorial decision we make has a technological implication; every technological decision, an editorial consequence. It is worth noting, too, that the dialogue itself is both facilitated and shaped—not always in a positive way—by the technologies (<ref target="#non-book_media">wikis, Skype, Google documents, metadata entry websites</ref>) we find ourselves using.<note xml:id="n44" place="end">The use of technology in the practice of collaboration warrants further discussion. We find ourselves both liberated and constricted by the tools we choose to use to connect with one another, which facilitate, complicate, and prevent various relationships and processes.</note> Although each group may believe that at the digital humanities interface its particular questions should take precedence—that the issues valued by literary scholars outrank digital concerns or that technical issues trump all others, for example—collaboration works through dialogue. As Linda Hutcheon and Michael Hutcheon point out, <q>It is no accident that the conversation or dialogue model is a dominant one in theories of collaboration</q>
+                                <ref target="#archive">The painstaking work involved in editing the letters exchanged by Wilfred Watson and Sheila Watson from 1956 to 1962, for example, centres on an ongoing dialogue between the literary scholars most familiar with the Wilfred and Sheila Watson archives and the digital specialists who can model and implement digital archives and editions.</ref> Virtually every editorial decision we make has a technological implication; every technological decision, an editorial consequence. It is worth noting, too, that the dialogue itself is both facilitated and shaped—not always in a positive way—by the technologies (<ref target="#non-book_media">wikis, Skype, Google documents, metadata entry websites</ref>) we find ourselves using.<note xml:id="n44" place="end">The use of technology in the practice of collaboration warrants further discussion. We find ourselves both liberated and constricted by the tools we choose to use to connect with one another, which facilitate, complicate, and prevent various relationships and processes.</note> Although each group may believe that at the digital humanities interface its particular questions should take precedence—that the issues valued by literary scholars outrank digital concerns or that technical issues trump all others, for example—collaboration works through dialogue. As <persName key="Hutcheon, Linda, 1947-...." ref="http://viaf.org/viaf/101807260" ana="webannotation:http://temp.lincsproject.ca/Hccba8yJC0i">Linda Hutcheon</persName> and Michael Hutcheon point out, <q>It is no accident that the conversation or dialogue model is a dominant one in theories of collaboration</q>
                                 <note place="inline">
                                     <bibl>1367</bibl>
-                                </note>.<note xml:id="n45" place="end">Although collaboration is at the heart of research in the digital humanities, it is both an issue and a practice discussed in numerous contexts. In addition to the article by Linda Hutcheon and Michael Hutcheon, see, for example, articles by Ede and Lunsford, and by Gilman.</note>
+                                </note>.<note xml:id="n45" place="end">Although collaboration is at the heart of research in the digital humanities, it is both an issue and a practice discussed in numerous contexts. In addition to the article by <persName key="Hutcheon, Linda, 1947-...." ref="http://viaf.org/viaf/101807260" ana="webannotation:http://temp.lincsproject.ca/Z3Ajh6MkRMt">Linda Hutcheon</persName> and Michael Hutcheon, see, for example, articles by Ede and Lunsford, and by Gilman.</note>
                             </ref>
                         </ref>
                     </p>
@@ -9193,6 +9193,184 @@
         "id": "http://viaf.org/viaf/105598388",
         "type": "crm:E21_Person",
         "label": "Frogner, Raymond, 1964-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Hccba8yJC0i">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Hccba8yJC0i",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T17:02:09.114Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/5cL6ygRjDJh",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/5cL6ygRjDJh/selector/textPosition/HIJoXVbAfBT",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 16498,
+                "end": 16512,
+                "refinedBy": {
+                    "id": "/target/5cL6ygRjDJh/selector/textQuote/WD4xV3Mnhre",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Linda Hutcheon",
+                    "prefix": " As",
+                    "suffix": "and Michael Hutcheon point out, It is no accident that the conversation or dialogue model is a dominant one in theories of collaboration\n                                \n                                    1367\n                                "
+                }
+            },
+            {
+                "id": "/target/5cL6ygRjDJh/selector/css/YyKQ2d1bbhu",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Hccba8yJC0i]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/101807260",
+        "type": "crm:E21_Person",
+        "label": "Hutcheon, Linda, 1947-....",
+        "description": "Hutcheon, Linda"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Z3Ajh6MkRMt">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Z3Ajh6MkRMt",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T17:02:09.372Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/X8r4AOlst1U",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/X8r4AOlst1U/selector/textPosition/hb8cP3SgT60",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 16932,
+                "end": 16946,
+                "refinedBy": {
+                    "id": "/target/X8r4AOlst1U/selector/textQuote/7Y2slELSelm",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Linda Hutcheon",
+                    "prefix": " In addition to the article by",
+                    "suffix": "and Michael Hutcheon, see, for example, articles by Ede and Lunsford, and by Gilman"
+                }
+            },
+            {
+                "id": "/target/X8r4AOlst1U/selector/css/5dQPrUl5tyA",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Z3Ajh6MkRMt]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/101807260",
+        "type": "crm:E21_Person",
+        "label": "Hutcheon, Linda, 1947-....",
+        "description": "Hutcheon, Linda"
     },
     "P2_has_type": [
         "oa:identifying"
