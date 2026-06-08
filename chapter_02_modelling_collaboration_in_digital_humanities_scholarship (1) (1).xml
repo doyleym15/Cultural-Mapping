@@ -486,7 +486,7 @@
                     <p xml:id="p1080">
                         <ref target="#collaboration">
                             <ref target="#theme_or_topic">In this chapter, members of the Editing Modernism in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/dXb2tgRNXJO">Canada</placeName> research collaboratory at <orgName key="University of Alberta." ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/DVrcnynEqW0">the University of Alberta</orgName> report on our attempt to develop a viable model of collaboration.</ref> How can we produce a model for consent and collaboration that recognizes the disparate forms and conditions of labour connected to humanities research and presentation? <ref target="#intertextuality">
-                                <abbr>EMiC UA</abbr> has opted to develop a project charter on the iterative model advanced by <persName key="Ruecker, Stan" ref="http://viaf.org/viaf/165153459" ana="webannotation:http://temp.lincsproject.ca/7wZbasequpH">Stan Ruecker</persName> and <persName key="Radzikowska, Milena" ref="http://viaf.org/viaf/2437148997678359870009" ana="webannotation:http://temp.lincsproject.ca/aApsRtLkECG">Milena Radzikowska</persName> and adapted for use by the Implementing New Knowledge Environments (<abbr>INKE</abbr>) project.</ref> Since this work is ongoing, this chapter is necessarily an interim report on ongoing discussions. When we began work on the project charter, <abbr>EMiC UA</abbr> consisted of nine researchers: two tenured faculty members, <persName key="Hjartarson, Paul Ivar" ref="http://viaf.org/viaf/39401783" ana="webannotation:http://temp.lincsproject.ca/5QSdWvvLRyQ">Paul Hjartarson</persName> and <persName key="Quamen, Harvey" ref="http://viaf.org/viaf/235167803166517771996" ana="webannotation:http://temp.lincsproject.ca/s24UnOSdi93">Harvey Quamen</persName>; an archivist, <persName key="Frogner, Raymond, 1964-" ref="http://viaf.org/viaf/105598388" ana="webannotation:http://temp.lincsproject.ca/skYzdVxOgir">Raymond Frogner</persName>; and six graduate students, five in English—Rebecca Blakey, Kristin Fast, Andrea Hasenbank, <persName key="McGregor, Hannah" ref="http://viaf.org/viaf/20153713810358661443" ana="webannotation:http://temp.lincsproject.ca/2FC6L835op3">Hannah McGregor</persName>, and Nick van Orden—and one, Matt Bouchard, in information studies. Postdoctoral fellow <persName key="Lent, Vanessa, 1979-" ref="http://viaf.org/viaf/141147423127944882061" ana="webannotation:http://temp.lincsproject.ca/A5VxaIQJmkc">Vanessa Lent</persName> joined us in January 2012. We also work with a number of researchers—Gregory Betts, Wayne DeFehr, Joseph MacKinnon, Linda Morra, Shirley Neuman, and Paul Tiessen, for example—who may or may not ultimately join the collaboratory. Although most <abbr>EMiC UA</abbr> members are based at <orgName key="University of Alberta." ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/GlsyRBqOLRK">the University of Alberta</orgName>, <persName key="Frogner, Raymond, 1964-" ref="http://viaf.org/viaf/105598388" ana="webannotation:http://temp.lincsproject.ca/JRJvg6rWjLC">Raymond Frogner</persName> works in the Archives, Collections and Knowledge Division, <orgName key="British Columbia Archives" ref="http://viaf.org/viaf/132861680" ana="webannotation:http://temp.lincsproject.ca/0hCKFmQx1H1">BC Archives</orgName> in Victoria, and Matt Bouchard is a doctoral student at <orgName key="University of Toronto." ref="http://viaf.org/viaf/130333233" ana="webannotation:http://temp.lincsproject.ca/xDjhNLvHDHR" type="real" cert="high">the University of Toronto</orgName>. (In October 2013, <persName key="McGregor, Hannah" ref="http://viaf.org/viaf/20153713810358661443" ana="webannotation:http://temp.lincsproject.ca/Eopn43VGz2Y">Hannah McGregor</persName>, who was a doctoral student at <orgName key="University of Guelph." ref="http://viaf.org/viaf/125486960" ana="webannotation:http://temp.lincsproject.ca/UsqpBuIYuCm" type="real" cert="high">the University of Guelph</orgName>, returned to <orgName key="University of Alberta." ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/v0hlv3syaMU">the University of Alberta</orgName> and to <abbr>EMiC UA</abbr> as a <abbr>SSHRC</abbr> postdoctoral fellow.) <ref target="#technology">
+                                <abbr>EMiC UA</abbr> has opted to develop a project charter on the iterative model advanced by <persName key="Ruecker, Stan" ref="http://viaf.org/viaf/165153459" ana="webannotation:http://temp.lincsproject.ca/7wZbasequpH">Stan Ruecker</persName> and <persName key="Radzikowska, Milena" ref="http://viaf.org/viaf/2437148997678359870009" ana="webannotation:http://temp.lincsproject.ca/aApsRtLkECG">Milena Radzikowska</persName> and adapted for use by the Implementing New Knowledge Environments (<abbr>INKE</abbr>) project.</ref> Since this work is ongoing, this chapter is necessarily an interim report on ongoing discussions. When we began work on the project charter, <abbr>EMiC UA</abbr> consisted of nine researchers: two tenured faculty members, <persName key="Hjartarson, Paul Ivar" ref="http://viaf.org/viaf/39401783" ana="webannotation:http://temp.lincsproject.ca/5QSdWvvLRyQ">Paul Hjartarson</persName> and <persName key="Quamen, Harvey" ref="http://viaf.org/viaf/235167803166517771996" ana="webannotation:http://temp.lincsproject.ca/s24UnOSdi93">Harvey Quamen</persName>; an archivist, <persName key="Frogner, Raymond, 1964-" ref="http://viaf.org/viaf/105598388" ana="webannotation:http://temp.lincsproject.ca/skYzdVxOgir">Raymond Frogner</persName>; and six graduate students, five in English—Rebecca Blakey, Kristin Fast, Andrea Hasenbank, <persName key="McGregor, Hannah" ref="http://viaf.org/viaf/20153713810358661443" ana="webannotation:http://temp.lincsproject.ca/2FC6L835op3">Hannah McGregor</persName>, and Nick van Orden—and one, Matt Bouchard, in information studies. Postdoctoral fellow <persName key="Lent, Vanessa, 1979-" ref="http://viaf.org/viaf/141147423127944882061" ana="webannotation:http://temp.lincsproject.ca/A5VxaIQJmkc">Vanessa Lent</persName> joined us in January 2012. We also work with a number of researchers—Gregory Betts, <persName key="DeFehr, Wayne, 1962-" ref="http://viaf.org/viaf/106042359" ana="webannotation:http://temp.lincsproject.ca/oBjaDsE0faf">Wayne DeFehr</persName>, Joseph MacKinnon, Linda Morra, Shirley Neuman, and Paul Tiessen, for example—who may or may not ultimately join the collaboratory. Although most <abbr>EMiC UA</abbr> members are based at <orgName key="University of Alberta." ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/GlsyRBqOLRK">the University of Alberta</orgName>, <persName key="Frogner, Raymond, 1964-" ref="http://viaf.org/viaf/105598388" ana="webannotation:http://temp.lincsproject.ca/JRJvg6rWjLC">Raymond Frogner</persName> works in the Archives, Collections and Knowledge Division, <orgName key="British Columbia Archives" ref="http://viaf.org/viaf/132861680" ana="webannotation:http://temp.lincsproject.ca/0hCKFmQx1H1">BC Archives</orgName> in Victoria, and Matt Bouchard is a doctoral student at <orgName key="University of Toronto." ref="http://viaf.org/viaf/130333233" ana="webannotation:http://temp.lincsproject.ca/xDjhNLvHDHR" type="real" cert="high">the University of Toronto</orgName>. (In October 2013, <persName key="McGregor, Hannah" ref="http://viaf.org/viaf/20153713810358661443" ana="webannotation:http://temp.lincsproject.ca/Eopn43VGz2Y">Hannah McGregor</persName>, who was a doctoral student at <orgName key="University of Guelph." ref="http://viaf.org/viaf/125486960" ana="webannotation:http://temp.lincsproject.ca/UsqpBuIYuCm" type="real" cert="high">the University of Guelph</orgName>, returned to <orgName key="University of Alberta." ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/v0hlv3syaMU">the University of Alberta</orgName> and to <abbr>EMiC UA</abbr> as a <abbr>SSHRC</abbr> postdoctoral fellow.) <ref target="#technology">
                                 <ref target="#theme_or_topic">
                                     <abbr>EMiC UA</abbr> is engaged in three editorial initiatives: the Wilfred and Sheila Watson projects; the Manifestos project; and the Martha Ostenso project. Our mainstay, however, is the Editing Wilfred Watson Archive project. This is the initiative we are using to create digital infrastructure; it is also the initiative we are using to think through the project charter.</ref>
                             </ref>
@@ -9193,6 +9193,94 @@
         "id": "http://viaf.org/viaf/105598388",
         "type": "crm:E21_Person",
         "label": "Frogner, Raymond, 1964-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/oBjaDsE0faf">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/oBjaDsE0faf",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T17:14:36.418Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/3bPjNMBzgD5",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/3bPjNMBzgD5/selector/textPosition/oRCSxf4Yz9c",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 10680,
+                "end": 10692,
+                "refinedBy": {
+                    "id": "/target/3bPjNMBzgD5/selector/textQuote/nJxoCkI5bBk",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Wayne DeFehr",
+                    "prefix": " We also work with a number of researchers—Gregory Betts,",
+                    "suffix": " Joseph MacKinnon, Linda Morra, Shirley Neuman, and Paul Tiessen, for example—who may or may not ultimately join the collaboratory"
+                }
+            },
+            {
+                "id": "/target/3bPjNMBzgD5/selector/css/FV2IVNiqAY5",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/oBjaDsE0faf]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/106042359",
+        "type": "crm:E21_Person",
+        "label": "DeFehr, Wayne, 1962-"
     },
     "P2_has_type": [
         "oa:identifying"
