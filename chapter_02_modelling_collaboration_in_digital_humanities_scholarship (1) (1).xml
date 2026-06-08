@@ -486,7 +486,7 @@
                     <p xml:id="p1080">
                         <ref target="#collaboration">
                             <ref target="#theme_or_topic">In this chapter, members of the Editing Modernism in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/dXb2tgRNXJO">Canada</placeName> research collaboratory at <orgName key="University of Alberta." ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/DVrcnynEqW0">the University of Alberta</orgName> report on our attempt to develop a viable model of collaboration.</ref> How can we produce a model for consent and collaboration that recognizes the disparate forms and conditions of labour connected to humanities research and presentation? <ref target="#intertextuality">
-                                <abbr>EMiC UA</abbr> has opted to develop a project charter on the iterative model advanced by <persName key="Ruecker, Stan" ref="http://viaf.org/viaf/165153459" ana="webannotation:http://temp.lincsproject.ca/7wZbasequpH">Stan Ruecker</persName> and <persName key="Radzikowska, Milena" ref="http://viaf.org/viaf/2437148997678359870009" ana="webannotation:http://temp.lincsproject.ca/aApsRtLkECG">Milena Radzikowska</persName> and adapted for use by the Implementing New Knowledge Environments (<abbr>INKE</abbr>) project.</ref> Since this work is ongoing, this chapter is necessarily an interim report on ongoing discussions. When we began work on the project charter, <abbr>EMiC UA</abbr> consisted of nine researchers: two tenured faculty members, <persName key="Hjartarson, Paul Ivar" ref="http://viaf.org/viaf/39401783" ana="webannotation:http://temp.lincsproject.ca/5QSdWvvLRyQ">Paul Hjartarson</persName> and <persName key="Quamen, Harvey" ref="http://viaf.org/viaf/235167803166517771996" ana="webannotation:http://temp.lincsproject.ca/s24UnOSdi93">Harvey Quamen</persName>; an archivist, <persName key="Frogner, Raymond, 1964-" ref="http://viaf.org/viaf/105598388" ana="webannotation:http://temp.lincsproject.ca/skYzdVxOgir">Raymond Frogner</persName>; and six graduate students, five in English—Rebecca Blakey, Kristin Fast, Andrea Hasenbank, <persName key="McGregor, Hannah" ref="http://viaf.org/viaf/20153713810358661443" ana="webannotation:http://temp.lincsproject.ca/2FC6L835op3">Hannah McGregor</persName>, and Nick van Orden—and one, Matt Bouchard, in information studies. Postdoctoral fellow <persName key="Lent, Vanessa, 1979-" ref="http://viaf.org/viaf/141147423127944882061" ana="webannotation:http://temp.lincsproject.ca/A5VxaIQJmkc">Vanessa Lent</persName> joined us in January 2012. We also work with a number of researchers—Gregory Betts, Wayne DeFehr, Joseph MacKinnon, Linda Morra, Shirley Neuman, and Paul Tiessen, for example—who may or may not ultimately join the collaboratory. Although most <abbr>EMiC UA</abbr> members are based at <orgName key="University of Alberta." ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/GlsyRBqOLRK">the University of Alberta</orgName>, Raymond Frogner works in the Archives, Collections and Knowledge Division, <orgName key="British Columbia Archives" ref="http://viaf.org/viaf/132861680" ana="webannotation:http://temp.lincsproject.ca/0hCKFmQx1H1">BC Archives</orgName> in Victoria, and Matt Bouchard is a doctoral student at <orgName key="University of Toronto." ref="http://viaf.org/viaf/130333233" ana="webannotation:http://temp.lincsproject.ca/xDjhNLvHDHR" type="real" cert="high">the University of Toronto</orgName>. (In October 2013, <persName key="McGregor, Hannah" ref="http://viaf.org/viaf/20153713810358661443" ana="webannotation:http://temp.lincsproject.ca/Eopn43VGz2Y">Hannah McGregor</persName>, who was a doctoral student at <orgName key="University of Guelph." ref="http://viaf.org/viaf/125486960" ana="webannotation:http://temp.lincsproject.ca/UsqpBuIYuCm" type="real" cert="high">the University of Guelph</orgName>, returned to <orgName key="University of Alberta." ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/v0hlv3syaMU">the University of Alberta</orgName> and to <abbr>EMiC UA</abbr> as a <abbr>SSHRC</abbr> postdoctoral fellow.) <ref target="#technology">
+                                <abbr>EMiC UA</abbr> has opted to develop a project charter on the iterative model advanced by <persName key="Ruecker, Stan" ref="http://viaf.org/viaf/165153459" ana="webannotation:http://temp.lincsproject.ca/7wZbasequpH">Stan Ruecker</persName> and <persName key="Radzikowska, Milena" ref="http://viaf.org/viaf/2437148997678359870009" ana="webannotation:http://temp.lincsproject.ca/aApsRtLkECG">Milena Radzikowska</persName> and adapted for use by the Implementing New Knowledge Environments (<abbr>INKE</abbr>) project.</ref> Since this work is ongoing, this chapter is necessarily an interim report on ongoing discussions. When we began work on the project charter, <abbr>EMiC UA</abbr> consisted of nine researchers: two tenured faculty members, <persName key="Hjartarson, Paul Ivar" ref="http://viaf.org/viaf/39401783" ana="webannotation:http://temp.lincsproject.ca/5QSdWvvLRyQ">Paul Hjartarson</persName> and <persName key="Quamen, Harvey" ref="http://viaf.org/viaf/235167803166517771996" ana="webannotation:http://temp.lincsproject.ca/s24UnOSdi93">Harvey Quamen</persName>; an archivist, <persName key="Frogner, Raymond, 1964-" ref="http://viaf.org/viaf/105598388" ana="webannotation:http://temp.lincsproject.ca/skYzdVxOgir">Raymond Frogner</persName>; and six graduate students, five in English—Rebecca Blakey, Kristin Fast, Andrea Hasenbank, <persName key="McGregor, Hannah" ref="http://viaf.org/viaf/20153713810358661443" ana="webannotation:http://temp.lincsproject.ca/2FC6L835op3">Hannah McGregor</persName>, and Nick van Orden—and one, Matt Bouchard, in information studies. Postdoctoral fellow <persName key="Lent, Vanessa, 1979-" ref="http://viaf.org/viaf/141147423127944882061" ana="webannotation:http://temp.lincsproject.ca/A5VxaIQJmkc">Vanessa Lent</persName> joined us in January 2012. We also work with a number of researchers—Gregory Betts, Wayne DeFehr, Joseph MacKinnon, Linda Morra, Shirley Neuman, and Paul Tiessen, for example—who may or may not ultimately join the collaboratory. Although most <abbr>EMiC UA</abbr> members are based at <orgName key="University of Alberta." ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/GlsyRBqOLRK">the University of Alberta</orgName>, <persName key="Frogner, Raymond, 1964-" ref="http://viaf.org/viaf/105598388" ana="webannotation:http://temp.lincsproject.ca/JRJvg6rWjLC">Raymond Frogner</persName> works in the Archives, Collections and Knowledge Division, <orgName key="British Columbia Archives" ref="http://viaf.org/viaf/132861680" ana="webannotation:http://temp.lincsproject.ca/0hCKFmQx1H1">BC Archives</orgName> in Victoria, and Matt Bouchard is a doctoral student at <orgName key="University of Toronto." ref="http://viaf.org/viaf/130333233" ana="webannotation:http://temp.lincsproject.ca/xDjhNLvHDHR" type="real" cert="high">the University of Toronto</orgName>. (In October 2013, <persName key="McGregor, Hannah" ref="http://viaf.org/viaf/20153713810358661443" ana="webannotation:http://temp.lincsproject.ca/Eopn43VGz2Y">Hannah McGregor</persName>, who was a doctoral student at <orgName key="University of Guelph." ref="http://viaf.org/viaf/125486960" ana="webannotation:http://temp.lincsproject.ca/UsqpBuIYuCm" type="real" cert="high">the University of Guelph</orgName>, returned to <orgName key="University of Alberta." ref="http://viaf.org/viaf/155492116" ana="webannotation:http://temp.lincsproject.ca/v0hlv3syaMU">the University of Alberta</orgName> and to <abbr>EMiC UA</abbr> as a <abbr>SSHRC</abbr> postdoctoral fellow.) <ref target="#technology">
                                 <ref target="#theme_or_topic">
                                     <abbr>EMiC UA</abbr> is engaged in three editorial initiatives: the Wilfred and Sheila Watson projects; the Manifestos project; and the Martha Ostenso project. Our mainstay, however, is the Editing Wilfred Watson Archive project. This is the initiative we are using to create digital infrastructure; it is also the initiative we are using to think through the project charter.</ref>
                             </ref>
@@ -579,9 +579,9 @@
                         <ref target="#collaboration">
                             <ref target="#intertextuality">
                                 <ref target="#technology">
-                                    <ref target="#writing_climate">The challenge of <abbr>DH</abbr> collaboration prompted Ruecker and Radzikowska to develop the concept of an iterative <q>project charter,</q> a contract that team members develop and sign in the early stages of their work together and revise as the project evolves, as digital humanities projects invariably do. That charter articulates the principles, policies, and practices governing collaboration. The practice of jointly developing a project charter has been adopted by a number of digital humanities groups. Ruecker himself refers to successive iterations of charters for the projects in which he has participated as <q>the history of his mistakes</q> and states that he aspires <q>to make only new mistakes</q>
+                                    <ref target="#writing_climate">The challenge of <abbr>DH</abbr> collaboration prompted <persName key="Ruecker, Stan" ref="http://viaf.org/viaf/165153459" ana="webannotation:http://temp.lincsproject.ca/wLMmjUHQpaG">Ruecker</persName> and Radzikowska to develop the concept of an iterative <q>project charter,</q> a contract that team members develop and sign in the early stages of their work together and revise as the project evolves, as digital humanities projects invariably do. That charter articulates the principles, policies, and practices governing collaboration. The practice of jointly developing a project charter has been adopted by a number of digital humanities groups. <persName key="Ruecker, Stan" ref="http://viaf.org/viaf/165153459" ana="webannotation:http://temp.lincsproject.ca/mLFrobtuIc2">Ruecker</persName> himself refers to successive iterations of charters for the projects in which he has participated as <q>the history of his mistakes</q> and states that he aspires <q>to make only new mistakes</q>
                                         <note place="inline">
-                                            <bibl>Ruecker, personal communication</bibl>
+                                            <bibl><persName key="Ruecker, Stan" ref="http://viaf.org/viaf/165153459" ana="webannotation:http://temp.lincsproject.ca/TzY7iTA47KH">Ruecker</persName>, personal communication</bibl>
                                         </note>. However self-deprecating Ruecker’s comments, they suggest something of the challenges he has faced. Project charters, however, also document successes. When one of Ruecker’s research groups developed a policy that stipulated, <q>As projects progress to new phases, each team member will have the right of first choice over whether or not to continue with the project,</q> Ruecker and Radzikowska report, <q>we suddenly found that many of the reasons for not providing source files simply disappeared</q>
                                         <note place="inline">
                                             <bibl>291–92</bibl>
@@ -9105,6 +9105,361 @@
         "id": "http://viaf.org/viaf/105598388",
         "type": "crm:E21_Person",
         "label": "Frogner, Raymond, 1964-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/JRJvg6rWjLC">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/JRJvg6rWjLC",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T16:38:33.174Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/KA2JfL1VGld",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/KA2JfL1VGld/selector/textPosition/AashcPGiJ0x",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 10895,
+                "end": 10910,
+                "refinedBy": {
+                    "id": "/target/KA2JfL1VGld/selector/textQuote/oP2INKWCGyH",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Raymond Frogner",
+                    "prefix": " Although most EMiC UA members are based at the University of Alberta,",
+                    "suffix": "works in the Archives, Collections and Knowledge Division, BC Archives in Victoria, and Matt Bouchard is a doctoral student at the University of Toronto"
+                }
+            },
+            {
+                "id": "/target/KA2JfL1VGld/selector/css/KAQl5YMMBmw",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/JRJvg6rWjLC]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/105598388",
+        "type": "crm:E21_Person",
+        "label": "Frogner, Raymond, 1964-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/wLMmjUHQpaG">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/wLMmjUHQpaG",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T16:46:10.362Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/0bJCfonI0WS",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/0bJCfonI0WS/selector/textPosition/harE8nSjYZg",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 24532,
+                "end": 24539,
+                "refinedBy": {
+                    "id": "/target/0bJCfonI0WS/selector/textQuote/RhcMw0dCw3d",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ruecker",
+                    "prefix": "\n                                \n                            \n                        \n                    \n                    \n                        \n                            \n                                \n                                    The challenge of DH collaboration prompted",
+                    "suffix": "and Radzikowska to develop the concept of an iterative project charter, a contract that team members develop and sign in the early stages of their work together and revise as the project evolves, as digital humanities projects invariably do"
+                }
+            },
+            {
+                "id": "/target/0bJCfonI0WS/selector/css/0azMHLJCZ6u",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/wLMmjUHQpaG]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/165153459",
+        "type": "crm:E21_Person",
+        "label": "Ruecker, Stan",
+        "description": "Stan Ruecker researcher, ORCID id # 0000-0003-0099-1687"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/mLFrobtuIc2">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/mLFrobtuIc2",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T16:46:10.515Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ZYBoMNeUi3c",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ZYBoMNeUi3c/selector/textPosition/pZdKwblBVIt",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 24984,
+                "end": 24991,
+                "refinedBy": {
+                    "id": "/target/ZYBoMNeUi3c/selector/textQuote/JhnXQ44dC4R",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ruecker",
+                    "prefix": "",
+                    "suffix": "himself refers to successive iterations of charters for the projects in which he has participated as the history of his mistakes and states that he aspires to make only new mistakes\n                                        \n                                            Ruecker, personal communication\n                                        "
+                }
+            },
+            {
+                "id": "/target/ZYBoMNeUi3c/selector/css/Mebz1TwJpFq",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/mLFrobtuIc2]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/165153459",
+        "type": "crm:E21_Person",
+        "label": "Ruecker, Stan",
+        "description": "Stan Ruecker researcher, ORCID id # 0000-0003-0099-1687"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/TzY7iTA47KH">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/TzY7iTA47KH",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T16:46:10.608Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/QHH4FzMu0UD",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/QHH4FzMu0UD/selector/textPosition/WHdOdF5acDn",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 25259,
+                "end": 25266,
+                "refinedBy": {
+                    "id": "/target/QHH4FzMu0UD/selector/textQuote/RFI90113aQ4",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ruecker",
+                    "prefix": " Ruecker himself refers to successive iterations of charters for the projects in which he has participated as the history of his mistakes and states that he aspires to make only new mistakes\n                                        \n                                           ",
+                    "suffix": " personal communication\n                                        "
+                }
+            },
+            {
+                "id": "/target/QHH4FzMu0UD/selector/css/GaLexz3Ig6r",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/TzY7iTA47KH]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/165153459",
+        "type": "crm:E21_Person",
+        "label": "Ruecker, Stan",
+        "description": "Stan Ruecker researcher, ORCID id # 0000-0003-0099-1687"
     },
     "P2_has_type": [
         "oa:identifying"
