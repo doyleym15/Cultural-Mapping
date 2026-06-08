@@ -508,7 +508,7 @@
                     <p xml:id="p1083">
                         <ref target="#collaboration">
                             <ref target="#technology">
-                                <ref target="#archive">The painstaking work involved in editing the letters exchanged by Wilfred Watson and Sheila Watson from 1956 to 1962, for example, centres on an ongoing dialogue between the literary scholars most familiar with the Wilfred and Sheila Watson archives and the digital specialists who can model and implement digital archives and editions.</ref> Virtually every editorial decision we make has a technological implication; every technological decision, an editorial consequence. It is worth noting, too, that the dialogue itself is both facilitated and shaped—not always in a positive way—by the technologies (<ref target="#non-book_media">wikis, Skype, Google documents, metadata entry websites</ref>) we find ourselves using.<note xml:id="n44" place="end">The use of technology in the practice of collaboration warrants further discussion. We find ourselves both liberated and constricted by the tools we choose to use to connect with one another, which facilitate, complicate, and prevent various relationships and processes.</note> Although each group may believe that at the digital humanities interface its particular questions should take precedence—that the issues valued by literary scholars outrank digital concerns or that technical issues trump all others, for example—collaboration works through dialogue. As <persName key="Hutcheon, Linda, 1947-...." ref="http://viaf.org/viaf/101807260" ana="webannotation:http://temp.lincsproject.ca/Hccba8yJC0i">Linda Hutcheon</persName> and Michael Hutcheon point out, <q>It is no accident that the conversation or dialogue model is a dominant one in theories of collaboration</q>
+                                <ref target="#archive">The painstaking work involved in editing the letters exchanged by Wilfred Watson and Sheila Watson from 1956 to 1962, for example, centres on an ongoing dialogue between the literary scholars most familiar with the Wilfred and Sheila Watson archives and the digital specialists who can model and implement digital archives and editions.</ref> Virtually every editorial decision we make has a technological implication; every technological decision, an editorial consequence. It is worth noting, too, that the dialogue itself is both facilitated and shaped—not always in a positive way—by the technologies (<ref target="#non-book_media">wikis, Skype, Google documents, metadata entry websites</ref>) we find ourselves using.<note xml:id="n44" place="end">The use of technology in the practice of collaboration warrants further discussion. We find ourselves both liberated and constricted by the tools we choose to use to connect with one another, which facilitate, complicate, and prevent various relationships and processes.</note> Although each group may believe that at the digital humanities interface its particular questions should take precedence—that the issues valued by literary scholars outrank digital concerns or that technical issues trump all others, for example—collaboration works through dialogue. As <persName key="Hutcheon, Linda, 1947-...." ref="http://viaf.org/viaf/101807260" ana="webannotation:http://temp.lincsproject.ca/Hccba8yJC0i">Linda Hutcheon</persName> and <persName key="Hutcheon, Michael, 1945-...." ref="http://viaf.org/viaf/262481632" ana="webannotation:http://temp.lincsproject.ca/z4lQLNU8ZCs">Michael Hutcheon</persName> point out, <q>It is no accident that the conversation or dialogue model is a dominant one in theories of collaboration</q>
                                 <note place="inline">
                                     <bibl>1367</bibl>
                                 </note>.<note xml:id="n45" place="end">Although collaboration is at the heart of research in the digital humanities, it is both an issue and a practice discussed in numerous contexts. In addition to the article by <persName key="Hutcheon, Linda, 1947-...." ref="http://viaf.org/viaf/101807260" ana="webannotation:http://temp.lincsproject.ca/Z3Ajh6MkRMt">Linda Hutcheon</persName> and Michael Hutcheon, see, for example, articles by Ede and Lunsford, and by Gilman.</note>
@@ -778,7 +778,7 @@
                     </p>
                     <p xml:id="p1110">
                         <ref target="#intertextuality">
-                            <ref target="#collaboration">These concerns with collaboration, interdisciplinary dialogue, and communication are not, of course, unique to the digital humanities. Linda Hutcheon and Michael Hutcheon’s article <title level="a">A Convenience of Marriage: Collaboration and Interdisciplinarity,</title> for example, documents the experience of working collaboratively as married colleagues across disparate fields. When their research necessitated a further reach of knowledge and experience, they extended this collaboration to a group of four graduate students. Their article highlights the challenges and benefits of such interdisciplinary work and addresses many of the same issues of the collaborative collective within the context of a non-digital project. <ref target="#informal_response">Since the completion of the research and subsequent publication of their findings, the graduate students reported that <q>the professional skills learned in this collective process of researching, writing, and adapting have stood them in good stead in their subsequent (and differing) careers</q>
+                            <ref target="#collaboration">These concerns with collaboration, interdisciplinary dialogue, and communication are not, of course, unique to the digital humanities. <persName key="Hutcheon, Linda, 1947-...." ref="http://viaf.org/viaf/101807260" ana="webannotation:http://temp.lincsproject.ca/Mv5cOAK1OSC">Linda Hutcheon</persName> and Michael Hutcheon’s article <title level="a">A Convenience of Marriage: Collaboration and Interdisciplinarity,</title> for example, documents the experience of working collaboratively as married colleagues across disparate fields. When their research necessitated a further reach of knowledge and experience, they extended this collaboration to a group of four graduate students. Their article highlights the challenges and benefits of such interdisciplinary work and addresses many of the same issues of the collaborative collective within the context of a non-digital project. <ref target="#informal_response">Since the completion of the research and subsequent publication of their findings, the graduate students reported that <q>the professional skills learned in this collective process of researching, writing, and adapting have stood them in good stead in their subsequent (and differing) careers</q>
                                     <note place="inline">
                                         <bibl>Hutcheon and Hutcheon 1371</bibl>
                                     </note>.</ref> Further, Hutcheon and Hutcheon assert that, although the collaborative process was at times slower than expected, the overall results for those involved were invaluable: <q>everyone was forced to think differently, to listen more carefully and more critically, to look for new ways to integrate insights</q>
@@ -9371,6 +9371,184 @@
         "type": "crm:E21_Person",
         "label": "Hutcheon, Linda, 1947-....",
         "description": "Hutcheon, Linda"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Mv5cOAK1OSC">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Mv5cOAK1OSC",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T17:02:09.522Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Ekq5p8VnjZB",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Ekq5p8VnjZB/selector/textPosition/2IoEtQlaucD",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 49938,
+                "end": 49952,
+                "refinedBy": {
+                    "id": "/target/Ekq5p8VnjZB/selector/textQuote/TdicLBp7uKl",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Linda Hutcheon",
+                    "prefix": "",
+                    "suffix": "and Michael Hutcheon’s article A Convenience of Marriage: Collaboration and Interdisciplinarity, for example, documents the experience of working collaboratively as married colleagues across disparate fields"
+                }
+            },
+            {
+                "id": "/target/Ekq5p8VnjZB/selector/css/cdNe4cf7voM",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Mv5cOAK1OSC]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/101807260",
+        "type": "crm:E21_Person",
+        "label": "Hutcheon, Linda, 1947-....",
+        "description": "Hutcheon, Linda"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/z4lQLNU8ZCs">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/z4lQLNU8ZCs",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T17:02:26.056Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/i1wXEPb1YcI",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/i1wXEPb1YcI/selector/textPosition/4NJKTIv23od",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 16517,
+                "end": 16533,
+                "refinedBy": {
+                    "id": "/target/i1wXEPb1YcI/selector/textQuote/ooSJQM7PDt8",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Michael Hutcheon",
+                    "prefix": " As Linda Hutcheon and",
+                    "suffix": "point out, It is no accident that the conversation or dialogue model is a dominant one in theories of collaboration\n                                \n                                    1367\n                                "
+                }
+            },
+            {
+                "id": "/target/i1wXEPb1YcI/selector/css/MfpE7GeA8Qs",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/z4lQLNU8ZCs]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/262481632",
+        "type": "crm:E21_Person",
+        "label": "Hutcheon, Michael, 1945-....",
+        "description": "Hutcheon, Michael"
     },
     "P2_has_type": [
         "oa:identifying"
