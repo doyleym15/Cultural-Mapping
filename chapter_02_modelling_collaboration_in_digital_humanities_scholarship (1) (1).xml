@@ -607,7 +607,7 @@
                     <p xml:id="p1090">
                         <ref target="#intertextuality">
                             <ref target="#education">
-                                <ref target="#writing_climate">Schagerl goes on to address the tenuous position of the emerging humanities scholar (graduate student, postdoctoral fellow, contract or junior faculty) in the current university environment. She calls for a shift in perspective at disciplinary and institutional levels to match the current goals of funding organizations such as the Social Sciences and Humanities Research Council of Canada (<abbr>SSHRC</abbr>).</ref>
+                                <ref target="#writing_climate"><persName key="Schagerl, Jessica, 1975-" ref="http://viaf.org/viaf/231694901" ana="webannotation:http://temp.lincsproject.ca/H4DbtWvNmb6">Schagerl</persName> goes on to address the tenuous position of the emerging humanities scholar (graduate student, postdoctoral fellow, contract or junior faculty) in the current university environment. She calls for a shift in perspective at disciplinary and institutional levels to match the current goals of funding organizations such as the Social Sciences and Humanities Research Council of Canada (<abbr>SSHRC</abbr>).</ref>
                             </ref>
                         </ref>
                     </p>
@@ -11407,6 +11407,94 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/v82FmSEBwW2]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/231694901",
+        "type": "crm:E21_Person",
+        "label": "Schagerl, Jessica, 1975-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/H4DbtWvNmb6">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/H4DbtWvNmb6",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T17:57:26.045Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/rdu0nUdr0Pb",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/rdu0nUdr0Pb/selector/textPosition/AUueQMz32fD",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27784,
+                "end": 27792,
+                "refinedBy": {
+                    "id": "/target/rdu0nUdr0Pb/selector/textQuote/fPFa8LYyMBg",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Schagerl",
+                    "prefix": "\n                        \n                        \n                            95\n                        \n                    \n                    \n                        \n                            \n                               ",
+                    "suffix": "goes on to address the tenuous position of the emerging humanities scholar (graduate student, postdoctoral fellow, contract or junior faculty) in the current university environment"
+                }
+            },
+            {
+                "id": "/target/rdu0nUdr0Pb/selector/css/ebCxLOCniRU",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/H4DbtWvNmb6]"
             }
         ]
     },
