@@ -593,7 +593,7 @@
                     <p xml:id="p1089">
                         <ref target="#collaboration">
                             <ref target="#education">
-                                <ref target="#writing_climate">No group feels the lack of trust more acutely, perhaps, than graduate students, postdoctoral researchers, contract faculty, and emerging scholars, arguably the most vulnerable members of any collaboratory. <ref target="#authorship">Can these contributors trust faculty members to recognize their hard work, to involve them as co-authors—in short, to give them, as Jessica Schagerl puts it, a place at the table?</ref> Can vulnerable participants collaborate fully without exploitation? Can they place their trust in fellow students and other contract faculty?</ref> Interestingly, Schagerl opens her article on mentoring in <title level="m">Retooling the Humanities: The Culture of Research in Canadian Universities</title> with a quote from Ms. <persName key="Toth, Emily." ref="http://viaf.org/viaf/27133714" ana="webannotation:http://temp.lincsproject.ca/Xgf4MLiH39T">Mentor</persName>, aka <persName key="Toth, Emily." ref="http://viaf.org/viaf/27133714" ana="webannotation:http://temp.lincsproject.ca/4alObwmkP94">Emily Toth</persName>:</ref>
+                                <ref target="#writing_climate">No group feels the lack of trust more acutely, perhaps, than graduate students, postdoctoral researchers, contract faculty, and emerging scholars, arguably the most vulnerable members of any collaboratory. <ref target="#authorship">Can these contributors trust faculty members to recognize their hard work, to involve them as co-authors—in short, to give them, as <persName key="Schagerl, Jessica, 1975-" ref="http://viaf.org/viaf/231694901" ana="webannotation:http://temp.lincsproject.ca/v82FmSEBwW2">Jessica Schagerl</persName> puts it, a place at the table?</ref> Can vulnerable participants collaborate fully without exploitation? Can they place their trust in fellow students and other contract faculty?</ref> Interestingly, Schagerl opens her article on mentoring in <title level="m">Retooling the Humanities: The Culture of Research in Canadian Universities</title> with a quote from Ms. <persName key="Toth, Emily." ref="http://viaf.org/viaf/27133714" ana="webannotation:http://temp.lincsproject.ca/Xgf4MLiH39T">Mentor</persName>, aka <persName key="Toth, Emily." ref="http://viaf.org/viaf/27133714" ana="webannotation:http://temp.lincsproject.ca/4alObwmkP94">Emily Toth</persName>:</ref>
                         </ref>
                     </p>
                     <q type="block">
@@ -11326,6 +11326,94 @@
         "id": "http://viaf.org/viaf/2437148997678359870009",
         "type": "crm:E21_Person",
         "label": "Radzikowska, Milena"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/v82FmSEBwW2">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/v82FmSEBwW2",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T17:57:08.387Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/G4twzmIhA80",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/G4twzmIhA80/selector/textPosition/ji8rZzGQVBH",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 26722,
+                "end": 26738,
+                "refinedBy": {
+                    "id": "/target/G4twzmIhA80/selector/textQuote/KUy6ZWS37Vm",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Jessica Schagerl",
+                    "prefix": " Can these contributors trust faculty members to recognize their hard work, to involve them as co-authors—in short, to give them, as",
+                    "suffix": "puts it, a place at the table? Can vulnerable participants collaborate fully without exploitation? Can they place their trust in fellow students and other contract faculty? Interestingly, Schagerl opens her article on mentoring in Retooling the Humanities: The Culture of Research in Canadian Universities with a quote from Ms"
+                }
+            },
+            {
+                "id": "/target/G4twzmIhA80/selector/css/MI2iQnz2vwo",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/v82FmSEBwW2]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/231694901",
+        "type": "crm:E21_Person",
+        "label": "Schagerl, Jessica, 1975-"
     },
     "P2_has_type": [
         "oa:identifying"
