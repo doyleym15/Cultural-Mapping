@@ -415,7 +415,7 @@
                 <byline>Foundational Concepts of an <abbr>EMiC UA</abbr> Project Charter</byline>
                 <docAuthor><persName key="Hjartarson, Paul Ivar" ref="http://viaf.org/viaf/39401783" ana="webannotation:http://temp.lincsproject.ca/vfLcXH43T1v" type="real" cert="high">Paul Hjartarson</persName>, <persName key="Quamen, Harvey" ref="http://viaf.org/viaf/235167803166517771996" ana="webannotation:http://temp.lincsproject.ca/KNmghC5lYjd" type="real" cert="medium">Harvey Quamen</persName>, <persName key="Hasenbank, Andrea" ref="https://orcid.org/0000-0002-2897-462X" ana="webannotation:http://temp.lincsproject.ca/758dXEzZAXD" type="real">Andrea Hasenbank</persName>, <persName key="Lent, Vanessa, 1979-" ref="http://viaf.org/viaf/141147423127944882061" ana="webannotation:http://temp.lincsproject.ca/hg3p8CioJXp" type="real" cert="medium">Vanessa Lent</persName>, &amp; <abbr>EMiC UA</abbr>*</docAuthor>
                 <q type="block">
-                    <ref target="#education">In the humanities, Ms. <persName key="Toth, Emily." ref="http://viaf.org/viaf/27133714" ana="webannotation:http://temp.lincsproject.ca/Rb4n1kezdka">Mentor</persName> regrets to say, things are murky from the start. As underlings in the academic hierarchy, graduate students are supposed to be humbly grateful for all the training they can imbibe. Sometimes they’re paid, but often they receive only an inside-the-book acknowledgment.…<ref target="#collaboration">Generous mentors can create once-in-a-lifetime opportunities. Stephen Ambrose’s students, for instance, spent summers retracing <ref target="#history">the steps of <persName key="Lewis, Meriwether, 1774-1809." ref="http://viaf.org/viaf/64071776" ana="webannotation:http://temp.lincsproject.ca/ADcTHQRFNoM" type="real" cert="high">Lewis</persName> and <persName key="Clark, William, 1770-1838." ref="http://viaf.org/viaf/24667398" ana="webannotation:http://temp.lincsproject.ca/hPoocaEIuCK" type="real" cert="high">Clark</persName> with their professor—sharing discoveries over campfires first, and later in books and articles.</ref> Theirs was a genuine community of scholars.</ref>
+                    <ref target="#education">In the humanities, Ms. <persName key="Toth, Emily." ref="http://viaf.org/viaf/27133714" ana="webannotation:http://temp.lincsproject.ca/Rb4n1kezdka">Mentor</persName> regrets to say, things are murky from the start. As underlings in the academic hierarchy, graduate students are supposed to be humbly grateful for all the training they can imbibe. Sometimes they’re paid, but often they receive only an inside-the-book acknowledgment.…<ref target="#collaboration">Generous mentors can create once-in-a-lifetime opportunities. <persName key="Ambrose, Stephen E., 1936-2002." ref="http://viaf.org/viaf/109151847" ana="webannotation:http://temp.lincsproject.ca/AAnJf9nhRzJ">Stephen Ambrose’s</persName> students, for instance, spent summers retracing <ref target="#history">the steps of <persName key="Lewis, Meriwether, 1774-1809." ref="http://viaf.org/viaf/64071776" ana="webannotation:http://temp.lincsproject.ca/ADcTHQRFNoM" type="real" cert="high">Lewis</persName> and <persName key="Clark, William, 1770-1838." ref="http://viaf.org/viaf/24667398" ana="webannotation:http://temp.lincsproject.ca/hPoocaEIuCK" type="real" cert="high">Clark</persName> with their professor—sharing discoveries over campfires first, and later in books and articles.</ref> Theirs was a genuine community of scholars.</ref>
                     </ref>
                     <lb/> —<bibl>Ms. Mentor [<persName key="Toth, Emily." ref="http://viaf.org/viaf/27133714" ana="webannotation:http://temp.lincsproject.ca/Tt3H6VkMrhm" type="real" cert="high">Emily Toth</persName>], <title level="a">Who Owns Your Mind?</title>
                         <title level="j">Chronicle of Higher Education</title>
@@ -8842,8 +8842,99 @@
 }]]>
 				
 </rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/AAnJf9nhRzJ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/AAnJf9nhRzJ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T15:40:14.831Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/A3l0Qjot7ia",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/A3l0Qjot7ia/selector/textPosition/HvWQOVTmOwz",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 691,
+                "end": 708,
+                "refinedBy": {
+                    "id": "/target/A3l0Qjot7ia/selector/textQuote/W8Pomwy93hI",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Stephen Ambrose’s",
+                    "prefix": "",
+                    "suffix": "students, for instance, spent summers retracing the steps of Lewis and Clark with their professor—sharing discoveries over campfires first, and later in books and articles"
+                }
+            },
+            {
+                "id": "/target/A3l0Qjot7ia/selector/css/oPE5tZaXjJH",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/AAnJf9nhRzJ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/109151847",
+        "type": "crm:E21_Person",
+        "label": "Ambrose, Stephen E., 1936-2002.",
+        "description": "Ambrose, Stephen E."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
 			
 </rdf:RDF>
+		
+
 		
 
 		
@@ -8852,7 +8943,9 @@
 </xenoData>
 	
 	
+	
 	</standOff>
+
 
 
 </TEI>
