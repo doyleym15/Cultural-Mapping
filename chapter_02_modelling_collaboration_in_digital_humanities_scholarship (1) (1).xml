@@ -781,7 +781,7 @@
                             <ref target="#collaboration">These concerns with collaboration, interdisciplinary dialogue, and communication are not, of course, unique to the digital humanities. <persName key="Hutcheon, Linda, 1947-...." ref="http://viaf.org/viaf/101807260" ana="webannotation:http://temp.lincsproject.ca/Mv5cOAK1OSC">Linda Hutcheon</persName> and <persName key="Hutcheon, Michael, 1945-...." ref="http://viaf.org/viaf/262481632" ana="webannotation:http://temp.lincsproject.ca/D9itYnx0Soq">Michael Hutcheon</persName>’s article <title level="a">A Convenience of Marriage: Collaboration and Interdisciplinarity,</title> for example, documents the experience of working collaboratively as married colleagues across disparate fields. When their research necessitated a further reach of knowledge and experience, they extended this collaboration to a group of four graduate students. Their article highlights the challenges and benefits of such interdisciplinary work and addresses many of the same issues of the collaborative collective within the context of a non-digital project. <ref target="#informal_response">Since the completion of the research and subsequent publication of their findings, the graduate students reported that <q>the professional skills learned in this collective process of researching, writing, and adapting have stood them in good stead in their subsequent (and differing) careers</q>
                                     <note place="inline">
                                         <bibl><orgName key="Hutcheon, Linda, 1947-...." ref="http://viaf.org/viaf/101807260" ana="webannotation:http://temp.lincsproject.ca/kqq7JZ6ILtW">Hutcheon</orgName> and <orgName key="Hutcheon, Michael, 1945-...." ref="http://viaf.org/viaf/262481632" ana="webannotation:http://temp.lincsproject.ca/oJbE26hn3Jc">Hutcheon</orgName> 1371</bibl>
-                                    </note>.</ref> Further, <orgName key="Hutcheon, Linda, 1947-...." ref="http://viaf.org/viaf/101807260" ana="webannotation:http://temp.lincsproject.ca/81wh53GjhnW">Hutcheon</orgName> and Hutcheon assert that, although the collaborative process was at times slower than expected, the overall results for those involved were invaluable: <q>everyone was forced to think differently, to listen more carefully and more critically, to look for new ways to integrate insights</q>
+                                    </note>.</ref> Further, <orgName key="Hutcheon, Linda, 1947-...." ref="http://viaf.org/viaf/101807260" ana="webannotation:http://temp.lincsproject.ca/81wh53GjhnW">Hutcheon</orgName> and <orgName key="Hutcheon, Michael, 1945-...." ref="http://viaf.org/viaf/262481632" ana="webannotation:http://temp.lincsproject.ca/brwOSXjTmvL">Hutcheon</orgName> assert that, although the collaborative process was at times slower than expected, the overall results for those involved were invaluable: <q>everyone was forced to think differently, to listen more carefully and more critically, to look for new ways to integrate insights</q>
                                 <note place="inline">
                                     <bibl>1371</bibl>
                                 </note>. The collaborative process created an environment of <q>collective respect for personal and disciplinary differences and evolved a kind of <q>rhetoric of dissensus</q> that permitted, indeed demanded, continued discussion</q>
@@ -10971,6 +10971,95 @@
         "type": "crm:E21_Person",
         "label": "Hutcheon, Linda, 1947-....",
         "description": "Hutcheon, Linda"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/brwOSXjTmvL">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/brwOSXjTmvL",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T17:09:49.547Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/sc2OYqmhNip",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/sc2OYqmhNip/selector/textPosition/TziJrkvxwrV",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 50964,
+                "end": 50972,
+                "refinedBy": {
+                    "id": "/target/sc2OYqmhNip/selector/textQuote/AlN59bMuAdY",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Hutcheon",
+                    "prefix": " Further, Hutcheon and",
+                    "suffix": "assert that, although the collaborative process was at times slower than expected, the overall results for those involved were invaluable: everyone was forced to think differently, to listen more carefully and more critically, to look for new ways to integrate insights\n                                \n                                    1371\n                                "
+                }
+            },
+            {
+                "id": "/target/sc2OYqmhNip/selector/css/Y4XfrcIL6oA",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/brwOSXjTmvL]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/262481632",
+        "type": "crm:E21_Person",
+        "label": "Hutcheon, Michael, 1945-....",
+        "description": "Hutcheon, Michael"
     },
     "P2_has_type": [
         "oa:identifying"
