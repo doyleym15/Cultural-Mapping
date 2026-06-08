@@ -618,7 +618,7 @@
                                     <ref target="#writing_climate">At present, an emerging scholar who is contemplating interdisciplinary and collaborative work—attractive to granting organizations—needs to weigh the possibility that such work will not be valued by <q>department hiring committees and…promotion and tenure committees</q>
                                         <note place="inline">
                                             <bibl><persName key="Schmidt, Regine." ref="http://viaf.org/viaf/79286487" ana="webannotation:http://temp.lincsproject.ca/BXUMP3pUCmy">Schagerl</persName> 107</bibl>
-                                        </note>. As a possible solution to this dilemma, Schagerl suggests that humanities <q>research culture</q> take <q>the everyday practice of mentoring</q> as <q>its central retooling strategy</q>
+                                        </note>. As a possible solution to this dilemma, <persName key="Schagerl, Jessica, 1975-" ref="http://viaf.org/viaf/231694901" ana="webannotation:http://temp.lincsproject.ca/i317s9Fu01e">Schagerl</persName> suggests that humanities <q>research culture</q> take <q>the everyday practice of mentoring</q> as <q>its central retooling strategy</q>
                                         <note place="inline">
                                             <bibl>110</bibl>
                                         </note>. <persName key="Schagerl, Jessica, 1975-" ref="http://viaf.org/viaf/231694901" ana="webannotation:http://temp.lincsproject.ca/HyaaTHBdFvd">Schagerl</persName>’s vision of mentoring moves beyond a traditional one-on-one relationship between senior and junior colleagues to a model composed of intergenerational, interdisciplinary, and collaborative networks. She dismantles the stereotype of the isolated humanities scholar and instead reminds us that each emerging scholar already has a <q>network of professional relationships, some of which may indeed mimic sanctioned power structures but others that are informal, collaborative, and participatory</q>
@@ -11679,6 +11679,94 @@
         "type": "crm:E21_Person",
         "label": "Schmidt, Regine.",
         "description": "Schmidt, Regine, 1950-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/i317s9Fu01e">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/i317s9Fu01e",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T17:59:12.372Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/1IHSYGyZ1f2",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/1IHSYGyZ1f2/selector/textPosition/GWWjt1BQZ3q",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 28847,
+                "end": 28855,
+                "refinedBy": {
+                    "id": "/target/1IHSYGyZ1f2/selector/textQuote/0NSA6KxNm5Y",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Schagerl",
+                    "prefix": " As a possible solution to this dilemma,",
+                    "suffix": "suggests that humanities research culture take the everyday practice of mentoring as its central retooling strategy\n                                        \n                                            110\n                                        "
+                }
+            },
+            {
+                "id": "/target/1IHSYGyZ1f2/selector/css/IaqdhQT8aLq",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/i317s9Fu01e]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/231694901",
+        "type": "crm:E21_Person",
+        "label": "Schagerl, Jessica, 1975-"
     },
     "P2_has_type": [
         "oa:identifying"
