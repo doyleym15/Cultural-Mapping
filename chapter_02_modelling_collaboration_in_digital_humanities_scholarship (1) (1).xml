@@ -464,7 +464,7 @@
                     <p xml:id="p1078">
                         <ref target="#technology">This conditional statement is key: serious engagement at the interface/divide of digital humanities is as difficult as it is important. Why? <ref target="#intertextuality">Because the digital humanities discipline is literally—if not for the work of <persName key="Pratt, Mary Louise, 1948-" ref="http://viaf.org/viaf/24648210" ana="webannotation:http://temp.lincsproject.ca/aG8pGGSkurz">Mary Louise Pratt</persName>—what one might term a <q>contact zone,</q> a many layered, conflicted, and overdetermined <q>pressure point</q> between the humanities and the sciences. <persName key="Pratt, Mary Louise, 1948-" ref="http://viaf.org/viaf/24648210" ana="webannotation:http://temp.lincsproject.ca/OswQzkTpQ7G">Pratt</persName>’s term, developed in an analysis of colonial relations, is admittedly out of place here; what is more, it has been redeployed in so many different contexts, and used so frequently, that it has lost both specificity and analytical purchase.<note xml:id="n43" place="end"><persName key="Pratt, Mary Louise, 1948-" ref="http://viaf.org/viaf/24648210" ana="webannotation:http://temp.lincsproject.ca/8tBn5jS4P4B">Mary Louise Pratt’s</persName> concept of contact zones gained currency less through her book <title level="m">Imperial Eyes: Travel Writing and Transculturation</title> than through her essay <title level="a">Arts of the Contact Zone,</title> published in <title level="j">Profession</title>
                                     <note place="inline">
-                                        <bibl>New York: <abbr>MLA</abbr>
+                                        <bibl>New York: <abbr><orgName key="Modern language association of America" ref="http://viaf.org/viaf/142586770" ana="webannotation:http://temp.lincsproject.ca/0z2TwQslL7y">MLA</orgName></abbr>
                                         </bibl>
                                     </note> in advance of the book. The article focuses on writing and literacy.</note> In <title level="m">Imperial Eyes: Travel Writing and Transculturation</title>
                                 <note place="inline">
@@ -8931,6 +8931,95 @@
     "P2_has_type": [
         "oa:identifying",
         "edit:certaintyHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/0z2TwQslL7y">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/0z2TwQslL7y",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T15:52:59.611Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/cVX47c2vl9C",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/cVX47c2vl9C/selector/textPosition/3NVmPnWJH0M",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6849,
+                "end": 6852,
+                "refinedBy": {
+                    "id": "/target/cVX47c2vl9C/selector/textQuote/ceAwIhIFuhP",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "MLA",
+                    "prefix": "Mary Louise Pratt’s concept of contact zones gained currency less through her book Imperial Eyes: Travel Writing and Transculturation than through her essay Arts of the Contact Zone, published in Profession\n                                    \n                                        New York:",
+                    "suffix": "                                        \n                                     in advance of the book"
+                }
+            },
+            {
+                "id": "/target/cVX47c2vl9C/selector/css/8AEc1IS41du",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/0z2TwQslL7y]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/142586770",
+        "type": "crm:E74_Group",
+        "label": "Modern language association of America",
+        "description": "Modern Language Association principal professional association in the United States for scholars of language and literature"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
