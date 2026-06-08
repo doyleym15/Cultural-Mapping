@@ -747,7 +747,7 @@
                     <p xml:id="p1107">
                         <ref target="#collaboration">
                             <ref target="#theory">
-                                <ref target="#writing_climate">If dialogue and documentation are essential to collaboration, then communication needs to begin <q>at home,</q> among members of the collaboratory itself. Our subgroup is recommending that <abbr>EMiC UA</abbr> keep its administrative structure as <q>horizontal,</q> that is, non-hierarchical, and as simple as possible: <q>horizontal</q> to facilitate dialogue among group members and simple to minimize bureaucracy and to give <abbr>EMiC UA</abbr> the flexibility it needs to respond quickly to changing conditions and opportunities. Communication at home means access to working documents and as much transparency in decision making as possible. We need to communicate not only with other members of the collaboratory but with <abbr>EMiC UA</abbr> partners. The <abbr>EMiC</abbr> knowledge network is more parent than partner, so if communication begins at home, then <abbr>EMiC</abbr> itself is part of that home, as are the literary executors of the Wilfred and Sheila Watson estates. <abbr>EMiC UA</abbr> partners include <abbr><orgName key="Canadian Writing Research Collaboratory" ref="http://id.lincsproject.ca/Ph49VISFM8m" ana="webannotation:http://temp.lincsproject.ca/FXmX6IuEdIE">CWRC</orgName></abbr>, the University of Alberta Libraries, and <orgName key="John M. Kelly Library" ref="http://viaf.org/viaf/134813832" ana="webannotation:http://temp.lincsproject.ca/09SBAfwQ1LS">the John M. Kelly Library</orgName> at St. Michael’s College in <placeName key="Toronto" ref="https://sws.geonames.org/8133394/" ana="webannotation:http://temp.lincsproject.ca/0qsw8wzg5ml">Toronto</placeName>. Our commitment to disseminate our work as widely as possible is a commitment to interdisciplinarity, that is, to present our work at gatherings of all disciplines represented on the project, not just to members of our own disciplinary groups.</ref>
+                                <ref target="#writing_climate">If dialogue and documentation are essential to collaboration, then communication needs to begin <q>at home,</q> among members of the collaboratory itself. Our subgroup is recommending that <abbr>EMiC UA</abbr> keep its administrative structure as <q>horizontal,</q> that is, non-hierarchical, and as simple as possible: <q>horizontal</q> to facilitate dialogue among group members and simple to minimize bureaucracy and to give <abbr>EMiC UA</abbr> the flexibility it needs to respond quickly to changing conditions and opportunities. Communication at home means access to working documents and as much transparency in decision making as possible. We need to communicate not only with other members of the collaboratory but with <abbr>EMiC UA</abbr> partners. The <abbr>EMiC</abbr> knowledge network is more parent than partner, so if communication begins at home, then <abbr>EMiC</abbr> itself is part of that home, as are the literary executors of the Wilfred and Sheila Watson estates. <abbr>EMiC UA</abbr> partners include <abbr><orgName key="Canadian Writing Research Collaboratory" ref="http://id.lincsproject.ca/Ph49VISFM8m" ana="webannotation:http://temp.lincsproject.ca/FXmX6IuEdIE">CWRC</orgName></abbr>, the University of Alberta Libraries, and <orgName key="John M. Kelly Library" ref="http://viaf.org/viaf/134813832" ana="webannotation:http://temp.lincsproject.ca/09SBAfwQ1LS">the John M. Kelly Library</orgName> at <orgName key="St. Michael's College (Toronto, Ont.)" ref="http://viaf.org/viaf/135876741" ana="webannotation:http://temp.lincsproject.ca/3hcWCKyOSs5">St. Michael’s College</orgName> in <placeName key="Toronto" ref="https://sws.geonames.org/8133394/" ana="webannotation:http://temp.lincsproject.ca/0qsw8wzg5ml">Toronto</placeName>. Our commitment to disseminate our work as widely as possible is a commitment to interdisciplinarity, that is, to present our work at gatherings of all disciplines represented on the project, not just to members of our own disciplinary groups.</ref>
                             </ref>
                         </ref>
                     </p>
@@ -10880,6 +10880,95 @@
         "id": "http://viaf.org/viaf/134813832",
         "type": "crm:E74_Group",
         "label": "John M. Kelly Library"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/3hcWCKyOSs5">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/3hcWCKyOSs5",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T17:38:19.746Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/lZbUtBor3Br",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/lZbUtBor3Br/selector/textPosition/vpZFGI168Lu",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 46482,
+                "end": 46503,
+                "refinedBy": {
+                    "id": "/target/lZbUtBor3Br/selector/textQuote/K0saoAWC1nl",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "St. Michael’s College",
+                    "prefix": " Kelly Library at",
+                    "suffix": "in Toronto"
+                }
+            },
+            {
+                "id": "/target/lZbUtBor3Br/selector/css/D5BFAT4oVQn",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/3hcWCKyOSs5]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/135876741",
+        "type": "crm:E74_Group",
+        "label": "St. Michael's College (Toronto, Ont.)",
+        "description": "Saint Michael's College (Toronto)"
     },
     "P2_has_type": [
         "oa:identifying"
