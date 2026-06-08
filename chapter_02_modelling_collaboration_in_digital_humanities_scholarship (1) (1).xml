@@ -675,7 +675,7 @@
                         </ref>
                     </p>
                     <p xml:id="p1097">
-                        <ref target="#technology"><persName key="Martin, Robert C." ref="http://viaf.org/viaf/85276018" ana="webannotation:http://temp.lincsproject.ca/IudquKKnG5I">Robert C. Martin</persName>, author of <title level="m">Clean Code: A Handbook of Agile Software Craftsmanship</title>, takes the radically negative stance that documentation is bad. Code ought to be self-explanatory, he maintains. It should express its intent with direct and obvious simplicity. Martin’s militant position, although surprising and perhaps counterintuitive, holds a useful lesson for humanists, however:</ref>
+                        <ref target="#technology"><persName key="Martin, Robert C." ref="http://viaf.org/viaf/85276018" ana="webannotation:http://temp.lincsproject.ca/IudquKKnG5I">Robert C. Martin</persName>, author of <title level="m">Clean Code: A Handbook of Agile Software Craftsmanship</title>, takes the radically negative stance that documentation is bad. Code ought to be self-explanatory, he maintains. It should express its intent with direct and obvious simplicity. <persName key="Martin, Robert C." ref="http://viaf.org/viaf/85276018" ana="webannotation:http://temp.lincsproject.ca/r2hOZJrqvWR">Martin</persName>’s militant position, although surprising and perhaps counterintuitive, holds a useful lesson for humanists, however:</ref>
                     </p>
                     <q type="block">
                         <p xml:id="p1098">
@@ -12208,6 +12208,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/IudquKKnG5I]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/85276018",
+        "type": "crm:E21_Person",
+        "label": "Martin, Robert C.",
+        "description": "Martin, Robert C. 1952–"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/r2hOZJrqvWR">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/r2hOZJrqvWR",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T18:04:51.094Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/CsPNAhUxZsX",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/CsPNAhUxZsX/selector/textPosition/H7THcWa4BF6",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 36674,
+                "end": 36680,
+                "refinedBy": {
+                    "id": "/target/CsPNAhUxZsX/selector/textQuote/MZ3klpeiiex",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Martin",
+                    "prefix": "",
+                    "suffix": "s militant position, although surprising and perhaps counterintuitive, holds a useful lesson for humanists, however:\n                    \n                    \n                        \n                            Comments are not like Schindler’s List"
+                }
+            },
+            {
+                "id": "/target/CsPNAhUxZsX/selector/css/f7VfL2wbSxf",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/r2hOZJrqvWR]"
             }
         ]
     },
