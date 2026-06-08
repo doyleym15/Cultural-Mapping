@@ -747,7 +747,7 @@
                     <p xml:id="p1107">
                         <ref target="#collaboration">
                             <ref target="#theory">
-                                <ref target="#writing_climate">If dialogue and documentation are essential to collaboration, then communication needs to begin <q>at home,</q> among members of the collaboratory itself. Our subgroup is recommending that <abbr>EMiC UA</abbr> keep its administrative structure as <q>horizontal,</q> that is, non-hierarchical, and as simple as possible: <q>horizontal</q> to facilitate dialogue among group members and simple to minimize bureaucracy and to give <abbr>EMiC UA</abbr> the flexibility it needs to respond quickly to changing conditions and opportunities. Communication at home means access to working documents and as much transparency in decision making as possible. We need to communicate not only with other members of the collaboratory but with <abbr>EMiC UA</abbr> partners. The <abbr>EMiC</abbr> knowledge network is more parent than partner, so if communication begins at home, then <abbr>EMiC</abbr> itself is part of that home, as are the literary executors of the Wilfred and Sheila Watson estates. <abbr>EMiC UA</abbr> partners include <abbr><orgName key="Canadian Writing Research Collaboratory" ref="http://id.lincsproject.ca/Ph49VISFM8m" ana="webannotation:http://temp.lincsproject.ca/FXmX6IuEdIE">CWRC</orgName></abbr>, the University of Alberta Libraries, and <orgName key="John M. Kelly Library" ref="http://viaf.org/viaf/134813832" ana="webannotation:http://temp.lincsproject.ca/09SBAfwQ1LS">the John M. Kelly Library</orgName> at <orgName key="St. Michael's College (Toronto, Ont.)" ref="http://viaf.org/viaf/135876741" ana="webannotation:http://temp.lincsproject.ca/3hcWCKyOSs5">St. Michael’s College</orgName> in <placeName key="Toronto" ref="https://sws.geonames.org/8133394/" ana="webannotation:http://temp.lincsproject.ca/0qsw8wzg5ml">Toronto</placeName>. Our commitment to disseminate our work as widely as possible is a commitment to interdisciplinarity, that is, to present our work at gatherings of all disciplines represented on the project, not just to members of our own disciplinary groups.</ref>
+                                <ref target="#writing_climate">If dialogue and documentation are essential to collaboration, then communication needs to begin <q>at home,</q> among members of the collaboratory itself. Our subgroup is recommending that <abbr>EMiC UA</abbr> keep its administrative structure as <q>horizontal,</q> that is, non-hierarchical, and as simple as possible: <q>horizontal</q> to facilitate dialogue among group members and simple to minimize bureaucracy and to give <abbr>EMiC UA</abbr> the flexibility it needs to respond quickly to changing conditions and opportunities. Communication at home means access to working documents and as much transparency in decision making as possible. We need to communicate not only with other members of the collaboratory but with <abbr>EMiC UA</abbr> partners. The <abbr>EMiC</abbr> knowledge network is more parent than partner, so if communication begins at home, then <abbr>EMiC</abbr> itself is part of that home, as are the literary executors of the Wilfred and Sheila Watson estates. <abbr>EMiC UA</abbr> partners include <abbr><orgName key="Canadian Writing Research Collaboratory" ref="http://id.lincsproject.ca/Ph49VISFM8m" ana="webannotation:http://temp.lincsproject.ca/FXmX6IuEdIE">CWRC</orgName></abbr>, <orgName key="University of Alberta. Library" ref="http://viaf.org/viaf/125238209" ana="webannotation:http://temp.lincsproject.ca/YkVCEwRlF4C">the University of Alberta Libraries</orgName>, and <orgName key="John M. Kelly Library" ref="http://viaf.org/viaf/134813832" ana="webannotation:http://temp.lincsproject.ca/09SBAfwQ1LS">the John M. Kelly Library</orgName> at <orgName key="St. Michael's College (Toronto, Ont.)" ref="http://viaf.org/viaf/135876741" ana="webannotation:http://temp.lincsproject.ca/3hcWCKyOSs5">St. Michael’s College</orgName> in <placeName key="Toronto" ref="https://sws.geonames.org/8133394/" ana="webannotation:http://temp.lincsproject.ca/0qsw8wzg5ml">Toronto</placeName>. Our commitment to disseminate our work as widely as possible is a commitment to interdisciplinarity, that is, to present our work at gatherings of all disciplines represented on the project, not just to members of our own disciplinary groups.</ref>
                             </ref>
                         </ref>
                     </p>
@@ -10792,6 +10792,95 @@
         "id": "http://viaf.org/viaf/2437148997678359870009",
         "type": "crm:E21_Person",
         "label": "Radzikowska, Milena"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/YkVCEwRlF4C">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/YkVCEwRlF4C",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T17:42:10.610Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/oc8ajra6ZGx",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/oc8ajra6ZGx/selector/textPosition/7wtTiz6GXPS",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 46412,
+                "end": 46447,
+                "refinedBy": {
+                    "id": "/target/oc8ajra6ZGx/selector/textQuote/XQLqhGUam7y",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the University of Alberta Libraries",
+                    "prefix": " EMiC UA partners include CWRC,",
+                    "suffix": " and the John M"
+                }
+            },
+            {
+                "id": "/target/oc8ajra6ZGx/selector/css/xwcjt9RniYv",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/YkVCEwRlF4C]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/125238209",
+        "type": "crm:E74_Group",
+        "label": "University of Alberta. Library",
+        "description": "University of Alberta Library (Edmonton)"
     },
     "P2_has_type": [
         "oa:identifying"
