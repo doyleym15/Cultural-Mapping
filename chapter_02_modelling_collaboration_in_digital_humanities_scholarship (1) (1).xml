@@ -811,7 +811,7 @@
                     <p xml:id="p1112" rend="authors-note">
                         <ref target="#collaboration">
                             <ref target="#eduction">
-                                <ref target="#theme_or_topic">The Editing Modernism in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/rMTbHztkIiu">Canada</placeName> project seeks to place graduate education at the centre of its work. In collaboration with <orgName key="University of Victoria" ref="http://viaf.org/viaf/144191869" ana="webannotation:http://temp.lincsproject.ca/xhAH66KEs1T">the University of Victoria’s</orgName> Digital Humanities Summer Institute, it provides training in the digital humanities; through its partnership with <orgName key="Trent University." ref="http://viaf.org/viaf/137723725" ana="webannotation:http://temp.lincsproject.ca/o4kkzlEBUUc">Trent University’s</orgName> Public Texts program, it offers courses in the theory and practice of editing; and through <ref target="#economics">funding provided by a <abbr>SSHRC</abbr> Strategic Knowledge Cluster grant, it offers funding, including postdoctoral fellowships, to students who choose to edit Canadian texts.</ref>
+                                <ref target="#theme_or_topic">The Editing Modernism in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/rMTbHztkIiu">Canada</placeName> project seeks to place graduate education at the centre of its work. In collaboration with <orgName key="University of Victoria" ref="http://viaf.org/viaf/144191869" ana="webannotation:http://temp.lincsproject.ca/xhAH66KEs1T">the University of Victoria’s</orgName> Digital Humanities Summer Institute, it provides training in the digital humanities; through its partnership with <orgName key="Trent University." ref="http://viaf.org/viaf/137723725" ana="webannotation:http://temp.lincsproject.ca/o4kkzlEBUUc">Trent University’s</orgName> <orgName key="Public Texts, Trent University" ref="http://id.lincsproject.ca/MXoTcfXMbei" ana="webannotation:http://temp.lincsproject.ca/CwWbJLpz4VI">Public Texts</orgName> program, it offers courses in the theory and practice of editing; and through <ref target="#economics">funding provided by a <abbr>SSHRC</abbr> Strategic Knowledge Cluster grant, it offers funding, including postdoctoral fellowships, to students who choose to edit Canadian texts.</ref>
                                 </ref> Early in its work, the <abbr>EMiC UA</abbr> research group resolved to build on <abbr>EMiC</abbr>’s foundational commitment to the training and mentorship of graduate students and other emerging scholars by developing a collaborative environment in which those scholars could function as full members of a research team and receive credit appropriate to their work on projects.</ref> To that end, <abbr>EMiC UA</abbr> placed a high priority on developing a project charter; we soon realized, however, that the task would prove as difficult and demanding as it was crucial to our work. This document is a work in progress. Because our work is in its early stages, it is grounded more in principles than in policies and practices. As our work develops, these principles will give rise to policies and practices; moreover, all principles, policies, and practices will be more fully tested and revised in our day-to-day operations. This ongoing revision we understand as the heart of an iterative project charter. The present document is part—a small part, at that—of a larger whole. The focus here is on <q>trust</q> because it is essential to equitable collaboration. We have also worked on a <q>play nice</q> cluster, that is, principles we think should govern our collective commitment to tasks, deadlines, and conflict resolution.</ref>
                     </p>
                     <table>
@@ -10081,6 +10081,95 @@
         "id": "http://viaf.org/viaf/2437148997678359870009",
         "type": "crm:E21_Person",
         "label": "Radzikowska, Milena"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/CwWbJLpz4VI">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/CwWbJLpz4VI",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T16:54:53.452Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/7fnT1ITAFw0",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/7fnT1ITAFw0/selector/textPosition/ZlVnJz2OfWJ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 55020,
+                "end": 55032,
+                "refinedBy": {
+                    "id": "/target/7fnT1ITAFw0/selector/textQuote/DKoUOgeCOmj",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Public Texts",
+                    "prefix": " In collaboration with the University of Victoria’s Digital Humanities Summer Institute, it provides training in the digital humanities; through its partnership with Trent University’s",
+                    "suffix": "program, it offers courses in the theory and practice of editing; and through funding provided by a SSHRC Strategic Knowledge Cluster grant, it offers funding, including postdoctoral fellowships, to students who choose to edit Canadian texts"
+                }
+            },
+            {
+                "id": "/target/7fnT1ITAFw0/selector/css/FLtw9NJ8wqY",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/CwWbJLpz4VI]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://id.lincsproject.ca/MXoTcfXMbei",
+        "type": "crm:E74_Group",
+        "label": "Public Texts, Trent University",
+        "description": ""
     },
     "P2_has_type": [
         "oa:identifying"
