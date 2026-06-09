@@ -526,7 +526,7 @@
                     </p>
                     <p xml:id="p1085">
                         <ref target="#technology">
-                            <ref target="#canon_formation">Extreme Programming has been designed to help manage change. We might mistakenly believe that computer software is wholly mathematical, or inflexible when faced with the inexorable laws of logic, or that somehow it magically achieves stasis and stability on its own. None of these views is accurate. The stereotypical view of the retrograde humanities, however, is also fading. Humanists are no longer as technophobic as they once were; literary scholars no longer proclaim Luddism as a virtue, even when we lack technical knowledge, and less and less do we exhibit the ambivalent, oxymoronic personality that <persName key="Davies, Tony, 1940-" ref="http://viaf.org/viaf/76412290" ana="webannotation:http://temp.lincsproject.ca/x71b3tY4E8f" type="real">Tony Davies</persName> once referred to as being a <q>pioneer of the old</q>
+                            <ref target="#canon_formation">Extreme Programming has been designed to help manage change. We might mistakenly believe that computer software is wholly mathematical, or inflexible when faced with the inexorable laws of logic, or that somehow it magically achieves stasis and stability on its own. None of these views is accurate. The stereotypical view of the retrograde humanities, however, is also fading. Humanists are no longer as technophobic as they once were; literary scholars no longer proclaim Luddism as a virtue, even when we lack technical knowledge, and less and less do we exhibit the ambivalent, oxymoronic personality that <persName key="Davies, Tony, 1940-" ref="http://viaf.org/viaf/76412290" ana="webannotation:http://temp.lincsproject.ca/x71b3tY4E8f" type="real" cert="high">Tony Davies</persName> once referred to as being a <q>pioneer of the old</q>
                                 <note place="inline">
                                     <bibl>74</bibl>
                                 </note>. <q>Everything in software changes,</q> <persName key="Beck, Kent." ref="http://viaf.org/viaf/39529441" ana="webannotation:http://temp.lincsproject.ca/IkOsD4v7Jm5">Beck</persName> reminds us, and his caveat resonates for the humanities too: <q>The requirements change. The design changes. The business changes. The technology changes. The team changes. The team members change. The problem isn’t change, because change is going to happen; the problem, rather, is our inability to cope with change</q>
@@ -10532,7 +10532,8 @@
         ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh"
     ]
 }]]>
 				
