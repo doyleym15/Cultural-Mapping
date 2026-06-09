@@ -566,7 +566,7 @@
                                         <bibl><persName key="chromatic" ref="http://viaf.org/viaf/266946028" ana="webannotation:http://temp.lincsproject.ca/h66rH4nOZlU">Chromatic</persName>, section 6.3</bibl>
                                     </note>. One way to achieve collective ownership is through the practice of pair programming—the coding equivalent of collaborative writing. Two team members sit down at the same computer, sharing the job of writing the day’s computer code. They pass the keyboard back and forth between themselves, taking turns writing and thinking and designing. The concept of the team supplants that of the individual; the group trumps the solo author. If one team member believes that a particular programming strategy is neither correct nor desirable, then the pair must find a mutually satisfying solution. <q>Collective code ownership requires teamwork</q> is the mantra. <q>Pair programming makes two people responsible for each line of code in the system, increasing the sense of team ownership</q>
                                     <note place="inline">
-                                        <bibl>Chromatic, section 6.3</bibl>
+                                        <bibl><persName key="chromatic" ref="http://viaf.org/viaf/266946028" ana="webannotation:http://temp.lincsproject.ca/5AzWGYpBrsV">Chromatic</persName>, section 6.3</bibl>
                                     </note>. If we import <abbr>XP</abbr> principles directly and literally into the humanities, we might suggest that (at least) two people should be responsible for each sentence, image, slideshow, and multimedia file. <ref target="#writing_climate">Collective ownership, carefully conceived and mutually understood, fosters the emergence of quality. <ref target="#politics">Individual ownership, on the other hand, often devolves into a political struggle for control.</ref> The problem with individual ownership, <abbr>XP</abbr> says, is that <q>to make a change in one piece, you must ask permission of its owner…[but] she may be on vacation, get hit by a bus, or be so swamped with other work that she has no time to make your changes. Collective code ownership gives you the power to make necessary changes yourself, wherever they are needed</q>
                                         <note place="inline">
                                             <bibl>Chromatic, section 6.3</bibl>
@@ -14799,6 +14799,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/h66rH4nOZlU]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/266946028",
+        "type": "crm:E21_Person",
+        "label": "chromatic",
+        "description": "Chromatic, 19..-...., informaticien"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/5AzWGYpBrsV">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/5AzWGYpBrsV",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-09T17:15:16.068Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/XDIAbQs1fSf",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/XDIAbQs1fSf/selector/textPosition/Hm5dZlzAQm3",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 23280,
+                "end": 23289,
+                "refinedBy": {
+                    "id": "/target/XDIAbQs1fSf/selector/textQuote/wVEOxd0rckl",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Chromatic",
+                    "prefix": " Pair programming makes two people responsible for each line of code in the system, increasing the sense of team ownership\n                                    \n                                       ",
+                    "suffix": " section 6"
+                }
+            },
+            {
+                "id": "/target/XDIAbQs1fSf/selector/css/y3YFmiI0LwK",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/5AzWGYpBrsV]"
             }
         ]
     },
