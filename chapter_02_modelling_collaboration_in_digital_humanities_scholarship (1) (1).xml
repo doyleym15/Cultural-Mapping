@@ -526,7 +526,7 @@
                     </p>
                     <p xml:id="p1085">
                         <ref target="#technology">
-                            <ref target="#canon_formation">Extreme Programming has been designed to help manage change. We might mistakenly believe that computer software is wholly mathematical, or inflexible when faced with the inexorable laws of logic, or that somehow it magically achieves stasis and stability on its own. None of these views is accurate. The stereotypical view of the retrograde humanities, however, is also fading. Humanists are no longer as technophobic as they once were; literary scholars no longer proclaim Luddism as a virtue, even when we lack technical knowledge, and less and less do we exhibit the ambivalent, oxymoronic personality that Tony Davies once referred to as being a <q>pioneer of the old</q>
+                            <ref target="#canon_formation">Extreme Programming has been designed to help manage change. We might mistakenly believe that computer software is wholly mathematical, or inflexible when faced with the inexorable laws of logic, or that somehow it magically achieves stasis and stability on its own. None of these views is accurate. The stereotypical view of the retrograde humanities, however, is also fading. Humanists are no longer as technophobic as they once were; literary scholars no longer proclaim Luddism as a virtue, even when we lack technical knowledge, and less and less do we exhibit the ambivalent, oxymoronic personality that <persName key="Davies, Tony, 1940-" ref="http://viaf.org/viaf/76412290" ana="webannotation:http://temp.lincsproject.ca/x71b3tY4E8f">Tony Davies</persName> once referred to as being a <q>pioneer of the old</q>
                                 <note place="inline">
                                     <bibl>74</bibl>
                                 </note>. <q>Everything in software changes,</q> <persName key="Beck, Kent." ref="http://viaf.org/viaf/39529441" ana="webannotation:http://temp.lincsproject.ca/IkOsD4v7Jm5">Beck</persName> reminds us, and his caveat resonates for the humanities too: <q>The requirements change. The design changes. The business changes. The technology changes. The team changes. The team members change. The problem isn’t change, because change is going to happen; the problem, rather, is our inability to cope with change</q>
@@ -690,40 +690,40 @@
                     </q>
                     <p xml:id="p1100">
                         <ref target="#theory">
-                            <ref target="#technology">The problem with comments, says Martin, is that they go stale, cover up bad code, and shift us into a mode of describing when instead we should be fixing.</ref>
+                            <ref target="#technology">The problem with comments, says <persName key="Martin, Robert C." ref="http://viaf.org/viaf/85276018" ana="webannotation:http://temp.lincsproject.ca/seITVg50Jvf">Martin</persName>, is that they go stale, cover up bad code, and shift us into a mode of describing when instead we should be fixing.</ref>
                             <q>They lie,</q> he says flatly <note place="inline">
-                                <bibl>Martin 54</bibl>
+                                <bibl><persName key="Martin, Robert C." ref="http://viaf.org/viaf/85276018" ana="webannotation:http://temp.lincsproject.ca/vUzPGjr9woE">Martin</persName> 54</bibl>
                             </note>.</ref>
                     </p>
                     <p xml:id="p1101">
-                        <ref target="#theory">Even Martin concedes that comments are necessary at times, but his caveats about when and how to comment properly and usefully can illustrate the issues for humanists who are grappling with the problematics of project documentation for the very first time. Martin articulates the mismatch between author and audience that is all too familiar to humanists. He is wrestling with the polysemous nature of language (that is, code). And humanists might read in Martin’s screed a number of other interesting theoretical maneuvers: that documentation serves as the Derridean <q>dangerous supplement</q>
+                        <ref target="#theory">Even <persName key="Martin, Robert C." ref="http://viaf.org/viaf/85276018" ana="webannotation:http://temp.lincsproject.ca/gveY24W2TjJ">Martin</persName> concedes that comments are necessary at times, but his caveats about when and how to comment properly and usefully can illustrate the issues for humanists who are grappling with the problematics of project documentation for the very first time. <persName key="Martin, Robert C." ref="http://viaf.org/viaf/85276018" ana="webannotation:http://temp.lincsproject.ca/lP45H28as08">Martin</persName> articulates the mismatch between author and audience that is all too familiar to humanists. He is wrestling with the polysemous nature of language (that is, code). And humanists might read in <persName key="Martin, Robert C." ref="http://viaf.org/viaf/85276018" ana="webannotation:http://temp.lincsproject.ca/AM6rFYA3oui">Martin</persName>’s screed a number of other interesting theoretical maneuvers: that documentation serves as the Derridean <q>dangerous supplement</q>
                             <note place="inline">
                                 <bibl>Derrida 158</bibl>
                             </note> to language’s inadequacy, that it is the suturing of a cognitive rift, that it is a second attempt at ideological interpellation.</ref>
                     </p>
                     <p xml:id="p1102">
                         <ref target="#theory">
-                            <ref target="#technology">And so, contra Martin, in the cultural divide between the <hi rend="italic">D</hi> and the <hi rend="italic">H</hi> of digital humanities, there is room for precisely the kind of documentation that he has described. Documentation is not the problem: it is both a solution and an opportunity. Digital humanists, increasingly working at the level of code, might not actually have the requisite literacy that Martin assumes is present in his programming teams. <ref target="#writing_climate"><persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/dsAfyAXJvy2">Brown</persName>’s observation that <q>working at the interface of the digital-humanities divide</q> is productive <q>providing that the two aspects of the research seriously engage with one another</q>
+                            <ref target="#technology">And so, contra <persName key="Martin, Robert C." ref="http://viaf.org/viaf/85276018" ana="webannotation:http://temp.lincsproject.ca/xagxO4mOlHN">Martin</persName>, in the cultural divide between the <hi rend="italic">D</hi> and the <hi rend="italic">H</hi> of digital humanities, there is room for precisely the kind of documentation that he has described. Documentation is not the problem: it is both a solution and an opportunity. Digital humanists, increasingly working at the level of code, might not actually have the requisite literacy that <persName key="Martin, Robert C." ref="http://viaf.org/viaf/85276018" ana="webannotation:http://temp.lincsproject.ca/gKzuddmZh0E">Martin</persName> assumes is present in his programming teams. <ref target="#writing_climate"><persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/dsAfyAXJvy2">Brown</persName>’s observation that <q>working at the interface of the digital-humanities divide</q> is productive <q>providing that the two aspects of the research seriously engage with one another</q>
                                     <note place="inline">
                                         <bibl>218</bibl>
-                                    </note> means, for us, that humanists cannot sustain long-term <abbr>DH</abbr> projects if they refuse to engage—or even to learn anything at all about—topics like computer programming, markup languages, or interface design. Conversely, programmers cannot sustain <abbr>DH</abbr> projects in the long term without either taking the concerns of humanists seriously or understanding how and why humanities scholarship develops as it does. Altering practices on both sides of the divide might be the foundation that makes sustainable <abbr>DH</abbr> work possible.</ref> For example, Martin cites a few snippets of Java code and asks an intriguing question, but one that he sees as an either/or dichotomy</ref>
+                                    </note> means, for us, that humanists cannot sustain long-term <abbr>DH</abbr> projects if they refuse to engage—or even to learn anything at all about—topics like computer programming, markup languages, or interface design. Conversely, programmers cannot sustain <abbr>DH</abbr> projects in the long term without either taking the concerns of humanists seriously or understanding how and why humanities scholarship develops as it does. Altering practices on both sides of the divide might be the foundation that makes sustainable <abbr>DH</abbr> work possible.</ref> For example, <persName key="Martin, Robert C." ref="http://viaf.org/viaf/85276018" ana="webannotation:http://temp.lincsproject.ca/Rfv3zKVrXiK">Martin</persName> cites a few snippets of Java code and asks an intriguing question, but one that he sees as an either/or dichotomy</ref>
                         </ref>:</p>
                     <q type="block">Which would you rather see? This:<lb/>// Check to see if the employee is eligible for full benefits <lb/>if ( ( employee.flags &amp; HOURLY_FLAG ) &amp;&amp;<lb/>( employee.age &gt; 65 ) )<lb/>Or this?<lb/>if ( employee.isEligibleForFullBenefits() ) <note place="inline">
-                            <bibl>Martin 55</bibl>
+                            <bibl><persName key="Martin, Robert C." ref="http://viaf.org/viaf/85276018" ana="webannotation:http://temp.lincsproject.ca/AvpVzxtzWiN">Martin</persName> 55</bibl>
                         </note>
                     </q>
                     <p xml:id="p1103">
                         <ref target="#technology">
-                            <q>It takes only a few seconds of thought to explain most of your intent in code,</q> Martin says <note place="inline">
+                            <q>It takes only a few seconds of thought to explain most of your intent in code,</q> <persName key="Martin, Robert C." ref="http://viaf.org/viaf/85276018" ana="webannotation:http://temp.lincsproject.ca/aMzvWGozTKL">Martin</persName> says <note place="inline">
                                 <bibl>55</bibl>
-                            </note>. But humanists new to the <abbr>DH</abbr> world might easily benefit from both the English comment and the helpful clarity of an aptly named method. The best answer might be a combination of the two options Martin cites: both clear code and documentation.</ref>
+                            </note>. But humanists new to the <abbr>DH</abbr> world might easily benefit from both the English comment and the helpful clarity of an aptly named method. The best answer might be a combination of the two options <persName key="Martin, Robert C." ref="http://viaf.org/viaf/85276018" ana="webannotation:http://temp.lincsproject.ca/UwXG8oy5UcE">Martin</persName> cites: both clear code and documentation.</ref>
                     </p>
                     <p xml:id="p1104">
                         <ref target="#theory">
                             <ref target="#collaboration">
-                                <ref target="#technology">A set of <q>best practices</q> in <abbr>DH</abbr> documentation, then, might be a hybrid form of the <q>typical practices</q> from both sides of the digital humanities and project documentation itself, the discursive common ground. Documentation is an information interchange, not compensation for failure. Documentation is shared culture. As <abbr>DHers</abbr>, we need not only to promote code literacy on the part of our humanist colleagues but also to encourage an understanding of humanist scholarship on the part of programmers. If documentation, as Martin insists, marks the failure of intent to match expression, then shared practices about documentation and discussions about the values that they embody might be the best way not to mind—that is, to mend—the gap between the digital and the humanities. Martin’s caveats remind us about the various kinds of documentation that digital humanities projects need to generate and the different audiences for whom those documents are intended. Well-written internal documentation, for example, should assist new team members by providing the record of a project’s history and its evolution (<q>The team changes. The team members change,</q> reflects <note place="inline">
+                                <ref target="#technology">A set of <q>best practices</q> in <abbr>DH</abbr> documentation, then, might be a hybrid form of the <q>typical practices</q> from both sides of the digital humanities and project documentation itself, the discursive common ground. Documentation is an information interchange, not compensation for failure. Documentation is shared culture. As <abbr>DHers</abbr>, we need not only to promote code literacy on the part of our humanist colleagues but also to encourage an understanding of humanist scholarship on the part of programmers. If documentation, as <persName key="Martin, Robert C." ref="http://viaf.org/viaf/85276018" ana="webannotation:http://temp.lincsproject.ca/Nu2IwlcuVzL">Martin</persName> insists, marks the failure of intent to match expression, then shared practices about documentation and discussions about the values that they embody might be the best way not to mind—that is, to mend—the gap between the digital and the humanities. <persName key="Martin, Robert C." ref="http://viaf.org/viaf/85276018" ana="webannotation:http://temp.lincsproject.ca/0sEPnsHSb78">Martin</persName>’s caveats remind us about the various kinds of documentation that digital humanities projects need to generate and the different audiences for whom those documents are intended. Well-written internal documentation, for example, should assist new team members by providing the record of a project’s history and its evolution (<q>The team changes. The team members change,</q> reflects <note place="inline">
                                         <bibl><persName key="Beck, Kent." ref="http://viaf.org/viaf/39529441" ana="webannotation:http://temp.lincsproject.ca/9zhDv6j5ItA">Beck</persName> [11]</bibl>
-                                    </note>) Code comments included for reasons that are legal, clarifying, informative, or expressive of some kind of incomplete intent are wholly worthwhile, Martin maintains. Warnings against potential consequences and leaving <q>to do</q> notes for other programmers is useful, too.</ref>
+                                    </note>) Code comments included for reasons that are legal, clarifying, informative, or expressive of some kind of incomplete intent are wholly worthwhile, <persName key="Martin, Robert C." ref="http://viaf.org/viaf/85276018" ana="webannotation:http://temp.lincsproject.ca/IkmWYKSfg91">Martin</persName> maintains. Warnings against potential consequences and leaving <q>to do</q> notes for other programmers is useful, too.</ref>
                             </ref>
                         </ref>
                     </p>
@@ -1043,7 +1043,7 @@
                         <bibl>Gilman, Sander L. <title level="a">Collaboration, the Economy, and the Future of the Humanities</title>. <title level="j">Critical Inquiry</title> 30.2 (2004): 384–90.</bibl>
                         <bibl>Hutcheon, Linda, and <persName key="Hutcheon, Michael, 1945-...." ref="http://viaf.org/viaf/262481632" ana="webannotation:http://temp.lincsproject.ca/nLeVBQgCGQP">Michael Hutcheon</persName>. <title level="a">A Convenience of Marriage: Collaboration and Interdisciplinarity</title>. <title level="j">PMLA</title> 116.5 (October 2001): 1364–76.</bibl>
                         <bibl>MacKinnon, Joseph, Nicholas van Orden, and Rebecca Blakey. <title level="a">How to Scan Like a Rock Star. <abbr>EMiC UA</abbr> Working Document</title>.</bibl>
-                        <bibl>Martin, Robert C. <title level="m">Clean Code: A Handbook of Agile Software Craftsmanship</title>. Boston: Prentice-Hall, 2009.</bibl>
+                        <bibl><persName key="Martin, Robert C." ref="http://viaf.org/viaf/85276018" ana="webannotation:http://temp.lincsproject.ca/hFdgOIENKvg">Martin</persName>, Robert C. <title level="m">Clean Code: A Handbook of Agile Software Craftsmanship</title>. Boston: Prentice-Hall, 2009.</bibl>
                         <bibl>McCarty, Willard. <title level="m">Humanities Computing</title>. Basingstoke: Palgrave Macmillan, 2005.</bibl>
                         <bibl>Ms. Mentor [<persName key="Toth, Emily." ref="http://viaf.org/viaf/27133714" ana="webannotation:http://temp.lincsproject.ca/6FMkkaBOxBR">Emily Toth</persName>]. <title level="a">Who Owns Your Mind?</title>
                             <title level="j">Chronicle of Higher Education</title> 21 May 1999: n. pag.</bibl>
@@ -10446,6 +10446,95 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/x71b3tY4E8f">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/x71b3tY4E8f",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-09T13:07:12.461Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/IaJtyG6lsqQ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/IaJtyG6lsqQ/selector/textPosition/rzVCtMZ1CZN",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 18880,
+                "end": 18891,
+                "refinedBy": {
+                    "id": "/target/IaJtyG6lsqQ/selector/textQuote/rIiZzclbLBg",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Tony Davies",
+                    "prefix": " Humanists are no longer as technophobic as they once were; literary scholars no longer proclaim Luddism as a virtue, even when we lack technical knowledge, and less and less do we exhibit the ambivalent, oxymoronic personality that",
+                    "suffix": "once referred to as being a pioneer of the old\n                                \n                                    74\n                                "
+                }
+            },
+            {
+                "id": "/target/IaJtyG6lsqQ/selector/css/hxhwWppqNut",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/x71b3tY4E8f]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/76412290",
+        "type": "crm:E21_Person",
+        "label": "Davies, Tony, 1940-",
+        "description": "Davies, Tony, 1940-...., professeur de littérature anglaise"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/wLMmjUHQpaG">
 <![CDATA[{
     "@context": [
@@ -12297,6 +12386,1341 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/r2hOZJrqvWR]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/85276018",
+        "type": "crm:E21_Person",
+        "label": "Martin, Robert C.",
+        "description": "Martin, Robert C. 1952–"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/seITVg50Jvf">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/seITVg50Jvf",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T18:04:51.242Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/RXnCQVCAfp8",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/RXnCQVCAfp8/selector/textPosition/7oCuDPriyzD",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 37825,
+                "end": 37831,
+                "refinedBy": {
+                    "id": "/target/RXnCQVCAfp8/selector/textQuote/laUX3w5alZn",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Martin",
+                    "prefix": "\n                            \n                                53–54\n                            \n                        \n                    \n                    \n                        \n                            The problem with comments, says",
+                    "suffix": " is that they go stale, cover up bad code, and shift us into a mode of describing when instead we should be fixing"
+                }
+            },
+            {
+                "id": "/target/RXnCQVCAfp8/selector/css/rdqfDa8Ir2l",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/seITVg50Jvf]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/85276018",
+        "type": "crm:E21_Person",
+        "label": "Martin, Robert C.",
+        "description": "Martin, Robert C. 1952–"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/vUzPGjr9woE">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/vUzPGjr9woE",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T18:04:54.260Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/oXvFBOvxtsA",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/oXvFBOvxtsA/selector/textPosition/1DyriPDiDza",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 38034,
+                "end": 38040,
+                "refinedBy": {
+                    "id": "/target/oXvFBOvxtsA/selector/textQuote/fBnyHobtMIZ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Martin",
+                    "prefix": "\n                            They lie, he says flatly \n                               ",
+                    "suffix": "54\n                            "
+                }
+            },
+            {
+                "id": "/target/oXvFBOvxtsA/selector/css/pzjBvrSgKPG",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/vUzPGjr9woE]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/85276018",
+        "type": "crm:E21_Person",
+        "label": "Martin, Robert C.",
+        "description": "Martin, Robert C. 1952–"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/gveY24W2TjJ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/gveY24W2TjJ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T18:04:54.262Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/KWyAxt9W29h",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/KWyAxt9W29h/selector/textPosition/taeKD6udBF5",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 38145,
+                "end": 38151,
+                "refinedBy": {
+                    "id": "/target/KWyAxt9W29h/selector/textQuote/bWDRzClGJy7",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Martin",
+                    "prefix": "\n                    \n                    \n                        Even",
+                    "suffix": "concedes that comments are necessary at times, but his caveats about when and how to comment properly and usefully can illustrate the issues for humanists who are grappling with the problematics of project documentation for the very first time"
+                }
+            },
+            {
+                "id": "/target/KWyAxt9W29h/selector/css/LdnLeH5rzW1",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/gveY24W2TjJ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/85276018",
+        "type": "crm:E21_Person",
+        "label": "Martin, Robert C.",
+        "description": "Martin, Robert C. 1952–"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/lP45H28as08">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/lP45H28as08",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T18:04:54.264Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ix7PF1bHyCS",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ix7PF1bHyCS/selector/textPosition/rkwUzqCtVSs",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 38397,
+                "end": 38403,
+                "refinedBy": {
+                    "id": "/target/ix7PF1bHyCS/selector/textQuote/jgeXrRUX7ds",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Martin",
+                    "prefix": "",
+                    "suffix": "articulates the mismatch between author and audience that is all too familiar to humanists"
+                }
+            },
+            {
+                "id": "/target/ix7PF1bHyCS/selector/css/iTqRpJlqnSs",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/lP45H28as08]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/85276018",
+        "type": "crm:E21_Person",
+        "label": "Martin, Robert C.",
+        "description": "Martin, Robert C. 1952–"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/AM6rFYA3oui">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/AM6rFYA3oui",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T18:04:54.265Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/4w3oLrNvz0r",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/4w3oLrNvz0r/selector/textPosition/tlxW0Q0qhby",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 38596,
+                "end": 38602,
+                "refinedBy": {
+                    "id": "/target/4w3oLrNvz0r/selector/textQuote/xdv4F7hy5y3",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Martin",
+                    "prefix": " And humanists might read in",
+                    "suffix": "s screed a number of other interesting theoretical maneuvers: that documentation serves as the Derridean dangerous supplement\n                            \n                                Derrida 158\n                             to language’s inadequacy, that it is the suturing of a cognitive rift, that it is a second attempt at ideological interpellation"
+                }
+            },
+            {
+                "id": "/target/4w3oLrNvz0r/selector/css/jbVaQuTHUbc",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/AM6rFYA3oui]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/85276018",
+        "type": "crm:E21_Person",
+        "label": "Martin, Robert C.",
+        "description": "Martin, Robert C. 1952–"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/xagxO4mOlHN">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/xagxO4mOlHN",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T18:04:54.265Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Qi1w4S5Slv3",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Qi1w4S5Slv3/selector/textPosition/yLD9areltpv",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 39071,
+                "end": 39077,
+                "refinedBy": {
+                    "id": "/target/Qi1w4S5Slv3/selector/textQuote/rsS2tr1P3t3",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Martin",
+                    "prefix": "\n                    \n                    \n                        \n                            And so, contra",
+                    "suffix": " in the cultural divide between the D and the H of digital humanities, there is room for precisely the kind of documentation that he has described"
+                }
+            },
+            {
+                "id": "/target/Qi1w4S5Slv3/selector/css/ACDyRmqmfLm",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/xagxO4mOlHN]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/85276018",
+        "type": "crm:E21_Person",
+        "label": "Martin, Robert C.",
+        "description": "Martin, Robert C. 1952–"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/gKzuddmZh0E">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/gKzuddmZh0E",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T18:04:54.266Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/vd6520dVMmA",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/vd6520dVMmA/selector/textPosition/9fWoCmnZihY",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 39416,
+                "end": 39422,
+                "refinedBy": {
+                    "id": "/target/vd6520dVMmA/selector/textQuote/EmB8v9J2258",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Martin",
+                    "prefix": " Digital humanists, increasingly working at the level of code, might not actually have the requisite literacy that",
+                    "suffix": "assumes is present in his programming teams"
+                }
+            },
+            {
+                "id": "/target/vd6520dVMmA/selector/css/af2y2VV5qiZ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/gKzuddmZh0E]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/85276018",
+        "type": "crm:E21_Person",
+        "label": "Martin, Robert C.",
+        "description": "Martin, Robert C. 1952–"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Rfv3zKVrXiK">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Rfv3zKVrXiK",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T18:04:54.267Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/h6FqYi7gNao",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/h6FqYi7gNao/selector/textPosition/0QvSIZ5fQOZ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 40292,
+                "end": 40298,
+                "refinedBy": {
+                    "id": "/target/h6FqYi7gNao/selector/textQuote/DuiwWfpGs6L",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Martin",
+                    "prefix": " For example,",
+                    "suffix": "cites a few snippets of Java code and asks an intriguing question, but one that he sees as an either/or dichotomy\n                        :\n                    Which would you rather see? This:// Check to see if the employee is eligible for full benefits if ( ( employee"
+                }
+            },
+            {
+                "id": "/target/h6FqYi7gNao/selector/css/fav3KPnYfuu",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Rfv3zKVrXiK]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/85276018",
+        "type": "crm:E21_Person",
+        "label": "Martin, Robert C.",
+        "description": "Martin, Robert C. 1952–"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/AvpVzxtzWiN">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/AvpVzxtzWiN",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T18:04:54.268Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/QqjwZFzv4Ok",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/QqjwZFzv4Ok/selector/textPosition/Unf1Jw6cYIN",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 40698,
+                "end": 40704,
+                "refinedBy": {
+                    "id": "/target/QqjwZFzv4Ok/selector/textQuote/Ka0Hn97Z2j1",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Martin",
+                    "prefix": "isEligibleForFullBenefits() ) \n                           ",
+                    "suffix": "55\n                        \n                    \n                    \n                        \n                            It takes only a few seconds of thought to explain most of your intent in code, Martin says \n                                55\n                            "
+                }
+            },
+            {
+                "id": "/target/QqjwZFzv4Ok/selector/css/DqnTZaOnIeS",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/AvpVzxtzWiN]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/85276018",
+        "type": "crm:E21_Person",
+        "label": "Martin, Robert C.",
+        "description": "Martin, Robert C. 1952–"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/aMzvWGozTKL">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/aMzvWGozTKL",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T18:04:54.268Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/wUxQJx0eE7J",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/wUxQJx0eE7J/selector/textPosition/82jT1urMN3s",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 40907,
+                "end": 40913,
+                "refinedBy": {
+                    "id": "/target/wUxQJx0eE7J/selector/textQuote/TwFWFvTWAs6",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Martin",
+                    "prefix": "isEligibleForFullBenefits() ) \n                            Martin 55\n                        \n                    \n                    \n                        \n                            It takes only a few seconds of thought to explain most of your intent in code,",
+                    "suffix": "says \n                                55\n                            "
+                }
+            },
+            {
+                "id": "/target/wUxQJx0eE7J/selector/css/D8CzTQ5ehlZ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/aMzvWGozTKL]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/85276018",
+        "type": "crm:E21_Person",
+        "label": "Martin, Robert C.",
+        "description": "Martin, Robert C. 1952–"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/UwXG8oy5UcE">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/UwXG8oy5UcE",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T18:04:54.269Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/tekMuqChuKO",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/tekMuqChuKO/selector/textPosition/65puufVe9oP",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 41178,
+                "end": 41184,
+                "refinedBy": {
+                    "id": "/target/tekMuqChuKO/selector/textQuote/Xr088xaeZFe",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Martin",
+                    "prefix": " The best answer might be a combination of the two options",
+                    "suffix": "cites: both clear code and documentation"
+                }
+            },
+            {
+                "id": "/target/tekMuqChuKO/selector/css/eeIwi4ys1xw",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/UwXG8oy5UcE]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/85276018",
+        "type": "crm:E21_Person",
+        "label": "Martin, Robert C.",
+        "description": "Martin, Robert C. 1952–"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Nu2IwlcuVzL">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Nu2IwlcuVzL",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T18:04:56.997Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/joTZQ9Us34z",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/joTZQ9Us34z/selector/textPosition/ZjCb242YYzG",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 41871,
+                "end": 41877,
+                "refinedBy": {
+                    "id": "/target/joTZQ9Us34z/selector/textQuote/kWZSzU0x1ME",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Martin",
+                    "prefix": " If documentation, as",
+                    "suffix": "insists, marks the failure of intent to match expression, then shared practices about documentation and discussions about the values that they embody might be the best way not to mind—that is, to mend—the gap between the digital and the humanities"
+                }
+            },
+            {
+                "id": "/target/joTZQ9Us34z/selector/css/KoiwZklQtTg",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Nu2IwlcuVzL]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/85276018",
+        "type": "crm:E21_Person",
+        "label": "Martin, Robert C.",
+        "description": "Martin, Robert C. 1952–"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/0sEPnsHSb78">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/0sEPnsHSb78",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T18:04:56.998Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/vCVnoTBs3CF",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/vCVnoTBs3CF/selector/textPosition/3OVF1TcrU7X",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 42127,
+                "end": 42133,
+                "refinedBy": {
+                    "id": "/target/vCVnoTBs3CF/selector/textQuote/jlgM7ITxWXr",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Martin",
+                    "prefix": "",
+                    "suffix": "s caveats remind us about the various kinds of documentation that digital humanities projects need to generate and the different audiences for whom those documents are intended"
+                }
+            },
+            {
+                "id": "/target/vCVnoTBs3CF/selector/css/ArttZXDFSH8",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/0sEPnsHSb78]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/85276018",
+        "type": "crm:E21_Person",
+        "label": "Martin, Robert C.",
+        "description": "Martin, Robert C. 1952–"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/IkmWYKSfg91">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/IkmWYKSfg91",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T18:04:56.999Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/OMF0fU6EVkP",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/OMF0fU6EVkP/selector/textPosition/YcJUrmQ1SMW",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 42747,
+                "end": 42753,
+                "refinedBy": {
+                    "id": "/target/OMF0fU6EVkP/selector/textQuote/rS5efmhZD72",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Martin",
+                    "prefix": " The team members change, reflects \n                                        Beck [11]\n                                    ) Code comments included for reasons that are legal, clarifying, informative, or expressive of some kind of incomplete intent are wholly worthwhile,",
+                    "suffix": "maintains"
+                }
+            },
+            {
+                "id": "/target/OMF0fU6EVkP/selector/css/J59igyWJD0w",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/IkmWYKSfg91]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/85276018",
+        "type": "crm:E21_Person",
+        "label": "Martin, Robert C.",
+        "description": "Martin, Robert C. 1952–"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/hFdgOIENKvg">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/hFdgOIENKvg",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-08T18:04:57.000Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/yETxRyL2qW0",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/yETxRyL2qW0/selector/textPosition/MdJ8uOojDOo",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 69739,
+                "end": 69745,
+                "refinedBy": {
+                    "id": "/target/yETxRyL2qW0/selector/textQuote/EKGm9rgVy0N",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Martin",
+                    "prefix": "\n                       ",
+                    "suffix": " Robert C"
+                }
+            },
+            {
+                "id": "/target/yETxRyL2qW0/selector/css/PZMycolNLAt",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/hFdgOIENKvg]"
             }
         ]
     },
