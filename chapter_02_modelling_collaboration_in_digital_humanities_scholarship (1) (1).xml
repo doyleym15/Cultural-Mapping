@@ -569,7 +569,7 @@
                                         <bibl><persName key="chromatic" ref="http://viaf.org/viaf/266946028" ana="webannotation:http://temp.lincsproject.ca/5AzWGYpBrsV">Chromatic</persName>, section 6.3</bibl>
                                     </note>. If we import <abbr>XP</abbr> principles directly and literally into the humanities, we might suggest that (at least) two people should be responsible for each sentence, image, slideshow, and multimedia file. <ref target="#writing_climate">Collective ownership, carefully conceived and mutually understood, fosters the emergence of quality. <ref target="#politics">Individual ownership, on the other hand, often devolves into a political struggle for control.</ref> The problem with individual ownership, <abbr>XP</abbr> says, is that <q>to make a change in one piece, you must ask permission of its owner…[but] she may be on vacation, get hit by a bus, or be so swamped with other work that she has no time to make your changes. Collective code ownership gives you the power to make necessary changes yourself, wherever they are needed</q>
                                         <note place="inline">
-                                            <bibl>Chromatic, section 6.3</bibl>
+                                            <bibl><title key="chromatic" ref="http://viaf.org/viaf/266946028" ana="webannotation:http://temp.lincsproject.ca/hOeRzYqSa2Y">Chromatic, section 6.3</title></bibl>
                                         </note>.</ref>
                                 </ref>
                             </ref>
@@ -14888,6 +14888,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/5AzWGYpBrsV]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/266946028",
+        "type": "crm:E21_Person",
+        "label": "chromatic",
+        "description": "Chromatic, 19..-...., informaticien"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/hOeRzYqSa2Y">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/hOeRzYqSa2Y",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-09T17:16:57.574Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Q7TEg6ivHHL",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Q7TEg6ivHHL/selector/textPosition/OLpGntFYyqx",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 24172,
+                "end": 24194,
+                "refinedBy": {
+                    "id": "/target/Q7TEg6ivHHL/selector/textQuote/qICFqhzLiWK",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Chromatic, section 6.3",
+                    "prefix": " Collective code ownership gives you the power to make necessary changes yourself, wherever they are needed\n                                        \n                                           ",
+                    "suffix": "                                        "
+                }
+            },
+            {
+                "id": "/target/Q7TEg6ivHHL/selector/css/1px7cCk9iyC",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/hOeRzYqSa2Y]"
             }
         ]
     },
