@@ -598,7 +598,7 @@
                     </p>
                     <q type="block">
                         <ref target="#collaboration">
-                            <ref target="#writing_climate">Sometimes Ms. <persName key="Toth, Emily." ref="http://viaf.org/viaf/27133714" ana="webannotation:http://temp.lincsproject.ca/JVfH7frnyPm">Mentor</persName> has to burst hopes, shred bubbles, and be the <persName key="Grinch" ref="http://www.wikidata.org/entity/Q719748" ana="webannotation:http://temp.lincsproject.ca/oPvnocMdJmP">Grinch</persName>. While it is true that scholarly types can be generous, open-minded souls who’ll share software, footnotes, and recipes for cat treats—they can also backstab, withhold, and compete to leave you penniless, naked, and shivering in the cold (metaphorically speaking).</ref>
+                            <ref target="#writing_climate">Sometimes Ms. <persName key="Toth, Emily." ref="http://viaf.org/viaf/27133714" ana="webannotation:http://temp.lincsproject.ca/JVfH7frnyPm">Mentor</persName> has to burst hopes, shred bubbles, and be the <persName key="Grinch" ref="http://www.wikidata.org/entity/Q719748" ana="webannotation:http://temp.lincsproject.ca/oPvnocMdJmP" type="fictional">Grinch</persName>. While it is true that scholarly types can be generous, open-minded souls who’ll share software, footnotes, and recipes for cat treats—they can also backstab, withhold, and compete to leave you penniless, naked, and shivering in the cold (metaphorically speaking).</ref>
                         </ref>
                         <note place="inline">
                             <bibl>95</bibl>
@@ -12306,9 +12306,15 @@
     },
     "body": {
         "id": "http://www.wikidata.org/entity/Q719748",
-        "type": "crm:E21_Person",
+        "type": [
+            "foaf:Person",
+            "crm:E89_Propositional_Object"
+        ],
         "label": "Grinch",
-        "description": "fictional character created by Dr. Seuss"
+        "description": "fictional character created by Dr. Seuss",
+        "P2_has_type": [
+            "edit:modeFictional"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
