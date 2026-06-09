@@ -563,7 +563,7 @@
                             <ref target="#collaboration">
                                 <ref target="#authorship">In terms of collaboration, perhaps one of the most interesting principles of <abbr>XP</abbr> is to <q>Adopt Collective Code Ownership,</q> the goal of which is to <q>spread the responsibility for the code to the whole team</q>
                                     <note place="inline">
-                                        <bibl>Chromatic, section 6.3</bibl>
+                                        <bibl><persName key="chromatic" ref="http://viaf.org/viaf/266946028" ana="webannotation:http://temp.lincsproject.ca/h66rH4nOZlU">Chromatic</persName>, section 6.3</bibl>
                                     </note>. One way to achieve collective ownership is through the practice of pair programming—the coding equivalent of collaborative writing. Two team members sit down at the same computer, sharing the job of writing the day’s computer code. They pass the keyboard back and forth between themselves, taking turns writing and thinking and designing. The concept of the team supplants that of the individual; the group trumps the solo author. If one team member believes that a particular programming strategy is neither correct nor desirable, then the pair must find a mutually satisfying solution. <q>Collective code ownership requires teamwork</q> is the mantra. <q>Pair programming makes two people responsible for each line of code in the system, increasing the sense of team ownership</q>
                                     <note place="inline">
                                         <bibl>Chromatic, section 6.3</bibl>
@@ -14710,6 +14710,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/fLNzvqj2iYq]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/266946028",
+        "type": "crm:E21_Person",
+        "label": "chromatic",
+        "description": "Chromatic, 19..-...., informaticien"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/h66rH4nOZlU">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/h66rH4nOZlU",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-09T17:15:07.305Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/GWtwssh4Lcy",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/GWtwssh4Lcy/selector/textPosition/l1x8rgJhmRb",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 22373,
+                "end": 22382,
+                "refinedBy": {
+                    "id": "/target/GWtwssh4Lcy/selector/textQuote/cYf6f6x0wJn",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Chromatic",
+                    "prefix": "\n                                \n                            \n                        \n                    \n                    \n                        \n                            \n                                In terms of collaboration, perhaps one of the most interesting principles of XP is to Adopt Collective Code Ownership, the goal of which is to spread the responsibility for the code to the whole team\n                                    \n                                       ",
+                    "suffix": " section 6"
+                }
+            },
+            {
+                "id": "/target/GWtwssh4Lcy/selector/css/Lvpqcl5QDpq",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/h66rH4nOZlU]"
             }
         ]
     },
