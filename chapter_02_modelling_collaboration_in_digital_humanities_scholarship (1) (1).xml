@@ -636,7 +636,7 @@
                     <p xml:id="p1092">
                         <ref target="#collaboration">
                             <ref target="#theory">
-                                <ref target="#writing_climate">Collaborating necessarily involves taking calculated risks. The purpose of project charters is to establish rules of engagement and to manage expectations. While charters may mitigate the risk of collaborating, they certainly do not eliminate all risks. <ref target="#intertextuality">Project charters address factors identified by Daniel Coleman and Smaro Kamboureli in <title level="m">Retooling the Humanities</title> as foci for discussion about the future of humanities research, including funding pressures, mentorship models, the tension between solitary and collaborative work, and the idea of interdisciplinarity as a whole. In the collaboratory, multidisciplinary framework of the digital humanities, project charters are one strategy for <q>retooling</q> the humanities. Project charters are at once a response to some of the troubling aspects of the current research paradigm and an attempt to work within its structures.</ref>
+                                <ref target="#writing_climate">Collaborating necessarily involves taking calculated risks. The purpose of project charters is to establish rules of engagement and to manage expectations. While charters may mitigate the risk of collaborating, they certainly do not eliminate all risks. <ref target="#intertextuality">Project charters address factors identified by <persName key="Coleman, Daniel, 1961-" ref="http://viaf.org/viaf/24827953" ana="webannotation:http://temp.lincsproject.ca/Iwe12hv5cp1">Daniel Coleman</persName> and Smaro Kamboureli in <title level="m">Retooling the Humanities</title> as foci for discussion about the future of humanities research, including funding pressures, mentorship models, the tension between solitary and collaborative work, and the idea of interdisciplinarity as a whole. In the collaboratory, multidisciplinary framework of the digital humanities, project charters are one strategy for <q>retooling</q> the humanities. Project charters are at once a response to some of the troubling aspects of the current research paradigm and an attempt to work within its structures.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -15353,6 +15353,94 @@
         "type": "crm:E74_Group",
         "label": "Social Sciences and Humanities Research Council of Canada",
         "description": "Conseil de recherches en sciences humaines du Canada"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Iwe12hv5cp1">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Iwe12hv5cp1",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-12T19:05:19.919Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/BUI1qhAIcLF",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/BUI1qhAIcLF/selector/textPosition/xNthpJxmqGW",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 31247,
+                "end": 31261,
+                "refinedBy": {
+                    "id": "/target/BUI1qhAIcLF/selector/textQuote/xAbeesG3GLz",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Daniel Coleman",
+                    "prefix": " Project charters address factors identified by",
+                    "suffix": "and Smaro Kamboureli in Retooling the Humanities as foci for discussion about the future of humanities research, including funding pressures, mentorship models, the tension between solitary and collaborative work, and the idea of interdisciplinarity as a whole"
+                }
+            },
+            {
+                "id": "/target/BUI1qhAIcLF/selector/css/8svqIdrqZwV",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Iwe12hv5cp1]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/24827953",
+        "type": "crm:E21_Person",
+        "label": "Coleman, Daniel, 1961-",
+        "description": "Coleman, Daniel"
     },
     "P2_has_type": [
         "oa:identifying"
