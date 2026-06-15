@@ -1022,7 +1022,7 @@
                 <div type="section">
                     <head>Works Cited</head>
                     <listBibl>
-                        <bibl>Beck, <placeName key="Beck, Kent." ref="http://viaf.org/viaf/39529441" ana="webannotation:http://temp.lincsproject.ca/X2aQhh0aDdu">Kent</placeName>, with <persName key="Andres, Cynthia." ref="http://viaf.org/viaf/63394879" ana="webannotation:http://temp.lincsproject.ca/LTzoVEw5HLI">Cynthia Andres</persName>. <title level="m">Extreme Programming Explained: Embrace Change</title>. 2nd ed. <placeName key="Boston University" ref="https://sws.geonames.org/4931016" ana="webannotation:http://temp.lincsproject.ca/ACxpuWO1pvZ">Boston</placeName>: <orgName key="Addison-Wesley (1942-1999)." ref="http://viaf.org/viaf/122588708" ana="webannotation:http://temp.lincsproject.ca/bsPpV3jvpXH">Addison-Wesley</orgName>, 2005.</bibl>
+                        <bibl>Beck, <placeName key="Beck, Kent." ref="http://viaf.org/viaf/39529441" ana="webannotation:http://temp.lincsproject.ca/X2aQhh0aDdu">Kent</placeName>, with <persName key="Andres, Cynthia." ref="http://viaf.org/viaf/63394879" ana="webannotation:http://temp.lincsproject.ca/LTzoVEw5HLI">Cynthia Andres</persName>. <title level="m">Extreme Programming Explained: Embrace Change</title>. 2nd ed. <placeName key="Boston" ref="https://sws.geonames.org/4930956" ana="webannotation:http://temp.lincsproject.ca/KSigvPMQhlh">Boston</placeName>: <orgName key="Addison-Wesley (1942-1999)." ref="http://viaf.org/viaf/122588708" ana="webannotation:http://temp.lincsproject.ca/bsPpV3jvpXH">Addison-Wesley</orgName>, 2005.</bibl>
                         <bibl>Bretz, Andrew, <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/BDgVw35UFqO">Susan Brown</persName>, and <persName key="McGregor, Hannah" ref="http://viaf.org/viaf/20153713810358661443" ana="webannotation:http://temp.lincsproject.ca/612OdYi2T6Q">Hannah McGregor</persName>. <title level="m">Lasting Change: Sustaining Digital Scholarship and Culture in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/OAbVkA4JV5d">Canada</placeName></title>. 2010. <ref target="http://www.cwrc.ca/wp-content/uploads/2011/05/Lasting-Change-Knowledge-Synthesis.pdf">http://www.cwrc.ca/wp-content/uploads/2011/05/Lasting-Change-Knowledge-Synthesis.pdf</ref>
                         </bibl>
                         <bibl><persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/vXdJ7DWthWm">Brown</persName>, Susan. <title level="a">Don’t Mind the Gap: Evolving Digital Modes of Scholarly Production across the Digital-Humanities Divide</title>. <title level="m">Retooling the Humanities: The Culture of Research in Canadian Universities</title>. Ed. Daniel Coleman and Smaro Kamboureli. Edmonton: University of Alberta Press, 2011. 203–31.</bibl>
@@ -16778,20 +16778,20 @@
 				
 </rdf:Description>
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ACxpuWO1pvZ">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/KSigvPMQhlh">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/ACxpuWO1pvZ",
+    "id": "http://temp.lincsproject.ca/KSigvPMQhlh",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-06-15T20:00:14.288Z",
+    "created": "2026-06-15T20:00:42.842Z",
     "creator": {
         "id": "https://github.com/doyleym15",
         "type": "crm:E21_Person",
@@ -16851,13 +16851,21 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/ACxpuWO1pvZ]"
+            },
+            {
+                "id": "/target/GLQDUb2gp9X/selector/css/1lBGwS58Wfe",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/KSigvPMQhlh]"
             }
         ]
     },
     "body": {
-        "id": "https://sws.geonames.org/4931016",
+        "id": "https://sws.geonames.org/4930956",
         "type": "crm:E53_Place",
-        "label": "Boston University",
+        "label": "Boston",
         "description": "Massachusetts, Suffolk County, US"
     },
     "P2_has_type": [
