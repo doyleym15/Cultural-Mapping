@@ -508,7 +508,7 @@
                     <p xml:id="p1083">
                         <ref target="#collaboration">
                             <ref target="#technology">
-                                <ref target="#archive">The painstaking work involved in editing the letters exchanged by <persName key="Watson, Wilfred, 1911-1998" ref="http://viaf.org/viaf/67854547" ana="webannotation:http://temp.lincsproject.ca/vS2yFkoKIDP">Wilfred Watson</persName> and <persName key="Watson, Sheila, 1909-1998" ref="http://viaf.org/viaf/35268398" ana="webannotation:http://temp.lincsproject.ca/PsRFwZtJXMu">Sheila Watson</persName> from 1956 to 1962, for example, centres on an ongoing dialogue between the literary scholars most familiar with the Wilfred and Sheila Watson archives and the digital specialists who can model and implement digital archives and editions.</ref> Virtually every editorial decision we make has a technological implication; every technological decision, an editorial consequence. It is worth noting, too, that the dialogue itself is both facilitated and shaped—not always in a positive way—by the technologies (<ref target="#non-book_media">wikis, <orgName key="Skype Technologies S.A.R.L" ref="http://viaf.org/viaf/7715149619425904010008" ana="webannotation:http://temp.lincsproject.ca/LFyfbWt4mcj">Skype</orgName>, Google documents, metadata entry websites</ref>) we find ourselves using.<note xml:id="n44" place="end">The use of technology in the practice of collaboration warrants further discussion. We find ourselves both liberated and constricted by the tools we choose to use to connect with one another, which facilitate, complicate, and prevent various relationships and processes.</note> Although each group may believe that at the digital humanities interface its particular questions should take precedence—that the issues valued by literary scholars outrank digital concerns or that technical issues trump all others, for example—collaboration works through dialogue. As <persName key="Hutcheon, Linda, 1947-...." ref="http://viaf.org/viaf/101807260" ana="webannotation:http://temp.lincsproject.ca/Hccba8yJC0i">Linda Hutcheon</persName> and <persName key="Hutcheon, Michael, 1945-...." ref="http://viaf.org/viaf/262481632" ana="webannotation:http://temp.lincsproject.ca/z4lQLNU8ZCs">Michael Hutcheon</persName> point out, <q>It is no accident that the conversation or dialogue model is a dominant one in theories of collaboration</q>
+                                <ref target="#archive">The painstaking work involved in editing the letters exchanged by <persName key="Watson, Wilfred, 1911-1998" ref="http://viaf.org/viaf/67854547" ana="webannotation:http://temp.lincsproject.ca/vS2yFkoKIDP">Wilfred Watson</persName> and <persName key="Watson, Sheila, 1909-1998" ref="http://viaf.org/viaf/35268398" ana="webannotation:http://temp.lincsproject.ca/PsRFwZtJXMu">Sheila Watson</persName> from 1956 to 1962, for example, centres on an ongoing dialogue between the literary scholars most familiar with the Wilfred and Sheila Watson archives and the digital specialists who can model and implement digital archives and editions.</ref> Virtually every editorial decision we make has a technological implication; every technological decision, an editorial consequence. It is worth noting, too, that the dialogue itself is both facilitated and shaped—not always in a positive way—by the technologies (<ref target="#non-book_media">wikis, <orgName key="Skype Technologies S.A.R.L" ref="http://viaf.org/viaf/7715149619425904010008" ana="webannotation:http://temp.lincsproject.ca/LFyfbWt4mcj">Skype</orgName>, <orgName key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/AmG2N8ynqJo">Google</orgName> documents, metadata entry websites</ref>) we find ourselves using.<note xml:id="n44" place="end">The use of technology in the practice of collaboration warrants further discussion. We find ourselves both liberated and constricted by the tools we choose to use to connect with one another, which facilitate, complicate, and prevent various relationships and processes.</note> Although each group may believe that at the digital humanities interface its particular questions should take precedence—that the issues valued by literary scholars outrank digital concerns or that technical issues trump all others, for example—collaboration works through dialogue. As <persName key="Hutcheon, Linda, 1947-...." ref="http://viaf.org/viaf/101807260" ana="webannotation:http://temp.lincsproject.ca/Hccba8yJC0i">Linda Hutcheon</persName> and <persName key="Hutcheon, Michael, 1945-...." ref="http://viaf.org/viaf/262481632" ana="webannotation:http://temp.lincsproject.ca/z4lQLNU8ZCs">Michael Hutcheon</persName> point out, <q>It is no accident that the conversation or dialogue model is a dominant one in theories of collaboration</q>
                                 <note place="inline">
                                     <bibl>1367</bibl>
                                 </note>.<note xml:id="n45" place="end">Although collaboration is at the heart of research in the digital humanities, it is both an issue and a practice discussed in numerous contexts. In addition to the article by <persName key="Hutcheon, Linda, 1947-...." ref="http://viaf.org/viaf/101807260" ana="webannotation:http://temp.lincsproject.ca/Z3Ajh6MkRMt">Linda Hutcheon</persName> and <persName key="Hutcheon, Michael, 1945-...." ref="http://viaf.org/viaf/262481632" ana="webannotation:http://temp.lincsproject.ca/tw1vu3Vl8Cy">Michael Hutcheon</persName>, see, for example, articles by <persName key="Ede, Lisa S., 1947-2021" ref="http://viaf.org/viaf/108564398" ana="webannotation:http://temp.lincsproject.ca/g86KwYHvz67">Ede</persName> and <persName key="Lunsford, Andrea A., 1942-...." ref="http://viaf.org/viaf/39473673" ana="webannotation:http://temp.lincsproject.ca/haqjwfLagL8">Lunsford</persName>, and by <persName key="Gilman, Sander L., 1944-...." ref="http://viaf.org/viaf/108235217" ana="webannotation:http://temp.lincsproject.ca/O5NqnCaEWva">Gilman</persName>.</note>
@@ -16414,6 +16414,95 @@
         "id": "http://viaf.org/viaf/7715149619425904010008",
         "type": "crm:E74_Group",
         "label": "Skype Technologies S.A.R.L"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/AmG2N8ynqJo">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/AmG2N8ynqJo",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-15T18:37:46.489Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/12Qw1kZIcPV",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/12Qw1kZIcPV/selector/textPosition/8e7QFkzjPKh",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 15874,
+                "end": 15880,
+                "refinedBy": {
+                    "id": "/target/12Qw1kZIcPV/selector/textQuote/wpBrqtgTMcW",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Google",
+                    "prefix": " It is worth noting, too, that the dialogue itself is both facilitated and shaped—not always in a positive way—by the technologies (wikis, Skype,",
+                    "suffix": "documents, metadata entry websites) we find ourselves using"
+                }
+            },
+            {
+                "id": "/target/12Qw1kZIcPV/selector/css/GT5bEWXqL9j",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/AmG2N8ynqJo]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/124291214",
+        "type": "crm:E74_Group",
+        "label": "Google American multinational technology company, a subsidiary of Alphabet Inc.",
+        "description": "Google firma"
     },
     "P2_has_type": [
         "oa:identifying"
