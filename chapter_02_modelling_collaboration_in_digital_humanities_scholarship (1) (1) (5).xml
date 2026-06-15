@@ -1026,7 +1026,7 @@
                         <bibl>Bretz, Andrew, <persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/BDgVw35UFqO">Susan Brown</persName>, and <persName key="McGregor, Hannah" ref="http://viaf.org/viaf/20153713810358661443" ana="webannotation:http://temp.lincsproject.ca/612OdYi2T6Q">Hannah McGregor</persName>. <title level="m">Lasting Change: Sustaining Digital Scholarship and Culture in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/OAbVkA4JV5d">Canada</placeName></title>. 2010. <ref target="http://www.cwrc.ca/wp-content/uploads/2011/05/Lasting-Change-Knowledge-Synthesis.pdf">http://www.cwrc.ca/wp-content/uploads/2011/05/Lasting-Change-Knowledge-Synthesis.pdf</ref>
                         </bibl>
                         <bibl><persName key="Brown, Susan Irene" ref="http://viaf.org/viaf/104953085" ana="webannotation:http://temp.lincsproject.ca/vXdJ7DWthWm">Brown</persName>, Susan. <title level="a">Don’t Mind the Gap: Evolving Digital Modes of Scholarly Production across the Digital-Humanities Divide</title>. <title level="m">Retooling the Humanities: The Culture of Research in Canadian Universities</title>. Ed. Daniel Coleman and Smaro Kamboureli. Edmonton: University of Alberta Press, 2011. 203–31.</bibl>
-                        <bibl>Chow, Rey.<title level="a">
+                        <bibl>Chow, <persName key="Chow, Rey, 1957-...." ref="http://viaf.org/viaf/27220733" ana="webannotation:http://temp.lincsproject.ca/a3rzB6SBurT">Rey</persName>.<title level="a">
                                 <q>An Addiction from Which We Never Get Free.</q>
                             </title>
                             <title level="j">New Literary History</title> 36.1 (2005): 47–55.</bibl>
@@ -16237,6 +16237,95 @@
         "id": "http://viaf.org/viaf/542159474159427661062",
         "type": "crm:E21_Person",
         "label": "Siemens, Lynne"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/a3rzB6SBurT">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/a3rzB6SBurT",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-15T14:51:53.412Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/4585IllSgvV",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/4585IllSgvV/selector/textPosition/xjg5nA6pMqt",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 68304,
+                "end": 68307,
+                "refinedBy": {
+                    "id": "/target/4585IllSgvV/selector/textQuote/5JX0rUQcWJN",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Rey",
+                    "prefix": "\n                        Chow,",
+                    "suffix": "\n                                An Addiction from Which We Never Get Free"
+                }
+            },
+            {
+                "id": "/target/4585IllSgvV/selector/css/PPDu5xzpiB9",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/a3rzB6SBurT]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/27220733",
+        "type": "crm:E21_Person",
+        "label": "Chow, Rey, 1957-....",
+        "description": "Chow, Rey"
     },
     "P2_has_type": [
         "oa:identifying"
