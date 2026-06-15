@@ -1056,7 +1056,7 @@
                         <bibl>Siemens, <persName key="Siemens, Lynne" ref="http://viaf.org/viaf/542159474159427661062" ana="webannotation:http://temp.lincsproject.ca/zIbi24CFnyc">Lynne</persName>. <title level="a">
                                 <q>It’s a Team If You Use <q>Reply All</q>
                                 </q>: An Exploration of Research Teams in Digital Humanities Environments</title>. <title level="j">Literary and Linguistic Computing</title> 24.2 (2009): 225–33.</bibl>
-                        <bibl>Trimbur, John. <title level="a">Consensus and Difference in Collaborative Learning</title>. <title level="j">College English</title> 51.6 (October 1989): 602–16.</bibl>
+                        <bibl>, John. <title level="a"><persName key="Trimbur, John." ref="http://viaf.org/viaf/55776530" ana="webannotation:http://temp.lincsproject.ca/4gn62CMhZtI">Consensus and Difference in Collaborative Learning</persName></title>. <title level="j">College English</title> 51.6 (October 1989): 602–16.</bibl>
                     </listBibl>
                 </div>
             </div>
@@ -16494,6 +16494,94 @@
         "id": "http://viaf.org/viaf/542159474159427661062",
         "type": "crm:E21_Person",
         "label": "Siemens, Lynne"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/4gn62CMhZtI">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/4gn62CMhZtI",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-15T14:42:40.851Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/leyLRcgdUJl",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/leyLRcgdUJl/selector/textPosition/BJ4SOiglvJy",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 71171,
+                "end": 71178,
+                "refinedBy": {
+                    "id": "/target/leyLRcgdUJl/selector/textQuote/OyLnFdVOsUL",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Trimbur",
+                    "prefix": "\n                       ",
+                    "suffix": " John"
+                }
+            },
+            {
+                "id": "/target/leyLRcgdUJl/selector/css/Q4uK6wvMmSx",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/4gn62CMhZtI]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/55776530",
+        "type": "crm:E21_Person",
+        "label": "Trimbur, John."
     },
     "P2_has_type": [
         "oa:identifying"
