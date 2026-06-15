@@ -1041,7 +1041,7 @@
                         <bibl>Editing Modernism in Canada. <title level="m">Project website</title>. <ref target="http://editingmodernism.ca">http://editingmodernism.ca</ref>
                         </bibl>
                         <bibl>Gilman, Sander L. <title level="a">Collaboration, the Economy, and the Future of the Humanities</title>. <title level="j">Critical Inquiry</title> 30.2 (2004): 384–90.</bibl>
-                        <bibl>Hutcheon, Linda, and <persName key="Hutcheon, Michael, 1945-...." ref="http://viaf.org/viaf/262481632" ana="webannotation:http://temp.lincsproject.ca/nLeVBQgCGQP">Michael Hutcheon</persName>. <title level="a">A Convenience of Marriage: Collaboration and Interdisciplinarity</title>. <title level="j">PMLA</title> 116.5 (October 2001): 1364–76.</bibl>
+                        <bibl>Hutcheon, <persName key="Hutcheon, Linda, 1947-...." ref="http://viaf.org/viaf/101807260" ana="webannotation:http://temp.lincsproject.ca/YFaem6aaf4p">Linda</persName>, and <persName key="Hutcheon, Michael, 1945-...." ref="http://viaf.org/viaf/262481632" ana="webannotation:http://temp.lincsproject.ca/nLeVBQgCGQP">Michael Hutcheon</persName>. <title level="a">A Convenience of Marriage: Collaboration and Interdisciplinarity</title>. <title level="j">PMLA</title> 116.5 (October 2001): 1364–76.</bibl>
                         <bibl>MacKinnon, Joseph, Nicholas van Orden, and Rebecca Blakey. <title level="a">How to Scan Like a Rock Star. <abbr>EMiC UA</abbr> Working Document</title>.</bibl>
                         <bibl><persName key="Martin, Robert C." ref="http://viaf.org/viaf/85276018" ana="webannotation:http://temp.lincsproject.ca/hFdgOIENKvg">Martin</persName>, Robert C. <title level="m">Clean Code: A Handbook of Agile Software Craftsmanship</title>. Boston: Prentice-Hall, 2009.</bibl>
                         <bibl><persName key="McCarty, Willard, 1945-...." ref="http://viaf.org/viaf/119002646" ana="webannotation:http://temp.lincsproject.ca/gBD8rdxS5HB">McCarty</persName>, Willard. <title level="m">Humanities Computing</title>. Basingstoke: Palgrave Macmillan, 2005.</bibl>
@@ -16229,6 +16229,95 @@
         "id": "http://viaf.org/viaf/542159474159427661062",
         "type": "crm:E21_Person",
         "label": "Siemens, Lynne"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/YFaem6aaf4p">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/YFaem6aaf4p",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-15T14:48:18.445Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/qWney1LoBWy",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/qWney1LoBWy/selector/textPosition/ubvQ0MnzvkF",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 69445,
+                "end": 69450,
+                "refinedBy": {
+                    "id": "/target/qWney1LoBWy/selector/textQuote/FqTKX9RuOYI",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Linda",
+                    "prefix": "\n                        Hutcheon,",
+                    "suffix": " and Michael Hutcheon"
+                }
+            },
+            {
+                "id": "/target/qWney1LoBWy/selector/css/3hs6X781YyO",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/YFaem6aaf4p]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/101807260",
+        "type": "crm:E21_Person",
+        "label": "Hutcheon, Linda, 1947-....",
+        "description": "Hutcheon, Linda"
     },
     "P2_has_type": [
         "oa:identifying"
