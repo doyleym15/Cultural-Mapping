@@ -1035,7 +1035,7 @@
                         </bibl>
                         <bibl>Davies, Tony. <title level="m">Humanism</title>. 2nd ed. New Critical Idiom Series. New York: Routledge, 2008.</bibl>
                         <bibl>Derrida, Jacques.<title level="m">Of Grammatology</title>. 1967. Baltimore: Johns Hopkins University Press, 1997.</bibl>
-                        <bibl>Ede, Lisa, and Andrea J. Lunsford. <title level="a">Collaboration and the Concepts of Authorship</title>. <title level="j">
+                        <bibl>Ede, Lisa, and <persName key="Lunsford, Andrea A., 1942-...." ref="http://viaf.org/viaf/39473673" ana="webannotation:http://temp.lincsproject.ca/7ku5r94Xe5l">Andrea J. Lunsford</persName>. <title level="a">Collaboration and the Concepts of Authorship</title>. <title level="j">
                                 <abbr>PMLA</abbr>
                             </title> 116.2 (2001): 354–69.</bibl>
                         <bibl>Editing Modernism in Canada. <title level="m">Project website</title>. <ref target="http://editingmodernism.ca">http://editingmodernism.ca</ref>
@@ -16229,6 +16229,95 @@
         "id": "http://viaf.org/viaf/542159474159427661062",
         "type": "crm:E21_Person",
         "label": "Siemens, Lynne"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/7ku5r94Xe5l">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/7ku5r94Xe5l",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-15T14:49:32.157Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ikrTrHUjoUj",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ikrTrHUjoUj/selector/textPosition/VwMfDWBfdfU",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 68992,
+                "end": 69010,
+                "refinedBy": {
+                    "id": "/target/ikrTrHUjoUj/selector/textQuote/L36QxrFChhr",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Andrea J. Lunsford",
+                    "prefix": "\n                        Ede, Lisa, and",
+                    "suffix": " Collaboration and the Concepts of Authorship"
+                }
+            },
+            {
+                "id": "/target/ikrTrHUjoUj/selector/css/Piz70xuDtib",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/7ku5r94Xe5l]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/39473673",
+        "type": "crm:E21_Person",
+        "label": "Lunsford, Andrea A., 1942-....",
+        "description": "Lunsford, Andrea A."
     },
     "P2_has_type": [
         "oa:identifying"
