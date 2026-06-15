@@ -1051,7 +1051,7 @@
                         <bibl>--- <title level="m">Imperial Eyes: Travel Writing and Transculturation</title>. New York: Routledge, 1992.</bibl>
                         <bibl><persName key="Ruecker, Stan" ref="http://viaf.org/viaf/165153459" ana="webannotation:http://temp.lincsproject.ca/l6SgBHj1RII">Ruecker</persName>, Stan. <title level="a">Personal communication</title>. 16 July 2012.</bibl>
                         <bibl><persName key="Ruecker, Stan" ref="http://viaf.org/viaf/165153459" ana="webannotation:http://temp.lincsproject.ca/ocDiN9mpatQ">Ruecker</persName>, Stan, and <persName key="Radzikowska, Milena" ref="http://viaf.org/viaf/2437148997678359870009" ana="webannotation:http://temp.lincsproject.ca/oyxd5Vih0Y0">Milena Radzikowska</persName>. <title level="a">The Iterative Design of a Project Charter for Interdisciplinary Research</title>. <title level="m">Proceedings of the 7th ACM Conference on Designing Interactive Systems</title>. New York: ACM, 2008. 288–94.</bibl>
-                        <bibl>Schagerl, Jessica. <title level="a">“Taking a Place at the Table.”</title>
+                        <bibl>Schagerl, <persName key="Schagerl, Jessica, 1975-" ref="http://viaf.org/viaf/231694901" ana="webannotation:http://temp.lincsproject.ca/3npPnYCOpz2">Jessica.</persName> <title level="a">“Taking a Place at the Table.”</title>
                             <title level="m">Retooling the Humanities: The Culture of Research in Canadian Universities</title>. Ed. Daniel Coleman and Smaro Kamboureli. Edmonton: University of Alberta Press, 2011. 95–112.</bibl>
                         <bibl>Siemens, Lynne. <title level="a">
                                 <q>It’s a Team If You Use <q>Reply All</q>
@@ -16318,6 +16318,94 @@
         "type": "crm:E21_Person",
         "label": "McCarty, Willard, 1945-....",
         "description": "McCarty, Willard"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/3npPnYCOpz2">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/3npPnYCOpz2",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-15T14:22:08.572Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/G6LjTzIOh3Y",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/G6LjTzIOh3Y/selector/textPosition/33zcWqryHmS",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 70645,
+                "end": 70653,
+                "refinedBy": {
+                    "id": "/target/G6LjTzIOh3Y/selector/textQuote/ahMQmhJxIbY",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Jessica.",
+                    "prefix": "\n                        Schagerl,",
+                    "suffix": "“Taking a Place at the Table"
+                }
+            },
+            {
+                "id": "/target/G6LjTzIOh3Y/selector/css/zi1On7W7Vji",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/3npPnYCOpz2]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/231694901",
+        "type": "crm:E21_Person",
+        "label": "Schagerl, Jessica, 1975-"
     },
     "P2_has_type": [
         "oa:identifying"
