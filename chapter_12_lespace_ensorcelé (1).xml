@@ -533,7 +533,7 @@
                                     <ref target="#theory">Pour résumer, c’est dans l’espace narratif que se mêlent et s’inversent les deux codes et que naît le réalisme magique. Au-delà de cette structure narrative particulière, dont les subversions sont nombreuses, les thèmes réalistes magiques produisent des effets de perturbation et de questionnement</ref>
                                 </ref>. <ref target="#literary_schools">Si nous concevons aujourd’hui le réalisme magique comme un genre dominant la <q>
                                         <hi rend="italic" xml:lang="en-CA">world literature</hi>
-                                    </q> et la critique postcoloniale, c’est parce qu’il menace le paradigme dominant avec un couteau à la gorge</ref>. <ref target="#intertextuality">Les romans de Allende, de Carter, de García Márquez, de Morrison, de Okri et de Rushdie illustrent bien ce phénomène — voire en sont emblématiques — pointant avec force des lieux mouvementés et subversifs dont les histoires refoulées doivent remonter à la surface</ref>.</ref>
+                                    </q> et la critique postcoloniale, c’est parce qu’il menace le paradigme dominant avec un couteau à la gorge</ref>. <ref target="#intertextuality">Les romans de Allende, de Carter, de García Márquez, de Morrison, de <placeName key="Okri, Ben, 1959-...." ref="http://viaf.org/viaf/76380613" ana="webannotation:http://temp.lincsproject.ca/pCJPiyahEY1">Okri</placeName> et de Rushdie illustrent bien ce phénomène — voire en sont emblématiques — pointant avec force des lieux mouvementés et subversifs dont les histoires refoulées doivent remonter à la surface</ref>.</ref>
                         </ref>
                     </ref>
                 </p>
@@ -758,7 +758,7 @@
                         <bibl>Lord, Michel. <title level="m">La logique de l’impossible</title>. <placeName key="Québec" ref="https://sws.geonames.org/6115047" ana="webannotation:http://temp.lincsproject.ca/XwIqityvaHm">Québec</placeName>: Nuit Blanche Éditeur, 1995.</bibl>
                         <bibl>Munley, Ellen W. <title level="a" xml:lang="en-CA">Spatial Metaphors in Anne Hébert’s <title level="m" xml:lang="fr-CA">Les enfants du sabbat</title>: Within and beyond the Confines of the Convent, the Cabin, and the Quotidian</title>. <title level="j">Dolphin</title> 20 (1991): 55-66.</bibl>
                         <bibl>Nepveu, Pierre.<title level="m">L’écologie du réel. Mort et naissance de la littérature québécoise contemporaine</title>. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/Dnoh4WwpslV">Paris</placeName>: Seuil, 1988.</bibl>
-                        <bibl>Okri, Ben. <title level="m" xml:lang="en-CA">The Famished Road</title>. London: Vintage, 1992.</bibl>
+                        <bibl><placeName key="Okri, Ben, 1959-...." ref="http://viaf.org/viaf/76380613" ana="webannotation:http://temp.lincsproject.ca/TCETt7SqaTj">Okri</placeName>, Ben. <title level="m" xml:lang="en-CA">The Famished Road</title>. London: Vintage, 1992.</bibl>
                         <bibl>Paterson, Janet. <title level="a">Parodie et sorcellerie.</title>
                             <title level="j">Études littéraires</title> 19.1 (1986): 59-66.</bibl>
                         <bibl>Roussos, Katherine. <title level="m">Décoloniser l’imaginaire: Le réalisme magique chez Maryse Condé, Sylvie Germain et Marie Ndiaye</title>. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/cGMb34Xuud2">Paris</placeName>: L’Harmattan, 2007.</bibl>
@@ -3328,13 +3328,195 @@
 }]]>
 				
 </rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/pCJPiyahEY1">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/pCJPiyahEY1",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T15:52:48.285Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/aaT1nneQHxL",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "L’espace ensorcelé"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/aaT1nneQHxL/selector/textPosition/izTuzgZQ73Y",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 16246,
+                "end": 16250,
+                "refinedBy": {
+                    "id": "/target/aaT1nneQHxL/selector/textQuote/Qdo2ToQMWOZ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Okri",
+                    "prefix": " Les romans de Allende, de Carter, de García Márquez, de Morrison, de",
+                    "suffix": "et de Rushdie illustrent bien ce phénomène — voire en sont emblématiques — pointant avec force des lieux mouvementés et subversifs dont les histoires refoulées doivent remonter à la surface"
+                }
+            },
+            {
+                "id": "/target/aaT1nneQHxL/selector/css/OZ3BtAF2uDM",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/pCJPiyahEY1]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/76380613",
+        "type": "crm:E21_Person",
+        "label": "Okri, Ben, 1959-....",
+        "description": "Okri, Ben"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/TCETt7SqaTj">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/TCETt7SqaTj",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T15:52:48.285Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/vQYsISBZIZj",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "L’espace ensorcelé"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/vQYsISBZIZj/selector/textPosition/vHgWWnLS8uD",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 46255,
+                "end": 46259,
+                "refinedBy": {
+                    "id": "/target/vQYsISBZIZj/selector/textQuote/wCF6dsia6PM",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Okri",
+                    "prefix": "\n                       ",
+                    "suffix": " Ben"
+                }
+            },
+            {
+                "id": "/target/vQYsISBZIZj/selector/css/zMZExrYkeVD",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/TCETt7SqaTj]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/76380613",
+        "type": "crm:E21_Person",
+        "label": "Okri, Ben, 1959-....",
+        "description": "Okri, Ben"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
 			
 </rdf:RDF>
 		
 
 		
+
+		
 </xenoData>
 	
+	
 	</standOff>
+
 
 </TEI>
