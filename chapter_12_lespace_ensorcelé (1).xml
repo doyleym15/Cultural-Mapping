@@ -747,7 +747,7 @@
                         <bibl>Carter, Angela. <title level="m">Nights at the Circus</title>. <placeName key="University of London" ref="https://sws.geonames.org/6944357" ana="webannotation:http://temp.lincsproject.ca/wVffOLHxIo9">London</placeName>: Vintage, 1994. (1 <hi rend="superscript">e</hi> édition 1984)</bibl>
                         <bibl>Chanady, <placeName key="Chanady, Amaryll Beatrice, 1954-...." ref="http://viaf.org/viaf/45169882" ana="webannotation:http://temp.lincsproject.ca/q7i7aTzrqny">Amaryll Beatrice</placeName>. <title level="m">Magical Realism and the Fantastic: Resolved Versus Unresolved Antinomy</title>. <placeName key="New York" ref="https://www.geonames.org/5128638/new-york.html" ana="webannotation:http://temp.lincsproject.ca/Gevg1cf8Ulu">New York</placeName>: Garland Publishing, 1985.</bibl>
                         <bibl>English, Judith et Jacqueline Viswanathan. <title level="a">Les deux dames du Précieux-Sang : à propos des <title level="m">Enfants du sabbat</title> d’Anne Hébert</title>. <title level="j">Présence francophone</title> 22 (1981): 111-19.</bibl>
-                        <bibl>Faris, Wendy B. <title level="m" xml:lang="en-CA">Ordinary Enchantments: Magical Realism and the Remystification of Narrative</title>. <placeName key="Nashville" ref="https://sws.geonames.org/4644585" ana="webannotation:http://temp.lincsproject.ca/6HlY0c7zUC0">Nashville</placeName>: Vanderbilt University Press, 2004.</bibl>
+                        <bibl>Faris, Wendy B. <title level="m" xml:lang="en-CA">Ordinary Enchantments: Magical Realism and the Remystification of Narrative</title>. <placeName key="Nashville" ref="https://sws.geonames.org/4644585" ana="webannotation:http://temp.lincsproject.ca/6HlY0c7zUC0">Nashville</placeName>: <orgName key="Vanderbilt University Press." ref="http://viaf.org/viaf/311353400" ana="webannotation:http://temp.lincsproject.ca/QmLs930juEf">Vanderbilt University Press</orgName>, 2004.</bibl>
                         <bibl>Fonteneau, Anne. <title level="m">Le féminin et le sacré dans l’œuvre en prose d’Anne Hébert</title>. Thèse de doctorat, Université Laval, 2001.</bibl>
                         <bibl>García Márquez, Gabriel. <title level="m">Cent ans de solitude</title>. Trad. Carmen et Claude Durand. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/55Kf27th6On">Paris</placeName>: Seuil, 1968. (traduction de <title level="m" xml:lang="es-ES">Cien años de soledad</title>, 1967)</bibl>
                         <bibl>. <title level="a">Un monsieur très vieux avec des ailes immenses</title>. <title level="m">L’Incroyable et triste histoire de la candide Erendira et de sa diabolique grand-mère</title>. Trad. Claude Couffon. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/olGaHCLgn0r">Paris</placeName>: Grasset et Fasquelle, 1977. 10-11.</bibl>
@@ -6024,8 +6024,99 @@
 }]]>
 				
 </rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/QmLs930juEf">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/QmLs930juEf",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T17:25:36.546Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/25u2ubFk797",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "L’espace ensorcelé"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/25u2ubFk797/selector/textPosition/I4nWFKhgItO",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 44712,
+                "end": 44739,
+                "refinedBy": {
+                    "id": "/target/25u2ubFk797/selector/textQuote/mZdAYdVrWtQ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Vanderbilt University Press",
+                    "prefix": " Nashville:",
+                    "suffix": " 2004"
+                }
+            },
+            {
+                "id": "/target/25u2ubFk797/selector/css/wcZ6cFQcjir",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/QmLs930juEf]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/311353400",
+        "type": "crm:E74_Group",
+        "label": "Vanderbilt University Press.",
+        "description": "Vanderbilt University Press American university press associated with Vanderbilt University"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
 			
 </rdf:RDF>
+		
+
 		
 
 		
@@ -6040,7 +6131,9 @@
 	
 	
 	
+	
 	</standOff>
+
 
 
 
