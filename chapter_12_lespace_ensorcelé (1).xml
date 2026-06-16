@@ -753,7 +753,7 @@
                         <bibl>. <title level="a">Un monsieur très vieux avec des ailes immenses</title>. <title level="m">L’Incroyable et triste histoire de la candide Erendira et de sa diabolique grand-mère</title>. Trad. Claude Couffon. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/olGaHCLgn0r">Paris</placeName>: Grasset et Fasquelle, 1977. 10-11.</bibl>
                         <bibl>Gaulin, André. <title level="a">Lecture politique d’Anne Hébert, point de vue d’une protagoniste</title>. <title level="j">Centre d’études québécoises</title> 92 (1994): 77-82.</bibl>
                         <bibl>Hébert, Anne. <title level="m">Les enfants du sabbat</title>. Montréal: Boréal, 1995. (1 <hi rend="superscript">e</hi> édition 1975)</bibl>
-                        <bibl><placeName key="Kwaterko, Józef" ref="http://viaf.org/viaf/84698168" ana="webannotation:http://temp.lincsproject.ca/Zp3YWdzyJ0X">Kwaterko</placeName>, Jozef. <title level="m">Le roman québécois et ses (inter)discours</title>. <placeName key="Québec" ref="https://sws.geonames.org/6115047" ana="webannotation:http://temp.lincsproject.ca/GRTlZiD25YG">Québec</placeName>: Nota Bene, 1998.</bibl>
+                        <bibl><placeName key="Kwaterko, Józef" ref="http://viaf.org/viaf/84698168" ana="webannotation:http://temp.lincsproject.ca/Zp3YWdzyJ0X" type="real">Kwaterko</placeName>, Jozef. <title level="m">Le roman québécois et ses (inter)discours</title>. <placeName key="Québec" ref="https://sws.geonames.org/6115047" ana="webannotation:http://temp.lincsproject.ca/GRTlZiD25YG">Québec</placeName>: Nota Bene, 1998.</bibl>
                         <bibl>Lemieux, Marie-Hélène. <title level="a">Pour une sociocritique du roman <title level="m">Kamouraska</title> d’Anne Hébert</title>. <title level="j">Voix et images</title> 28.3 (2003): 95-113.</bibl>
                         <bibl>Lord, Michel. <title level="m">La logique de l’impossible</title>. <placeName key="Québec" ref="https://sws.geonames.org/6115047" ana="webannotation:http://temp.lincsproject.ca/XwIqityvaHm">Québec</placeName>: Nuit Blanche Éditeur, 1995.</bibl>
                         <bibl>Munley, Ellen W. <title level="a" xml:lang="en-CA">Spatial Metaphors in Anne Hébert’s <title level="m" xml:lang="fr-CA">Les enfants du sabbat</title>: Within and beyond the Confines of the Convent, the Cabin, and the Quotidian</title>. <title level="j">Dolphin</title> 20 (1991): 55-66.</bibl>
@@ -3594,7 +3594,10 @@
         "id": "http://viaf.org/viaf/84698168",
         "type": "crm:E21_Person",
         "label": "Kwaterko, Józef",
-        "description": "Kwaterko, Józef, 19..-...."
+        "description": "Kwaterko, Józef, 19..-....",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
