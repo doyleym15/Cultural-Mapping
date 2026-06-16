@@ -683,7 +683,7 @@
                             <ref target="#response_formal">
                                 <ref target="#theme_or_topic">
                                     <ref target="#genre_fiction">Plusieurs critiques ont mis en lumière ce désir d’être libéré d’une situation opprimante comme constituant un thème privilégié du réalisme magique, et ce thème est bien présent dans la critique québécoise</ref>. Un genre qui subvertit les idées généralement admises, qui renverse les structures dominantes et qui donne la voix aux marginalisés est loin d’être étranger au contexte de production littéraire québécois.</ref>
-                                <ref target="#religion">Ainsi, le texte relève d’un contexte considérablement marqué par la tradition et la religion et, comme le note Denis Bouchard, <q>ces jeux sont féroces pour [les] Québécois accoutumés à des épopées des <placeName key="Laurentides" ref="https://sws.geonames.org/6050541" ana="webannotation:http://temp.lincsproject.ca/Z5LuoHko9Oc" type="real" cert="high" precision="high">Laurentides</placeName> et du <placeName key="Saint-Laurent" ref="https://www.geonames.org/2787382/saint-laurent.html" ana="webannotation:http://temp.lincsproject.ca/6VqdcReDNuP" type="real" cert="high" precision="high">Saint-Laurent</placeName>. Des rétrospectives dénichant l’inceste et tout un catalogue de vices honteux peuvent en fin de compte se rapporter à nos expériences, inédites à cause d’un manque de courage héréditaire, refoulées à cause de notre culpabilité</q>
+                                <ref target="#religion">Ainsi, le texte relève d’un contexte considérablement marqué par la tradition et la religion et, comme le note Denis Bouchard, <q>ces jeux sont féroces pour [les] <placeName key="Québécois" ref="http://www.wikidata.org/entity/Q245507" ana="webannotation:http://temp.lincsproject.ca/rGCAIIwTdXL">Québécois</placeName> accoutumés à des épopées des <placeName key="Laurentides" ref="https://sws.geonames.org/6050541" ana="webannotation:http://temp.lincsproject.ca/Z5LuoHko9Oc" type="real" cert="high" precision="high">Laurentides</placeName> et du <placeName key="Saint-Laurent" ref="https://www.geonames.org/2787382/saint-laurent.html" ana="webannotation:http://temp.lincsproject.ca/6VqdcReDNuP" type="real" cert="high" precision="high">Saint-Laurent</placeName>. Des rétrospectives dénichant l’inceste et tout un catalogue de vices honteux peuvent en fin de compte se rapporter à nos expériences, inédites à cause d’un manque de courage héréditaire, refoulées à cause de notre culpabilité</q>
                                     <note place="inline">
                                         <bibl>173</bibl>
                                     </note>
@@ -743,7 +743,7 @@
                         <bibl>Bishop, Neil.<title level="a">
                                 <title level="m">Les enfants du sabbat</title> et la problématique de la libération chez Anne Hébert</title>. <title level="m">The Art and Genius of Anne Hébert: Essays on Her Works</title>. Dir. Janis L. Pallister. Cranbury, NJ: Rosemont Publishing, 2001. 54-74.</bibl>
                         <bibl>Bouchard, Denis. <title level="m">Une lecture d’Anne Hébert : La recherche d’une mythologie</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/h19HBpOrQ9C">Montréal</placeName>: Hurtubise <hi rend="small-caps">hmh</hi>, 1977.</bibl>
-                        <bibl>Bourassa, André. <title level="m">Surréalisme et littérature québécoise</title>. Montréal: L’Étincelle, 1977.</bibl>
+                        <bibl>Bourassa, André. <title level="m">Surréalisme et littérature québécoise</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/kqZvHONiV7a">Montréal</placeName>: L’Étincelle, 1977.</bibl>
                         <bibl>Carter, Angela. <title level="m">Nights at the Circus</title>. London: Vintage, 1994. (1 <hi rend="superscript">e</hi> édition 1984)</bibl>
                         <bibl>Chanady, <placeName key="Chanady, Amaryll Beatrice, 1954-...." ref="http://viaf.org/viaf/45169882" ana="webannotation:http://temp.lincsproject.ca/q7i7aTzrqny">Amaryll Beatrice</placeName>. <title level="m">Magical Realism and the Fantastic: Resolved Versus Unresolved Antinomy</title>. New York: Garland Publishing, 1985.</bibl>
                         <bibl>English, Judith et Jacqueline Viswanathan. <title level="a">Les deux dames du Précieux-Sang : à propos des <title level="m">Enfants du sabbat</title> d’Anne Hébert</title>. <title level="j">Présence francophone</title> 22 (1981): 111-19.</bibl>
@@ -752,7 +752,7 @@
                         <bibl>García Márquez, Gabriel. <title level="m">Cent ans de solitude</title>. Trad. Carmen et Claude Durand. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/55Kf27th6On">Paris</placeName>: Seuil, 1968. (traduction de <title level="m" xml:lang="es-ES">Cien años de soledad</title>, 1967)</bibl>
                         <bibl>. <title level="a">Un monsieur très vieux avec des ailes immenses</title>. <title level="m">L’Incroyable et triste histoire de la candide Erendira et de sa diabolique grand-mère</title>. Trad. Claude Couffon. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/olGaHCLgn0r">Paris</placeName>: Grasset et Fasquelle, 1977. 10-11.</bibl>
                         <bibl>Gaulin, André. <title level="a">Lecture politique d’Anne Hébert, point de vue d’une protagoniste</title>. <title level="j">Centre d’études québécoises</title> 92 (1994): 77-82.</bibl>
-                        <bibl>Hébert, Anne. <title level="m">Les enfants du sabbat</title>. Montréal: Boréal, 1995. (1 <hi rend="superscript">e</hi> édition 1975)</bibl>
+                        <bibl>Hébert, Anne. <title level="m">Les enfants du sabbat</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/ydXlHN9U1kC">Montréal</placeName>: Boréal, 1995. (1 <hi rend="superscript">e</hi> édition 1975)</bibl>
                         <bibl><placeName key="Kwaterko, Józef" ref="http://viaf.org/viaf/84698168" ana="webannotation:http://temp.lincsproject.ca/Zp3YWdzyJ0X" type="real" cert="high">Kwaterko</placeName>, Jozef. <title level="m">Le roman québécois et ses (inter)discours</title>. <placeName key="Québec" ref="https://sws.geonames.org/6115047" ana="webannotation:http://temp.lincsproject.ca/GRTlZiD25YG">Québec</placeName>: Nota Bene, 1998.</bibl>
                         <bibl>Lemieux, Marie-Hélène. <title level="a">Pour une sociocritique du roman <title level="m">Kamouraska</title> d’Anne Hébert</title>. <title level="j">Voix et images</title> 28.3 (2003): 95-113.</bibl>
                         <bibl>Lord, Michel. <title level="m">La logique de l’impossible</title>. <placeName key="Québec" ref="https://sws.geonames.org/6115047" ana="webannotation:http://temp.lincsproject.ca/XwIqityvaHm">Québec</placeName>: Nuit Blanche Éditeur, 1995.</bibl>
@@ -3514,6 +3514,95 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/rGCAIIwTdXL">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/rGCAIIwTdXL",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T16:42:26.014Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/AgCNPiVJaYh",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "L’espace ensorcelé"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/AgCNPiVJaYh/selector/textPosition/wlPuH8Skz6v",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 37448,
+                "end": 37457,
+                "refinedBy": {
+                    "id": "/target/AgCNPiVJaYh/selector/textQuote/cTmIxTrUVmK",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Québécois",
+                    "prefix": "\n                                Ainsi, le texte relève d’un contexte considérablement marqué par la tradition et la religion et, comme le note Denis Bouchard, ces jeux sont féroces pour [les]",
+                    "suffix": "accoutumés à des épopées des Laurentides et du Saint-Laurent"
+                }
+            },
+            {
+                "id": "/target/AgCNPiVJaYh/selector/css/NnilOiMXsOX",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/rGCAIIwTdXL]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q245507",
+        "type": "crm:E53_Place",
+        "label": "Québécois",
+        "description": "residents of the province of Quebec, Canada"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/h19HBpOrQ9C">
 <![CDATA[{
     "@context": [
@@ -3587,6 +3676,184 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/h19HBpOrQ9C]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6077243",
+        "type": "crm:E53_Place",
+        "label": "Montréal",
+        "description": "Quebec, Municipio E, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/kqZvHONiV7a">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/kqZvHONiV7a",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T16:39:38.260Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ISheo4JBqzT",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "L’espace ensorcelé"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ISheo4JBqzT/selector/textPosition/496xrqS576V",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 44105,
+                "end": 44113,
+                "refinedBy": {
+                    "id": "/target/ISheo4JBqzT/selector/textQuote/C4NtSAj1Vgo",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Montréal",
+                    "prefix": "",
+                    "suffix": " L’Étincelle, 1977"
+                }
+            },
+            {
+                "id": "/target/ISheo4JBqzT/selector/css/LM4fcnRb4jX",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/kqZvHONiV7a]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6077243",
+        "type": "crm:E53_Place",
+        "label": "Montréal",
+        "description": "Quebec, Municipio E, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ydXlHN9U1kC">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ydXlHN9U1kC",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T16:39:38.295Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/0p9IOaxwphs",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "L’espace ensorcelé"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/0p9IOaxwphs/selector/textPosition/4hkCjqslRnX",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 45493,
+                "end": 45501,
+                "refinedBy": {
+                    "id": "/target/0p9IOaxwphs/selector/textQuote/Kl7wRhtwFOS",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Montréal",
+                    "prefix": "",
+                    "suffix": " Boréal, 1995"
+                }
+            },
+            {
+                "id": "/target/0p9IOaxwphs/selector/css/HSqbRf7YaPk",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ydXlHN9U1kC]"
             }
         ]
     },
