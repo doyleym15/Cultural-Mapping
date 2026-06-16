@@ -533,7 +533,7 @@
                                     <ref target="#theory">Pour résumer, c’est dans l’espace narratif que se mêlent et s’inversent les deux codes et que naît le réalisme magique. Au-delà de cette structure narrative particulière, dont les subversions sont nombreuses, les thèmes réalistes magiques produisent des effets de perturbation et de questionnement</ref>
                                 </ref>. <ref target="#literary_schools">Si nous concevons aujourd’hui le réalisme magique comme un genre dominant la <q>
                                         <hi rend="italic" xml:lang="en-CA">world literature</hi>
-                                    </q> et la critique postcoloniale, c’est parce qu’il menace le paradigme dominant avec un couteau à la gorge</ref>. <ref target="#intertextuality">Les romans de Allende, de Carter, de García Márquez, de Morrison, de <placeName key="Okri, Ben, 1959-...." ref="http://viaf.org/viaf/76380613" ana="webannotation:http://temp.lincsproject.ca/pCJPiyahEY1">Okri</placeName> et de Rushdie illustrent bien ce phénomène — voire en sont emblématiques — pointant avec force des lieux mouvementés et subversifs dont les histoires refoulées doivent remonter à la surface</ref>.</ref>
+                                    </q> et la critique postcoloniale, c’est parce qu’il menace le paradigme dominant avec un couteau à la gorge</ref>. <ref target="#intertextuality">Les romans de Allende, de Carter, de García Márquez, de Morrison, de <placeName key="Okri, Ben, 1959-...." ref="http://viaf.org/viaf/76380613" ana="webannotation:http://temp.lincsproject.ca/pCJPiyahEY1" type="real">Okri</placeName> et de Rushdie illustrent bien ce phénomène — voire en sont emblématiques — pointant avec force des lieux mouvementés et subversifs dont les histoires refoulées doivent remonter à la surface</ref>.</ref>
                         </ref>
                     </ref>
                 </p>
@@ -3409,7 +3409,10 @@
         "id": "http://viaf.org/viaf/76380613",
         "type": "crm:E21_Person",
         "label": "Okri, Ben, 1959-....",
-        "description": "Okri, Ben"
+        "description": "Okri, Ben",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -3498,7 +3501,10 @@
         "id": "http://viaf.org/viaf/76380613",
         "type": "crm:E21_Person",
         "label": "Okri, Ben, 1959-....",
-        "description": "Okri, Ben"
+        "description": "Okri, Ben",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
