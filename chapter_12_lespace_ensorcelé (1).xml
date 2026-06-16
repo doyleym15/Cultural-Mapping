@@ -753,7 +753,7 @@
                         <bibl>. <title level="a">Un monsieur très vieux avec des ailes immenses</title>. <title level="m">L’Incroyable et triste histoire de la candide Erendira et de sa diabolique grand-mère</title>. Trad. Claude Couffon. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/olGaHCLgn0r">Paris</placeName>: Grasset et Fasquelle, 1977. 10-11.</bibl>
                         <bibl>Gaulin, André. <title level="a">Lecture politique d’Anne Hébert, point de vue d’une protagoniste</title>. <title level="j">Centre d’études québécoises</title> 92 (1994): 77-82.</bibl>
                         <bibl>Hébert, Anne. <title level="m">Les enfants du sabbat</title>. Montréal: Boréal, 1995. (1 <hi rend="superscript">e</hi> édition 1975)</bibl>
-                        <bibl>Kwaterko, Jozef. <title level="m">Le roman québécois et ses (inter)discours</title>. <placeName key="Québec" ref="https://sws.geonames.org/6115047" ana="webannotation:http://temp.lincsproject.ca/GRTlZiD25YG">Québec</placeName>: Nota Bene, 1998.</bibl>
+                        <bibl><placeName key="Kwaterko, Józef" ref="http://viaf.org/viaf/84698168" ana="webannotation:http://temp.lincsproject.ca/Zp3YWdzyJ0X">Kwaterko</placeName>, Jozef. <title level="m">Le roman québécois et ses (inter)discours</title>. <placeName key="Québec" ref="https://sws.geonames.org/6115047" ana="webannotation:http://temp.lincsproject.ca/GRTlZiD25YG">Québec</placeName>: Nota Bene, 1998.</bibl>
                         <bibl>Lemieux, Marie-Hélène. <title level="a">Pour une sociocritique du roman <title level="m">Kamouraska</title> d’Anne Hébert</title>. <title level="j">Voix et images</title> 28.3 (2003): 95-113.</bibl>
                         <bibl>Lord, Michel. <title level="m">La logique de l’impossible</title>. <placeName key="Québec" ref="https://sws.geonames.org/6115047" ana="webannotation:http://temp.lincsproject.ca/XwIqityvaHm">Québec</placeName>: Nuit Blanche Éditeur, 1995.</bibl>
                         <bibl>Munley, Ellen W. <title level="a" xml:lang="en-CA">Spatial Metaphors in Anne Hébert’s <title level="m" xml:lang="fr-CA">Les enfants du sabbat</title>: Within and beyond the Confines of the Convent, the Cabin, and the Quotidian</title>. <title level="j">Dolphin</title> 20 (1991): 55-66.</bibl>
@@ -3506,6 +3506,95 @@
         "P2_has_type": [
             "edit:modeReal"
         ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Zp3YWdzyJ0X">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Zp3YWdzyJ0X",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T15:53:18.593Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/P7JGS130egt",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "L’espace ensorcelé"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/P7JGS130egt/selector/textPosition/s4qK37V5R4h",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 45560,
+                "end": 45568,
+                "refinedBy": {
+                    "id": "/target/P7JGS130egt/selector/textQuote/WgHUFS7kPt5",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Kwaterko",
+                    "prefix": " (1 e édition 1975)\n                       ",
+                    "suffix": " Jozef"
+                }
+            },
+            {
+                "id": "/target/P7JGS130egt/selector/css/pkAwjV9SaJL",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Zp3YWdzyJ0X]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/84698168",
+        "type": "crm:E21_Person",
+        "label": "Kwaterko, Józef",
+        "description": "Kwaterko, Józef, 19..-...."
     },
     "P2_has_type": [
         "oa:identifying"
