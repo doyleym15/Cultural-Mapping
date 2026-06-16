@@ -737,7 +737,7 @@
                 <div type="section">
                     <head>Bibliographie</head>
                     <listBibl>
-                        <bibl>Allende, Isabel. <title level="m" xml:lang="en-CA">The House of the Spirits</title>. Trad. Magda Bogin. New York: <placeName key="Bantam Books (Firm)" ref="http://viaf.org/viaf/140757042" ana="webannotation:http://temp.lincsproject.ca/9HQ5XKrrrde">Bantam</placeName>, 1986. (traduction de <title level="m">La casa de los espíritus</title>, 1982)</bibl>
+                        <bibl>Allende, Isabel. <title level="m" xml:lang="en-CA">The House of the Spirits</title>. Trad. Magda Bogin. <placeName key="New York" ref="https://www.geonames.org/5128638/new-york.html" ana="webannotation:http://temp.lincsproject.ca/5iHfGATC9Di">New York</placeName>: <placeName key="Bantam Books (Firm)" ref="http://viaf.org/viaf/140757042" ana="webannotation:http://temp.lincsproject.ca/9HQ5XKrrrde">Bantam</placeName>, 1986. (traduction de <title level="m">La casa de los espíritus</title>, 1982)</bibl>
                         <bibl>Bakhtine, Mikhail. <title level="m" xml:lang="en-CA">Rabelais and his World</title>. Trad. Hélène Iswolsky. <placeName key="Bloomington" ref="https://sws.geonames.org/4254679" ana="webannotation:http://temp.lincsproject.ca/zXC9ohvvoq8">Bloomington</placeName>: <orgName key="Indiana university press" ref="http://viaf.org/viaf/122335523" ana="webannotation:http://temp.lincsproject.ca/h1NoajymQS6">Indiana University Press</orgName>, 1984.</bibl>
                         <bibl>Bessière, Irène. <title level="m">Le récit fantastique</title>.<placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/GetiagMN7Fg">Paris</placeName>: Larousse, 1974.</bibl>
                         <bibl>Bishop, Neil.<title level="a">
@@ -745,7 +745,7 @@
                         <bibl>Bouchard, Denis. <title level="m">Une lecture d’Anne Hébert : La recherche d’une mythologie</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/h19HBpOrQ9C">Montréal</placeName>: Hurtubise <hi rend="small-caps">hmh</hi>, 1977.</bibl>
                         <bibl>Bourassa, André. <title level="m">Surréalisme et littérature québécoise</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/kqZvHONiV7a">Montréal</placeName>: L’<placeName key="Editions L'Etincelle." ref="http://viaf.org/viaf/151190702" ana="webannotation:http://temp.lincsproject.ca/xMH7bCNYyxx">Étincelle</placeName>, 1977.</bibl>
                         <bibl>Carter, Angela. <title level="m">Nights at the Circus</title>. London: Vintage, 1994. (1 <hi rend="superscript">e</hi> édition 1984)</bibl>
-                        <bibl>Chanady, <placeName key="Chanady, Amaryll Beatrice, 1954-...." ref="http://viaf.org/viaf/45169882" ana="webannotation:http://temp.lincsproject.ca/q7i7aTzrqny">Amaryll Beatrice</placeName>. <title level="m">Magical Realism and the Fantastic: Resolved Versus Unresolved Antinomy</title>. New York: Garland Publishing, 1985.</bibl>
+                        <bibl>Chanady, <placeName key="Chanady, Amaryll Beatrice, 1954-...." ref="http://viaf.org/viaf/45169882" ana="webannotation:http://temp.lincsproject.ca/q7i7aTzrqny">Amaryll Beatrice</placeName>. <title level="m">Magical Realism and the Fantastic: Resolved Versus Unresolved Antinomy</title>. <placeName key="New York" ref="https://www.geonames.org/5128638/new-york.html" ana="webannotation:http://temp.lincsproject.ca/Gevg1cf8Ulu">New York</placeName>: Garland Publishing, 1985.</bibl>
                         <bibl>English, Judith et Jacqueline Viswanathan. <title level="a">Les deux dames du Précieux-Sang : à propos des <title level="m">Enfants du sabbat</title> d’Anne Hébert</title>. <title level="j">Présence francophone</title> 22 (1981): 111-19.</bibl>
                         <bibl>Faris, Wendy B. <title level="m" xml:lang="en-CA">Ordinary Enchantments: Magical Realism and the Remystification of Narrative</title>. <placeName key="Nashville" ref="https://sws.geonames.org/4644585" ana="webannotation:http://temp.lincsproject.ca/6HlY0c7zUC0">Nashville</placeName>: Vanderbilt University Press, 2004.</bibl>
                         <bibl>Fonteneau, Anne. <title level="m">Le féminin et le sacré dans l’œuvre en prose d’Anne Hébert</title>. Thèse de doctorat, Université Laval, 2001.</bibl>
@@ -4860,6 +4860,184 @@
         "type": "crm:E74_Group",
         "label": "Duke university press",
         "description": "Duke University Press American academic publisher"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/5iHfGATC9Di">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/5iHfGATC9Di",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T17:08:10.702Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/6sr42r3hm9f",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "L’espace ensorcelé"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/6sr42r3hm9f/selector/textPosition/tJQg8bCFrzi",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 43327,
+                "end": 43335,
+                "refinedBy": {
+                    "id": "/target/6sr42r3hm9f/selector/textQuote/hfgKm8jGCiT",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "New York",
+                    "prefix": "",
+                    "suffix": " Bantam, 1986"
+                }
+            },
+            {
+                "id": "/target/6sr42r3hm9f/selector/css/prljPdMXa92",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/5iHfGATC9Di]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.geonames.org/5128638/new-york.html",
+        "label": "New York",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Gevg1cf8Ulu">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Gevg1cf8Ulu",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T17:08:10.785Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/BEVh1Frc4w3",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "L’espace ensorcelé"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/BEVh1Frc4w3/selector/textPosition/xjxmG98Szk5",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 44361,
+                "end": 44369,
+                "refinedBy": {
+                    "id": "/target/BEVh1Frc4w3/selector/textQuote/1Snec8N54Wm",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "New York",
+                    "prefix": "",
+                    "suffix": " Garland Publishing, 1985"
+                }
+            },
+            {
+                "id": "/target/BEVh1Frc4w3/selector/css/BZnwYEfJiDP",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Gevg1cf8Ulu]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.geonames.org/5128638/new-york.html",
+        "label": "New York",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
