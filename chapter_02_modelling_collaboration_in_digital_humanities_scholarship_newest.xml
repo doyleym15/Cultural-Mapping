@@ -1044,7 +1044,7 @@
                         <bibl>Hutcheon, <persName key="Hutcheon, Linda, 1947-...." ref="http://viaf.org/viaf/101807260" ana="webannotation:http://temp.lincsproject.ca/YFaem6aaf4p">Linda</persName>, and <persName key="Hutcheon, Michael, 1945-...." ref="http://viaf.org/viaf/262481632" ana="webannotation:http://temp.lincsproject.ca/nLeVBQgCGQP">Michael Hutcheon</persName>. <title level="a">A Convenience of Marriage: Collaboration and Interdisciplinarity</title>. <title level="j">PMLA</title> 116.5 (October 2001): 1364–76.</bibl>
                         <bibl>MacKinnon, Joseph, Nicholas van Orden, and Rebecca Blakey. <title level="a">How to Scan Like a Rock Star. <abbr>EMiC UA</abbr> Working Document</title>.</bibl>
                         <bibl><persName key="Martin, Robert C." ref="http://viaf.org/viaf/85276018" ana="webannotation:http://temp.lincsproject.ca/hFdgOIENKvg">Martin</persName>, Robert C. <title level="m">Clean Code: A Handbook of Agile Software Craftsmanship</title>. Boston: Prentice-Hall, 2009.</bibl>
-                        <bibl><persName key="McCarty, Willard, 1945-...." ref="http://viaf.org/viaf/119002646" ana="webannotation:http://temp.lincsproject.ca/gBD8rdxS5HB">McCarty</persName>, Willard. <title level="m">Humanities Computing</title>. Basingstoke: <orgName key="Palgrave Macmillan" ref="http://viaf.org/viaf/315532896" ana="webannotation:http://temp.lincsproject.ca/jxk9gMccvIB">Palgrave Macmillan</orgName>, 2005.</bibl>
+                        <bibl><persName key="McCarty, Willard, 1945-...." ref="http://viaf.org/viaf/119002646" ana="webannotation:http://temp.lincsproject.ca/gBD8rdxS5HB">McCarty</persName>, Willard. <title level="m">Humanities Computing</title>. <placeName key="Basingstoke" ref="https://sws.geonames.org/2656192" ana="webannotation:http://temp.lincsproject.ca/wN6RdDxSCD0">Basingstoke</placeName>: <orgName key="Palgrave Macmillan" ref="http://viaf.org/viaf/315532896" ana="webannotation:http://temp.lincsproject.ca/jxk9gMccvIB">Palgrave Macmillan</orgName>, 2005.</bibl>
                         <bibl>Ms. Mentor [<persName key="Toth, Emily." ref="http://viaf.org/viaf/27133714" ana="webannotation:http://temp.lincsproject.ca/6FMkkaBOxBR">Emily Toth</persName>]. <title level="a">Who Owns Your Mind?</title>
                             <title level="j">Chronicle of Higher Education</title> 21 May 1999: n. pag.</bibl>
                         <bibl><persName key="Pratt, Mary Louise, 1948-" ref="http://viaf.org/viaf/24648210" ana="webannotation:http://temp.lincsproject.ca/JcwUzu6lMHi">Pratt</persName>, Mary Louise. <title level="a">Arts of the Contact Zone</title>. <title level="j">Profession</title> (1992): 33–40.</bibl>
@@ -18732,6 +18732,95 @@
         "type": "crm:E53_Place",
         "label": "California",
         "description": "California, US"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/wN6RdDxSCD0">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/wN6RdDxSCD0",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T14:21:19.809Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/h6rvRfhvKFr",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship_newest.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship_newest.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/h6rvRfhvKFr/selector/textPosition/JTqhcfvSDK4",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 69906,
+                "end": 69917,
+                "refinedBy": {
+                    "id": "/target/h6rvRfhvKFr/selector/textQuote/wiEYN0hoiNI",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Basingstoke",
+                    "prefix": "",
+                    "suffix": " Palgrave Macmillan, 2005"
+                }
+            },
+            {
+                "id": "/target/h6rvRfhvKFr/selector/css/mW2KpJH4jb7",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/wN6RdDxSCD0]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2656192",
+        "type": "crm:E53_Place",
+        "label": "Basingstoke",
+        "description": "England, Hampshire, GB"
     },
     "P2_has_type": [
         "oa:identifying"
