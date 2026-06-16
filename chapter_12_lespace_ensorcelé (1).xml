@@ -764,7 +764,7 @@
                         <bibl>Roussos, Katherine. <title level="m">Décoloniser l’imaginaire: Le réalisme magique chez Maryse Condé, Sylvie Germain et Marie Ndiaye</title>. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/cGMb34Xuud2">Paris</placeName>: L’Harmattan, 2007.</bibl>
                         <bibl>Rushdie, Salman. <title level="m" xml:lang="en-CA">Midnight’s Children</title>. London: Picador, 1982.</bibl>
                         <bibl>Scheel, Charles W. <title level="a">Le réalisme magique: mode narratif de la fiction ou label culturaliste?</title>
-                            <title level="m">Études culturelles, anthropologie culturelle et comparatisme. Vol. 2</title>. Dir. Didier Souiller, Antonio Dominguez Leiva, Sébastien Hubier et Philippe Chardin. Actes du 35 <hi rend="superscript">e</hi> congrès de la <hi rend="small-caps">sflgc</hi> (Société française de littérature générale et comparée). Dijon: Éditions du Murmure, 2010. 211-22.</bibl>
+                            <title level="m">Études culturelles, anthropologie culturelle et comparatisme. Vol. 2</title>. Dir. Didier Souiller, Antonio Dominguez Leiva, Sébastien Hubier et Philippe Chardin. Actes du 35 <hi rend="superscript">e</hi> congrès de la <hi rend="small-caps">sflgc</hi> (Société française de littérature générale et comparée). <placeName key="Dijon" ref="https://sws.geonames.org/3021372" ana="webannotation:http://temp.lincsproject.ca/hNhU34kVpeC">Dijon</placeName>: Éditions du Murmure, 2010. 211-22.</bibl>
                         <bibl>. <title level="m">Réalisme magique et réalisme merveilleux : Des théories aux poétiques</title>. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/UCqUFThhJYa">Paris</placeName>: L’Harmattan, 2005.</bibl>
                         <bibl>Todorov, Tzvetan. <title level="m">Introduction à la littérature fantastique</title>. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/K2mfyF8QHTT">Paris</placeName>: Seuil, 1970.</bibl>
                         <bibl>Viau, Robert (dir.). <title level="m">La création littéraire dans le contexte de l’exiguïté</title>. <placeName key="Québec" ref="https://sws.geonames.org/6115047" ana="webannotation:http://temp.lincsproject.ca/FbO5FtBapzH">Québec</placeName>: <hi rend="small-caps">mnh</hi>, 2000.</bibl>
@@ -3691,6 +3691,95 @@
     "P2_has_type": [
         "oa:identifying",
         "edit:certaintyHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/hNhU34kVpeC">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/hNhU34kVpeC",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T15:57:30.921Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/cPNokEf6kuV",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "L’espace ensorcelé"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/cPNokEf6kuV/selector/textPosition/svyNFhyi43d",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 47081,
+                "end": 47086,
+                "refinedBy": {
+                    "id": "/target/cPNokEf6kuV/selector/textQuote/IxTXXXlaLX2",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Dijon",
+                    "prefix": "",
+                    "suffix": " Éditions du Murmure, 2010"
+                }
+            },
+            {
+                "id": "/target/cPNokEf6kuV/selector/css/bwvlf7mq94V",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/hNhU34kVpeC]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/3021372",
+        "type": "crm:E53_Place",
+        "label": "Dijon",
+        "description": "Bourgogne-Franche-Comté, Cote d'Or, FR"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
