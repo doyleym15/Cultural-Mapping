@@ -428,7 +428,7 @@
                     <ref target="#genre_fiction">
                         <ref target="#genre_novel">
                             <ref target="#theory">Au-delà des contextes de production auxquels il est couramment rattaché, le réalisme magique peut imprégner certains romans qui n’ont pourtant pas été étudiés sous l’angle de ce genre populaire. <ref target="#writing_climate">
-                                    <ref target="#spatiality">Ainsi, l’espace québécois est un contexte de production réaliste magique idéal du fait de ses fables, de ses superstitions nombreuses et de ses saisons contrastées favorisant le chant et le conte, espace où s’épousent la dure réalité d’une terre et les sentiments d’exil et d’appartenance, où le mysticisme d’un pays rêvé hante les songes et où la culpabilité religieuse domine la mémoire et occupe l’esprit du <ref target="#nationality">Canadien français</ref>. Cet espace se reflète dans la production littéraire québécoise qui, à son tour, joue avec les crises et les passions de la culture et de l’histoire. <ref target="#history">Ne suffit-il pas de lire les romans d’après <ref target="#social_movement">la Révolution tranquille</ref> au <placeName key="Québec" ref="https://sws.geonames.org/6115047" ana="webannotation:http://temp.lincsproject.ca/u5Fm4hfVl82" type="real" cert="high" precision="high">Québec</placeName> pour en remarquer la qualité unique, pour ne pas dire subversive, ironique, politique et radicalement empreinte de son contexte social?</ref>
+                                    <ref target="#spatiality">Ainsi, l’espace québécois est un contexte de production réaliste magique idéal du fait de ses fables, de ses superstitions nombreuses et de ses saisons contrastées favorisant le chant et le conte, espace où s’épousent la dure réalité d’une terre et les sentiments d’exil et d’appartenance, où le mysticisme d’un pays rêvé hante les songes et où la culpabilité religieuse domine la mémoire et occupe l’esprit du <ref target="#nationality"><placeName key="French-Canadian" ref="http://vocab.getty.edu/aat/300386120" ana="webannotation:http://temp.lincsproject.ca/YyULQEIRe2p">Canadien</placeName> français</ref>. Cet espace se reflète dans la production littéraire québécoise qui, à son tour, joue avec les crises et les passions de la culture et de l’histoire. <ref target="#history">Ne suffit-il pas de lire les romans d’après <ref target="#social_movement">la Révolution tranquille</ref> au <placeName key="Québec" ref="https://sws.geonames.org/6115047" ana="webannotation:http://temp.lincsproject.ca/u5Fm4hfVl82" type="real" cert="high" precision="high">Québec</placeName> pour en remarquer la qualité unique, pour ne pas dire subversive, ironique, politique et radicalement empreinte de son contexte social?</ref>
                                     </ref>
                                 </ref>
                             </ref>
@@ -4318,6 +4318,95 @@
     "P2_has_type": [
         "oa:identifying",
         "edit:certaintyHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/YyULQEIRe2p">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/YyULQEIRe2p",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T16:58:25.584Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/lAiNKnppzWV",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "L’espace ensorcelé"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/lAiNKnppzWV/selector/textPosition/dhlnXXhOxyZ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 2060,
+                "end": 2068,
+                "refinedBy": {
+                    "id": "/target/lAiNKnppzWV/selector/textQuote/cr9uXJzkxve",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canadien",
+                    "prefix": " \n                                    Ainsi, l’espace québécois est un contexte de production réaliste magique idéal du fait de ses fables, de ses superstitions nombreuses et de ses saisons contrastées favorisant le chant et le conte, espace où s’épousent la dure réalité d’une terre et les sentiments d’exil et d’appartenance, où le mysticisme d’un pays rêvé hante les songes et où la culpabilité religieuse domine la mémoire et occupe l’esprit du",
+                    "suffix": "français"
+                }
+            },
+            {
+                "id": "/target/lAiNKnppzWV/selector/css/ApjX3XmxVMY",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/YyULQEIRe2p]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://vocab.getty.edu/aat/300386120",
+        "type": "crm:E28_Conceptual_Object",
+        "label": "French-Canadian",
+        "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
