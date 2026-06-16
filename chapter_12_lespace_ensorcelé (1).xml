@@ -771,7 +771,7 @@
                         <bibl>Walsh Matthews, Stéphanie. <title level="m">Le réalisme magique dans la littérature contemporaine québécoise</title>. Thèse de doctorat, Université de Toronto, 2011.</bibl>
                         <bibl>. <title level="a">Les vérités ensorcelantes: les sorcières dans la littérature francophone au féminin</title>. <title level="j">MaComère</title> 13.1-2 (2012): 82-97.</bibl>
                         <bibl>Weisgerber, Jean (dir.). <title level="m">Le réalisme magique. Roman. Peinture. Cinéma</title>. Lausanne: L’Âge d’homme, 1987.</bibl>
-                        <bibl><placeName key="Zamora, Lois Parkinson, 1944-...." ref="http://viaf.org/viaf/22295315" ana="webannotation:http://temp.lincsproject.ca/mtgIJohe5sr" type="real">Zamora</placeName>, Lois P. et Wendy B. Faris (dir.). <title level="m" xml:lang="en-CA">Magical Realism: Theory, History, Community</title>. Durham, NC: Duke University Press, 1995.</bibl>
+                        <bibl><placeName key="Zamora, Lois Parkinson, 1944-...." ref="http://viaf.org/viaf/22295315" ana="webannotation:http://temp.lincsproject.ca/mtgIJohe5sr" type="real" cert="high">Zamora</placeName>, Lois P. et Wendy B. Faris (dir.). <title level="m" xml:lang="en-CA">Magical Realism: Theory, History, Community</title>. Durham, NC: Duke University Press, 1995.</bibl>
                     </listBibl>
                 </div>
             </div>
@@ -3782,7 +3782,8 @@
         ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh"
     ]
 }]]>
 				
