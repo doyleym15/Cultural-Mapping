@@ -771,7 +771,7 @@
                         <bibl>Walsh Matthews, Stéphanie. <title level="m">Le réalisme magique dans la littérature contemporaine québécoise</title>. Thèse de doctorat, <orgName key="University of Toronto." ref="http://viaf.org/viaf/130333233" ana="webannotation:http://temp.lincsproject.ca/po2dOb1Ji1D" type="real" cert="high">Université de Toronto</orgName>, 2011.</bibl>
                         <bibl>. <title level="a">Les vérités ensorcelantes: les sorcières dans la littérature francophone au féminin</title>. <title level="j">MaComère</title> 13.1-2 (2012): 82-97.</bibl>
                         <bibl>Weisgerber, Jean (dir.). <title level="m">Le réalisme magique. Roman. Peinture. Cinéma</title>. <placeName key="Lausanne" ref="https://sws.geonames.org/6299715" ana="webannotation:http://temp.lincsproject.ca/r5yW7r2Rxsb">Lausanne</placeName>: L’Âge d’homme, 1987.</bibl>
-                        <bibl><placeName key="Zamora, Lois Parkinson, 1944-...." ref="http://viaf.org/viaf/22295315" ana="webannotation:http://temp.lincsproject.ca/mtgIJohe5sr" type="real" cert="high">Zamora</placeName>, Lois P. et Wendy B. Faris (dir.). <title level="m" xml:lang="en-CA">Magical Realism: Theory, History, Community</title>. <placeName key="Durham" ref="https://sws.geonames.org/4464368" ana="webannotation:http://temp.lincsproject.ca/e2C8cQGvHpV">Durham</placeName>, NC: <orgName key="Duke university press" ref="http://viaf.org/viaf/264801395" ana="webannotation:http://temp.lincsproject.ca/oFPP8TV8xlP">Duke University Press</orgName>, 1995.</bibl>
+                        <bibl><placeName key="Zamora, Lois Parkinson, 1944-...." ref="http://viaf.org/viaf/22295315" ana="webannotation:http://temp.lincsproject.ca/mtgIJohe5sr" type="real" cert="high">Zamora</placeName>, Lois P. et Wendy B. Faris (dir.). <title level="m" xml:lang="en-CA">Magical Realism: Theory, History, Community</title>. <placeName key="Durham" ref="https://sws.geonames.org/4464368" ana="webannotation:http://temp.lincsproject.ca/e2C8cQGvHpV">Durham</placeName>, <orgName key="North Carolina" ref="https://sws.geonames.org/4482348" ana="webannotation:http://temp.lincsproject.ca/5VYvI47BgZQ">NC</orgName>: <orgName key="Duke university press" ref="http://viaf.org/viaf/264801395" ana="webannotation:http://temp.lincsproject.ca/oFPP8TV8xlP">Duke University Press</orgName>, 1995.</bibl>
                     </listBibl>
                 </div>
             </div>
@@ -5928,6 +5928,95 @@
         "type": "crm:E53_Place",
         "label": "Durham",
         "description": "North Carolina, Durham County, US"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/5VYvI47BgZQ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/5VYvI47BgZQ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T17:21:06.111Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/QUo8oxjnqSe",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "L’espace ensorcelé"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/QUo8oxjnqSe/selector/textPosition/spuegFKF8Rk",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 48022,
+                "end": 48024,
+                "refinedBy": {
+                    "id": "/target/QUo8oxjnqSe/selector/textQuote/1T6JE8M47BF",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "NC",
+                    "prefix": " Durham,",
+                    "suffix": " Duke University Press, 1995"
+                }
+            },
+            {
+                "id": "/target/QUo8oxjnqSe/selector/css/5YEjneJhcZx",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/5VYvI47BgZQ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/4482348",
+        "type": "crm:E53_Place",
+        "label": "North Carolina",
+        "description": "North Carolina, US"
     },
     "P2_has_type": [
         "oa:identifying"
