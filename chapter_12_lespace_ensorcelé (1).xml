@@ -619,7 +619,7 @@
                         <ref target="#tone_or_style">Dans <title level="m">Les enfants du sabbat</title>, il n’y a ainsi rien d’aléatoire. Les pouvoirs de Julie suivent une logique magique interne. Le lecteur accepte bien cet ordre et intègre ces éléments, présentés comme normaux, dans sa perception du réel hors texte, c’est-à-dire du <hi rend="italic">réel</hi> réel. Dans le récit, la sorcellerie est ainsi léguée à Julie par Philomène (sa mère sorcière). Que Julie soit sorcière n’est pas problématique puisque <q>(tout le monde sait que la sorcellerie est héréditaire)</q>
                             <note place="inline">
                                 <bibl>108</bibl>
-                            </note>, comme nous le rappelle le texte en employant une formule qui banalise cet effet généalogique en plaçant entre parenthèses la remarque qui vise à souligner la nature évidente de la sorcellerie. La généalogie est présente dans le code du réel du roman par le truchement d’événements surnaturels. La sorcellerie est introduite de façon <q>nonchalante</q> (tel l’ange aux ailes immenses de Marquez) à l’aide de remarques triviales. Dans <title level="m">Les enfants du sabbat</title> s’entremêlent alors histoire, biologie et sorcellerie. <ref target="#history">Je voudrais surtout souligner ici la référence à l’histoire québécoise à l’aide de personnages non fictionnels, comme Barbe Hallé, sorcière et figure historique québécoise qui, dans le récit fictionnel, serait l’ancêtre de Julie. L’histoire générale de la sorcellerie est également présente, de façon paratextuelle, grâce à un inventaire d’études véritables sur la sorcellerie inclus en fin d’ouvrage <note place="end">En fin de roman, on trouve une courte bibliographie qui énumère dans la rubrique <title level="a">Ouvrages consultés</title> les ouvrages suivants : <title level="m">Magistrats et sorciers en France au <hi rend="small-caps">xviii</hi>
+                            </note>, comme nous le rappelle le texte en employant une formule qui banalise cet effet généalogique en plaçant entre parenthèses la remarque qui vise à souligner la nature évidente de la sorcellerie. La généalogie est présente dans le code du réel du roman par le truchement d’événements surnaturels. La sorcellerie est introduite de façon <q>nonchalante</q> (tel l’ange aux ailes immenses de Marquez) à l’aide de remarques triviales. Dans <title level="m">Les enfants du sabbat</title> s’entremêlent alors histoire, biologie et sorcellerie. <ref target="#history">Je voudrais surtout souligner ici la référence à l’histoire québécoise à l’aide de personnages non fictionnels, comme Barbe Hallé, sorcière et figure historique québécoise qui, dans le récit fictionnel, serait l’ancêtre de Julie. L’histoire générale de la sorcellerie est également présente, de façon paratextuelle, grâce à un inventaire d’études véritables sur la sorcellerie inclus en fin d’ouvrage <note place="end">En fin de roman, on trouve une courte bibliographie qui énumère dans la rubrique <title level="a">Ouvrages consultés</title> les ouvrages suivants : <title level="m">Magistrats et sorciers en <placeName key="Republic of France" ref="https://sws.geonames.org/3017382" ana="webannotation:http://temp.lincsproject.ca/uGN0xPLuNWv">France</placeName> au <hi rend="small-caps">xviii</hi>
                                         <hi rend="superscript">e</hi> siècle</title>, <title level="m">La sorcellerie au <placeName key="Québec" ref="https://sws.geonames.org/6115047" ana="webannotation:http://temp.lincsproject.ca/k4DTDy1GH3n">Québec</placeName> du <hi rend="small-caps">xviii</hi>
                                         <hi rend="superscript">e</hi> siècle</title>, <title level="m">Les dossiers secrets de la sorcellerie et de la magie noire</title>, <title level="m">Les sorcières et leur monde</title>, <title level="m">La sorcellerie</title>, <title level="m">La sorcière</title> et <title level="m">Les sorcières</title>. Je tiens surtout à souligner que tous ces ouvrages venaient d’être réédités (entre 1966 et 1973) au moment de l’écriture des <title level="m">Enfants du sabbat</title>.</note>.</ref>
                             <ref target="#theory">
@@ -2102,6 +2102,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/03WlhDBrD8Z]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/3017382",
+        "type": "crm:E53_Place",
+        "label": "Republic of France",
+        "description": "null, FR"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/uGN0xPLuNWv">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/uGN0xPLuNWv",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T15:16:00.415Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Y8bvgTaQuTK",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "L’espace ensorcelé"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Y8bvgTaQuTK/selector/textPosition/6Njr5c4M8Mc",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27917,
+                "end": 27923,
+                "refinedBy": {
+                    "id": "/target/Y8bvgTaQuTK/selector/textQuote/4Eo3XbffSYN",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "France",
+                    "prefix": " L’histoire générale de la sorcellerie est également présente, de façon paratextuelle, grâce à un inventaire d’études véritables sur la sorcellerie inclus en fin d’ouvrage En fin de roman, on trouve une courte bibliographie qui énumère dans la rubrique Ouvrages consultés les ouvrages suivants : Magistrats et sorciers en",
+                    "suffix": "au xviii\n                                        e siècle, La sorcellerie au Québec du xviii\n                                        e siècle, Les dossiers secrets de la sorcellerie et de la magie noire, Les sorcières et leur monde, La sorcellerie, La sorcière et Les sorcières"
+                }
+            },
+            {
+                "id": "/target/Y8bvgTaQuTK/selector/css/aITNGDXZzbf",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/uGN0xPLuNWv]"
             }
         ]
     },
