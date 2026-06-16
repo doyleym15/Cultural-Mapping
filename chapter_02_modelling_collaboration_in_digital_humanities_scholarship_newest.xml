@@ -730,7 +730,7 @@
                     <p xml:id="p1105">
                         <ref target="#collaboration">
                             <ref target="#technology">
-                                <ref target="#methodology">In the early months of scanning correspondence in the Wilfred Watson fonds, Nick van Orden worked with <persName key="Joe MacKinnon" ref="https://nerve.lincsproject.ca/5sFxU4IZJCTsojB7l6FSt" ana="webannotation:http://temp.lincsproject.ca/EKKTdjfxF1g">Joe MacKinnon</persName>, our most experienced scanner, to develop a document they titled <title level="m">How to Scan like a Rock Star.</title> When Rebecca Blakey joined the project, she not only scanned with van Orden and MacKinnon but consulted their documentation, and has since updated it. When scanning moved from <persName key="Watson, Wilfred, 1911-1998" ref="http://viaf.org/viaf/67854547" ana="webannotation:http://temp.lincsproject.ca/G7wWZR86uEI">Wilfred Watson’s</persName> correspondence to his notebooks and journals, our scanning techniques needed to change and the documentation required updating. We recently installed updated scanner software that may well require changes in both scanning and documentation. Strong documentation enables the Watson project to build on the knowledge developed by previous group members; what is more, that documentation, we hope, keeps us true to our earlier decisions and commitments.</ref>
+                                <ref target="#methodology">In the early months of scanning correspondence in the Wilfred Watson fonds, Nick van Orden worked with Joe MacKinnon, our most experienced scanner, to develop a document they titled <title level="m">How to Scan like a Rock Star.</title> When Rebecca Blakey joined the project, she not only scanned with van Orden and MacKinnon but consulted their documentation, and has since updated it. When scanning moved from <persName key="Watson, Wilfred, 1911-1998" ref="http://viaf.org/viaf/67854547" ana="webannotation:http://temp.lincsproject.ca/G7wWZR86uEI">Wilfred Watson’s</persName> correspondence to his notebooks and journals, our scanning techniques needed to change and the documentation required updating. We recently installed updated scanner software that may well require changes in both scanning and documentation. Strong documentation enables the Watson project to build on the knowledge developed by previous group members; what is more, that documentation, we hope, keeps us true to our earlier decisions and commitments.</ref>
                             </ref>
                         </ref>
                     </p>
@@ -15801,93 +15801,6 @@
         "type": "crm:E21_Person",
         "label": "Kamboureli, Smaro.",
         "description": "Smaro Kamboureli poeta kanades"
-    },
-    "P2_has_type": [
-        "oa:identifying"
-    ]
-}]]>
-				
-</rdf:Description>
-				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/EKKTdjfxF1g">
-<![CDATA[{
-    "@context": [
-        "http://www.w3.org/ns/anno.jsonld",
-        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
-        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
-    ],
-    "id": "http://temp.lincsproject.ca/EKKTdjfxF1g",
-    "type": [
-        "Annotation",
-        "crm:E33_Linguistic_Object"
-    ],
-    "motivation": "oa:identifying",
-    "created": "2026-06-12T16:12:17.435Z",
-    "creator": {
-        "id": "https://github.com/doyleym15",
-        "type": "crm:E21_Person",
-        "name": "Megan Doyley"
-    },
-    "generator": {
-        "id": "https://nerve.lincsproject.ca",
-        "type": [
-            "Software",
-            "crm:E73_Information_Object"
-        ],
-        "P16_used_specific_object": "https://nerve.lincsproject.ca",
-        "name": "NERVE",
-        "softwareVersion": "0.3.0"
-    },
-    "target": {
-        "id": "/target/ToeueQLQJz6",
-        "type": [
-            "SpecificResource",
-            "crm:E73_Information_Object"
-        ],
-        "source": {
-            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml",
-            "type": "crm:D1_Digital_Object",
-            "format": "application/tei+xml",
-            "P1_is_identified_by": {
-                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship (1) (1).xml/title",
-                "type": "crm:E33_E41_Linguistic_Appellation",
-                "title": "Modelling Collaboration in Digital Humanities Scholarship"
-            }
-        },
-        "selector": [
-            {
-                "id": "/target/ToeueQLQJz6/selector/textPosition/0gfrQHzUW3u",
-                "type": [
-                    "TextPositionSelector",
-                    "crm:E73_Information_Object"
-                ],
-                "start": 43152,
-                "end": 43165,
-                "refinedBy": {
-                    "id": "/target/ToeueQLQJz6/selector/textQuote/cZpnBeYjEdL",
-                    "type": [
-                        "TextQuoteSelector",
-                        "crm:E33_Linguistic_Object"
-                    ],
-                    "exact": "Joe MacKinnon",
-                    "prefix": "\n                            \n                        \n                    \n                    \n                        \n                            \n                                In the early months of scanning correspondence in the Wilfred Watson fonds, Nick van Orden worked with",
-                    "suffix": " our most experienced scanner, to develop a document they titled How to Scan like a Rock Star"
-                }
-            },
-            {
-                "id": "/target/ToeueQLQJz6/selector/css/1QDFnVyHP2K",
-                "type": [
-                    "CssSelector",
-                    "crm:E73_Information_Object"
-                ],
-                "value": "[ana~=webannotation:http://temp.lincsproject.ca/EKKTdjfxF1g]"
-            }
-        ]
-    },
-    "body": {
-        "id": "https://nerve.lincsproject.ca/5sFxU4IZJCTsojB7l6FSt",
-        "type": "crm:E21_Person",
-        "label": "Joe MacKinnon"
     },
     "P2_has_type": [
         "oa:identifying"
