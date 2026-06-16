@@ -743,7 +743,7 @@
                         <bibl>Bishop, Neil.<title level="a">
                                 <title level="m">Les enfants du sabbat</title> et la problématique de la libération chez Anne Hébert</title>. <title level="m">The Art and Genius of Anne Hébert: Essays on Her Works</title>. Dir. Janis L. Pallister. <placeName key="Cranbury" ref="https://sws.geonames.org/5097006" ana="webannotation:http://temp.lincsproject.ca/5suHiEwbgXm">Cranbury</placeName>, <placeName key="New Jersey" ref="https://sws.geonames.org/5101760" ana="webannotation:http://temp.lincsproject.ca/g90rLa9B9aU">NJ</placeName>: Rosemont Publishing, 2001. 54-74.</bibl>
                         <bibl>Bouchard, Denis. <title level="m">Une lecture d’Anne Hébert : La recherche d’une mythologie</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/h19HBpOrQ9C">Montréal</placeName>: Hurtubise <hi rend="small-caps">hmh</hi>, 1977.</bibl>
-                        <bibl>Bourassa, André. <title level="m">Surréalisme et littérature québécoise</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/kqZvHONiV7a">Montréal</placeName>: L’Étincelle, 1977.</bibl>
+                        <bibl>Bourassa, André. <title level="m">Surréalisme et littérature québécoise</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/kqZvHONiV7a">Montréal</placeName>: L’<placeName key="Editions L'Etincelle." ref="http://viaf.org/viaf/151190702" ana="webannotation:http://temp.lincsproject.ca/xMH7bCNYyxx">Étincelle</placeName>, 1977.</bibl>
                         <bibl>Carter, Angela. <title level="m">Nights at the Circus</title>. London: Vintage, 1994. (1 <hi rend="superscript">e</hi> édition 1984)</bibl>
                         <bibl>Chanady, <placeName key="Chanady, Amaryll Beatrice, 1954-...." ref="http://viaf.org/viaf/45169882" ana="webannotation:http://temp.lincsproject.ca/q7i7aTzrqny">Amaryll Beatrice</placeName>. <title level="m">Magical Realism and the Fantastic: Resolved Versus Unresolved Antinomy</title>. New York: Garland Publishing, 1985.</bibl>
                         <bibl>English, Judith et Jacqueline Viswanathan. <title level="a">Les deux dames du Précieux-Sang : à propos des <title level="m">Enfants du sabbat</title> d’Anne Hébert</title>. <title level="j">Présence francophone</title> 22 (1981): 111-19.</bibl>
@@ -5216,6 +5216,95 @@
         "type": "crm:E53_Place",
         "label": "New Jersey",
         "description": "New Jersey, US"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/xMH7bCNYyxx">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/xMH7bCNYyxx",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T17:07:07.712Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ZHuJ6e5byMp",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "L’espace ensorcelé"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ZHuJ6e5byMp/selector/textPosition/57W1S7UT84K",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 44117,
+                "end": 44126,
+                "refinedBy": {
+                    "id": "/target/ZHuJ6e5byMp/selector/textQuote/b9wWRiiPCX5",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Étincelle",
+                    "prefix": " Montréal: L",
+                    "suffix": " 1977"
+                }
+            },
+            {
+                "id": "/target/ZHuJ6e5byMp/selector/css/A7UiB63Sid6",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/xMH7bCNYyxx]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/151190702",
+        "type": "crm:E74_Group",
+        "label": "Editions L'Etincelle.",
+        "description": "Étincelle (Firme)"
     },
     "P2_has_type": [
         "oa:identifying"
