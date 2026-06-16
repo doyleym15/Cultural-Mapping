@@ -428,7 +428,7 @@
                     <ref target="#genre_fiction">
                         <ref target="#genre_novel">
                             <ref target="#theory">Au-delà des contextes de production auxquels il est couramment rattaché, le réalisme magique peut imprégner certains romans qui n’ont pourtant pas été étudiés sous l’angle de ce genre populaire. <ref target="#writing_climate">
-                                    <ref target="#spatiality">Ainsi, l’espace québécois est un contexte de production réaliste magique idéal du fait de ses fables, de ses superstitions nombreuses et de ses saisons contrastées favorisant le chant et le conte, espace où s’épousent la dure réalité d’une terre et les sentiments d’exil et d’appartenance, où le mysticisme d’un pays rêvé hante les songes et où la culpabilité religieuse domine la mémoire et occupe l’esprit du <ref target="#nationality">Canadien français</ref>. Cet espace se reflète dans la production littéraire québécoise qui, à son tour, joue avec les crises et les passions de la culture et de l’histoire. <ref target="#history">Ne suffit-il pas de lire les romans d’après <ref target="#social_movement">la Révolution tranquille</ref> au <placeName key="Québec" ref="https://sws.geonames.org/6115047" ana="webannotation:http://temp.lincsproject.ca/u5Fm4hfVl82">Québec</placeName> pour en remarquer la qualité unique, pour ne pas dire subversive, ironique, politique et radicalement empreinte de son contexte social?</ref>
+                                    <ref target="#spatiality">Ainsi, l’espace québécois est un contexte de production réaliste magique idéal du fait de ses fables, de ses superstitions nombreuses et de ses saisons contrastées favorisant le chant et le conte, espace où s’épousent la dure réalité d’une terre et les sentiments d’exil et d’appartenance, où le mysticisme d’un pays rêvé hante les songes et où la culpabilité religieuse domine la mémoire et occupe l’esprit du <ref target="#nationality">Canadien français</ref>. Cet espace se reflète dans la production littéraire québécoise qui, à son tour, joue avec les crises et les passions de la culture et de l’histoire. <ref target="#history">Ne suffit-il pas de lire les romans d’après <ref target="#social_movement">la Révolution tranquille</ref> au <placeName key="Québec" ref="https://sws.geonames.org/6115047" ana="webannotation:http://temp.lincsproject.ca/u5Fm4hfVl82" type="real">Québec</placeName> pour en remarquer la qualité unique, pour ne pas dire subversive, ironique, politique et radicalement empreinte de son contexte social?</ref>
                                     </ref>
                                 </ref>
                             </ref>
@@ -863,7 +863,10 @@
         "id": "https://sws.geonames.org/6115047",
         "type": "crm:E53_Place",
         "label": "Québec",
-        "description": "Quebec, CA"
+        "description": "Quebec, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -952,7 +955,10 @@
         "id": "https://sws.geonames.org/6115047",
         "type": "crm:E53_Place",
         "label": "Québec",
-        "description": "Quebec, CA"
+        "description": "Quebec, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -1041,7 +1047,10 @@
         "id": "https://sws.geonames.org/6115047",
         "type": "crm:E53_Place",
         "label": "Québec",
-        "description": "Quebec, CA"
+        "description": "Quebec, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -1130,7 +1139,10 @@
         "id": "https://sws.geonames.org/6115047",
         "type": "crm:E53_Place",
         "label": "Québec",
-        "description": "Quebec, CA"
+        "description": "Quebec, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -1219,7 +1231,10 @@
         "id": "https://sws.geonames.org/6115047",
         "type": "crm:E53_Place",
         "label": "Québec",
-        "description": "Quebec, CA"
+        "description": "Quebec, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -1308,7 +1323,10 @@
         "id": "https://sws.geonames.org/6115047",
         "type": "crm:E53_Place",
         "label": "Québec",
-        "description": "Quebec, CA"
+        "description": "Quebec, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -1397,7 +1415,10 @@
         "id": "https://sws.geonames.org/6115047",
         "type": "crm:E53_Place",
         "label": "Québec",
-        "description": "Quebec, CA"
+        "description": "Quebec, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -1486,7 +1507,10 @@
         "id": "https://sws.geonames.org/6115047",
         "type": "crm:E53_Place",
         "label": "Québec",
-        "description": "Quebec, CA"
+        "description": "Quebec, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -1575,7 +1599,10 @@
         "id": "https://sws.geonames.org/6115047",
         "type": "crm:E53_Place",
         "label": "Québec",
-        "description": "Quebec, CA"
+        "description": "Quebec, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -1664,7 +1691,10 @@
         "id": "https://sws.geonames.org/6115047",
         "type": "crm:E53_Place",
         "label": "Québec",
-        "description": "Quebec, CA"
+        "description": "Quebec, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -1753,7 +1783,10 @@
         "id": "https://sws.geonames.org/6115047",
         "type": "crm:E53_Place",
         "label": "Québec",
-        "description": "Quebec, CA"
+        "description": "Quebec, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -1842,7 +1875,10 @@
         "id": "https://sws.geonames.org/6115047",
         "type": "crm:E53_Place",
         "label": "Québec",
-        "description": "Quebec, CA"
+        "description": "Quebec, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -1931,7 +1967,10 @@
         "id": "https://sws.geonames.org/6115047",
         "type": "crm:E53_Place",
         "label": "Québec",
-        "description": "Quebec, CA"
+        "description": "Quebec, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -2020,7 +2059,10 @@
         "id": "https://sws.geonames.org/6115047",
         "type": "crm:E53_Place",
         "label": "Québec",
-        "description": "Quebec, CA"
+        "description": "Quebec, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
