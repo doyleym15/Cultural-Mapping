@@ -745,7 +745,7 @@
                         <bibl>Bouchard, Denis. <title level="m">Une lecture d’Anne Hébert : La recherche d’une mythologie</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/h19HBpOrQ9C">Montréal</placeName>: Hurtubise <hi rend="small-caps">hmh</hi>, 1977.</bibl>
                         <bibl>Bourassa, André. <title level="m">Surréalisme et littérature québécoise</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/kqZvHONiV7a">Montréal</placeName>: L’<placeName key="Editions L'Etincelle." ref="http://viaf.org/viaf/151190702" ana="webannotation:http://temp.lincsproject.ca/xMH7bCNYyxx">Étincelle</placeName>, 1977.</bibl>
                         <bibl>Carter, Angela. <title level="m">Nights at the Circus</title>. <placeName key="University of London" ref="https://sws.geonames.org/6944357" ana="webannotation:http://temp.lincsproject.ca/wVffOLHxIo9">London</placeName>: Vintage, 1994. (1 <hi rend="superscript">e</hi> édition 1984)</bibl>
-                        <bibl>Chanady, <placeName key="Chanady, Amaryll Beatrice, 1954-...." ref="http://viaf.org/viaf/45169882" ana="webannotation:http://temp.lincsproject.ca/q7i7aTzrqny">Amaryll Beatrice</placeName>. <title level="m">Magical Realism and the Fantastic: Resolved Versus Unresolved Antinomy</title>. <placeName key="New York" ref="https://www.geonames.org/5128638/new-york.html" ana="webannotation:http://temp.lincsproject.ca/Gevg1cf8Ulu">New York</placeName>: Garland Publishing, 1985.</bibl>
+                        <bibl>Chanady, <placeName key="Chanady, Amaryll Beatrice, 1954-...." ref="http://viaf.org/viaf/45169882" ana="webannotation:http://temp.lincsproject.ca/q7i7aTzrqny">Amaryll Beatrice</placeName>. <title level="m">Magical Realism and the Fantastic: Resolved Versus Unresolved Antinomy</title>. <placeName key="New York" ref="https://www.geonames.org/5128638/new-york.html" ana="webannotation:http://temp.lincsproject.ca/Gevg1cf8Ulu">New York</placeName>: <orgName key="Garland publishing" ref="http://viaf.org/viaf/154887734" ana="webannotation:http://temp.lincsproject.ca/U6endPxFfGZ">Garland Publishing</orgName>, 1985.</bibl>
                         <bibl>English, Judith et Jacqueline Viswanathan. <title level="a">Les deux dames du Précieux-Sang : à propos des <title level="m">Enfants du sabbat</title> d’Anne Hébert</title>. <title level="j">Présence francophone</title> 22 (1981): 111-19.</bibl>
                         <bibl>Faris, Wendy B. <title level="m" xml:lang="en-CA">Ordinary Enchantments: Magical Realism and the Remystification of Narrative</title>. <placeName key="Nashville" ref="https://sws.geonames.org/4644585" ana="webannotation:http://temp.lincsproject.ca/6HlY0c7zUC0">Nashville</placeName>: <orgName key="Vanderbilt University Press." ref="http://viaf.org/viaf/311353400" ana="webannotation:http://temp.lincsproject.ca/QmLs930juEf">Vanderbilt University Press</orgName>, 2004.</bibl>
                         <bibl>Fonteneau, Anne. <title level="m">Le féminin et le sacré dans l’œuvre en prose d’Anne Hébert</title>. Thèse de doctorat, Université Laval, 2001.</bibl>
@@ -6017,6 +6017,95 @@
         "type": "crm:E53_Place",
         "label": "North Carolina",
         "description": "North Carolina, US"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/U6endPxFfGZ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/U6endPxFfGZ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T17:26:02.207Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/x0KmS7H4mcP",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "L’espace ensorcelé"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/x0KmS7H4mcP/selector/textPosition/nRkRwahBHwj",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 44371,
+                "end": 44389,
+                "refinedBy": {
+                    "id": "/target/x0KmS7H4mcP/selector/textQuote/dkeWesn3vuc",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Garland Publishing",
+                    "prefix": " New York:",
+                    "suffix": " 1985"
+                }
+            },
+            {
+                "id": "/target/x0KmS7H4mcP/selector/css/CeCnXC7UH9P",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/U6endPxFfGZ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/154887734",
+        "type": "crm:E74_Group",
+        "label": "Garland publishing",
+        "description": "Garland Publishing, Inc."
     },
     "P2_has_type": [
         "oa:identifying"
