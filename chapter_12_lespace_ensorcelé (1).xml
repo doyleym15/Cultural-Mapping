@@ -761,7 +761,7 @@
                         <bibl><placeName key="Okri, Ben, 1959-...." ref="http://viaf.org/viaf/76380613" ana="webannotation:http://temp.lincsproject.ca/TCETt7SqaTj">Okri</placeName>, Ben. <title level="m" xml:lang="en-CA">The Famished Road</title>. London: Vintage, 1992.</bibl>
                         <bibl>Paterson, Janet. <title level="a">Parodie et sorcellerie.</title>
                             <title level="j">Études littéraires</title> 19.1 (1986): 59-66.</bibl>
-                        <bibl>Roussos, Katherine. <title level="m">Décoloniser l’imaginaire: Le réalisme magique chez Maryse Condé, Sylvie Germain et Marie Ndiaye</title>. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/cGMb34Xuud2">Paris</placeName>: L’Harmattan, 2007.</bibl>
+                        <bibl>Roussos, Katherine. <title level="m">Décoloniser l’imaginaire: Le réalisme magique chez Maryse Condé, Sylvie Germain et Marie Ndiaye</title>. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/cGMb34Xuud2">Paris</placeName>: L’<placeName key="Harmattan (Firm)" ref="http://viaf.org/viaf/313021841" ana="webannotation:http://temp.lincsproject.ca/dvJkzr6FbAa">Harmattan</placeName>, 2007.</bibl>
                         <bibl>Rushdie, Salman. <title level="m" xml:lang="en-CA">Midnight’s Children</title>. London: Picador, 1982.</bibl>
                         <bibl>Scheel, Charles W. <title level="a">Le réalisme magique: mode narratif de la fiction ou label culturaliste?</title>
                             <title level="m">Études culturelles, anthropologie culturelle et comparatisme. Vol. 2</title>. Dir. Didier Souiller, Antonio Dominguez Leiva, Sébastien Hubier et Philippe Chardin. Actes du 35 <hi rend="superscript">e</hi> congrès de la <hi rend="small-caps">sflgc</hi> (<orgName key="Société française de littérature générale et comparée." ref="http://viaf.org/viaf/132295307" ana="webannotation:http://temp.lincsproject.ca/sWtJ6xqgBx9">Société française de littérature générale</orgName> et comparée). <placeName key="Dijon" ref="https://sws.geonames.org/3021372" ana="webannotation:http://temp.lincsproject.ca/hNhU34kVpeC">Dijon</placeName>: Éditions du Murmure, 2010. 211-22.</bibl>
@@ -4318,6 +4318,95 @@
     "P2_has_type": [
         "oa:identifying",
         "edit:certaintyHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/dvJkzr6FbAa">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/dvJkzr6FbAa",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T16:55:12.888Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/L1YC7Gem13Z",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "L’espace ensorcelé"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/L1YC7Gem13Z/selector/textPosition/qaWKrmZNdkY",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 46590,
+                "end": 46599,
+                "refinedBy": {
+                    "id": "/target/L1YC7Gem13Z/selector/textQuote/A7r6XNQdBLQ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Harmattan",
+                    "prefix": " Paris: L",
+                    "suffix": " 2007"
+                }
+            },
+            {
+                "id": "/target/L1YC7Gem13Z/selector/css/0xqRuJAouht",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/dvJkzr6FbAa]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/313021841",
+        "type": "crm:E74_Group",
+        "label": "Harmattan (Firm)",
+        "description": "L'Harmattan"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
