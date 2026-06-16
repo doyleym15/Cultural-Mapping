@@ -1030,7 +1030,7 @@
                                 <q>An Addiction from Which We Never Get Free.</q>
                             </title>
                             <title level="j">New Literary History</title> 36.1 (2005): 47–55.</bibl>
-                        <bibl>Chromatic. <title level="m">Extreme Programming Pocket Guide</title>. <placeName key="Sebastopol" ref="https://sws.geonames.org/5394165" ana="webannotation:http://temp.lincsproject.ca/wuq4GRbW7ml">Sebastopol</placeName>, <placeName key="California" ref="https://sws.geonames.org/5332921" ana="webannotation:http://temp.lincsproject.ca/vkjY2HKjVgS">CA</placeName>: <orgName key="O'reilly Media" ref="http://viaf.org/viaf/311353085">O’Reilly Media</orgName>, 2003.</bibl>
+                        <bibl>Chromatic. <title level="m">Extreme Programming Pocket Guide</title>. Sebastopol, <placeName key="California" ref="https://sws.geonames.org/5332921" ana="webannotation:http://temp.lincsproject.ca/oA3vBbKlPB9">CA</placeName>: <orgName key="O'reilly Media" ref="http://viaf.org/viaf/311353085">O’Reilly Media</orgName>, 2003.</bibl>
                         <bibl>Collaboratory. <title level="m">Wikipedia: The Free Encyclopedia</title>. <ref target="http://en.wikipedia.org/wiki/Collaboratory">http://en.wikipedia.org/wiki/Collaboratory</ref>
                         </bibl>
                         <bibl>Davies, Tony. <title level="m">Humanism</title>. 2nd ed. New Critical Idiom Series. <placeName key="New York" ref="https://www.geonames.org/5128638/new-york.html" ana="webannotation:http://temp.lincsproject.ca/CIITWYCN7fk">New York</placeName>: <orgName key="Routledge" ref="http://viaf.org/viaf/146326081" ana="webannotation:http://temp.lincsproject.ca/I2PaWb4331d">Routledge</orgName>, 2008.</bibl>
@@ -1044,7 +1044,7 @@
                         <bibl>Hutcheon, <persName key="Hutcheon, Linda, 1947-...." ref="http://viaf.org/viaf/101807260" ana="webannotation:http://temp.lincsproject.ca/YFaem6aaf4p">Linda</persName>, and <persName key="Hutcheon, Michael, 1945-...." ref="http://viaf.org/viaf/262481632" ana="webannotation:http://temp.lincsproject.ca/nLeVBQgCGQP">Michael Hutcheon</persName>. <title level="a">A Convenience of Marriage: Collaboration and Interdisciplinarity</title>. <title level="j">PMLA</title> 116.5 (October 2001): 1364–76.</bibl>
                         <bibl>MacKinnon, Joseph, Nicholas van Orden, and Rebecca Blakey. <title level="a">How to Scan Like a Rock Star. <abbr>EMiC UA</abbr> Working Document</title>.</bibl>
                         <bibl><persName key="Martin, Robert C." ref="http://viaf.org/viaf/85276018" ana="webannotation:http://temp.lincsproject.ca/hFdgOIENKvg">Martin</persName>, Robert C. <title level="m">Clean Code: A Handbook of Agile Software Craftsmanship</title>. Boston: Prentice-Hall, 2009.</bibl>
-                        <bibl><persName key="McCarty, Willard, 1945-...." ref="http://viaf.org/viaf/119002646" ana="webannotation:http://temp.lincsproject.ca/gBD8rdxS5HB">McCarty</persName>, Willard. <title level="m">Humanities Computing</title>. <placeName key="Basingstoke" ref="https://sws.geonames.org/2656192" ana="webannotation:http://temp.lincsproject.ca/NnCiUD72b9X">Basingstoke</placeName>: <orgName key="Palgrave Macmillan" ref="http://viaf.org/viaf/315532896" ana="webannotation:http://temp.lincsproject.ca/jxk9gMccvIB">Palgrave Macmillan</orgName>, 2005.</bibl>
+                        <bibl><persName key="McCarty, Willard, 1945-...." ref="http://viaf.org/viaf/119002646" ana="webannotation:http://temp.lincsproject.ca/gBD8rdxS5HB">McCarty</persName>, Willard. <title level="m">Humanities Computing</title>. Basingstoke: <orgName key="Palgrave Macmillan" ref="http://viaf.org/viaf/315532896" ana="webannotation:http://temp.lincsproject.ca/jxk9gMccvIB">Palgrave Macmillan</orgName>, 2005.</bibl>
                         <bibl>Ms. Mentor [<persName key="Toth, Emily." ref="http://viaf.org/viaf/27133714" ana="webannotation:http://temp.lincsproject.ca/6FMkkaBOxBR">Emily Toth</persName>]. <title level="a">Who Owns Your Mind?</title>
                             <title level="j">Chronicle of Higher Education</title> 21 May 1999: n. pag.</bibl>
                         <bibl><persName key="Pratt, Mary Louise, 1948-" ref="http://viaf.org/viaf/24648210" ana="webannotation:http://temp.lincsproject.ca/JcwUzu6lMHi">Pratt</persName>, Mary Louise. <title level="a">Arts of the Contact Zone</title>. <title level="j">Profession</title> (1992): 33–40.</bibl>
@@ -18562,20 +18562,20 @@
 				
 </rdf:Description>
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/wuq4GRbW7ml">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/oA3vBbKlPB9">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/wuq4GRbW7ml",
+    "id": "http://temp.lincsproject.ca/oA3vBbKlPB9",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-06-16T14:18:03.600Z",
+    "created": "2026-06-16T14:20:08.662Z",
     "creator": {
         "id": "https://github.com/doyleym15",
         "type": "crm:E21_Person",
@@ -18592,7 +18592,7 @@
         "softwareVersion": "0.3.0"
     },
     "target": {
-        "id": "/target/AKsOlY6rteG",
+        "id": "/target/TPLm9etsv3T",
         "type": [
             "SpecificResource",
             "crm:E73_Information_Object"
@@ -18610,96 +18610,7 @@
         },
         "selector": [
             {
-                "id": "/target/AKsOlY6rteG/selector/textPosition/ypN5x2QNYxZ",
-                "type": [
-                    "TextPositionSelector",
-                    "crm:E73_Information_Object"
-                ],
-                "start": 68551,
-                "end": 68561,
-                "refinedBy": {
-                    "id": "/target/AKsOlY6rteG/selector/textQuote/Gm536ZoGkie",
-                    "type": [
-                        "TextQuoteSelector",
-                        "crm:E33_Linguistic_Object"
-                    ],
-                    "exact": "Sebastopol",
-                    "prefix": "",
-                    "suffix": " CA: O’Reilly Media, 2003"
-                }
-            },
-            {
-                "id": "/target/AKsOlY6rteG/selector/css/LI0hFgJEnpa",
-                "type": [
-                    "CssSelector",
-                    "crm:E73_Information_Object"
-                ],
-                "value": "[ana~=webannotation:http://temp.lincsproject.ca/wuq4GRbW7ml]"
-            }
-        ]
-    },
-    "body": {
-        "id": "https://sws.geonames.org/5394165",
-        "type": "crm:E53_Place",
-        "label": "Sebastopol",
-        "description": "California, Sonoma County, US"
-    },
-    "P2_has_type": [
-        "oa:identifying"
-    ]
-}]]>
-				
-</rdf:Description>
-				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/vkjY2HKjVgS">
-<![CDATA[{
-    "@context": [
-        "http://www.w3.org/ns/anno.jsonld",
-        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
-        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
-    ],
-    "id": "http://temp.lincsproject.ca/vkjY2HKjVgS",
-    "type": [
-        "Annotation",
-        "crm:E33_Linguistic_Object"
-    ],
-    "motivation": "oa:identifying",
-    "created": "2026-06-16T14:18:35.754Z",
-    "creator": {
-        "id": "https://github.com/doyleym15",
-        "type": "crm:E21_Person",
-        "name": "Megan Doyley"
-    },
-    "generator": {
-        "id": "https://nerve.lincsproject.ca",
-        "type": [
-            "Software",
-            "crm:E73_Information_Object"
-        ],
-        "P16_used_specific_object": "https://nerve.lincsproject.ca",
-        "name": "NERVE",
-        "softwareVersion": "0.3.0"
-    },
-    "target": {
-        "id": "/target/JSOhzne7Cg6",
-        "type": [
-            "SpecificResource",
-            "crm:E73_Information_Object"
-        ],
-        "source": {
-            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship_newest.xml",
-            "type": "crm:D1_Digital_Object",
-            "format": "application/tei+xml",
-            "language": "it",
-            "P1_is_identified_by": {
-                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship_newest.xml/title",
-                "type": "crm:E33_E41_Linguistic_Appellation",
-                "title": "Modelling Collaboration in Digital Humanities Scholarship"
-            }
-        },
-        "selector": [
-            {
-                "id": "/target/JSOhzne7Cg6/selector/textPosition/Nx79iiFTRwN",
+                "id": "/target/TPLm9etsv3T/selector/textPosition/0LFbfGnt0of",
                 "type": [
                     "TextPositionSelector",
                     "crm:E73_Information_Object"
@@ -18707,7 +18618,7 @@
                 "start": 68563,
                 "end": 68565,
                 "refinedBy": {
-                    "id": "/target/JSOhzne7Cg6/selector/textQuote/8sjZ5Xdh2ov",
+                    "id": "/target/TPLm9etsv3T/selector/textQuote/AIOqj9WmWox",
                     "type": [
                         "TextQuoteSelector",
                         "crm:E33_Linguistic_Object"
@@ -18718,12 +18629,12 @@
                 }
             },
             {
-                "id": "/target/JSOhzne7Cg6/selector/css/Yc3jdUZrehc",
+                "id": "/target/TPLm9etsv3T/selector/css/AMWu15PyCQF",
                 "type": [
                     "CssSelector",
                     "crm:E73_Information_Object"
                 ],
-                "value": "[ana~=webannotation:http://temp.lincsproject.ca/vkjY2HKjVgS]"
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/oA3vBbKlPB9]"
             }
         ]
     },
@@ -18732,95 +18643,6 @@
         "type": "crm:E53_Place",
         "label": "California",
         "description": "California, US"
-    },
-    "P2_has_type": [
-        "oa:identifying"
-    ]
-}]]>
-				
-</rdf:Description>
-				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/NnCiUD72b9X">
-<![CDATA[{
-    "@context": [
-        "http://www.w3.org/ns/anno.jsonld",
-        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
-        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
-    ],
-    "id": "http://temp.lincsproject.ca/NnCiUD72b9X",
-    "type": [
-        "Annotation",
-        "crm:E33_Linguistic_Object"
-    ],
-    "motivation": "oa:identifying",
-    "created": "2026-06-16T14:18:51.534Z",
-    "creator": {
-        "id": "https://github.com/doyleym15",
-        "type": "crm:E21_Person",
-        "name": "Megan Doyley"
-    },
-    "generator": {
-        "id": "https://nerve.lincsproject.ca",
-        "type": [
-            "Software",
-            "crm:E73_Information_Object"
-        ],
-        "P16_used_specific_object": "https://nerve.lincsproject.ca",
-        "name": "NERVE",
-        "softwareVersion": "0.3.0"
-    },
-    "target": {
-        "id": "/target/LhYkrQpjCmo",
-        "type": [
-            "SpecificResource",
-            "crm:E73_Information_Object"
-        ],
-        "source": {
-            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship_newest.xml",
-            "type": "crm:D1_Digital_Object",
-            "format": "application/tei+xml",
-            "language": "it",
-            "P1_is_identified_by": {
-                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship_newest.xml/title",
-                "type": "crm:E33_E41_Linguistic_Appellation",
-                "title": "Modelling Collaboration in Digital Humanities Scholarship"
-            }
-        },
-        "selector": [
-            {
-                "id": "/target/LhYkrQpjCmo/selector/textPosition/sIZciEN78Fe",
-                "type": [
-                    "TextPositionSelector",
-                    "crm:E73_Information_Object"
-                ],
-                "start": 69906,
-                "end": 69917,
-                "refinedBy": {
-                    "id": "/target/LhYkrQpjCmo/selector/textQuote/IW8FhtiIr1j",
-                    "type": [
-                        "TextQuoteSelector",
-                        "crm:E33_Linguistic_Object"
-                    ],
-                    "exact": "Basingstoke",
-                    "prefix": "",
-                    "suffix": " Palgrave Macmillan, 2005"
-                }
-            },
-            {
-                "id": "/target/LhYkrQpjCmo/selector/css/brPn8RQmXaW",
-                "type": [
-                    "CssSelector",
-                    "crm:E73_Information_Object"
-                ],
-                "value": "[ana~=webannotation:http://temp.lincsproject.ca/NnCiUD72b9X]"
-            }
-        ]
-    },
-    "body": {
-        "id": "https://sws.geonames.org/2656192",
-        "type": "crm:E53_Place",
-        "label": "Basingstoke",
-        "description": "England, Hampshire, GB"
     },
     "P2_has_type": [
         "oa:identifying"
