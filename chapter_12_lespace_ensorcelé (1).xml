@@ -747,7 +747,7 @@
                         <bibl>Carter, Angela. <title level="m">Nights at the Circus</title>. London: Vintage, 1994. (1 <hi rend="superscript">e</hi> édition 1984)</bibl>
                         <bibl>Chanady, Amaryll Beatrice. <title level="m">Magical Realism and the Fantastic: Resolved Versus Unresolved Antinomy</title>. New York: Garland Publishing, 1985.</bibl>
                         <bibl>English, Judith et Jacqueline Viswanathan. <title level="a">Les deux dames du Précieux-Sang : à propos des <title level="m">Enfants du sabbat</title> d’Anne Hébert</title>. <title level="j">Présence francophone</title> 22 (1981): 111-19.</bibl>
-                        <bibl>Faris, Wendy B. <title level="m" xml:lang="en-CA">Ordinary Enchantments: Magical Realism and the Remystification of Narrative</title>. Nashville: Vanderbilt University Press, 2004.</bibl>
+                        <bibl>Faris, Wendy B. <title level="m" xml:lang="en-CA">Ordinary Enchantments: Magical Realism and the Remystification of Narrative</title>. <placeName key="Nashville" ref="https://sws.geonames.org/4644585" ana="webannotation:http://temp.lincsproject.ca/6HlY0c7zUC0">Nashville</placeName>: Vanderbilt University Press, 2004.</bibl>
                         <bibl>Fonteneau, Anne. <title level="m">Le féminin et le sacré dans l’œuvre en prose d’Anne Hébert</title>. Thèse de doctorat, Université Laval, 2001.</bibl>
                         <bibl>García Márquez, Gabriel. <title level="m">Cent ans de solitude</title>. Trad. Carmen et Claude Durand. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/55Kf27th6On">Paris</placeName>: Seuil, 1968. (traduction de <title level="m" xml:lang="es-ES">Cien años de soledad</title>, 1967)</bibl>
                         <bibl>. <title level="a">Un monsieur très vieux avec des ailes immenses</title>. <title level="m">L’Incroyable et triste histoire de la candide Erendira et de sa diabolique grand-mère</title>. Trad. Claude Couffon. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/olGaHCLgn0r">Paris</placeName>: Grasset et Fasquelle, 1977. 10-11.</bibl>
@@ -3232,6 +3232,95 @@
         "type": "crm:E53_Place",
         "label": "Paris",
         "description": "Île-de-France, Paris, FR"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/6HlY0c7zUC0">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/6HlY0c7zUC0",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T15:51:41.000Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/TGlDUcm2BYI",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "L’espace ensorcelé"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/TGlDUcm2BYI/selector/textPosition/A2iDeRXBF2N",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 44701,
+                "end": 44710,
+                "refinedBy": {
+                    "id": "/target/TGlDUcm2BYI/selector/textQuote/JU3tDJnIBUZ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Nashville",
+                    "prefix": "",
+                    "suffix": " Vanderbilt University Press, 2004"
+                }
+            },
+            {
+                "id": "/target/TGlDUcm2BYI/selector/css/Jiti4k5QKep",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/6HlY0c7zUC0]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/4644585",
+        "type": "crm:E53_Place",
+        "label": "Nashville",
+        "description": ""
     },
     "P2_has_type": [
         "oa:identifying"
