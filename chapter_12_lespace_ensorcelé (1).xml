@@ -771,7 +771,7 @@
                         <bibl>Walsh Matthews, Stéphanie. <title level="m">Le réalisme magique dans la littérature contemporaine québécoise</title>. Thèse de doctorat, Université de Toronto, 2011.</bibl>
                         <bibl>. <title level="a">Les vérités ensorcelantes: les sorcières dans la littérature francophone au féminin</title>. <title level="j">MaComère</title> 13.1-2 (2012): 82-97.</bibl>
                         <bibl>Weisgerber, Jean (dir.). <title level="m">Le réalisme magique. Roman. Peinture. Cinéma</title>. Lausanne: L’Âge d’homme, 1987.</bibl>
-                        <bibl>Zamora, Lois P. et Wendy B. Faris (dir.). <title level="m" xml:lang="en-CA">Magical Realism: Theory, History, Community</title>. Durham, NC: Duke University Press, 1995.</bibl>
+                        <bibl><placeName key="Zamora, Lois Parkinson, 1944-...." ref="http://viaf.org/viaf/22295315" ana="webannotation:http://temp.lincsproject.ca/mtgIJohe5sr">Zamora</placeName>, Lois P. et Wendy B. Faris (dir.). <title level="m" xml:lang="en-CA">Magical Realism: Theory, History, Community</title>. Durham, NC: Duke University Press, 1995.</bibl>
                     </listBibl>
                 </div>
             </div>
@@ -3691,6 +3691,95 @@
     "P2_has_type": [
         "oa:identifying",
         "edit:certaintyHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/mtgIJohe5sr">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/mtgIJohe5sr",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T15:54:18.686Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/H5hrpA3fKKr",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "L’espace ensorcelé"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/H5hrpA3fKKr/selector/textPosition/9a6yHxpBxvZ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 47927,
+                "end": 47933,
+                "refinedBy": {
+                    "id": "/target/H5hrpA3fKKr/selector/textQuote/kRPuG9q7jMZ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Zamora",
+                    "prefix": "\n                       ",
+                    "suffix": " Lois P"
+                }
+            },
+            {
+                "id": "/target/H5hrpA3fKKr/selector/css/rbRIOI7SWV4",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/mtgIJohe5sr]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/22295315",
+        "type": "crm:E21_Person",
+        "label": "Zamora, Lois Parkinson, 1944-....",
+        "description": "Zamora, Lois Parkinson"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
