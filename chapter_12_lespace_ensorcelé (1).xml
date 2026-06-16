@@ -770,7 +770,7 @@
                         <bibl>Viau, Robert (dir.). <title level="m">La création littéraire dans le contexte de l’exiguïté</title>. <placeName key="Québec" ref="https://sws.geonames.org/6115047" ana="webannotation:http://temp.lincsproject.ca/FbO5FtBapzH">Québec</placeName>: <hi rend="small-caps">mnh</hi>, 2000.</bibl>
                         <bibl>Walsh Matthews, Stéphanie. <title level="m">Le réalisme magique dans la littérature contemporaine québécoise</title>. Thèse de doctorat, Université de Toronto, 2011.</bibl>
                         <bibl>. <title level="a">Les vérités ensorcelantes: les sorcières dans la littérature francophone au féminin</title>. <title level="j">MaComère</title> 13.1-2 (2012): 82-97.</bibl>
-                        <bibl>Weisgerber, Jean (dir.). <title level="m">Le réalisme magique. Roman. Peinture. Cinéma</title>. Lausanne: L’Âge d’homme, 1987.</bibl>
+                        <bibl>Weisgerber, Jean (dir.). <title level="m">Le réalisme magique. Roman. Peinture. Cinéma</title>. <placeName key="Lausanne" ref="https://sws.geonames.org/6299715" ana="webannotation:http://temp.lincsproject.ca/r5yW7r2Rxsb">Lausanne</placeName>: L’Âge d’homme, 1987.</bibl>
                         <bibl><placeName key="Zamora, Lois Parkinson, 1944-...." ref="http://viaf.org/viaf/22295315" ana="webannotation:http://temp.lincsproject.ca/mtgIJohe5sr" type="real" cert="high">Zamora</placeName>, Lois P. et Wendy B. Faris (dir.). <title level="m" xml:lang="en-CA">Magical Realism: Theory, History, Community</title>. Durham, NC: Duke University Press, 1995.</bibl>
                     </listBibl>
                 </div>
@@ -4322,8 +4322,99 @@
 }]]>
 				
 </rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/r5yW7r2Rxsb">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/r5yW7r2Rxsb",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T16:53:24.050Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/8uQZT6cIj6f",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "L’espace ensorcelé"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/8uQZT6cIj6f/selector/textPosition/wttpKKDBPLL",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 47872,
+                "end": 47880,
+                "refinedBy": {
+                    "id": "/target/8uQZT6cIj6f/selector/textQuote/KLnonquYvge",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Lausanne",
+                    "prefix": "",
+                    "suffix": " L’Âge d’homme, 1987"
+                }
+            },
+            {
+                "id": "/target/8uQZT6cIj6f/selector/css/1lx9qtR3eRw",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/r5yW7r2Rxsb]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6299715",
+        "type": "crm:E53_Place",
+        "label": "Lausanne",
+        "description": "Vaud, Lausanne District, CH"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
 			
 </rdf:RDF>
+		
+
 		
 
 		
@@ -4332,7 +4423,9 @@
 </xenoData>
 	
 	
+	
 	</standOff>
+
 
 
 </TEI>
