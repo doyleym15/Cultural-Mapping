@@ -683,7 +683,7 @@
                             <ref target="#response_formal">
                                 <ref target="#theme_or_topic">
                                     <ref target="#genre_fiction">Plusieurs critiques ont mis en lumière ce désir d’être libéré d’une situation opprimante comme constituant un thème privilégié du réalisme magique, et ce thème est bien présent dans la critique québécoise</ref>. Un genre qui subvertit les idées généralement admises, qui renverse les structures dominantes et qui donne la voix aux marginalisés est loin d’être étranger au contexte de production littéraire québécois.</ref>
-                                <ref target="#religion">Ainsi, le texte relève d’un contexte considérablement marqué par la tradition et la religion et, comme le note Denis Bouchard, <q>ces jeux sont féroces pour [les] Québécois accoutumés à des épopées des Laurentides et du Saint-Laurent. Des rétrospectives dénichant l’inceste et tout un catalogue de vices honteux peuvent en fin de compte se rapporter à nos expériences, inédites à cause d’un manque de courage héréditaire, refoulées à cause de notre culpabilité</q>
+                                <ref target="#religion">Ainsi, le texte relève d’un contexte considérablement marqué par la tradition et la religion et, comme le note Denis Bouchard, <q>ces jeux sont féroces pour [les] Québécois accoutumés à des épopées des <placeName key="Laurentides" ref="https://sws.geonames.org/6050541" ana="webannotation:http://temp.lincsproject.ca/Z5LuoHko9Oc">Laurentides</placeName> et du Saint-Laurent. Des rétrospectives dénichant l’inceste et tout un catalogue de vices honteux peuvent en fin de compte se rapporter à nos expériences, inédites à cause d’un manque de courage héréditaire, refoulées à cause de notre culpabilité</q>
                                     <note place="inline">
                                         <bibl>173</bibl>
                                     </note>
@@ -2243,6 +2243,95 @@
         "type": "crm:E53_Place",
         "label": "Republic of France",
         "description": "null, FR"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Z5LuoHko9Oc">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Z5LuoHko9Oc",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T15:18:02.074Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/DsmzKlTKuUU",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "L’espace ensorcelé"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/DsmzKlTKuUU/selector/textPosition/cWrifBXQJ6q",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 37487,
+                "end": 37498,
+                "refinedBy": {
+                    "id": "/target/DsmzKlTKuUU/selector/textQuote/RkZI716slot",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Laurentides",
+                    "prefix": "\n                                Ainsi, le texte relève d’un contexte considérablement marqué par la tradition et la religion et, comme le note Denis Bouchard, ces jeux sont féroces pour [les] Québécois accoutumés à des épopées des",
+                    "suffix": "et du Saint-Laurent"
+                }
+            },
+            {
+                "id": "/target/DsmzKlTKuUU/selector/css/0TPUzJVrKG4",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Z5LuoHko9Oc]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6050541",
+        "type": "crm:E53_Place",
+        "label": "Laurentides",
+        "description": "Quebec, Laurentides, CA"
     },
     "P2_has_type": [
         "oa:identifying"
