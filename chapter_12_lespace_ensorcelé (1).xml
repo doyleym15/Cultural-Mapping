@@ -738,7 +738,7 @@
                     <head>Bibliographie</head>
                     <listBibl>
                         <bibl>Allende, Isabel. <title level="m" xml:lang="en-CA">The House of the Spirits</title>. Trad. Magda Bogin. New York: <placeName key="Bantam Books (Firm)" ref="http://viaf.org/viaf/140757042" ana="webannotation:http://temp.lincsproject.ca/9HQ5XKrrrde">Bantam</placeName>, 1986. (traduction de <title level="m">La casa de los espíritus</title>, 1982)</bibl>
-                        <bibl>Bakhtine, Mikhail. <title level="m" xml:lang="en-CA">Rabelais and his World</title>. Trad. Hélène Iswolsky. Bloomington: <orgName key="Indiana university press" ref="http://viaf.org/viaf/122335523" ana="webannotation:http://temp.lincsproject.ca/h1NoajymQS6">Indiana University Press</orgName>, 1984.</bibl>
+                        <bibl>Bakhtine, Mikhail. <title level="m" xml:lang="en-CA">Rabelais and his World</title>. Trad. Hélène Iswolsky. <placeName key="Bloomington" ref="https://sws.geonames.org/4254679" ana="webannotation:http://temp.lincsproject.ca/zXC9ohvvoq8">Bloomington</placeName>: <orgName key="Indiana university press" ref="http://viaf.org/viaf/122335523" ana="webannotation:http://temp.lincsproject.ca/h1NoajymQS6">Indiana University Press</orgName>, 1984.</bibl>
                         <bibl>Bessière, Irène. <title level="m">Le récit fantastique</title>.<placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/GetiagMN7Fg">Paris</placeName>: Larousse, 1974.</bibl>
                         <bibl>Bishop, Neil.<title level="a">
                                 <title level="m">Les enfants du sabbat</title> et la problématique de la libération chez Anne Hébert</title>. <title level="m">The Art and Genius of Anne Hébert: Essays on Her Works</title>. Dir. Janis L. Pallister. Cranbury, NJ: Rosemont Publishing, 2001. 54-74.</bibl>
@@ -4949,6 +4949,95 @@
         "type": "crm:E74_Group",
         "label": "Bantam Books (Firm)",
         "description": "Bantam Books."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/zXC9ohvvoq8">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/zXC9ohvvoq8",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T17:05:28.547Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/B6zzzcpiW6C",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_12_lespace_ensorcelé (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "L’espace ensorcelé"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/B6zzzcpiW6C/selector/textPosition/VGr6WmDwjCa",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 43488,
+                "end": 43499,
+                "refinedBy": {
+                    "id": "/target/B6zzzcpiW6C/selector/textQuote/OP3YdDuP7ri",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Bloomington",
+                    "prefix": "",
+                    "suffix": " Indiana University Press, 1984"
+                }
+            },
+            {
+                "id": "/target/B6zzzcpiW6C/selector/css/8q6Y5qvSSLb",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/zXC9ohvvoq8]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/4254679",
+        "type": "crm:E53_Place",
+        "label": "Bloomington",
+        "description": ""
     },
     "P2_has_type": [
         "oa:identifying"
