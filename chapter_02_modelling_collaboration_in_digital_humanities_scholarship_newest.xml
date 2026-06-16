@@ -786,7 +786,7 @@
                                     <bibl>1371</bibl>
                                 </note>. The collaborative process created an environment of <q>collective respect for personal and disciplinary differences and evolved a kind of <q>rhetoric of dissensus</q> that permitted, indeed demanded, continued discussion</q>
                                 <note place="inline">
-                                    <bibl>Trimbur 609</bibl>
+                                    <bibl><title key="Trimbur, John." ref="http://viaf.org/viaf/55776530" ana="webannotation:http://temp.lincsproject.ca/V3L0P5QKJjx">Trimbur 609</title></bibl>
                                 </note>. The collaborative process fosters an environment of innovative communication between disciplines. <ref target="#technology">Communication becomes even more crucial in <abbr>DH</abbr> projects. Clear communication within digital humanities teams is essential in alleviating the <q>tension that can exist between programmers and non-programmers, the varying perspectives of different disciplines, a lack of common language and understanding of the project between team members</q>
                                     <note place="inline">
                                         <bibl><orgName key="Siemens, Lynne" ref="http://viaf.org/viaf/542159474159427661062" ana="webannotation:http://temp.lincsproject.ca/ZoPclVwR5Dc">Siemens</orgName> 229</bibl>
@@ -18554,6 +18554,94 @@
         "type": "crm:E53_Place",
         "label": "Baltimore",
         "description": "Maryland, City of Baltimore, US"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/V3L0P5QKJjx">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/V3L0P5QKJjx",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-16T15:03:09.466Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/gi8RVcTLbgK",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship_newest.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "it",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_02_modelling_collaboration_in_digital_humanities_scholarship_newest.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Modelling Collaboration in Digital Humanities Scholarship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/gi8RVcTLbgK/selector/textPosition/R2JwkJuYxNX",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 51631,
+                "end": 51642,
+                "refinedBy": {
+                    "id": "/target/gi8RVcTLbgK/selector/textQuote/h4WXLF6p5Vx",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Trimbur 609",
+                    "prefix": " The collaborative process created an environment of collective respect for personal and disciplinary differences and evolved a kind of rhetoric of dissensus that permitted, indeed demanded, continued discussion\n                                \n                                   ",
+                    "suffix": "                                "
+                }
+            },
+            {
+                "id": "/target/gi8RVcTLbgK/selector/css/tG10JzOsRvq",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/V3L0P5QKJjx]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/55776530",
+        "type": "crm:E21_Person",
+        "label": "Trimbur, John."
     },
     "P2_has_type": [
         "oa:identifying"
