@@ -683,7 +683,7 @@
                             <ref target="#response_formal">
                                 <ref target="#theme_or_topic">
                                     <ref target="#genre_fiction">Plusieurs critiques ont mis en lumière ce désir d’être libéré d’une situation opprimante comme constituant un thème privilégié du réalisme magique, et ce thème est bien présent dans la critique québécoise</ref>. Un genre qui subvertit les idées généralement admises, qui renverse les structures dominantes et qui donne la voix aux marginalisés est loin d’être étranger au contexte de production littéraire québécois.</ref>
-                                <ref target="#religion">Ainsi, le texte relève d’un contexte considérablement marqué par la tradition et la religion et, comme le note Denis Bouchard, <q>ces jeux sont féroces pour [les] Québécois accoutumés à des épopées des <placeName key="Laurentides" ref="https://sws.geonames.org/6050541" ana="webannotation:http://temp.lincsproject.ca/Z5LuoHko9Oc" type="real" cert="high" precision="high">Laurentides</placeName> et du <placeName key="Saint-Laurent" ref="https://www.geonames.org/2787382/saint-laurent.html" ana="webannotation:http://temp.lincsproject.ca/6VqdcReDNuP">Saint-Laurent</placeName>. Des rétrospectives dénichant l’inceste et tout un catalogue de vices honteux peuvent en fin de compte se rapporter à nos expériences, inédites à cause d’un manque de courage héréditaire, refoulées à cause de notre culpabilité</q>
+                                <ref target="#religion">Ainsi, le texte relève d’un contexte considérablement marqué par la tradition et la religion et, comme le note Denis Bouchard, <q>ces jeux sont féroces pour [les] Québécois accoutumés à des épopées des <placeName key="Laurentides" ref="https://sws.geonames.org/6050541" ana="webannotation:http://temp.lincsproject.ca/Z5LuoHko9Oc" type="real" cert="high" precision="high">Laurentides</placeName> et du <placeName key="Saint-Laurent" ref="https://www.geonames.org/2787382/saint-laurent.html" ana="webannotation:http://temp.lincsproject.ca/6VqdcReDNuP" type="real">Saint-Laurent</placeName>. Des rétrospectives dénichant l’inceste et tout un catalogue de vices honteux peuvent en fin de compte se rapporter à nos expériences, inédites à cause d’un manque de courage héréditaire, refoulées à cause de notre culpabilité</q>
                                     <note place="inline">
                                         <bibl>173</bibl>
                                     </note>
@@ -2425,7 +2425,10 @@
         "id": "https://www.geonames.org/2787382/saint-laurent.html",
         "label": "Saint-Laurent",
         "type": "crm:E53_Place",
-        "entityType": "crm:E53_Place"
+        "entityType": "crm:E53_Place",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
