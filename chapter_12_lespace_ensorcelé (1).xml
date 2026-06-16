@@ -761,7 +761,7 @@
                         <bibl><placeName key="Okri, Ben, 1959-...." ref="http://viaf.org/viaf/76380613" ana="webannotation:http://temp.lincsproject.ca/TCETt7SqaTj">Okri</placeName>, Ben. <title level="m" xml:lang="en-CA">The Famished Road</title>. London: Vintage, 1992.</bibl>
                         <bibl>Paterson, Janet. <title level="a">Parodie et sorcellerie.</title>
                             <title level="j">Études littéraires</title> 19.1 (1986): 59-66.</bibl>
-                        <bibl>Roussos, Katherine. <title level="m">Décoloniser l’imaginaire: Le réalisme magique chez Maryse Condé, Sylvie Germain et Marie Ndiaye</title>. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/cGMb34Xuud2">Paris</placeName>: L’<placeName key="Harmattan (Firm)" ref="http://viaf.org/viaf/313021841" ana="webannotation:http://temp.lincsproject.ca/dvJkzr6FbAa" type="real">Harmattan</placeName>, 2007.</bibl>
+                        <bibl>Roussos, Katherine. <title level="m">Décoloniser l’imaginaire: Le réalisme magique chez Maryse Condé, Sylvie Germain et Marie Ndiaye</title>. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/cGMb34Xuud2">Paris</placeName>: L’<placeName key="Harmattan (Firm)" ref="http://viaf.org/viaf/313021841" ana="webannotation:http://temp.lincsproject.ca/dvJkzr6FbAa" type="real" cert="high">Harmattan</placeName>, 2007.</bibl>
                         <bibl>Rushdie, Salman. <title level="m" xml:lang="en-CA">Midnight’s Children</title>. London: Picador, 1982.</bibl>
                         <bibl>Scheel, Charles W. <title level="a">Le réalisme magique: mode narratif de la fiction ou label culturaliste?</title>
                             <title level="m">Études culturelles, anthropologie culturelle et comparatisme. Vol. 2</title>. Dir. Didier Souiller, Antonio Dominguez Leiva, Sébastien Hubier et Philippe Chardin. Actes du 35 <hi rend="superscript">e</hi> congrès de la <hi rend="small-caps">sflgc</hi> (<orgName key="Société française de littérature générale et comparée." ref="http://viaf.org/viaf/132295307" ana="webannotation:http://temp.lincsproject.ca/sWtJ6xqgBx9">Société française de littérature générale</orgName> et comparée). <placeName key="Dijon" ref="https://sws.geonames.org/3021372" ana="webannotation:http://temp.lincsproject.ca/hNhU34kVpeC">Dijon</placeName>: Éditions du Murmure, 2010. 211-22.</bibl>
@@ -4409,7 +4409,8 @@
         ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh"
     ]
 }]]>
 				
