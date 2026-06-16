@@ -768,7 +768,7 @@
                         <bibl>. <title level="m">Réalisme magique et réalisme merveilleux : Des théories aux poétiques</title>. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/UCqUFThhJYa">Paris</placeName>: L’<placeName key="Harmattan (Firm)" ref="http://viaf.org/viaf/313021841" ana="webannotation:http://temp.lincsproject.ca/TfVX9eqUb58">Harmattan</placeName>, 2005.</bibl>
                         <bibl>Todorov, Tzvetan. <title level="m">Introduction à la littérature fantastique</title>. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/K2mfyF8QHTT">Paris</placeName>: Seuil, 1970.</bibl>
                         <bibl>Viau, Robert (dir.). <title level="m">La création littéraire dans le contexte de l’exiguïté</title>. <placeName key="Québec" ref="https://sws.geonames.org/6115047" ana="webannotation:http://temp.lincsproject.ca/FbO5FtBapzH">Québec</placeName>: <hi rend="small-caps">mnh</hi>, 2000.</bibl>
-                        <bibl>Walsh Matthews, Stéphanie. <title level="m">Le réalisme magique dans la littérature contemporaine québécoise</title>. Thèse de doctorat, <orgName key="University of Toronto." ref="http://viaf.org/viaf/130333233" ana="webannotation:http://temp.lincsproject.ca/po2dOb1Ji1D">Université de Toronto</orgName>, 2011.</bibl>
+                        <bibl>Walsh Matthews, Stéphanie. <title level="m">Le réalisme magique dans la littérature contemporaine québécoise</title>. Thèse de doctorat, <orgName key="University of Toronto." ref="http://viaf.org/viaf/130333233" ana="webannotation:http://temp.lincsproject.ca/po2dOb1Ji1D" type="real">Université de Toronto</orgName>, 2011.</bibl>
                         <bibl>. <title level="a">Les vérités ensorcelantes: les sorcières dans la littérature francophone au féminin</title>. <title level="j">MaComère</title> 13.1-2 (2012): 82-97.</bibl>
                         <bibl>Weisgerber, Jean (dir.). <title level="m">Le réalisme magique. Roman. Peinture. Cinéma</title>. <placeName key="Lausanne" ref="https://sws.geonames.org/6299715" ana="webannotation:http://temp.lincsproject.ca/r5yW7r2Rxsb">Lausanne</placeName>: L’Âge d’homme, 1987.</bibl>
                         <bibl><placeName key="Zamora, Lois Parkinson, 1944-...." ref="http://viaf.org/viaf/22295315" ana="webannotation:http://temp.lincsproject.ca/mtgIJohe5sr" type="real" cert="high">Zamora</placeName>, Lois P. et Wendy B. Faris (dir.). <title level="m" xml:lang="en-CA">Magical Realism: Theory, History, Community</title>. Durham, NC: Duke University Press, 1995.</bibl>
@@ -4588,7 +4588,10 @@
         "id": "http://viaf.org/viaf/130333233",
         "type": "crm:E74_Group",
         "label": "University of Toronto.",
-        "description": "Université de Toronto université à Toronto en Ontario au Canada"
+        "description": "Université de Toronto université à Toronto en Ontario au Canada",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
