@@ -501,7 +501,7 @@
                             <ref target="#nationality">
                                 <ref target="#language">Comme son nom l’indique, <title level="m" xml:lang="en-CA">The Evergreen Country: A Memoir of Vietnam</title> est un récit autobiographique, en anglais, de l’auteure Thuong Vuong-Riddick, dont le nom lui-même indique l’hybridité. Le prénom — Thuong — postposé en vietnamien, se retrouve en première position canadienne, et le nom d’épouse — Riddick — est rattaché par un trait d’union au nom de famille Vuong, à la québécoise. Par ailleurs, Vuong est la forme vietnamisée du patronyme chinois Wang <note place="inline">
                                         <bibl>Vuong-Riddick 2007, 10</bibl>
-                                    </note>. <ref target="#education">Vuong-Riddick passa ses vingt-cinq premières années au Vietnam, principalement à Hanoi et à Saigon, puis quitta ce pays pour la France afin d’y poursuivre des études supérieures. Par des chemins détournés, elle se retrouva au Canada, à Montréal, où elle enseigna la littérature francophone à l’Université McGill, puis finit par s’établir en Colombie-Britannique où elle enseigna pendant plusieurs années à l’Université de Victoria avant de déménager à Vancouver</ref>. Elle n’est pas vietnamienne <q>pure laine</q> non plus, mais, comme le laissait prévoir son nom Vuong, issue d’une famille chinoise, elle-même établie depuis trois générations à Hanoi au Nord Vietnam. <ref target="#childhood">Sa langue maternelle est le foukinois (fujianese), vite suivie du vietnamien de la vie locale de son enfance, du mandarin appris en langue seconde à l’école élémentaire, puis du français à l’école catholique et de l’anglais, langue soi-disant <q>seconde</q> mais en réalité sa cinquième langue.</ref>
+                                    </note>. <ref target="#education">Vuong-Riddick passa ses vingt-cinq premières années au Vietnam, principalement à Hanoi et à Saigon, puis quitta ce pays pour la France afin d’y poursuivre des études supérieures. Par des chemins détournés, elle se retrouva au <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/ND8MU09SzkY">Canada</placeName>, à Montréal, où elle enseigna la littérature francophone à l’Université McGill, puis finit par s’établir en Colombie-Britannique où elle enseigna pendant plusieurs années à l’Université de Victoria avant de déménager à Vancouver</ref>. Elle n’est pas vietnamienne <q>pure laine</q> non plus, mais, comme le laissait prévoir son nom Vuong, issue d’une famille chinoise, elle-même établie depuis trois générations à Hanoi au Nord Vietnam. <ref target="#childhood">Sa langue maternelle est le foukinois (fujianese), vite suivie du vietnamien de la vie locale de son enfance, du mandarin appris en langue seconde à l’école élémentaire, puis du français à l’école catholique et de l’anglais, langue soi-disant <q>seconde</q> mais en réalité sa cinquième langue.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -730,7 +730,7 @@
                     <p xml:id="p1494">
                         <ref target="#tone_or_style">
                             <ref target="#genre_lifeWriting">
-                                <ref target="#nationality">Kim Thúy se lance d’emblée dans le genre européanisé de l’autofiction dans laquelle elle fait une toute petite place à certains accents vietnamiens — son nom de famille, Thúy, et celui qui distingue son nom de celui de sa mère, au début — et les intègre même à la graphie de son roman</ref>. Vuong-Riddick ne fait aucune place à la graphie vietnamienne. Souvent, Thúy fait des comparaisons par lesquelles elle fait se confronter ses deux expériences si différentes. <ref target="#childhood">Grandir au Canada de <hi rend="italic" xml:lang="en-CA">boat people</hi> vietnamiens représente un choc culturel dont on ne contrôle pas les éléments marquants. Ainsi, le parfum auquel Thúy associe le Canada a quelque chose de saugrenu et d’insolite : le Canada, c’est l’odeur de l’assouplissant <hi rend="italic">Bounce</hi> qu’elle sent dans les vêtements de son mari <note place="inline">
+                                <ref target="#nationality">Kim Thúy se lance d’emblée dans le genre européanisé de l’autofiction dans laquelle elle fait une toute petite place à certains accents vietnamiens — son nom de famille, Thúy, et celui qui distingue son nom de celui de sa mère, au début — et les intègre même à la graphie de son roman</ref>. Vuong-Riddick ne fait aucune place à la graphie vietnamienne. Souvent, Thúy fait des comparaisons par lesquelles elle fait se confronter ses deux expériences si différentes. <ref target="#childhood">Grandir au <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/vz1ApWF9kR6">Canada</placeName> de <hi rend="italic" xml:lang="en-CA">boat people</hi> vietnamiens représente un choc culturel dont on ne contrôle pas les éléments marquants. Ainsi, le parfum auquel Thúy associe le <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/xQ924ENlycT">Canada</placeName> a quelque chose de saugrenu et d’insolite : le <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/LCoWgioJN7w">Canada</placeName>, c’est l’odeur de l’assouplissant <hi rend="italic">Bounce</hi> qu’elle sent dans les vêtements de son mari <note place="inline">
                                         <bibl>Thúy 117</bibl>
                                     </note>.</ref>
                             </ref>
@@ -797,4 +797,370 @@
             </div>
         </body>
     </text>
+	<standOff type="annotation">
+		
+<xenoData>
+			
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ND8MU09SzkY">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ND8MU09SzkY",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T17:53:28.373Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/GhWIvUHhn4h",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/GhWIvUHhn4h/selector/textPosition/bGNGqWgafWj",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 9841,
+                "end": 9847,
+                "refinedBy": {
+                    "id": "/target/GhWIvUHhn4h/selector/textQuote/i2T6xjmAWz9",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canada",
+                    "prefix": " Par des chemins détournés, elle se retrouva au",
+                    "suffix": " à Montréal, où elle enseigna la littérature francophone à l’Université McGill, puis finit par s’établir en Colombie-Britannique où elle enseigna pendant plusieurs années à l’Université de Victoria avant de déménager à Vancouver"
+                }
+            },
+            {
+                "id": "/target/GhWIvUHhn4h/selector/css/zoXV0m9CPUG",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ND8MU09SzkY]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6251999",
+        "type": "crm:E53_Place",
+        "label": "Canada",
+        "description": "null, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/vz1ApWF9kR6">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/vz1ApWF9kR6",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T17:53:28.374Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/tmB3NAC3Bsu",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/tmB3NAC3Bsu/selector/textPosition/isOv7VgR7iw",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 32544,
+                "end": 32550,
+                "refinedBy": {
+                    "id": "/target/tmB3NAC3Bsu/selector/textQuote/GNBovUIEKMp",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canada",
+                    "prefix": " Grandir au",
+                    "suffix": "de boat people vietnamiens représente un choc culturel dont on ne contrôle pas les éléments marquants"
+                }
+            },
+            {
+                "id": "/target/tmB3NAC3Bsu/selector/css/gXhxLsWr7Xv",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/vz1ApWF9kR6]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6251999",
+        "type": "crm:E53_Place",
+        "label": "Canada",
+        "description": "null, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/xQ924ENlycT">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/xQ924ENlycT",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T17:53:28.375Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/p08XB51bxfk",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/p08XB51bxfk/selector/textPosition/wPv4PeTVGZb",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 32694,
+                "end": 32700,
+                "refinedBy": {
+                    "id": "/target/p08XB51bxfk/selector/textQuote/8KSiQ65SaaP",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canada",
+                    "prefix": " Ainsi, le parfum auquel Thúy associe le",
+                    "suffix": "a quelque chose de saugrenu et d’insolite : le Canada, c’est l’odeur de l’assouplissant Bounce qu’elle sent dans les vêtements de son mari \n                                        Thúy 117\n                                    "
+                }
+            },
+            {
+                "id": "/target/p08XB51bxfk/selector/css/7xxn9kDpror",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/xQ924ENlycT]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6251999",
+        "type": "crm:E53_Place",
+        "label": "Canada",
+        "description": "null, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/LCoWgioJN7w">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/LCoWgioJN7w",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T17:53:28.375Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/8zWtvHULHGg",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/8zWtvHULHGg/selector/textPosition/KQhoSKmRTbH",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 32748,
+                "end": 32754,
+                "refinedBy": {
+                    "id": "/target/8zWtvHULHGg/selector/textQuote/WpmOMITetVq",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canada",
+                    "prefix": " Ainsi, le parfum auquel Thúy associe le Canada a quelque chose de saugrenu et d’insolite : le",
+                    "suffix": " c’est l’odeur de l’assouplissant Bounce qu’elle sent dans les vêtements de son mari \n                                        Thúy 117\n                                    "
+                }
+            },
+            {
+                "id": "/target/8zWtvHULHGg/selector/css/qCvH4wanMb9",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/LCoWgioJN7w]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6251999",
+        "type": "crm:E53_Place",
+        "label": "Canada",
+        "description": "null, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+			
+</rdf:RDF>
+		
+</xenoData>
+	</standOff>
 </TEI>
