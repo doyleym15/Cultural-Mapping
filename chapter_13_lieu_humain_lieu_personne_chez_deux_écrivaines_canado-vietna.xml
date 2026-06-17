@@ -663,7 +663,7 @@
                         </p>
                         <p xml:id="p1487">
                             <ref target="#history">
-                                <ref target="language">L’Histoire du Vietnam, celle avec un grand H, a déjoué les plans de ma mère. Elle a jeté les accents de nos noms à l’eau quand elle nous a fait traverser le <placeName key="Gulf of Thailand" ref="https://sws.geonames.org/1818185" ana="webannotation:http://temp.lincsproject.ca/TXKBISbiQOg" type="real" cert="high">golfe du Siam</placeName>, il y a trente ans. Elle a aussi dépouillé nos noms de leur sens, les réduisant à des sons à la fois étrangers et étranges dans la langue française.</ref>
+                                <ref target="language">L’Histoire du Vietnam, celle avec un grand H, a déjoué les plans de ma mère. Elle a jeté les accents de nos noms à l’eau quand elle nous a fait traverser le <placeName key="Gulf of Thailand" ref="https://sws.geonames.org/1818185" ana="webannotation:http://temp.lincsproject.ca/TXKBISbiQOg" type="real" cert="high" precision="high">golfe du Siam</placeName>, il y a trente ans. Elle a aussi dépouillé nos noms de leur sens, les réduisant à des sons à la fois étrangers et étranges dans la langue française.</ref>
                             </ref>
                             <note place="inline">
                                 <bibl>Thúy 12</bibl>
@@ -3574,7 +3574,8 @@
     },
     "P2_has_type": [
         "oa:identifying",
-        "edit:certaintyHigh"
+        "edit:certaintyHigh",
+        "edit:precisionHigh"
     ]
 }]]>
 				
