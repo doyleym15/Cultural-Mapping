@@ -467,7 +467,7 @@
                     <p xml:id="p1469">
                         <ref target="#editions">
                             <ref target="#translation">
-                                <ref target="#language">En deuxième lieu, certains phénomènes subtils liés aux différentes façons dont les <placeName key="Vietnamese" ref="http://www.wikidata.org/entity/Q3275151" ana="webannotation:http://temp.lincsproject.ca/ME26zPmu2pb">Vietnamiens</placeName> s’interpellent ont été entièrement perdus, eux aussi, dans la traduction. Ainsi, il est presque impossible en vietnamien de ne pas établir, dès le premier contact entre deux personnes, une situation hiérarchisée, semblable au vouvoiement français mais beaucoup plus compliquée. Chacun se positionne dans une situation de respect par rapport à l’autre, de reconnaissance d’ancienneté, de pouvoir et de genre féminin ou masculin. Chacun est plus jeune ou plus âgé (jeune frère ou sœur/grand frère ou grande sœur; grand-père ou grand-mère <hi rend="italic">éloignés</hi>— donc maternels — ou paternels, etc). <ref target="#spatiality">Il y a une scène dans le roman de Duong Thu Huong où deux petites copines réussissent à ne pas instituer entre elles de hiérarchie en rejetant toutes les formules d’appellation habituelles qui n’admettent pas d’égalité, et en se transformant en lieux respectifs, semblables, peut-être, au <q>hé, là-bas</q> français, où le pronom personnel est remplacé par un démonstratif spatial : <q>lieu-ci</q> (<hi xml:lang="vi-VN">đây</hi> = je) ou <q>lieu-là</q> (<hi xml:lang="vi-VN">đâý</hi> ou <hi xml:lang="vi-VN">đó</hi> = tu).</ref>
+                                <ref target="#language">En deuxième lieu, certains phénomènes subtils liés aux différentes façons dont les <placeName key="Vietnamese" ref="http://www.wikidata.org/entity/Q3275151" ana="webannotation:http://temp.lincsproject.ca/ME26zPmu2pb" type="real">Vietnamiens</placeName> s’interpellent ont été entièrement perdus, eux aussi, dans la traduction. Ainsi, il est presque impossible en vietnamien de ne pas établir, dès le premier contact entre deux personnes, une situation hiérarchisée, semblable au vouvoiement français mais beaucoup plus compliquée. Chacun se positionne dans une situation de respect par rapport à l’autre, de reconnaissance d’ancienneté, de pouvoir et de genre féminin ou masculin. Chacun est plus jeune ou plus âgé (jeune frère ou sœur/grand frère ou grande sœur; grand-père ou grand-mère <hi rend="italic">éloignés</hi>— donc maternels — ou paternels, etc). <ref target="#spatiality">Il y a une scène dans le roman de Duong Thu Huong où deux petites copines réussissent à ne pas instituer entre elles de hiérarchie en rejetant toutes les formules d’appellation habituelles qui n’admettent pas d’égalité, et en se transformant en lieux respectifs, semblables, peut-être, au <q>hé, là-bas</q> français, où le pronom personnel est remplacé par un démonstratif spatial : <q>lieu-ci</q> (<hi xml:lang="vi-VN">đây</hi> = je) ou <q>lieu-là</q> (<hi xml:lang="vi-VN">đâý</hi> ou <hi xml:lang="vi-VN">đó</hi> = tu).</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -593,10 +593,10 @@
                                 <bibl>Vuong-Riddick 2007, 28</bibl>
                             </note>. <ref target="#history">
                                 <ref target="#nationality">
-                                    <ref target="#education">D’autres <ref target="#historical_oppression">rapprochements interculturels sont établis entre des épisodes historiques, comme lorsque les Vietnamiens ont chassé les Chinois du pays ou les ont forcés à aller dans des camps de rééducation, <q>like Japanese Canadians who were interned or deported during World War II</q>
+                                    <ref target="#education">D’autres <ref target="#historical_oppression">rapprochements interculturels sont établis entre des épisodes historiques, comme lorsque les <placeName key="Vietnamese" ref="http://www.wikidata.org/entity/Q3275151" ana="webannotation:http://temp.lincsproject.ca/Jvgj0vu7Gk7">Vietnamiens</placeName> ont chassé les Chinois du pays ou les ont forcés à aller dans des camps de rééducation, <q>like Japanese Canadians who were interned or deported during World War II</q>
                                             <note place="inline">
                                                 <bibl>Vuong-Riddick 2007, 169</bibl>
-                                            </note> ou lorsque les Vietnamiens cherchent à rééduquer les populations montagnardes, comme les Canadiens envoyaient de force les enfants autochtones dans des pensionnats</ref>
+                                            </note> ou lorsque les <placeName key="Vietnamese" ref="http://www.wikidata.org/entity/Q3275151" ana="webannotation:http://temp.lincsproject.ca/nC6JMmiojGL">Vietnamiens</placeName> cherchent à rééduquer les populations montagnardes, comme les Canadiens envoyaient de force les enfants autochtones dans des pensionnats</ref>
                                     </ref>.</ref>
                             </ref>
                         </ref>
@@ -1988,7 +1988,194 @@
         "id": "http://www.wikidata.org/entity/Q3275151",
         "type": "crm:E53_Place",
         "label": "Vietnamese",
-        "description": "citizens or residents of Vietnam"
+        "description": "citizens or residents of Vietnam",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Jvgj0vu7Gk7">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Jvgj0vu7Gk7",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T18:49:51.293Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/myOSzzqhXG8",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/myOSzzqhXG8/selector/textPosition/FDtuEMCtHIk",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 19862,
+                "end": 19873,
+                "refinedBy": {
+                    "id": "/target/myOSzzqhXG8/selector/textQuote/Sg9ftCGqlnf",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Vietnamiens",
+                    "prefix": " \n                                \n                                    D’autres rapprochements interculturels sont établis entre des épisodes historiques, comme lorsque les",
+                    "suffix": "ont chassé les Chinois du pays ou les ont forcés à aller dans des camps de rééducation, like Japanese Canadians who were interned or deported during World War II\n                                            \n                                                Vuong-Riddick 2007, 169\n                                             ou lorsque les Vietnamiens cherchent à rééduquer les populations montagnardes, comme les Canadiens envoyaient de force les enfants autochtones dans des pensionnats\n                                    "
+                }
+            },
+            {
+                "id": "/target/myOSzzqhXG8/selector/css/Tet2OHB5OC9",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Jvgj0vu7Gk7]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q3275151",
+        "type": "crm:E53_Place",
+        "label": "Vietnamese",
+        "description": "citizens or residents of Vietnam",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/nC6JMmiojGL">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/nC6JMmiojGL",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T18:49:51.340Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/bgfvL4ecy5o",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/bgfvL4ecy5o/selector/textPosition/JiUlY9aUt0t",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 20213,
+                "end": 20224,
+                "refinedBy": {
+                    "id": "/target/bgfvL4ecy5o/selector/textQuote/Eo9MS0W8zB1",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Vietnamiens",
+                    "prefix": " \n                                \n                                    D’autres rapprochements interculturels sont établis entre des épisodes historiques, comme lorsque les Vietnamiens ont chassé les Chinois du pays ou les ont forcés à aller dans des camps de rééducation, like Japanese Canadians who were interned or deported during World War II\n                                            \n                                                Vuong-Riddick 2007, 169\n                                             ou lorsque les",
+                    "suffix": "cherchent à rééduquer les populations montagnardes, comme les Canadiens envoyaient de force les enfants autochtones dans des pensionnats\n                                    "
+                }
+            },
+            {
+                "id": "/target/bgfvL4ecy5o/selector/css/aV7sTjmddRj",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/nC6JMmiojGL]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q3275151",
+        "type": "crm:E53_Place",
+        "label": "Vietnamese",
+        "description": "citizens or residents of Vietnam",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
