@@ -757,10 +757,10 @@
                             <ref target="#theory">
                                 <ref target="#tone_or_style">Bref, on trouve chez Vuong-Riddick comme chez Thúy les phénomènes que Rocío G. Davis identifie comme représentant les contributions les plus importantes de la littérature canadienne asiatique des <q xml:lang="en-CA">Short-story cycles</q> : la subversion des formes traditionnelles — roman, nouvelles, mémoires — et le travail de la forme, lesquels sont simultanément au service de la recherche d’identité personnelle et communautaire typique de cette littérature et <hi rend="italic">ultime métaphore</hi> et <q xml:lang="en-CA">textual enactment</q>
                                     <note place="inline">
-                                        <bibl><placeName key="Davis, Roćio G" ref="http://viaf.org/viaf/15012547" ana="webannotation:http://temp.lincsproject.ca/SGTfnaCB49p">Davis</placeName> 20</bibl>
+                                        <bibl><placeName key="Davis, Roćio G" ref="http://viaf.org/viaf/15012547" ana="webannotation:http://temp.lincsproject.ca/SGTfnaCB49p" type="real" cert="high">Davis</placeName> 20</bibl>
                                     </note> de la fragmentation et de la perte de ces identités. Ce caractère diégétique avant-garde exige à son tour l’engagement de lecteurs avertis et désireux d’interagir avec un texte différent de ceux auxquels ils sont habitués. <ref target="#canon_formation">
                                         <ref target="#language">
-                                            <ref target="#race_issue">Pour fermer le triangle <hi rend="italic">auteur-lecteur-contexte institutionnel</hi> de la communication littéraire, nous estimons avec Davis que <q>l’usage plus libre du langage et du genre</q> que l’on constate chez les écrivains américano et canado-asiatiques, est le produit <q>d’une appréciation accrue de la part des Américains et des Canadiens d’origine asiatique de la diversité culturelle des sociétés nord-américaines contemporaines et de la conscience qu’ils ont une place dans la littérature nationale</q>
+                                            <ref target="#race_issue">Pour fermer le triangle <hi rend="italic">auteur-lecteur-contexte institutionnel</hi> de la communication littéraire, nous estimons avec <placeName key="Davis, Roćio G" ref="http://viaf.org/viaf/15012547" ana="webannotation:http://temp.lincsproject.ca/tY458uYr9iI">Davis</placeName> que <q>l’usage plus libre du langage et du genre</q> que l’on constate chez les écrivains américano et canado-asiatiques, est le produit <q>d’une appréciation accrue de la part des Américains et des Canadiens d’origine asiatique de la diversité culturelle des sociétés nord-américaines contemporaines et de la conscience qu’ils ont une place dans la littérature nationale</q>
                                             </ref>
                                         </ref>
                                         <note xml:id="n108" place="end">
@@ -768,7 +768,7 @@
                                         </note>
                                     </ref>
                                     <note place="inline">
-                                        <bibl>Davis 9</bibl>
+                                        <bibl><placeName key="Davis, Roćio G" ref="http://viaf.org/viaf/15012547" ana="webannotation:http://temp.lincsproject.ca/8NevPsWr7SZ">Davis</placeName> 9</bibl>
                                     </note>; c’est nous qui traduisons.</ref>
                             </ref>
                         </ref>
@@ -777,14 +777,14 @@
                 <div type="section">
                     <head>Bibliographie</head>
                     <listBibl>
-                        <bibl xml:lang="en-CA">Davis, Rocío G. <title level="m">Transcultural Reinventions: Asian American and Asian Canadian Short-Story Cycles</title>. <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/f21YA0hY8an" type="real" cert="high" precision="high">Toronto</placeName>: <hi rend="small-caps">tsar</hi> Publications, 2001.</bibl>
+                        <bibl xml:lang="en-CA"><placeName key="Davis, Roćio G" ref="http://viaf.org/viaf/15012547" ana="webannotation:http://temp.lincsproject.ca/sWbHhC5vUgh">Davis</placeName>, Rocío G. <title level="m">Transcultural Reinventions: Asian American and Asian Canadian Short-Story Cycles</title>. <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/f21YA0hY8an" type="real" cert="high" precision="high">Toronto</placeName>: <hi rend="small-caps">tsar</hi> Publications, 2001.</bibl>
                         <bibl>Duffy, Dan. <title level="a" xml:lang="en-CA">Beyond the National Tradition: Thuong Vuong-Riddick’s <title level="m">Two Shores / Deux rives</title>
                             </title>. <title level="m">American Babel: Literatures of the United States from Abnaki to Zuni</title>. Dir. Marc Shell. Cambridge, MA: Harvard University Press, 2002. 322-42.</bibl>
                         <bibl>Duras, Marguerite. <title level="m">L’Amant</title>. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/nbB5BU5YHaF">Paris</placeName>: Les éditions de Minuit, 1984.</bibl>
                         <bibl>
                             <hi xml:lang="vi-VN">Dương, Thu Hương</hi>. <title level="m" xml:lang="vi-VN">Hành Trình Ngày Thơ Ấu</title>. 1985. <title level="m">Itinéraire d’enfance</title>. Trad. Phuong Dang Tran. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/P302FBERMjO">Paris</placeName>: Sabine Wespieser Éditeur, 2007.</bibl>
                         <bibl>. <title level="m" xml:lang="vi-VN">Những thiên đường mú</title>. <hi xml:lang="en-CA"><placeName key="Hanoi" ref="https://sws.geonames.org/1581129" ana="webannotation:http://temp.lincsproject.ca/IJ2jnuSdII6">Hanoi</placeName>: The Women’s Publishing House</hi>, 1988. <title level="m">Les Paradis Aveugles</title>. Trad. Des Femmes. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/el05EvlQIeX">Paris</placeName>: Éditions Des Femmes, 1991. <title level="m" xml:lang="en-CA">Paradise of the Blind</title>. Trans. Phan Huy Duong and Nina McPherson. New York: William Morrow and Company, 1993.</bibl>
-                        <bibl>Kellett-Betsos, Kathleen. <title level="a">
+                        <bibl><placeName key="Kellett-Betsos, Kathleen L. (Kathleen Louise), 1959-" ref="http://viaf.org/viaf/105747269" ana="webannotation:http://temp.lincsproject.ca/9imBDXpJwzF">Kellett-Betsos</placeName>, Kathleen. <title level="a">
                                 <title level="m">Two Shores / Deux rives</title> de Thuong Vuong-Riddick : Errance et ironie</title>. <title level="m">Littérature et culture francophones de <placeName key="British Columbia" ref="https://sws.geonames.org/5909050" ana="webannotation:http://temp.lincsproject.ca/tvgzTmGGi9e">Colombie-Britannique</placeName>: Espaces culturels francophones I</title>. Dir. Guy Poirier, Jacqueline Viswanathan et Grazia Merler. Ottawa: Les Éditions David, 2004. 85-106.</bibl>
                         <bibl>
                             <author xml:lang="vi-VN">Nguyễn, Phú Phong</author>.<title level="m"> Questions de linguistique vietnamienne : Les classificateurs et les déictiques.</title> <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/u7uVAbugHzQ">Paris</placeName>: Presses de l’École française d’Extrême-Orient, 1995.</bibl>
@@ -4494,7 +4494,287 @@
         "id": "http://viaf.org/viaf/15012547",
         "type": "crm:E21_Person",
         "label": "Davis, Roćio G",
-        "description": "Davis, Rocío G. 1964-"
+        "description": "Davis, Rocío G. 1964-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying",
+        "edit:certaintyHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/tY458uYr9iI">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/tY458uYr9iI",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T19:47:26.887Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/mlDCJIcyKuE",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/mlDCJIcyKuE/selector/textPosition/lMtB5BRu4is",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 35957,
+                "end": 35962,
+                "refinedBy": {
+                    "id": "/target/mlDCJIcyKuE/selector/textQuote/tmEgedgtQ50",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Davis",
+                    "prefix": " \n                                        \n                                            Pour fermer le triangle auteur-lecteur-contexte institutionnel de la communication littéraire, nous estimons avec",
+                    "suffix": "que l’usage plus libre du langage et du genre que l’on constate chez les écrivains américano et canado-asiatiques, est le produit d’une appréciation accrue de la part des Américains et des Canadiens d’origine asiatique de la diversité culturelle des sociétés nord-américaines contemporaines et de la conscience qu’ils ont une place dans la littérature nationale\n                                            \n                                        \n                                        \n                                            an expression of a new confidence demonstrated in a freer use of language and genre that stems from the Asian American and Asian Canadian’s increased appreciation of cultural diversity in contemporary North American societies and the awareness that they have that they have a place in the canons"
+                }
+            },
+            {
+                "id": "/target/mlDCJIcyKuE/selector/css/hoqh67Fe9tZ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/tY458uYr9iI]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/15012547",
+        "type": "crm:E21_Person",
+        "label": "Davis, Roćio G",
+        "description": "Davis, Rocío G. 1964-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/8NevPsWr7SZ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/8NevPsWr7SZ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T19:47:26.927Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Li6o9ZswElr",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Li6o9ZswElr/selector/textPosition/Bv3671sy4IR",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 36948,
+                "end": 36953,
+                "refinedBy": {
+                    "id": "/target/Li6o9ZswElr/selector/textQuote/zPSa6yvvJBU",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Davis",
+                    "prefix": "\n                                        \n                                    \n                                    \n                                       ",
+                    "suffix": "9\n                                    ; c’est nous qui traduisons"
+                }
+            },
+            {
+                "id": "/target/Li6o9ZswElr/selector/css/q7sx6OXZphg",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/8NevPsWr7SZ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/15012547",
+        "type": "crm:E21_Person",
+        "label": "Davis, Roćio G",
+        "description": "Davis, Rocío G. 1964-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/sWbHhC5vUgh">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/sWbHhC5vUgh",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T19:47:26.961Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/tbmTCzqcekS",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/tbmTCzqcekS/selector/textPosition/IG0kn3q1BDz",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 37209,
+                "end": 37214,
+                "refinedBy": {
+                    "id": "/target/tbmTCzqcekS/selector/textQuote/VpHnNLstnd8",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Davis",
+                    "prefix": "\n                            \n                        \n                    \n                \n                \n                    Bibliographie\n                    \n                       ",
+                    "suffix": " Rocío G"
+                }
+            },
+            {
+                "id": "/target/tbmTCzqcekS/selector/css/bltQCTqASpb",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/sWbHhC5vUgh]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/15012547",
+        "type": "crm:E21_Person",
+        "label": "Davis, Roćio G",
+        "description": "Davis, Rocío G. 1964-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -4592,6 +4872,95 @@
         "oa:identifying",
         "edit:certaintyHigh",
         "edit:precisionHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/9imBDXpJwzF">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/9imBDXpJwzF",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T19:48:26.748Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/TP3WPtegCvA",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/TP3WPtegCvA/selector/textPosition/ST70EuNlJQC",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 38200,
+                "end": 38214,
+                "refinedBy": {
+                    "id": "/target/TP3WPtegCvA/selector/textQuote/rADSkPU3GHA",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Kellett-Betsos",
+                    "prefix": "\n                       ",
+                    "suffix": " Kathleen"
+                }
+            },
+            {
+                "id": "/target/TP3WPtegCvA/selector/css/GPnqoHDnRuM",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/9imBDXpJwzF]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/105747269",
+        "type": "crm:E21_Person",
+        "label": "Kellett-Betsos, Kathleen L. (Kathleen Louise), 1959-",
+        "description": "Kellett-Betsos, Kathleen L. 1959-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
