@@ -757,7 +757,7 @@
                             <ref target="#theory">
                                 <ref target="#tone_or_style">Bref, on trouve chez Vuong-Riddick comme chez Thúy les phénomènes que Rocío G. Davis identifie comme représentant les contributions les plus importantes de la littérature canadienne asiatique des <q xml:lang="en-CA">Short-story cycles</q> : la subversion des formes traditionnelles — roman, nouvelles, mémoires — et le travail de la forme, lesquels sont simultanément au service de la recherche d’identité personnelle et communautaire typique de cette littérature et <hi rend="italic">ultime métaphore</hi> et <q xml:lang="en-CA">textual enactment</q>
                                     <note place="inline">
-                                        <bibl>Davis 20</bibl>
+                                        <bibl><placeName key="Davis, Roćio G" ref="http://viaf.org/viaf/15012547" ana="webannotation:http://temp.lincsproject.ca/SGTfnaCB49p">Davis</placeName> 20</bibl>
                                     </note> de la fragmentation et de la perte de ces identités. Ce caractère diégétique avant-garde exige à son tour l’engagement de lecteurs avertis et désireux d’interagir avec un texte différent de ceux auxquels ils sont habitués. <ref target="#canon_formation">
                                         <ref target="#language">
                                             <ref target="#race_issue">Pour fermer le triangle <hi rend="italic">auteur-lecteur-contexte institutionnel</hi> de la communication littéraire, nous estimons avec Davis que <q>l’usage plus libre du langage et du genre</q> que l’on constate chez les écrivains américano et canado-asiatiques, est le produit <q>d’une appréciation accrue de la part des Américains et des Canadiens d’origine asiatique de la diversité culturelle des sociétés nord-américaines contemporaines et de la conscience qu’ils ont une place dans la littérature nationale</q>
@@ -4409,6 +4409,95 @@
         "oa:identifying",
         "edit:certaintyHigh",
         "edit:precisionHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/SGTfnaCB49p">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/SGTfnaCB49p",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T19:47:26.782Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/guOB1Yhn4r5",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/guOB1Yhn4r5/selector/textPosition/X0ORSeNYpHX",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 35488,
+                "end": 35493,
+                "refinedBy": {
+                    "id": "/target/guOB1Yhn4r5/selector/textQuote/PK1OalshMk5",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Davis",
+                    "prefix": " Davis identifie comme représentant les contributions les plus importantes de la littérature canadienne asiatique des Short-story cycles : la subversion des formes traditionnelles — roman, nouvelles, mémoires — et le travail de la forme, lesquels sont simultanément au service de la recherche d’identité personnelle et communautaire typique de cette littérature et ultime métaphore et textual enactment\n                                    \n                                       ",
+                    "suffix": "20\n                                     de la fragmentation et de la perte de ces identités"
+                }
+            },
+            {
+                "id": "/target/guOB1Yhn4r5/selector/css/W4MEvYhIfxm",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/SGTfnaCB49p]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/15012547",
+        "type": "crm:E21_Person",
+        "label": "Davis, Roćio G",
+        "description": "Davis, Rocío G. 1964-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
