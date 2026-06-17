@@ -676,7 +676,7 @@
                                 <note place="inline">
                                     <bibl>Thúy 104</bibl>
                                 </note>.</ref>
-                            <ref target="#tone_or_style">Il y a des clichés — le paradis et l’enfer — mais moins frappants que chez Vuong-Riddick, car perdus dans la polysémie, au lieu de ressortir, comme chez cette dernière, dans une écriture de documentariste. <ref target="#childhood">On trouve des comparaisons qui nous rappellent que le <q>je</q> fictif est né et a été élevé au Québec où se trouvent ses nouvelles références. Ainsi, il arrive que deux comparaisons soient offertes au lecteur, l’une provenant de sa culture asiatique transmise par ses parents, et l’autre de sa vie québécoise. Les mouches du camp de réfugiés <q>s’agrippaient aux branches d’un arbre mort, […] se plaçaient l’une contre l’autre autour des branches <hi rend="italic">comme les baies d’une grappe de poivrier</hi>, ou <hi rend="italic">comme des raisins de Corinthe</hi>
+                            <ref target="#tone_or_style">Il y a des clichés — le paradis et l’enfer — mais moins frappants que chez Vuong-Riddick, car perdus dans la polysémie, au lieu de ressortir, comme chez cette dernière, dans une écriture de documentariste. <ref target="#childhood">On trouve des comparaisons qui nous rappellent que le <q>je</q> fictif est né et a été élevé au <placeName key="Québec" ref="https://sws.geonames.org/6115047" ana="webannotation:http://temp.lincsproject.ca/551GRkqdp3p">Québec</placeName> où se trouvent ses nouvelles références. Ainsi, il arrive que deux comparaisons soient offertes au lecteur, l’une provenant de sa culture asiatique transmise par ses parents, et l’autre de sa vie québécoise. Les mouches du camp de réfugiés <q>s’agrippaient aux branches d’un arbre mort, […] se plaçaient l’une contre l’autre autour des branches <hi rend="italic">comme les baies d’une grappe de poivrier</hi>, ou <hi rend="italic">comme des raisins de Corinthe</hi>
                                     </q>
                                     <note place="inline">
                                         <bibl>Thúy 35</bibl>
@@ -4221,6 +4221,95 @@
         "oa:identifying",
         "edit:certaintyHigh",
         "edit:precisionHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/551GRkqdp3p">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/551GRkqdp3p",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T19:46:24.247Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ZoYRaaEuwZE",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ZoYRaaEuwZE/selector/textPosition/kJRPp0zLkrM",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27649,
+                "end": 27655,
+                "refinedBy": {
+                    "id": "/target/ZoYRaaEuwZE/selector/textQuote/Xp6LKoQPsVA",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Québec",
+                    "prefix": " On trouve des comparaisons qui nous rappellent que le je fictif est né et a été élevé au",
+                    "suffix": "où se trouvent ses nouvelles références"
+                }
+            },
+            {
+                "id": "/target/ZoYRaaEuwZE/selector/css/wvafXNn5APX",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/551GRkqdp3p]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6115047",
+        "type": "crm:E53_Place",
+        "label": "Québec",
+        "description": "Quebec, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
