@@ -689,7 +689,7 @@
                             <note place="inline">
                                 <bibl>Thúy 37</bibl>
                             </note>
-                        </ref>. <ref target="#history">Le débarquement en Malaisie des <hi rend="italic" xml:lang="en-CA">boat people</hi>
+                        </ref>. <ref target="#history">Le débarquement en <placeName key="Malaysia" ref="https://sws.geonames.org/1733045" ana="webannotation:http://temp.lincsproject.ca/z02b8MxqB0l">Malaisie</placeName> des <hi rend="italic" xml:lang="en-CA">boat people</hi>
                         </ref> est rapproché cruellement de l’image de Bo Derek, la pin-up de <title level="j">Playboy</title> : <q>nous avons tous sauté dans l’eau comme lors du déploiement d’une armée. […] Je me souviens de cette image avec la même précision et la même clarté que celle de Bo Derek sortant de l’eau en courant dans son maillot couleur chair</q>
                         <note place="inline">
                             <bibl>Thúy 106</bibl>
@@ -3483,6 +3483,95 @@
         "oa:identifying",
         "edit:certaintyHigh",
         "edit:precisionHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/z02b8MxqB0l">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/z02b8MxqB0l",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T19:19:19.725Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/UUNGecSqd9D",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/UUNGecSqd9D/selector/textPosition/FejXRIatgJG",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 28729,
+                "end": 28737,
+                "refinedBy": {
+                    "id": "/target/UUNGecSqd9D/selector/textQuote/Voy113gst8Q",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Malaisie",
+                    "prefix": " Le débarquement en",
+                    "suffix": "des boat people\n                         est rapproché cruellement de l’image de Bo Derek, la pin-up de Playboy : nous avons tous sauté dans l’eau comme lors du déploiement d’une armée"
+                }
+            },
+            {
+                "id": "/target/UUNGecSqd9D/selector/css/kk7DOODEOhL",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/z02b8MxqB0l]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/1733045",
+        "type": "crm:E53_Place",
+        "label": "Malaysia",
+        "description": "null, MY"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
