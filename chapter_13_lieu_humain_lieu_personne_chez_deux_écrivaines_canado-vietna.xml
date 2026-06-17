@@ -663,7 +663,7 @@
                         </p>
                         <p xml:id="p1487">
                             <ref target="#history">
-                                <ref target="language">L’Histoire du Vietnam, celle avec un grand H, a déjoué les plans de ma mère. Elle a jeté les accents de nos noms à l’eau quand elle nous a fait traverser le golfe du Siam, il y a trente ans. Elle a aussi dépouillé nos noms de leur sens, les réduisant à des sons à la fois étrangers et étranges dans la langue française.</ref>
+                                <ref target="language">L’Histoire du Vietnam, celle avec un grand H, a déjoué les plans de ma mère. Elle a jeté les accents de nos noms à l’eau quand elle nous a fait traverser le <placeName key="Gulf of Thailand" ref="https://sws.geonames.org/1818185" ana="webannotation:http://temp.lincsproject.ca/TXKBISbiQOg">golfe du Siam</placeName>, il y a trente ans. Elle a aussi dépouillé nos noms de leur sens, les réduisant à des sons à la fois étrangers et étranges dans la langue française.</ref>
                             </ref>
                             <note place="inline">
                                 <bibl>Thúy 12</bibl>
@@ -3483,6 +3483,94 @@
         "oa:identifying",
         "edit:certaintyHigh",
         "edit:precisionHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/TXKBISbiQOg">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/TXKBISbiQOg",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T19:20:01.130Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/VvHu7dsSk6P",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/VvHu7dsSk6P/selector/textPosition/TmPsYFPZT7P",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 26376,
+                "end": 26389,
+                "refinedBy": {
+                    "id": "/target/VvHu7dsSk6P/selector/textQuote/MW7cIyflgY8",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "golfe du Siam",
+                    "prefix": " Elle a jeté les accents de nos noms à l’eau quand elle nous a fait traverser le",
+                    "suffix": " il y a trente ans"
+                }
+            },
+            {
+                "id": "/target/VvHu7dsSk6P/selector/css/HUKgRHDTINy",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/TXKBISbiQOg]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/1818185",
+        "type": "crm:E53_Place",
+        "label": "Gulf of Thailand"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
