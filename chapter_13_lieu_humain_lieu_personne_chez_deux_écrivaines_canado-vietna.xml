@@ -689,7 +689,7 @@
                             <note place="inline">
                                 <bibl>Thúy 37</bibl>
                             </note>
-                        </ref>. <ref target="#history">Le débarquement en <placeName key="Malaysia" ref="https://sws.geonames.org/1733045" ana="webannotation:http://temp.lincsproject.ca/z02b8MxqB0l">Malaisie</placeName> des <hi rend="italic" xml:lang="en-CA">boat people</hi>
+                        </ref>. <ref target="#history">Le débarquement en <placeName key="Malaysia" ref="https://sws.geonames.org/1733045" ana="webannotation:http://temp.lincsproject.ca/z02b8MxqB0l" type="real">Malaisie</placeName> des <hi rend="italic" xml:lang="en-CA">boat people</hi>
                         </ref> est rapproché cruellement de l’image de Bo Derek, la pin-up de <title level="j">Playboy</title> : <q>nous avons tous sauté dans l’eau comme lors du déploiement d’une armée. […] Je me souviens de cette image avec la même précision et la même clarté que celle de Bo Derek sortant de l’eau en courant dans son maillot couleur chair</q>
                         <note place="inline">
                             <bibl>Thúy 106</bibl>
@@ -3568,7 +3568,10 @@
         "id": "https://sws.geonames.org/1733045",
         "type": "crm:E53_Place",
         "label": "Malaysia",
-        "description": "null, MY"
+        "description": "null, MY",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
