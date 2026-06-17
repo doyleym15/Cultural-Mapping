@@ -556,7 +556,7 @@
                     <q type="block" xml:lang="en-CA">
                         <ref target="#tone_or_style">
                             <ref target="#nationality">
-                                <ref target="#economics">My father imported all his merchandise from France, so I grew up surrounded by Gruyere cheese, soap from <placeName key="Marseille" ref="https://sws.geonames.org/2995469" ana="webannotation:http://temp.lincsproject.ca/HhpbVcTCaTW" type="real" cert="high" precision="high">Marseilles</placeName>, Pastis wine, toilet water, and perfumes from <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/CzQuGoxPUbu" type="real">Paris</placeName>. We never tried the foods or used any of the other products ourselves; their use was foreign to us, but they were piled one on top of the other in huge glass containers. I remember thinking we were two worlds facing each other: Chinese and Vietnamese facing our clients, who were mostly French. Nothing could bridge the divide.</ref>
+                                <ref target="#economics">My father imported all his merchandise from France, so I grew up surrounded by Gruyere cheese, soap from <placeName key="Marseille" ref="https://sws.geonames.org/2995469" ana="webannotation:http://temp.lincsproject.ca/HhpbVcTCaTW" type="real" cert="high" precision="high">Marseilles</placeName>, Pastis wine, toilet water, and perfumes from <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/CzQuGoxPUbu" type="real" cert="high">Paris</placeName>. We never tried the foods or used any of the other products ourselves; their use was foreign to us, but they were piled one on top of the other in huge glass containers. I remember thinking we were two worlds facing each other: Chinese and Vietnamese facing our clients, who were mostly French. Nothing could bridge the divide.</ref>
                             </ref>
                         </ref>
                         <note place="inline">
@@ -3757,7 +3757,8 @@
         ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh"
     ]
 }]]>
 				
