@@ -777,7 +777,7 @@
                 <div type="section">
                     <head>Bibliographie</head>
                     <listBibl>
-                        <bibl xml:lang="en-CA">Davis, Rocío G. <title level="m">Transcultural Reinventions: Asian American and Asian Canadian Short-Story Cycles</title>. <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/f21YA0hY8an" type="real" cert="high">Toronto</placeName>: <hi rend="small-caps">tsar</hi> Publications, 2001.</bibl>
+                        <bibl xml:lang="en-CA">Davis, Rocío G. <title level="m">Transcultural Reinventions: Asian American and Asian Canadian Short-Story Cycles</title>. <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/f21YA0hY8an" type="real" cert="high" precision="high">Toronto</placeName>: <hi rend="small-caps">tsar</hi> Publications, 2001.</bibl>
                         <bibl>Duffy, Dan. <title level="a" xml:lang="en-CA">Beyond the National Tradition: Thuong Vuong-Riddick’s <title level="m">Two Shores / Deux rives</title>
                             </title>. <title level="m">American Babel: Literatures of the United States from Abnaki to Zuni</title>. Dir. Marc Shell. Cambridge, MA: Harvard University Press, 2002. 322-42.</bibl>
                         <bibl>Duras, Marguerite. <title level="m">L’Amant</title>. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/nbB5BU5YHaF">Paris</placeName>: Les éditions de Minuit, 1984.</bibl>
@@ -4407,7 +4407,8 @@
     },
     "P2_has_type": [
         "oa:identifying",
-        "edit:certaintyHigh"
+        "edit:certaintyHigh",
+        "edit:precisionHigh"
     ]
 }]]>
 				
