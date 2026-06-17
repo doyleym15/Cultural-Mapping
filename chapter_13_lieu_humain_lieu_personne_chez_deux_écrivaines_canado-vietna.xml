@@ -419,11 +419,11 @@
                     <p xml:id="p1465">Introduction</p>
                     <p xml:id="p1466">
                         <ref target="#nationality">
-                            <ref target="#recognitions"><placeName key="Ho Chi Minh City" ref="https://sws.geonames.org/1580578" ana="webannotation:http://temp.lincsproject.ca/6vjLpZn83NW">Kim Thúy</placeName> ( 1968), écrivaine francophone d’origine vietnamienne, a été lauréate du Prix littéraire du gouverneur général 2010 pour son premier roman, <title level="m">Ru</title>
+                            <ref target="#recognitions">Kim Thúy (<placeName key="Ho Chi Minh City" ref="https://sws.geonames.org/1566083" ana="webannotation:http://temp.lincsproject.ca/YHfHfxCtc7B" type="real" cert="high" precision="high">Saigon</placeName> 1968), écrivaine francophone d’origine vietnamienne, a été lauréate du Prix littéraire du gouverneur général 2010 pour son premier roman, <title level="m">Ru</title>
                                 <note place="inline">
                                     <bibl>2009</bibl>
                                 </note>
-                            </ref>. Thuong Vuong-Riddick (Hanoi 1940) est l’auteure d’un recueil de <ref target="#genre_poetry">poésie bilingue</ref>, <title level="m">Two Shores / Deux rives</title>
+                            </ref>. <placeName key="Hanoi" ref="https://sws.geonames.org/1581129" ana="webannotation:http://temp.lincsproject.ca/HyPTstKM2aQ"><placeName class="nerve-entity" data-nerve-entity-type="place" data-nerve-status="approved" data-nerve-wa-uuid="bPVFLvY3I6w" key="Hanoi" ref="https://sws.geonames.org/1581129" ana="webannotation:http://temp.lincsproject.ca/x2xVjHg8zDu"><placeName class="nerve-entity" data-nerve-entity-type="place" data-nerve-status="approved" data-nerve-wa-uuid="wF5PDLOdPYm" key="Hanoi" ref="https://sws.geonames.org/1581129" ana="webannotation:http://temp.lincsproject.ca/U2OgOYNGNPY"><placeName class="nerve-entity" data-nerve-entity-type="place" data-nerve-status="approved" data-nerve-wa-uuid="Ebfigw5RFCq" key="Hanoi" ref="https://sws.geonames.org/1581129" ana="webannotation:http://temp.lincsproject.ca/Do1on2chBxD"><placeName class="nerve-entity" data-nerve-entity-type="place" data-nerve-status="approved" data-nerve-wa-uuid="YH3ArG9hzbm" key="Hanoi" ref="https://sws.geonames.org/1581129" ana="webannotation:http://temp.lincsproject.ca/BLPHRjtZlAy"><placeName class="nerve-entity" data-nerve-entity-type="place" data-nerve-status="approved" data-nerve-wa-uuid="v8CNPEbGmw8" aria-expanded="false" data-nerve-selected="true" key="Hanoi" ref="https://sws.geonames.org/1581129" ana="webannotation:http://temp.lincsproject.ca/gn6rLEG52Cf">Thuong Vuong-Riddick</placeName></placeName></placeName></placeName></placeName></placeName> ( 1940) est l’auteure d’un recueil de <ref target="#genre_poetry">poésie bilingue</ref>, <title level="m">Two Shores / Deux rives</title>
                             <note place="inline">
                                 <bibl>1995</bibl>
                             </note>, ainsi que de <ref target="#genre_lifeWriting">mémoires, <title level="m" xml:lang="en-CA">The Evergreen Country</title>
@@ -501,7 +501,7 @@
                             <ref target="#nationality">
                                 <ref target="#language">Comme son nom l’indique, <title level="m" xml:lang="en-CA">The Evergreen Country: A Memoir of Vietnam</title> est un récit autobiographique, en anglais, de l’auteure Thuong Vuong-Riddick, dont le nom lui-même indique l’hybridité. Le prénom — Thuong — postposé en vietnamien, se retrouve en première position canadienne, et le nom d’épouse — Riddick — est rattaché par un trait d’union au nom de famille Vuong, à la québécoise. Par ailleurs, Vuong est la forme vietnamisée du patronyme chinois Wang <note place="inline">
                                         <bibl>Vuong-Riddick 2007, 10</bibl>
-                                    </note>. <ref target="#education">Vuong-Riddick passa ses vingt-cinq premières années au Vietnam, principalement à Hanoi et à Saigon, puis quitta ce pays pour la France afin d’y poursuivre des études supérieures. Par des chemins détournés, elle se retrouva au <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/ND8MU09SzkY" type="real" cert="high" precision="high">Canada</placeName>, à Montréal, où elle enseigna la littérature francophone à l’Université McGill, puis finit par s’établir en Colombie-Britannique où elle enseigna pendant plusieurs années à l’Université de Victoria avant de déménager à Vancouver</ref>. Elle n’est pas vietnamienne <q>pure laine</q> non plus, mais, comme le laissait prévoir son nom Vuong, issue d’une famille chinoise, elle-même établie depuis trois générations à Hanoi au Nord Vietnam. <ref target="#childhood">Sa langue maternelle est le foukinois (fujianese), vite suivie du vietnamien de la vie locale de son enfance, du mandarin appris en langue seconde à l’école élémentaire, puis du français à l’école catholique et de l’anglais, langue soi-disant <q>seconde</q> mais en réalité sa cinquième langue.</ref>
+                                    </note>. <ref target="#education">Vuong-Riddick passa ses vingt-cinq premières années au Vietnam, principalement à  et à <placeName key="Ho Chi Minh City" ref="https://sws.geonames.org/1566083" ana="webannotation:http://temp.lincsproject.ca/GhkRxTWvhXp">Saigon</placeName>, puis quitta ce pays pour la France afin d’y poursuivre des études supérieures. Par des chemins détournés, elle se retrouva au Canada, à Montréal, où elle enseigna la littérature francophone à l’Université McGill, puis finit par s’établir en Colombie-Britannique où elle enseigna pendant plusieurs années à l’Université de Victoria avant de déménager à Vancouver</ref>. Elle n’est pas vietnamienne <q>pure laine</q> non plus, mais, comme le laissait prévoir son nom Vuong, issue d’une famille chinoise, elle-même établie depuis trois générations à  au Nord Vietnam. <ref target="#childhood">Sa langue maternelle est le foukinois (fujianese), vite suivie du vietnamien de la vie locale de son enfance, du mandarin appris en langue seconde à l’école élémentaire, puis du français à l’école catholique et de l’anglais, langue soi-disant <q>seconde</q> mais en réalité sa cinquième langue.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -543,7 +543,7 @@
                     </p>
                     <p xml:id="p1476">
                         <ref target="#genre_novel">
-                            <ref target="#tone_or_style">Une ou deux comparaisons dans le roman se conforment au schéma que nous espérions retrouver chez une écrivaine de la diaspora, du genre de celles qui avaient été occultées chez l’auteure de langue maternelle vietnamienne dont j’ai parlé en introduction. Elles consistent à décrire la réalité vietnamienne <hi rend="italic">indirectement</hi>. Vuong-Riddick évoque l’image un peu clichée, elle aussi, des <hi rend="italic">deux paniers d’un fléau</hi> portés par une marchande ambulante auxquels <ref target="#religion">elle compare l’église catholique Saint-Antoine et la pagode qui se trouvaient l’une en face de l’autre au bout de la rue de Hanoi où vivait sa famille : <q xml:lang="en-CA">These two symbols of faith were like two baskets bending a yoke across the shoulders of the country</q>
+                            <ref target="#tone_or_style">Une ou deux comparaisons dans le roman se conforment au schéma que nous espérions retrouver chez une écrivaine de la diaspora, du genre de celles qui avaient été occultées chez l’auteure de langue maternelle vietnamienne dont j’ai parlé en introduction. Elles consistent à décrire la réalité vietnamienne <hi rend="italic">indirectement</hi>. Vuong-Riddick évoque l’image un peu clichée, elle aussi, des <hi rend="italic">deux paniers d’un fléau</hi> portés par une marchande ambulante auxquels <ref target="#religion">elle compare l’église catholique Saint-Antoine et la pagode qui se trouvaient l’une en face de l’autre au bout de la rue de  où vivait sa famille : <q xml:lang="en-CA">These two symbols of faith were like two baskets bending a yoke across the shoulders of the country</q>
                                 </ref>
                                 <note place="inline">
                                     <bibl>Vuong-Riddick 2007, 15</bibl>
@@ -702,7 +702,7 @@
                     </q>
                     <p xml:id="p1490">
                         <ref target="#spatiality">
-                            <ref target="#representation_of_women">Mentionnons enfin une description et mise en abyme de l’étang à lotus en banlieue de Hanoi <q>où il y avait toujours deux ou trois femmes au dos arqué, aux mains tremblantes, qui, assises dans le fond d’une barque ronde, se déplaçaient sur l’eau à l’aide d’une perche pour placer des feuilles de thé à l’intérieur des fleurs de lotus ouvertes. Elles y retournaient le jour suivant pour les recueillir, une à une, avant que les pétales se fanent, après que les feuilles emprisonnées avaient absorbé le parfum des pistils pendant la nuit. Elles me disaient que chaque feuille de thé conservait ainsi l’âme de ces fleurs éphémères</q>
+                            <ref target="#representation_of_women">Mentionnons enfin une description et mise en abyme de l’étang à lotus en banlieue de  <q>où il y avait toujours deux ou trois femmes au dos arqué, aux mains tremblantes, qui, assises dans le fond d’une barque ronde, se déplaçaient sur l’eau à l’aide d’une perche pour placer des feuilles de thé à l’intérieur des fleurs de lotus ouvertes. Elles y retournaient le jour suivant pour les recueillir, une à une, avant que les pétales se fanent, après que les feuilles emprisonnées avaient absorbé le parfum des pistils pendant la nuit. Elles me disaient que chaque feuille de thé conservait ainsi l’âme de ces fleurs éphémères</q>
                                 <note place="inline">
                                     <bibl>Thúy 49</bibl>
                                 </note>.</ref>
@@ -730,7 +730,7 @@
                     <p xml:id="p1494">
                         <ref target="#tone_or_style">
                             <ref target="#genre_lifeWriting">
-                                <ref target="#nationality">Kim Thúy se lance d’emblée dans le genre européanisé de l’autofiction dans laquelle elle fait une toute petite place à certains accents vietnamiens — son nom de famille, Thúy, et celui qui distingue son nom de celui de sa mère, au début — et les intègre même à la graphie de son roman</ref>. Vuong-Riddick ne fait aucune place à la graphie vietnamienne. Souvent, Thúy fait des comparaisons par lesquelles elle fait se confronter ses deux expériences si différentes. <ref target="#childhood">Grandir au <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/vz1ApWF9kR6">Canada</placeName> de <hi rend="italic" xml:lang="en-CA">boat people</hi> vietnamiens représente un choc culturel dont on ne contrôle pas les éléments marquants. Ainsi, le parfum auquel Thúy associe le <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/xQ924ENlycT">Canada</placeName> a quelque chose de saugrenu et d’insolite : le <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/LCoWgioJN7w">Canada</placeName>, c’est l’odeur de l’assouplissant <hi rend="italic">Bounce</hi> qu’elle sent dans les vêtements de son mari <note place="inline">
+                                <ref target="#nationality">Kim Thúy se lance d’emblée dans le genre européanisé de l’autofiction dans laquelle elle fait une toute petite place à certains accents vietnamiens — son nom de famille, Thúy, et celui qui distingue son nom de celui de sa mère, au début — et les intègre même à la graphie de son roman</ref>. Vuong-Riddick ne fait aucune place à la graphie vietnamienne. Souvent, Thúy fait des comparaisons par lesquelles elle fait se confronter ses deux expériences si différentes. <ref target="#childhood">Grandir au Canada de <hi rend="italic" xml:lang="en-CA">boat people</hi> vietnamiens représente un choc culturel dont on ne contrôle pas les éléments marquants. Ainsi, le parfum auquel Thúy associe le Canada a quelque chose de saugrenu et d’insolite : le Canada, c’est l’odeur de l’assouplissant <hi rend="italic">Bounce</hi> qu’elle sent dans les vêtements de son mari <note place="inline">
                                         <bibl>Thúy 117</bibl>
                                     </note>.</ref>
                             </ref>
@@ -757,10 +757,10 @@
                             <ref target="#theory">
                                 <ref target="#tone_or_style">Bref, on trouve chez Vuong-Riddick comme chez Thúy les phénomènes que Rocío G. Davis identifie comme représentant les contributions les plus importantes de la littérature canadienne asiatique des <q xml:lang="en-CA">Short-story cycles</q> : la subversion des formes traditionnelles — roman, nouvelles, mémoires — et le travail de la forme, lesquels sont simultanément au service de la recherche d’identité personnelle et communautaire typique de cette littérature et <hi rend="italic">ultime métaphore</hi> et <q xml:lang="en-CA">textual enactment</q>
                                     <note place="inline">
-                                        <bibl>Davis 20</bibl>
+                                        <bibl><placeName key="Davis, Roćio G" ref="http://viaf.org/viaf/15012547" ana="webannotation:http://temp.lincsproject.ca/hyxmT4c41ma" type="real" cert="high">Davis</placeName> 20</bibl>
                                     </note> de la fragmentation et de la perte de ces identités. Ce caractère diégétique avant-garde exige à son tour l’engagement de lecteurs avertis et désireux d’interagir avec un texte différent de ceux auxquels ils sont habitués. <ref target="#canon_formation">
                                         <ref target="#language">
-                                            <ref target="#race_issue">Pour fermer le triangle <hi rend="italic">auteur-lecteur-contexte institutionnel</hi> de la communication littéraire, nous estimons avec Davis que <q>l’usage plus libre du langage et du genre</q> que l’on constate chez les écrivains américano et canado-asiatiques, est le produit <q>d’une appréciation accrue de la part des Américains et des Canadiens d’origine asiatique de la diversité culturelle des sociétés nord-américaines contemporaines et de la conscience qu’ils ont une place dans la littérature nationale</q>
+                                            <ref target="#race_issue">Pour fermer le triangle <hi rend="italic">auteur-lecteur-contexte institutionnel</hi> de la communication littéraire, nous estimons avec <placeName key="Davis, Roćio G" ref="http://viaf.org/viaf/15012547" ana="webannotation:http://temp.lincsproject.ca/xVtaAmTATid">Davis</placeName> que <q>l’usage plus libre du langage et du genre</q> que l’on constate chez les écrivains américano et canado-asiatiques, est le produit <q>d’une appréciation accrue de la part des Américains et des Canadiens d’origine asiatique de la diversité culturelle des sociétés nord-américaines contemporaines et de la conscience qu’ils ont une place dans la littérature nationale</q>
                                             </ref>
                                         </ref>
                                         <note xml:id="n108" place="end">
@@ -768,7 +768,7 @@
                                         </note>
                                     </ref>
                                     <note place="inline">
-                                        <bibl>Davis 9</bibl>
+                                        <bibl><placeName key="Davis, Roćio G" ref="http://viaf.org/viaf/15012547" ana="webannotation:http://temp.lincsproject.ca/STaFn1P52HM">Davis</placeName> 9</bibl>
                                     </note>; c’est nous qui traduisons.</ref>
                             </ref>
                         </ref>
@@ -777,13 +777,13 @@
                 <div type="section">
                     <head>Bibliographie</head>
                     <listBibl>
-                        <bibl xml:lang="en-CA">Davis, Rocío G. <title level="m">Transcultural Reinventions: Asian American and Asian Canadian Short-Story Cycles</title>. Toronto: <hi rend="small-caps">tsar</hi> Publications, 2001.</bibl>
+                        <bibl xml:lang="en-CA"><placeName key="Davis, Roćio G" ref="http://viaf.org/viaf/15012547" ana="webannotation:http://temp.lincsproject.ca/ilclSYcdkZq">Davis</placeName>, Rocío G. <title level="m">Transcultural Reinventions: Asian American and Asian Canadian Short-Story Cycles</title>. Toronto: <hi rend="small-caps">tsar</hi> Publications, 2001.</bibl>
                         <bibl>Duffy, Dan. <title level="a" xml:lang="en-CA">Beyond the National Tradition: Thuong Vuong-Riddick’s <title level="m">Two Shores / Deux rives</title>
                             </title>. <title level="m">American Babel: Literatures of the United States from Abnaki to Zuni</title>. Dir. Marc Shell. Cambridge, MA: Harvard University Press, 2002. 322-42.</bibl>
                         <bibl>Duras, Marguerite. <title level="m">L’Amant</title>. Paris: Les éditions de Minuit, 1984.</bibl>
                         <bibl>
                             <hi xml:lang="vi-VN">Dương, Thu Hương</hi>. <title level="m" xml:lang="vi-VN">Hành Trình Ngày Thơ Ấu</title>. 1985. <title level="m">Itinéraire d’enfance</title>. Trad. Phuong Dang Tran. Paris: Sabine Wespieser Éditeur, 2007.</bibl>
-                        <bibl>. <title level="m" xml:lang="vi-VN">Những thiên đường mú</title>. <hi xml:lang="en-CA">Hanoi: The Women’s Publishing House</hi>, 1988. <title level="m">Les Paradis Aveugles</title>. Trad. Des Femmes. Paris: Éditions Des Femmes, 1991. <title level="m" xml:lang="en-CA">Paradise of the Blind</title>. Trans. Phan Huy Duong and Nina McPherson. New York: William Morrow and Company, 1993.</bibl>
+                        <bibl>. <title level="m" xml:lang="vi-VN">Những thiên đường mú</title>. <hi xml:lang="en-CA">: The Women’s Publishing House</hi>, 1988. <title level="m">Les Paradis Aveugles</title>. Trad. Des Femmes. Paris: Éditions Des Femmes, 1991. <title level="m" xml:lang="en-CA">Paradise of the Blind</title>. Trans. Phan Huy Duong and Nina McPherson. New York: William Morrow and Company, 1993.</bibl>
                         <bibl>Kellett-Betsos, Kathleen. <title level="a">
                                 <title level="m">Two Shores / Deux rives</title> de Thuong Vuong-Riddick : Errance et ironie</title>. <title level="m">Littérature et culture francophones de Colombie-Britannique: Espaces culturels francophones I</title>. Dir. Guy Poirier, Jacqueline Viswanathan et Grazia Merler. Ottawa: Les Éditions David, 2004. 85-106.</bibl>
                         <bibl>
@@ -803,20 +803,20 @@
 			
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/6vjLpZn83NW">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/YHfHfxCtc7B">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/6vjLpZn83NW",
+    "id": "http://temp.lincsproject.ca/YHfHfxCtc7B",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-06-17T17:55:20.748Z",
+    "created": "2026-06-17T18:10:59.193Z",
     "creator": {
         "id": "https://github.com/doyleym15",
         "type": "crm:E21_Person",
@@ -833,7 +833,7 @@
         "softwareVersion": "0.3.0"
     },
     "target": {
-        "id": "/target/7u3ElmdjA0R",
+        "id": "/target/QO5Q5nbYo0s",
         "type": [
             "SpecificResource",
             "crm:E73_Information_Object"
@@ -851,7 +851,7 @@
         },
         "selector": [
             {
-                "id": "/target/7u3ElmdjA0R/selector/textPosition/F9ekYBcBjjQ",
+                "id": "/target/QO5Q5nbYo0s/selector/textPosition/Ok79PF85dfE",
                 "type": [
                     "TextPositionSelector",
                     "crm:E73_Information_Object"
@@ -859,7 +859,7 @@
                 "start": 414,
                 "end": 420,
                 "refinedBy": {
-                    "id": "/target/7u3ElmdjA0R/selector/textQuote/JSebJ8KpSeQ",
+                    "id": "/target/QO5Q5nbYo0s/selector/textQuote/RgIJpP959xs",
                     "type": [
                         "TextQuoteSelector",
                         "crm:E33_Linguistic_Object"
@@ -870,109 +870,20 @@
                 }
             },
             {
-                "id": "/target/7u3ElmdjA0R/selector/css/2O3owkEd2do",
+                "id": "/target/QO5Q5nbYo0s/selector/css/pVNqZwvy8Gb",
                 "type": [
                     "CssSelector",
                     "crm:E73_Information_Object"
                 ],
-                "value": "[ana~=webannotation:http://temp.lincsproject.ca/6vjLpZn83NW]"
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/YHfHfxCtc7B]"
             }
         ]
     },
     "body": {
-        "id": "https://sws.geonames.org/1580578",
+        "id": "https://sws.geonames.org/1566083",
         "type": "crm:E53_Place",
         "label": "Ho Chi Minh City",
-        "description": "Ho Chi Minh, VN"
-    },
-    "P2_has_type": [
-        "oa:identifying"
-    ]
-}]]>
-				
-</rdf:Description>
-				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ND8MU09SzkY">
-<![CDATA[{
-    "@context": [
-        "http://www.w3.org/ns/anno.jsonld",
-        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
-        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
-    ],
-    "id": "http://temp.lincsproject.ca/ND8MU09SzkY",
-    "type": [
-        "Annotation",
-        "crm:E33_Linguistic_Object"
-    ],
-    "motivation": "oa:identifying",
-    "created": "2026-06-17T17:53:28.373Z",
-    "creator": {
-        "id": "https://github.com/doyleym15",
-        "type": "crm:E21_Person",
-        "name": "Megan Doyley"
-    },
-    "generator": {
-        "id": "https://nerve.lincsproject.ca",
-        "type": [
-            "Software",
-            "crm:E73_Information_Object"
-        ],
-        "P16_used_specific_object": "https://nerve.lincsproject.ca",
-        "name": "NERVE",
-        "softwareVersion": "0.3.0"
-    },
-    "target": {
-        "id": "/target/GhWIvUHhn4h",
-        "type": [
-            "SpecificResource",
-            "crm:E73_Information_Object"
-        ],
-        "source": {
-            "id": "",
-            "type": "crm:D1_Digital_Object",
-            "format": "application/tei+xml",
-            "language": "fr",
-            "P1_is_identified_by": {
-                "id": "/title",
-                "type": "crm:E33_E41_Linguistic_Appellation",
-                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
-            }
-        },
-        "selector": [
-            {
-                "id": "/target/GhWIvUHhn4h/selector/textPosition/bGNGqWgafWj",
-                "type": [
-                    "TextPositionSelector",
-                    "crm:E73_Information_Object"
-                ],
-                "start": 9841,
-                "end": 9847,
-                "refinedBy": {
-                    "id": "/target/GhWIvUHhn4h/selector/textQuote/i2T6xjmAWz9",
-                    "type": [
-                        "TextQuoteSelector",
-                        "crm:E33_Linguistic_Object"
-                    ],
-                    "exact": "Canada",
-                    "prefix": " Par des chemins détournés, elle se retrouva au",
-                    "suffix": " à Montréal, où elle enseigna la littérature francophone à l’Université McGill, puis finit par s’établir en Colombie-Britannique où elle enseigna pendant plusieurs années à l’Université de Victoria avant de déménager à Vancouver"
-                }
-            },
-            {
-                "id": "/target/GhWIvUHhn4h/selector/css/zoXV0m9CPUG",
-                "type": [
-                    "CssSelector",
-                    "crm:E73_Information_Object"
-                ],
-                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ND8MU09SzkY]"
-            }
-        ]
-    },
-    "body": {
-        "id": "https://sws.geonames.org/6251999",
-        "type": "crm:E53_Place",
-        "label": "Canada",
-        "description": "null, CA",
+        "description": "Ho Chi Minh, VN",
         "P2_has_type": [
             "edit:modeReal"
         ]
@@ -986,20 +897,20 @@
 				
 </rdf:Description>
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/vz1ApWF9kR6">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/GhkRxTWvhXp">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/vz1ApWF9kR6",
+    "id": "http://temp.lincsproject.ca/GhkRxTWvhXp",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-06-17T17:53:28.374Z",
+    "created": "2026-06-17T18:10:59.310Z",
     "creator": {
         "id": "https://github.com/doyleym15",
         "type": "crm:E21_Person",
@@ -1016,7 +927,7 @@
         "softwareVersion": "0.3.0"
     },
     "target": {
-        "id": "/target/tmB3NAC3Bsu",
+        "id": "/target/RLmgbhWClfZ",
         "type": [
             "SpecificResource",
             "crm:E73_Information_Object"
@@ -1034,39 +945,39 @@
         },
         "selector": [
             {
-                "id": "/target/tmB3NAC3Bsu/selector/textPosition/isOv7VgR7iw",
+                "id": "/target/RLmgbhWClfZ/selector/textPosition/b43uGyEYt2W",
                 "type": [
                     "TextPositionSelector",
                     "crm:E73_Information_Object"
                 ],
-                "start": 32544,
-                "end": 32550,
+                "start": 9707,
+                "end": 9713,
                 "refinedBy": {
-                    "id": "/target/tmB3NAC3Bsu/selector/textQuote/GNBovUIEKMp",
+                    "id": "/target/RLmgbhWClfZ/selector/textQuote/yj0INSsonQV",
                     "type": [
                         "TextQuoteSelector",
                         "crm:E33_Linguistic_Object"
                     ],
-                    "exact": "Canada",
-                    "prefix": " Grandir au",
-                    "suffix": "de boat people vietnamiens représente un choc culturel dont on ne contrôle pas les éléments marquants"
+                    "exact": "Saigon",
+                    "prefix": " Vuong-Riddick passa ses vingt-cinq premières années au Vietnam, principalement à Hanoi et à",
+                    "suffix": " puis quitta ce pays pour la France afin d’y poursuivre des études supérieures"
                 }
             },
             {
-                "id": "/target/tmB3NAC3Bsu/selector/css/gXhxLsWr7Xv",
+                "id": "/target/RLmgbhWClfZ/selector/css/3B21uPEDNKG",
                 "type": [
                     "CssSelector",
                     "crm:E73_Information_Object"
                 ],
-                "value": "[ana~=webannotation:http://temp.lincsproject.ca/vz1ApWF9kR6]"
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/GhkRxTWvhXp]"
             }
         ]
     },
     "body": {
-        "id": "https://sws.geonames.org/6251999",
+        "id": "https://sws.geonames.org/1566083",
         "type": "crm:E53_Place",
-        "label": "Canada",
-        "description": "null, CA",
+        "label": "Ho Chi Minh City",
+        "description": "Ho Chi Minh, VN",
         "P2_has_type": [
             "edit:modeReal"
         ]
@@ -1078,20 +989,20 @@
 				
 </rdf:Description>
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/xQ924ENlycT">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/gn6rLEG52Cf">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/xQ924ENlycT",
+    "id": "http://temp.lincsproject.ca/gn6rLEG52Cf",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-06-17T17:53:28.375Z",
+    "created": "2026-06-17T18:12:42.823Z",
     "creator": {
         "id": "https://github.com/doyleym15",
         "type": "crm:E21_Person",
@@ -1108,7 +1019,7 @@
         "softwareVersion": "0.3.0"
     },
     "target": {
-        "id": "/target/p08XB51bxfk",
+        "id": "/target/5YfkoPdhfkH",
         "type": [
             "SpecificResource",
             "crm:E73_Information_Object"
@@ -1126,39 +1037,666 @@
         },
         "selector": [
             {
-                "id": "/target/p08XB51bxfk/selector/textPosition/wPv4PeTVGZb",
+                "id": "/target/5YfkoPdhfkH/selector/textPosition/6Q0jbsFadsD",
                 "type": [
                     "TextPositionSelector",
                     "crm:E73_Information_Object"
                 ],
-                "start": 32694,
-                "end": 32700,
+                "start": 721,
+                "end": 726,
                 "refinedBy": {
-                    "id": "/target/p08XB51bxfk/selector/textQuote/8KSiQ65SaaP",
+                    "id": "/target/5YfkoPdhfkH/selector/textQuote/FGrhFUJAhit",
                     "type": [
                         "TextQuoteSelector",
                         "crm:E33_Linguistic_Object"
                     ],
-                    "exact": "Canada",
-                    "prefix": " Ainsi, le parfum auquel Thúy associe le",
-                    "suffix": "a quelque chose de saugrenu et d’insolite : le Canada, c’est l’odeur de l’assouplissant Bounce qu’elle sent dans les vêtements de son mari \n                                        Thúy 117\n                                    "
+                    "exact": "Hanoi",
+                    "prefix": " Thuong Vuong-Riddick ",
+                    "suffix": "1940) est l’auteure d’un recueil de poésie bilingue, Two Shores / Deux rives\n                            \n                                1995\n                            , ainsi que de mémoires, The Evergreen Country\n                            \n                            \n                                2007\n                            "
                 }
             },
             {
-                "id": "/target/p08XB51bxfk/selector/css/7xxn9kDpror",
+                "id": "/target/5YfkoPdhfkH/selector/css/EB7pL0dxIk8",
                 "type": [
                     "CssSelector",
                     "crm:E73_Information_Object"
                 ],
-                "value": "[ana~=webannotation:http://temp.lincsproject.ca/xQ924ENlycT]"
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/gn6rLEG52Cf]"
             }
         ]
     },
     "body": {
-        "id": "https://sws.geonames.org/6251999",
+        "id": "https://sws.geonames.org/1581129",
         "type": "crm:E53_Place",
-        "label": "Canada",
-        "description": "null, CA",
+        "label": "Hanoi",
+        "description": "Hanoi, VN"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/BLPHRjtZlAy">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/BLPHRjtZlAy",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T18:12:42.910Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/7FDlqmS3ugk",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/7FDlqmS3ugk/selector/textPosition/gRXkbu4mOqz",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 9696,
+                "end": 9701,
+                "refinedBy": {
+                    "id": "/target/7FDlqmS3ugk/selector/textQuote/H9yvf24Q6E2",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Hanoi",
+                    "prefix": " Vuong-Riddick passa ses vingt-cinq premières années au Vietnam, principalement à",
+                    "suffix": "et à Saigon, puis quitta ce pays pour la France afin d’y poursuivre des études supérieures"
+                }
+            },
+            {
+                "id": "/target/7FDlqmS3ugk/selector/css/pJ6AfQEazEK",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/BLPHRjtZlAy]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/1581129",
+        "type": "crm:E53_Place",
+        "label": "Hanoi",
+        "description": "Hanoi, VN"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Do1on2chBxD">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Do1on2chBxD",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T18:12:42.990Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/O9HNidAEh9W",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/O9HNidAEh9W/selector/textPosition/3h8WDTxTkvS",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 10249,
+                "end": 10254,
+                "refinedBy": {
+                    "id": "/target/O9HNidAEh9W/selector/textQuote/jVzHVE9nnnm",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Hanoi",
+                    "prefix": " Elle n’est pas vietnamienne pure laine non plus, mais, comme le laissait prévoir son nom Vuong, issue d’une famille chinoise, elle-même établie depuis trois générations à",
+                    "suffix": "au Nord Vietnam"
+                }
+            },
+            {
+                "id": "/target/O9HNidAEh9W/selector/css/WkcwybFAKzC",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Do1on2chBxD]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/1581129",
+        "type": "crm:E53_Place",
+        "label": "Hanoi",
+        "description": "Hanoi, VN"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/U2OgOYNGNPY">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/U2OgOYNGNPY",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T18:12:43.094Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/A2zJu4m6tY4",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/A2zJu4m6tY4/selector/textPosition/rAUCAA1BToG",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 15074,
+                "end": 15079,
+                "refinedBy": {
+                    "id": "/target/A2zJu4m6tY4/selector/textQuote/cpEbpFRC7pN",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Hanoi",
+                    "prefix": " Vuong-Riddick évoque l’image un peu clichée, elle aussi, des deux paniers d’un fléau portés par une marchande ambulante auxquels elle compare l’église catholique Saint-Antoine et la pagode qui se trouvaient l’une en face de l’autre au bout de la rue de",
+                    "suffix": "où vivait sa famille : These two symbols of faith were like two baskets bending a yoke across the shoulders of the country\n                                \n                                \n                                    Vuong-Riddick 2007, 15\n                                "
+                }
+            },
+            {
+                "id": "/target/A2zJu4m6tY4/selector/css/ji7X6EaSXDU",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/U2OgOYNGNPY]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/1581129",
+        "type": "crm:E53_Place",
+        "label": "Hanoi",
+        "description": "Hanoi, VN"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/x2xVjHg8zDu">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/x2xVjHg8zDu",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T18:12:43.913Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/XnoLhC4oROP",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/XnoLhC4oROP/selector/textPosition/8FMRVp6SyeQ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 29935,
+                "end": 29940,
+                "refinedBy": {
+                    "id": "/target/XnoLhC4oROP/selector/textQuote/ZkhTwTQSKoO",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Hanoi",
+                    "prefix": "\n                        \n                            Thúy 107\n                        \n                    \n                    \n                        \n                            Mentionnons enfin une description et mise en abyme de l’étang à lotus en banlieue de",
+                    "suffix": "où il y avait toujours deux ou trois femmes au dos arqué, aux mains tremblantes, qui, assises dans le fond d’une barque ronde, se déplaçaient sur l’eau à l’aide d’une perche pour placer des feuilles de thé à l’intérieur des fleurs de lotus ouvertes"
+                }
+            },
+            {
+                "id": "/target/XnoLhC4oROP/selector/css/sPLAcvrTVMG",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/x2xVjHg8zDu]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/1581129",
+        "type": "crm:E53_Place",
+        "label": "Hanoi",
+        "description": "Hanoi, VN"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/HyPTstKM2aQ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/HyPTstKM2aQ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T18:12:43.915Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/jGglTKmbJ3s",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/jGglTKmbJ3s/selector/textPosition/kwLiRGLhHu9",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 37950,
+                "end": 37955,
+                "refinedBy": {
+                    "id": "/target/jGglTKmbJ3s/selector/textQuote/icLTbbVwwOX",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Hanoi",
+                    "prefix": "",
+                    "suffix": " The Women’s Publishing House, 1988"
+                }
+            },
+            {
+                "id": "/target/jGglTKmbJ3s/selector/css/zj734i4sZ3P",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/HyPTstKM2aQ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/1581129",
+        "type": "crm:E53_Place",
+        "label": "Hanoi",
+        "description": "Hanoi, VN"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/hyxmT4c41ma">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/hyxmT4c41ma",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T18:10:35.341Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/6VU3PGiDkMk",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/6VU3PGiDkMk/selector/textPosition/MmELN1Xze8g",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 35488,
+                "end": 35493,
+                "refinedBy": {
+                    "id": "/target/6VU3PGiDkMk/selector/textQuote/BhK6nG0nrV2",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Davis",
+                    "prefix": " Davis identifie comme représentant les contributions les plus importantes de la littérature canadienne asiatique des Short-story cycles : la subversion des formes traditionnelles — roman, nouvelles, mémoires — et le travail de la forme, lesquels sont simultanément au service de la recherche d’identité personnelle et communautaire typique de cette littérature et ultime métaphore et textual enactment\n                                    \n                                       ",
+                    "suffix": "20\n                                     de la fragmentation et de la perte de ces identités"
+                }
+            },
+            {
+                "id": "/target/6VU3PGiDkMk/selector/css/KrrOe3nu3K9",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/hyxmT4c41ma]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/15012547",
+        "type": "crm:E21_Person",
+        "label": "Davis, Roćio G",
+        "description": "Davis, Rocío G. 1964-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying",
+        "edit:certaintyHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/xVtaAmTATid">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/xVtaAmTATid",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T18:10:35.342Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/gjxtEvVKUpn",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/gjxtEvVKUpn/selector/textPosition/6M4z3CjpnXs",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 35957,
+                "end": 35962,
+                "refinedBy": {
+                    "id": "/target/gjxtEvVKUpn/selector/textQuote/UTkLHhD6L6I",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Davis",
+                    "prefix": " \n                                        \n                                            Pour fermer le triangle auteur-lecteur-contexte institutionnel de la communication littéraire, nous estimons avec",
+                    "suffix": "que l’usage plus libre du langage et du genre que l’on constate chez les écrivains américano et canado-asiatiques, est le produit d’une appréciation accrue de la part des Américains et des Canadiens d’origine asiatique de la diversité culturelle des sociétés nord-américaines contemporaines et de la conscience qu’ils ont une place dans la littérature nationale\n                                            \n                                        \n                                        \n                                            an expression of a new confidence demonstrated in a freer use of language and genre that stems from the Asian American and Asian Canadian’s increased appreciation of cultural diversity in contemporary North American societies and the awareness that they have that they have a place in the canons"
+                }
+            },
+            {
+                "id": "/target/gjxtEvVKUpn/selector/css/i8uYjcH5HZR",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/xVtaAmTATid]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/15012547",
+        "type": "crm:E21_Person",
+        "label": "Davis, Roćio G",
+        "description": "Davis, Rocío G. 1964-",
         "P2_has_type": [
             "edit:modeReal"
         ]
@@ -1170,20 +1708,20 @@
 				
 </rdf:Description>
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/LCoWgioJN7w">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/STaFn1P52HM">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/LCoWgioJN7w",
+    "id": "http://temp.lincsproject.ca/STaFn1P52HM",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-06-17T17:53:28.375Z",
+    "created": "2026-06-17T18:10:35.343Z",
     "creator": {
         "id": "https://github.com/doyleym15",
         "type": "crm:E21_Person",
@@ -1200,7 +1738,7 @@
         "softwareVersion": "0.3.0"
     },
     "target": {
-        "id": "/target/8zWtvHULHGg",
+        "id": "/target/mEqKImUhd4S",
         "type": [
             "SpecificResource",
             "crm:E73_Information_Object"
@@ -1218,39 +1756,131 @@
         },
         "selector": [
             {
-                "id": "/target/8zWtvHULHGg/selector/textPosition/KQhoSKmRTbH",
+                "id": "/target/mEqKImUhd4S/selector/textPosition/h9awsZy01ta",
                 "type": [
                     "TextPositionSelector",
                     "crm:E73_Information_Object"
                 ],
-                "start": 32748,
-                "end": 32754,
+                "start": 36948,
+                "end": 36953,
                 "refinedBy": {
-                    "id": "/target/8zWtvHULHGg/selector/textQuote/WpmOMITetVq",
+                    "id": "/target/mEqKImUhd4S/selector/textQuote/ypIJvgDp1Ow",
                     "type": [
                         "TextQuoteSelector",
                         "crm:E33_Linguistic_Object"
                     ],
-                    "exact": "Canada",
-                    "prefix": " Ainsi, le parfum auquel Thúy associe le Canada a quelque chose de saugrenu et d’insolite : le",
-                    "suffix": " c’est l’odeur de l’assouplissant Bounce qu’elle sent dans les vêtements de son mari \n                                        Thúy 117\n                                    "
+                    "exact": "Davis",
+                    "prefix": "\n                                        \n                                    \n                                    \n                                       ",
+                    "suffix": "9\n                                    ; c’est nous qui traduisons"
                 }
             },
             {
-                "id": "/target/8zWtvHULHGg/selector/css/qCvH4wanMb9",
+                "id": "/target/mEqKImUhd4S/selector/css/aF9aO8ZGrsg",
                 "type": [
                     "CssSelector",
                     "crm:E73_Information_Object"
                 ],
-                "value": "[ana~=webannotation:http://temp.lincsproject.ca/LCoWgioJN7w]"
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/STaFn1P52HM]"
             }
         ]
     },
     "body": {
-        "id": "https://sws.geonames.org/6251999",
-        "type": "crm:E53_Place",
-        "label": "Canada",
-        "description": "null, CA",
+        "id": "http://viaf.org/viaf/15012547",
+        "type": "crm:E21_Person",
+        "label": "Davis, Roćio G",
+        "description": "Davis, Rocío G. 1964-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ilclSYcdkZq">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ilclSYcdkZq",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T18:10:35.343Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/2TVj7NQEnwB",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/2TVj7NQEnwB/selector/textPosition/K90EJAr75m0",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 37209,
+                "end": 37214,
+                "refinedBy": {
+                    "id": "/target/2TVj7NQEnwB/selector/textQuote/YwKA34jyGNl",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Davis",
+                    "prefix": "\n                            \n                        \n                    \n                \n                \n                    Bibliographie\n                    \n                       ",
+                    "suffix": " Rocío G"
+                }
+            },
+            {
+                "id": "/target/2TVj7NQEnwB/selector/css/wWPLzoyx4IC",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ilclSYcdkZq]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/15012547",
+        "type": "crm:E21_Person",
+        "label": "Davis, Roćio G",
+        "description": "Davis, Rocío G. 1964-",
         "P2_has_type": [
             "edit:modeReal"
         ]
