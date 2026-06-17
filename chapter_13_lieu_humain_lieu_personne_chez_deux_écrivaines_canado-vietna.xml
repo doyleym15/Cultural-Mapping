@@ -556,7 +556,7 @@
                     <q type="block" xml:lang="en-CA">
                         <ref target="#tone_or_style">
                             <ref target="#nationality">
-                                <ref target="#economics">My father imported all his merchandise from France, so I grew up surrounded by Gruyere cheese, soap from Marseilles, Pastis wine, toilet water, and perfumes from Paris. We never tried the foods or used any of the other products ourselves; their use was foreign to us, but they were piled one on top of the other in huge glass containers. I remember thinking we were two worlds facing each other: Chinese and Vietnamese facing our clients, who were mostly French. Nothing could bridge the divide.</ref>
+                                <ref target="#economics">My father imported all his merchandise from France, so I grew up surrounded by Gruyere cheese, soap from <placeName key="Marseille" ref="https://sws.geonames.org/2995469" ana="webannotation:http://temp.lincsproject.ca/HhpbVcTCaTW">Marseilles</placeName>, Pastis wine, toilet water, and perfumes from Paris. We never tried the foods or used any of the other products ourselves; their use was foreign to us, but they were piled one on top of the other in huge glass containers. I remember thinking we were two worlds facing each other: Chinese and Vietnamese facing our clients, who were mostly French. Nothing could bridge the divide.</ref>
                             </ref>
                         </ref>
                         <note place="inline">
@@ -3569,6 +3569,95 @@
         "type": "crm:E53_Place",
         "label": "Republic of France",
         "description": "null, FR"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/HhpbVcTCaTW">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/HhpbVcTCaTW",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T19:31:14.724Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/RG46WJFkTHU",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/RG46WJFkTHU/selector/textPosition/KMVehdxfDwP",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 15913,
+                "end": 15923,
+                "refinedBy": {
+                    "id": "/target/RG46WJFkTHU/selector/textQuote/l70lj753A5A",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Marseilles",
+                    "prefix": "\n                        \n                    \n                    \n                        Comme son père importait des produits de France pour les vendre aux Français, produits que la famille ne goûtait pas, Vuong-Riddick voit dans leur conservation dans de grands contenants en verre le symbole des deux solitudes :\n                    \n                    \n                        \n                            \n                                My father imported all his merchandise from France, so I grew up surrounded by Gruyere cheese, soap from",
+                    "suffix": " Pastis wine, toilet water, and perfumes from Paris"
+                }
+            },
+            {
+                "id": "/target/RG46WJFkTHU/selector/css/XHwRv70AHrL",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/HhpbVcTCaTW]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2995469",
+        "type": "crm:E53_Place",
+        "label": "Marseille",
+        "description": "Provence-Alpes-Côte d'Azur, Bouches-du-Rhône, FR"
     },
     "P2_has_type": [
         "oa:identifying"
