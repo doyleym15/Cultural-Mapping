@@ -556,7 +556,7 @@
                     <q type="block" xml:lang="en-CA">
                         <ref target="#tone_or_style">
                             <ref target="#nationality">
-                                <ref target="#economics">My father imported all his merchandise from France, so I grew up surrounded by Gruyere cheese, soap from <placeName key="Marseille" ref="https://sws.geonames.org/2995469" ana="webannotation:http://temp.lincsproject.ca/HhpbVcTCaTW" type="real" cert="high" precision="high">Marseilles</placeName>, Pastis wine, toilet water, and perfumes from <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/CzQuGoxPUbu">Paris</placeName>. We never tried the foods or used any of the other products ourselves; their use was foreign to us, but they were piled one on top of the other in huge glass containers. I remember thinking we were two worlds facing each other: Chinese and Vietnamese facing our clients, who were mostly French. Nothing could bridge the divide.</ref>
+                                <ref target="#economics">My father imported all his merchandise from France, so I grew up surrounded by Gruyere cheese, soap from <placeName key="Marseille" ref="https://sws.geonames.org/2995469" ana="webannotation:http://temp.lincsproject.ca/HhpbVcTCaTW" type="real" cert="high" precision="high">Marseilles</placeName>, Pastis wine, toilet water, and perfumes from <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/CzQuGoxPUbu" type="real">Paris</placeName>. We never tried the foods or used any of the other products ourselves; their use was foreign to us, but they were piled one on top of the other in huge glass containers. I remember thinking we were two worlds facing each other: Chinese and Vietnamese facing our clients, who were mostly French. Nothing could bridge the divide.</ref>
                             </ref>
                         </ref>
                         <note place="inline">
@@ -780,14 +780,14 @@
                         <bibl xml:lang="en-CA">Davis, Rocío G. <title level="m">Transcultural Reinventions: Asian American and Asian Canadian Short-Story Cycles</title>. Toronto: <hi rend="small-caps">tsar</hi> Publications, 2001.</bibl>
                         <bibl>Duffy, Dan. <title level="a" xml:lang="en-CA">Beyond the National Tradition: Thuong Vuong-Riddick’s <title level="m">Two Shores / Deux rives</title>
                             </title>. <title level="m">American Babel: Literatures of the United States from Abnaki to Zuni</title>. Dir. Marc Shell. Cambridge, MA: Harvard University Press, 2002. 322-42.</bibl>
-                        <bibl>Duras, Marguerite. <title level="m">L’Amant</title>. Paris: Les éditions de Minuit, 1984.</bibl>
+                        <bibl>Duras, Marguerite. <title level="m">L’Amant</title>. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/nbB5BU5YHaF">Paris</placeName>: Les éditions de Minuit, 1984.</bibl>
                         <bibl>
-                            <hi xml:lang="vi-VN">Dương, Thu Hương</hi>. <title level="m" xml:lang="vi-VN">Hành Trình Ngày Thơ Ấu</title>. 1985. <title level="m">Itinéraire d’enfance</title>. Trad. Phuong Dang Tran. Paris: Sabine Wespieser Éditeur, 2007.</bibl>
-                        <bibl>. <title level="m" xml:lang="vi-VN">Những thiên đường mú</title>. <hi xml:lang="en-CA"><placeName key="Hanoi" ref="https://sws.geonames.org/1581129" ana="webannotation:http://temp.lincsproject.ca/IJ2jnuSdII6">Hanoi</placeName>: The Women’s Publishing House</hi>, 1988. <title level="m">Les Paradis Aveugles</title>. Trad. Des Femmes. Paris: Éditions Des Femmes, 1991. <title level="m" xml:lang="en-CA">Paradise of the Blind</title>. Trans. Phan Huy Duong and Nina McPherson. New York: William Morrow and Company, 1993.</bibl>
+                            <hi xml:lang="vi-VN">Dương, Thu Hương</hi>. <title level="m" xml:lang="vi-VN">Hành Trình Ngày Thơ Ấu</title>. 1985. <title level="m">Itinéraire d’enfance</title>. Trad. Phuong Dang Tran. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/P302FBERMjO">Paris</placeName>: Sabine Wespieser Éditeur, 2007.</bibl>
+                        <bibl>. <title level="m" xml:lang="vi-VN">Những thiên đường mú</title>. <hi xml:lang="en-CA"><placeName key="Hanoi" ref="https://sws.geonames.org/1581129" ana="webannotation:http://temp.lincsproject.ca/IJ2jnuSdII6">Hanoi</placeName>: The Women’s Publishing House</hi>, 1988. <title level="m">Les Paradis Aveugles</title>. Trad. Des Femmes. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/el05EvlQIeX">Paris</placeName>: Éditions Des Femmes, 1991. <title level="m" xml:lang="en-CA">Paradise of the Blind</title>. Trans. Phan Huy Duong and Nina McPherson. New York: William Morrow and Company, 1993.</bibl>
                         <bibl>Kellett-Betsos, Kathleen. <title level="a">
                                 <title level="m">Two Shores / Deux rives</title> de Thuong Vuong-Riddick : Errance et ironie</title>. <title level="m">Littérature et culture francophones de <placeName key="British Columbia" ref="https://sws.geonames.org/5909050" ana="webannotation:http://temp.lincsproject.ca/tvgzTmGGi9e">Colombie-Britannique</placeName>: Espaces culturels francophones I</title>. Dir. Guy Poirier, Jacqueline Viswanathan et Grazia Merler. Ottawa: Les Éditions David, 2004. 85-106.</bibl>
                         <bibl>
-                            <author xml:lang="vi-VN">Nguyễn, Phú Phong</author>.<title level="m"> Questions de linguistique vietnamienne : Les classificateurs et les déictiques.</title> Paris: Presses de l’École française d’Extrême-Orient, 1995.</bibl>
+                            <author xml:lang="vi-VN">Nguyễn, Phú Phong</author>.<title level="m"> Questions de linguistique vietnamienne : Les classificateurs et les déictiques.</title> <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/u7uVAbugHzQ">Paris</placeName>: Presses de l’École française d’Extrême-Orient, 1995.</bibl>
                         <bibl>Paré, François. <title level="m">Les Littératures de l’exiguïté</title>. Hearst: Les Éditions du Nordir, 1992.</bibl>
                         <bibl>Thúy, Kim. <title level="m">Ru</title>. Longueuil: Les Éditions Libre Expression, 2009.</bibl>
                         <bibl>Vuong-Riddick, Thuong. <title level="m" xml:lang="en-CA">The Evergreen Country: A Memoir of Vietnam</title>. Regina: Hagios Press, 2007.</bibl>
@@ -3751,7 +3751,378 @@
         "id": "https://sws.geonames.org/2988507",
         "type": "crm:E53_Place",
         "label": "Paris",
-        "description": "Île-de-France, Paris, FR"
+        "description": "Île-de-France, Paris, FR",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/nbB5BU5YHaF">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/nbB5BU5YHaF",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T19:32:41.306Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/PFrk2uXFNfE",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/PFrk2uXFNfE/selector/textPosition/iIpxViAbxvP",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 37679,
+                "end": 37684,
+                "refinedBy": {
+                    "id": "/target/PFrk2uXFNfE/selector/textQuote/6oAxOvOnEhy",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Paris",
+                    "prefix": "",
+                    "suffix": " Les éditions de Minuit, 1984"
+                }
+            },
+            {
+                "id": "/target/PFrk2uXFNfE/selector/css/rBHu5nImcR1",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/nbB5BU5YHaF]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2988507",
+        "type": "crm:E53_Place",
+        "label": "Paris",
+        "description": "Île-de-France, Paris, FR",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/P302FBERMjO">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/P302FBERMjO",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T19:32:41.343Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/h6xqaRNoj4O",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/h6xqaRNoj4O/selector/textPosition/nDkzcJ89smR",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 37863,
+                "end": 37868,
+                "refinedBy": {
+                    "id": "/target/h6xqaRNoj4O/selector/textQuote/ZZoRrzw0jYS",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Paris",
+                    "prefix": "",
+                    "suffix": " Sabine Wespieser Éditeur, 2007"
+                }
+            },
+            {
+                "id": "/target/h6xqaRNoj4O/selector/css/1PGFVsFGroH",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/P302FBERMjO]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2988507",
+        "type": "crm:E53_Place",
+        "label": "Paris",
+        "description": "Île-de-France, Paris, FR",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/el05EvlQIeX">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/el05EvlQIeX",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T19:32:41.399Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/aXONOpH95Ha",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/aXONOpH95Ha/selector/textPosition/aV2aShdKoVg",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 38033,
+                "end": 38038,
+                "refinedBy": {
+                    "id": "/target/aXONOpH95Ha/selector/textQuote/J3tPH1K17PN",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Paris",
+                    "prefix": "",
+                    "suffix": " Éditions Des Femmes, 1991"
+                }
+            },
+            {
+                "id": "/target/aXONOpH95Ha/selector/css/5r9mrF07Mvy",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/el05EvlQIeX]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2988507",
+        "type": "crm:E53_Place",
+        "label": "Paris",
+        "description": "Île-de-France, Paris, FR",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/u7uVAbugHzQ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/u7uVAbugHzQ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T19:32:42.138Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/S07rziT6Qep",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/S07rziT6Qep/selector/textPosition/SXPe1eGmGnd",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 38676,
+                "end": 38681,
+                "refinedBy": {
+                    "id": "/target/S07rziT6Qep/selector/textQuote/tAZuH2YlkMl",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Paris",
+                    "prefix": "",
+                    "suffix": " Presses de l’École française d’Extrême-Orient, 1995"
+                }
+            },
+            {
+                "id": "/target/S07rziT6Qep/selector/css/sXxMeZYo6zh",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/u7uVAbugHzQ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2988507",
+        "type": "crm:E53_Place",
+        "label": "Paris",
+        "description": "Île-de-France, Paris, FR",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
