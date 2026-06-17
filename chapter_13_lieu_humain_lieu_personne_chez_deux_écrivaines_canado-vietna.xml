@@ -501,7 +501,7 @@
                             <ref target="#nationality">
                                 <ref target="#language">Comme son nom l’indique, <title level="m" xml:lang="en-CA">The Evergreen Country: A Memoir of Vietnam</title> est un récit autobiographique, en anglais, de l’auteure Thuong Vuong-Riddick, dont le nom lui-même indique l’hybridité. Le prénom — Thuong — postposé en vietnamien, se retrouve en première position canadienne, et le nom d’épouse — Riddick — est rattaché par un trait d’union au nom de famille Vuong, à la québécoise. Par ailleurs, Vuong est la forme vietnamisée du patronyme chinois Wang <note place="inline">
                                         <bibl>Vuong-Riddick 2007, 10</bibl>
-                                    </note>. <ref target="#education">Vuong-Riddick passa ses vingt-cinq premières années au <placeName key="Socialist Republic of Vietnam" ref="https://sws.geonames.org/1562822" ana="webannotation:http://temp.lincsproject.ca/jBkddM0eFr3" type="real" cert="high" precision="high">Vietnam</placeName>, principalement à <placeName key="Hanoi" ref="https://sws.geonames.org/1581129" ana="webannotation:http://temp.lincsproject.ca/6nFPFyCHesx">Hanoi</placeName> et à <placeName key="Ho Chi Minh City" ref="https://sws.geonames.org/1566083" ana="webannotation:http://temp.lincsproject.ca/Vw5gFARFwIR">Saigon</placeName>, puis quitta ce pays pour <placeName key="Republic of France" ref="https://sws.geonames.org/3017382" ana="webannotation:http://temp.lincsproject.ca/ZjVwnBeQLl6" type="real" cert="high" precision="high">la France</placeName> afin d’y poursuivre des études supérieures. Par des chemins détournés, elle se retrouva au <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/gWu2GVcOr4o" type="real" cert="high" precision="high">Canada</placeName>, à <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/ZcTrDDTqkzr" type="real" cert="high" precision="high">Montréal</placeName>, où elle enseigna la littérature francophone à l’<orgName key="McGill University." ref="http://viaf.org/viaf/134855926" ana="webannotation:http://temp.lincsproject.ca/vDGk2iJCA6L" type="real" cert="high">Université McGill</orgName>, puis finit par s’établir en Colombie-Britannique où elle enseigna pendant plusieurs années à l’Université de Victoria avant de déménager à Vancouver</ref>. Elle n’est pas vietnamienne <q>pure laine</q> non plus, mais, comme le laissait prévoir son nom Vuong, issue d’une famille chinoise, elle-même établie depuis trois générations à <placeName key="Hanoi" ref="https://sws.geonames.org/1581129" ana="webannotation:http://temp.lincsproject.ca/ERMiWwfUovp">Hanoi</placeName> au Nord Vietnam. <ref target="#childhood">Sa langue maternelle est le foukinois (fujianese), vite suivie du vietnamien de la vie locale de son enfance, du mandarin appris en langue seconde à l’école élémentaire, puis du français à l’école catholique et de l’anglais, langue soi-disant <q>seconde</q> mais en réalité sa cinquième langue.</ref>
+                                    </note>. <ref target="#education">Vuong-Riddick passa ses vingt-cinq premières années au <placeName key="Socialist Republic of Vietnam" ref="https://sws.geonames.org/1562822" ana="webannotation:http://temp.lincsproject.ca/jBkddM0eFr3" type="real" cert="high" precision="high">Vietnam</placeName>, principalement à <placeName key="Hanoi" ref="https://sws.geonames.org/1581129" ana="webannotation:http://temp.lincsproject.ca/6nFPFyCHesx">Hanoi</placeName> et à <placeName key="Ho Chi Minh City" ref="https://sws.geonames.org/1566083" ana="webannotation:http://temp.lincsproject.ca/Vw5gFARFwIR">Saigon</placeName>, puis quitta ce pays pour <placeName key="Republic of France" ref="https://sws.geonames.org/3017382" ana="webannotation:http://temp.lincsproject.ca/ZjVwnBeQLl6" type="real" cert="high" precision="high">la France</placeName> afin d’y poursuivre des études supérieures. Par des chemins détournés, elle se retrouva au <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/gWu2GVcOr4o" type="real" cert="high" precision="high">Canada</placeName>, à <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/ZcTrDDTqkzr" type="real" cert="high" precision="high">Montréal</placeName>, où elle enseigna la littérature francophone à l’<orgName key="McGill University." ref="http://viaf.org/viaf/134855926" ana="webannotation:http://temp.lincsproject.ca/vDGk2iJCA6L" type="real" cert="high">Université McGill</orgName>, puis finit par s’établir en <placeName key="British Columbia" ref="https://sws.geonames.org/5909050" ana="webannotation:http://temp.lincsproject.ca/u47vBCalt1q">Colombie-Britannique</placeName> où elle enseigna pendant plusieurs années à l’Université de Victoria avant de déménager à Vancouver</ref>. Elle n’est pas vietnamienne <q>pure laine</q> non plus, mais, comme le laissait prévoir son nom Vuong, issue d’une famille chinoise, elle-même établie depuis trois générations à <placeName key="Hanoi" ref="https://sws.geonames.org/1581129" ana="webannotation:http://temp.lincsproject.ca/ERMiWwfUovp">Hanoi</placeName> au Nord Vietnam. <ref target="#childhood">Sa langue maternelle est le foukinois (fujianese), vite suivie du vietnamien de la vie locale de son enfance, du mandarin appris en langue seconde à l’école élémentaire, puis du français à l’école catholique et de l’anglais, langue soi-disant <q>seconde</q> mais en réalité sa cinquième langue.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -2924,6 +2924,95 @@
     "P2_has_type": [
         "oa:identifying",
         "edit:certaintyHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/u47vBCalt1q">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/u47vBCalt1q",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T19:10:46.818Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Yam7DXph1zq",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Yam7DXph1zq/selector/textPosition/ZLOPzZerWKU",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 9956,
+                "end": 9976,
+                "refinedBy": {
+                    "id": "/target/Yam7DXph1zq/selector/textQuote/i9yQJLzrfUC",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Colombie-Britannique",
+                    "prefix": " Par des chemins détournés, elle se retrouva au Canada, à Montréal, où elle enseigna la littérature francophone à l’Université McGill, puis finit par s’établir en",
+                    "suffix": "où elle enseigna pendant plusieurs années à l’Université de Victoria avant de déménager à Vancouver"
+                }
+            },
+            {
+                "id": "/target/Yam7DXph1zq/selector/css/WcS5Q3iG4Lz",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/u47vBCalt1q]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/5909050",
+        "type": "crm:E53_Place",
+        "label": "British Columbia",
+        "description": "British Columbia, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
