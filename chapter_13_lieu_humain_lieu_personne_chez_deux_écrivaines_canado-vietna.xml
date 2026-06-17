@@ -501,7 +501,7 @@
                             <ref target="#nationality">
                                 <ref target="#language">Comme son nom l’indique, <title level="m" xml:lang="en-CA">The Evergreen Country: A Memoir of Vietnam</title> est un récit autobiographique, en anglais, de l’auteure Thuong Vuong-Riddick, dont le nom lui-même indique l’hybridité. Le prénom — Thuong — postposé en vietnamien, se retrouve en première position canadienne, et le nom d’épouse — Riddick — est rattaché par un trait d’union au nom de famille Vuong, à la québécoise. Par ailleurs, Vuong est la forme vietnamisée du patronyme chinois Wang <note place="inline">
                                         <bibl>Vuong-Riddick 2007, 10</bibl>
-                                    </note>. <ref target="#education">Vuong-Riddick passa ses vingt-cinq premières années au Vietnam, principalement à Hanoi et à Saigon, puis quitta ce pays pour la France afin d’y poursuivre des études supérieures. Par des chemins détournés, elle se retrouva au <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/ND8MU09SzkY" type="real" cert="high">Canada</placeName>, à Montréal, où elle enseigna la littérature francophone à l’Université McGill, puis finit par s’établir en Colombie-Britannique où elle enseigna pendant plusieurs années à l’Université de Victoria avant de déménager à Vancouver</ref>. Elle n’est pas vietnamienne <q>pure laine</q> non plus, mais, comme le laissait prévoir son nom Vuong, issue d’une famille chinoise, elle-même établie depuis trois générations à Hanoi au Nord Vietnam. <ref target="#childhood">Sa langue maternelle est le foukinois (fujianese), vite suivie du vietnamien de la vie locale de son enfance, du mandarin appris en langue seconde à l’école élémentaire, puis du français à l’école catholique et de l’anglais, langue soi-disant <q>seconde</q> mais en réalité sa cinquième langue.</ref>
+                                    </note>. <ref target="#education">Vuong-Riddick passa ses vingt-cinq premières années au Vietnam, principalement à Hanoi et à Saigon, puis quitta ce pays pour la France afin d’y poursuivre des études supérieures. Par des chemins détournés, elle se retrouva au <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/ND8MU09SzkY" type="real" cert="high" precision="high">Canada</placeName>, à Montréal, où elle enseigna la littérature francophone à l’Université McGill, puis finit par s’établir en Colombie-Britannique où elle enseigna pendant plusieurs années à l’Université de Victoria avant de déménager à Vancouver</ref>. Elle n’est pas vietnamienne <q>pure laine</q> non plus, mais, comme le laissait prévoir son nom Vuong, issue d’une famille chinoise, elle-même établie depuis trois générations à Hanoi au Nord Vietnam. <ref target="#childhood">Sa langue maternelle est le foukinois (fujianese), vite suivie du vietnamien de la vie locale de son enfance, du mandarin appris en langue seconde à l’école élémentaire, puis du français à l’école catholique et de l’anglais, langue soi-disant <q>seconde</q> mais en réalité sa cinquième langue.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -890,7 +890,8 @@
     },
     "P2_has_type": [
         "oa:identifying",
-        "edit:certaintyHigh"
+        "edit:certaintyHigh",
+        "edit:precisionHigh"
     ]
 }]]>
 				
