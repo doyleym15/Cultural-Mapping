@@ -467,7 +467,7 @@
                     <p xml:id="p1469">
                         <ref target="#editions">
                             <ref target="#translation">
-                                <ref target="#language">En deuxième lieu, certains phénomènes subtils liés aux différentes façons dont les Vietnamiens s’interpellent ont été entièrement perdus, eux aussi, dans la traduction. Ainsi, il est presque impossible en vietnamien de ne pas établir, dès le premier contact entre deux personnes, une situation hiérarchisée, semblable au vouvoiement français mais beaucoup plus compliquée. Chacun se positionne dans une situation de respect par rapport à l’autre, de reconnaissance d’ancienneté, de pouvoir et de genre féminin ou masculin. Chacun est plus jeune ou plus âgé (jeune frère ou sœur/grand frère ou grande sœur; grand-père ou grand-mère <hi rend="italic">éloignés</hi>— donc maternels — ou paternels, etc). <ref target="#spatiality">Il y a une scène dans le roman de Duong Thu Huong où deux petites copines réussissent à ne pas instituer entre elles de hiérarchie en rejetant toutes les formules d’appellation habituelles qui n’admettent pas d’égalité, et en se transformant en lieux respectifs, semblables, peut-être, au <q>hé, là-bas</q> français, où le pronom personnel est remplacé par un démonstratif spatial : <q>lieu-ci</q> (<hi xml:lang="vi-VN">đây</hi> = je) ou <q>lieu-là</q> (<hi xml:lang="vi-VN">đâý</hi> ou <hi xml:lang="vi-VN">đó</hi> = tu).</ref>
+                                <ref target="#language">En deuxième lieu, certains phénomènes subtils liés aux différentes façons dont les <placeName key="Vietnamese" ref="http://www.wikidata.org/entity/Q3275151" ana="webannotation:http://temp.lincsproject.ca/ME26zPmu2pb">Vietnamiens</placeName> s’interpellent ont été entièrement perdus, eux aussi, dans la traduction. Ainsi, il est presque impossible en vietnamien de ne pas établir, dès le premier contact entre deux personnes, une situation hiérarchisée, semblable au vouvoiement français mais beaucoup plus compliquée. Chacun se positionne dans une situation de respect par rapport à l’autre, de reconnaissance d’ancienneté, de pouvoir et de genre féminin ou masculin. Chacun est plus jeune ou plus âgé (jeune frère ou sœur/grand frère ou grande sœur; grand-père ou grand-mère <hi rend="italic">éloignés</hi>— donc maternels — ou paternels, etc). <ref target="#spatiality">Il y a une scène dans le roman de Duong Thu Huong où deux petites copines réussissent à ne pas instituer entre elles de hiérarchie en rejetant toutes les formules d’appellation habituelles qui n’admettent pas d’égalité, et en se transformant en lieux respectifs, semblables, peut-être, au <q>hé, là-bas</q> français, où le pronom personnel est remplacé par un démonstratif spatial : <q>lieu-ci</q> (<hi xml:lang="vi-VN">đây</hi> = je) ou <q>lieu-là</q> (<hi xml:lang="vi-VN">đâý</hi> ou <hi xml:lang="vi-VN">đó</hi> = tu).</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -1903,6 +1903,95 @@
     "P2_has_type": [
         "oa:identifying",
         "edit:certaintyHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ME26zPmu2pb">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ME26zPmu2pb",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T18:49:51.215Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/fiESlmDHVMq",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/fiESlmDHVMq/selector/textPosition/Ilfp3Cf0JEI",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5073,
+                "end": 5084,
+                "refinedBy": {
+                    "id": "/target/fiESlmDHVMq/selector/textQuote/G0MoloUx6U3",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Vietnamiens",
+                    "prefix": "\n                            \n                        \n                    \n                    \n                        \n                            \n                                En deuxième lieu, certains phénomènes subtils liés aux différentes façons dont les",
+                    "suffix": "s’interpellent ont été entièrement perdus, eux aussi, dans la traduction"
+                }
+            },
+            {
+                "id": "/target/fiESlmDHVMq/selector/css/WN2xa8XpvsB",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ME26zPmu2pb]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q3275151",
+        "type": "crm:E53_Place",
+        "label": "Vietnamese",
+        "description": "citizens or residents of Vietnam"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
