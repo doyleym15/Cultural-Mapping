@@ -419,7 +419,7 @@
                     <p xml:id="p1465">Introduction</p>
                     <p xml:id="p1466">
                         <ref target="#nationality">
-                            <ref target="#recognitions">Kim Thúy (Saigon 1968), écrivaine francophone d’origine vietnamienne, a été lauréate du Prix littéraire du gouverneur général 2010 pour son premier roman, <title level="m">Ru</title>
+                            <ref target="#recognitions"><placeName key="Ho Chi Minh City" ref="https://sws.geonames.org/1580578" ana="webannotation:http://temp.lincsproject.ca/6vjLpZn83NW">Kim Thúy</placeName> ( 1968), écrivaine francophone d’origine vietnamienne, a été lauréate du Prix littéraire du gouverneur général 2010 pour son premier roman, <title level="m">Ru</title>
                                 <note place="inline">
                                     <bibl>2009</bibl>
                                 </note>
@@ -802,6 +802,95 @@
 <xenoData>
 			
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/6vjLpZn83NW">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/6vjLpZn83NW",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T17:55:20.748Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/7u3ElmdjA0R",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/7u3ElmdjA0R/selector/textPosition/F9ekYBcBjjQ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 414,
+                "end": 420,
+                "refinedBy": {
+                    "id": "/target/7u3ElmdjA0R/selector/textQuote/JSebJ8KpSeQ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Saigon",
+                    "prefix": "\n        \n            \n                \n                    Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy\n                \n                 Mireille Mai Truong\n                À mon père, Trương bưư Khánh\n                \n                \n                    Introduction\n                    \n                        \n                            Kim Thúy ",
+                    "suffix": "1968), écrivaine francophone d’origine vietnamienne, a été lauréate du Prix littéraire du gouverneur général 2010 pour son premier roman, Ru\n                                \n                                    2009\n                                \n                            "
+                }
+            },
+            {
+                "id": "/target/7u3ElmdjA0R/selector/css/2O3owkEd2do",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/6vjLpZn83NW]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/1580578",
+        "type": "crm:E53_Place",
+        "label": "Ho Chi Minh City",
+        "description": "Ho Chi Minh, VN"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
 				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ND8MU09SzkY">
 <![CDATA[{
