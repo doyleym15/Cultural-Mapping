@@ -551,7 +551,7 @@
                         </ref>
                     </p>
                     <p xml:id="p1477">
-                        <ref target="#tone_or_style">Comme son père importait des produits de France pour les vendre aux Français, produits que la famille ne goûtait pas, Vuong-Riddick voit dans leur conservation dans de grands contenants en verre le symbole des <q>deux solitudes</q> :</ref>
+                        <ref target="#tone_or_style">Comme son père importait des produits <placeName key="Republic of France" ref="https://sws.geonames.org/3017382" ana="webannotation:http://temp.lincsproject.ca/9pbizCBxsG9">de France</placeName> pour les vendre aux Français, produits que la famille ne goûtait pas, Vuong-Riddick voit dans leur conservation dans de grands contenants en verre le symbole des <q>deux solitudes</q> :</ref>
                     </p>
                     <q type="block" xml:lang="en-CA">
                         <ref target="#tone_or_style">
@@ -3483,6 +3483,95 @@
         "oa:identifying",
         "edit:certaintyHigh",
         "edit:precisionHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/9pbizCBxsG9">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/9pbizCBxsG9",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-17T19:30:23.008Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/QRssm0zQQuC",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/QRssm0zQQuC/selector/textPosition/mlAAa35tagh",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 15491,
+                "end": 15500,
+                "refinedBy": {
+                    "id": "/target/QRssm0zQQuC/selector/textQuote/CXGp1OBWSzu",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "de France",
+                    "prefix": "\n                        \n                    \n                    \n                        Comme son père importait des produits",
+                    "suffix": "pour les vendre aux Français, produits que la famille ne goûtait pas, Vuong-Riddick voit dans leur conservation dans de grands contenants en verre le symbole des deux solitudes :\n                    \n                    \n                        \n                            \n                                My father imported all his merchandise from France, so I grew up surrounded by Gruyere cheese, soap from Marseilles, Pastis wine, toilet water, and perfumes from Paris"
+                }
+            },
+            {
+                "id": "/target/QRssm0zQQuC/selector/css/RkLYZi4m5FH",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/9pbizCBxsG9]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/3017382",
+        "type": "crm:E53_Place",
+        "label": "Republic of France",
+        "description": "null, FR"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
