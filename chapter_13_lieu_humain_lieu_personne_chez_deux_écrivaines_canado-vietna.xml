@@ -690,7 +690,7 @@
                                 <bibl>Thúy 37</bibl>
                             </note>
                         </ref>. <ref target="#history">Le débarquement en <placeName key="Malaysia" ref="https://sws.geonames.org/1733045" ana="webannotation:http://temp.lincsproject.ca/z02b8MxqB0l" type="real" cert="high" precision="high">Malaisie</placeName> des <hi rend="italic" xml:lang="en-CA">boat people</hi>
-                        </ref> est rapproché cruellement de l’image de Bo Derek, la pin-up de <title level="j">Playboy</title> : <q>nous avons tous sauté dans l’eau comme lors du déploiement d’une armée. […] Je me souviens de cette image avec la même précision et la même clarté que celle de Bo Derek sortant de l’eau en courant dans son maillot couleur chair</q>
+                        </ref> est rapproché cruellement de l’image de Bo Derek, la pin-up de <title level="j"><orgName key="Playboy enterprises" ref="http://viaf.org/viaf/128660725" ana="webannotation:http://temp.lincsproject.ca/073NDkVzRpE">Playboy</orgName></title> : <q>nous avons tous sauté dans l’eau comme lors du déploiement d’une armée. […] Je me souviens de cette image avec la même précision et la même clarté que celle de Bo Derek sortant de l’eau en courant dans son maillot couleur chair</q>
                         <note place="inline">
                             <bibl>Thúy 106</bibl>
                         </note>. <ref target="#tone_or_style">Lorsque le bateau se désagrège sous l’effet d’un ouragan, c’est un spectacle à l’américaine </ref>:</p>
@@ -5596,6 +5596,95 @@
         "id": "http://viaf.org/viaf/198148704002036930139",
         "type": "crm:E74_Group",
         "label": "Ronsdale Press."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/073NDkVzRpE">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/073NDkVzRpE",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-18T15:50:35.755Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Wbhuka1IZlF",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_13_lieu_humain_lieu_personne_chez_deux_écrivaines_canado-vietna.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_13_lieu_humain_lieu_personne_chez_deux_écrivaines_canado-vietna.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Wbhuka1IZlF/selector/textPosition/zZqg7Tek9zw",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 28842,
+                "end": 28849,
+                "refinedBy": {
+                    "id": "/target/Wbhuka1IZlF/selector/textQuote/WvLzYKZBdqT",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Playboy",
+                    "prefix": " Le débarquement en Malaisie des boat people\n                         est rapproché cruellement de l’image de Bo Derek, la pin-up de",
+                    "suffix": ": nous avons tous sauté dans l’eau comme lors du déploiement d’une armée"
+                }
+            },
+            {
+                "id": "/target/Wbhuka1IZlF/selector/css/6Sp0VrcmKJA",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/073NDkVzRpE]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/128660725",
+        "type": "crm:E74_Group",
+        "label": "Playboy enterprises",
+        "description": "Playboy Enterprises American privately held global media and lifestyle company headquartered in Beverly Hills, California"
     },
     "P2_has_type": [
         "oa:identifying"
