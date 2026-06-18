@@ -779,7 +779,7 @@
                     <listBibl>
                         <bibl xml:lang="en-CA"><placeName key="Davis, Roćio G" ref="http://viaf.org/viaf/15012547" ana="webannotation:http://temp.lincsproject.ca/sWbHhC5vUgh">Davis</placeName>, Rocío G. <title level="m">Transcultural Reinventions: Asian American and Asian Canadian Short-Story Cycles</title>. <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/f21YA0hY8an" type="real" cert="high" precision="high">Toronto</placeName>: <hi rend="small-caps">tsar</hi> Publications, 2001.</bibl>
                         <bibl>Duffy, Dan. <title level="a" xml:lang="en-CA">Beyond the National Tradition: Thuong Vuong-Riddick’s <title level="m">Two Shores / Deux rives</title>
-                            </title>. <title level="m">American Babel: Literatures of the United States from Abnaki to Zuni</title>. Dir. Marc Shell. Cambridge, <orgName key="Harvard University Press" ref="http://viaf.org/viaf/139568154" ana="webannotation:http://temp.lincsproject.ca/mgF0caRciNG" type="real" cert="high">MA: Harvard University Press</orgName>, 2002. 322-42.</bibl>
+                            </title>. <title level="m">American Babel: Literatures of the United States from Abnaki to Zuni</title>. Dir. Marc Shell. <placeName key="Cambridge" ref="https://www.geonames.org/4931972/cambridge.html" ana="webannotation:http://temp.lincsproject.ca/WRjmhMyKjWk">Cambridge</placeName>, <orgName key="Harvard University Press" ref="http://viaf.org/viaf/139568154" ana="webannotation:http://temp.lincsproject.ca/mgF0caRciNG" type="real" cert="high">MA: Harvard University Press</orgName>, 2002. 322-42.</bibl>
                         <bibl>Duras, Marguerite. <title level="m">L’Amant</title>. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/nbB5BU5YHaF">Paris</placeName>: Les éditions de Minuit, 1984.</bibl>
                         <bibl>
                             <hi xml:lang="vi-VN">Dương, Thu Hương</hi>. <title level="m" xml:lang="vi-VN">Hành Trình Ngày Thơ Ấu</title>. 1985. <title level="m">Itinéraire d’enfance</title>. Trad. Phuong Dang Tran. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/P302FBERMjO">Paris</placeName>: Sabine Wespieser Éditeur, 2007.</bibl>
@@ -5596,6 +5596,95 @@
         "id": "http://viaf.org/viaf/198148704002036930139",
         "type": "crm:E74_Group",
         "label": "Ronsdale Press."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/WRjmhMyKjWk">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/WRjmhMyKjWk",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-18T15:13:33.407Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/vrImIkK0Cuc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_13_lieu_humain_lieu_personne_chez_deux_écrivaines_canado-vietna.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_13_lieu_humain_lieu_personne_chez_deux_écrivaines_canado-vietna.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/vrImIkK0Cuc/selector/textPosition/cvvUENKtXXj",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 37572,
+                "end": 37581,
+                "refinedBy": {
+                    "id": "/target/vrImIkK0Cuc/selector/textQuote/q9pqqpfPTLC",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Cambridge",
+                    "prefix": "",
+                    "suffix": " MA: Harvard University Press, 2002"
+                }
+            },
+            {
+                "id": "/target/vrImIkK0Cuc/selector/css/TN9ybGzQE8y",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/WRjmhMyKjWk]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.geonames.org/4931972/cambridge.html",
+        "label": "Cambridge",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
     },
     "P2_has_type": [
         "oa:identifying"
