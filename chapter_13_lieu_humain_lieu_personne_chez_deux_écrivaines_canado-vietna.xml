@@ -787,7 +787,7 @@
                         <bibl><placeName key="Kellett-Betsos, Kathleen L. (Kathleen Louise), 1959-" ref="http://viaf.org/viaf/105747269" ana="webannotation:http://temp.lincsproject.ca/9imBDXpJwzF" type="real">Kellett-Betsos</placeName>, Kathleen. <title level="a">
                                 <title level="m">Two Shores / Deux rives</title> de Thuong Vuong-Riddick : Errance et ironie</title>. <title level="m">Littérature et culture francophones de <placeName key="British Columbia" ref="https://sws.geonames.org/5909050" ana="webannotation:http://temp.lincsproject.ca/tvgzTmGGi9e">Colombie-Britannique</placeName>: Espaces culturels francophones I</title>. Dir. Guy Poirier, Jacqueline Viswanathan et Grazia Merler. <placeName key="Ottawa" ref="https://www.geonames.org/6094817/ottawa.html" ana="webannotation:http://temp.lincsproject.ca/Z8ezIdZLHbl" type="real" cert="high" precision="high">Ottawa</placeName>: Les Éditions David, 2004. 85-106.</bibl>
                         <bibl>
-                            <author xml:lang="vi-VN"><placeName key="Nguyễn, Phú Phong" ref="http://viaf.org/viaf/2474905" ana="webannotation:http://temp.lincsproject.ca/5GGP7noqHmU" type="real" cert="high">Nguyễn</placeName>, Phú Phong</author>.<title level="m"> Questions de linguistique vietnamienne : Les classificateurs et les déictiques.</title> <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/u7uVAbugHzQ">Paris</placeName>: Presses de l’École française d’Extrême-Orient, 1995.</bibl>
+                            <author xml:lang="vi-VN"><placeName key="Nguyễn, Phú Phong" ref="http://viaf.org/viaf/2474905" ana="webannotation:http://temp.lincsproject.ca/5GGP7noqHmU" type="real" cert="high">Nguyễn</placeName>, Phú Phong</author>.<title level="m"> Questions de linguistique vietnamienne : Les classificateurs et les déictiques.</title> <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/u7uVAbugHzQ">Paris</placeName>: <orgName key="École française d'Extrême-Orient" ref="http://viaf.org/viaf/168331514" ana="webannotation:http://temp.lincsproject.ca/FOZNakIuI73">Presses de l’École française d’Extrême-Orient</orgName>, 1995.</bibl>
                         <bibl>Paré, François. <title level="m">Les Littératures de l’exiguïté</title>. Hearst: Les Éditions du Nordir, 1992.</bibl>
                         <bibl>Thúy, Kim. <title level="m">Ru</title>. Longueuil: Les Éditions Libre Expression, 2009.</bibl>
                         <bibl>Vuong-Riddick, Thuong. <title level="m" xml:lang="en-CA">The Evergreen Country: A Memoir of Vietnam</title>. Regina: Hagios Press, 2007.</bibl>
@@ -5333,6 +5333,95 @@
     "P2_has_type": [
         "oa:identifying",
         "edit:certaintyHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/FOZNakIuI73">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/FOZNakIuI73",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-18T13:54:55.315Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/FdX8YkLyii4",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/FdX8YkLyii4/selector/textPosition/WKYMhNJ1NVR",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 38683,
+                "end": 38728,
+                "refinedBy": {
+                    "id": "/target/FdX8YkLyii4/selector/textQuote/aQK0JFjXC6c",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Presses de l’École française d’Extrême-Orient",
+                    "prefix": " Paris:",
+                    "suffix": " 1995"
+                }
+            },
+            {
+                "id": "/target/FdX8YkLyii4/selector/css/ibnmSO4OKpj",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/FOZNakIuI73]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/168331514",
+        "label": "École française d'Extrême-Orient",
+        "type": "crm:E74_Group",
+        "entityType": "crm:E74_Group"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
