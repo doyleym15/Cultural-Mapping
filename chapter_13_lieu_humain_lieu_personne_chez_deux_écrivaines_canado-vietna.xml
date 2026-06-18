@@ -788,7 +788,7 @@
                                 <title level="m">Two Shores / Deux rives</title> de Thuong Vuong-Riddick : Errance et ironie</title>. <title level="m">Littérature et culture francophones de <placeName key="British Columbia" ref="https://sws.geonames.org/5909050" ana="webannotation:http://temp.lincsproject.ca/tvgzTmGGi9e">Colombie-Britannique</placeName>: Espaces culturels francophones I</title>. Dir. Guy Poirier, Jacqueline Viswanathan et Grazia Merler. <placeName key="Ottawa" ref="https://www.geonames.org/6094817/ottawa.html" ana="webannotation:http://temp.lincsproject.ca/Z8ezIdZLHbl" type="real" cert="high" precision="high">Ottawa</placeName>: Les Éditions David, 2004. 85-106.</bibl>
                         <bibl>
                             <author xml:lang="vi-VN"><placeName key="Nguyễn, Phú Phong" ref="http://viaf.org/viaf/2474905" ana="webannotation:http://temp.lincsproject.ca/5GGP7noqHmU" type="real" cert="high">Nguyễn</placeName>, Phú Phong</author>.<title level="m"> Questions de linguistique vietnamienne : Les classificateurs et les déictiques.</title> <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/u7uVAbugHzQ">Paris</placeName>: <orgName key="École française d'Extrême-Orient" ref="http://viaf.org/viaf/168331514" ana="webannotation:http://temp.lincsproject.ca/FOZNakIuI73">Presses de l’École française d’Extrême-Orient</orgName>, 1995.</bibl>
-                        <bibl>Paré, François. <title level="m">Les Littératures de l’exiguïté</title>. Hearst: Les <placeName key="Editions du Nordir" ref="http://viaf.org/viaf/143030270" ana="webannotation:http://temp.lincsproject.ca/NTFL3CO8wYJ">Éditions du Nordir</placeName>, 1992.</bibl>
+                        <bibl>Paré, François. <title level="m">Les Littératures de l’exiguïté</title>. <placeName key="Hearst" ref="https://www.geonames.org/5973108/hearst.html" ana="webannotation:http://temp.lincsproject.ca/8msmKX75FG0">Hearst</placeName>: Les <placeName key="Editions du Nordir" ref="http://viaf.org/viaf/143030270" ana="webannotation:http://temp.lincsproject.ca/NTFL3CO8wYJ">Éditions du Nordir</placeName>, 1992.</bibl>
                         <bibl>Thúy, Kim. <title level="m">Ru</title>. Longueuil: Les Éditions Libre Expression, 2009.</bibl>
                         <bibl>Vuong-Riddick, Thuong. <title level="m" xml:lang="en-CA">The Evergreen Country: A Memoir of Vietnam</title>. Regina: Hagios Press, 2007.</bibl>
                         <bibl>. <title level="m">Two Shores / Deux rives: Poems/Poèmes. <placeName key="Vancouver" ref="https://www.geonames.org/6173331/vancouver.html" ana="webannotation:http://temp.lincsproject.ca/fJdkDHxRDGl">Vancouver</placeName></title>: <orgName key="Ronsdale Press." ref="http://viaf.org/viaf/198148704002036930139" ana="webannotation:http://temp.lincsproject.ca/zAwqDNxg6XL">Ronsdale Press</orgName>, 1995.</bibl>
@@ -5603,9 +5603,102 @@
 }]]>
 				
 </rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/8msmKX75FG0">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/8msmKX75FG0",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-18T14:09:42.314Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/jtnc9uiqJod",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_13_lieu_humain_lieu_personne_chez_deux_écrivaines_canado-vietna.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_13_lieu_humain_lieu_personne_chez_deux_écrivaines_canado-vietna.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/jtnc9uiqJod/selector/textPosition/D07Vc1agZIb",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 38808,
+                "end": 38814,
+                "refinedBy": {
+                    "id": "/target/jtnc9uiqJod/selector/textQuote/qQQdUU2yt55",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Hearst",
+                    "prefix": "",
+                    "suffix": " Les Éditions du Nordir, 1992"
+                }
+            },
+            {
+                "id": "/target/jtnc9uiqJod/selector/css/lopJSzRIA12",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/8msmKX75FG0]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.geonames.org/5973108/hearst.html",
+        "label": "Hearst",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
 			
 </rdf:RDF>
 		
+
+		
 </xenoData>
+	
 	</standOff>
+
 </TEI>
