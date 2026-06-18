@@ -783,7 +783,7 @@
                         <bibl>Duras, Marguerite. <title level="m">L’Amant</title>. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/nbB5BU5YHaF">Paris</placeName>: Les éditions de Minuit, 1984.</bibl>
                         <bibl>
                             <hi xml:lang="vi-VN">Dương, Thu Hương</hi>. <title level="m" xml:lang="vi-VN">Hành Trình Ngày Thơ Ấu</title>. 1985. <title level="m">Itinéraire d’enfance</title>. Trad. Phuong Dang Tran. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/P302FBERMjO">Paris</placeName>: Sabine Wespieser Éditeur, 2007.</bibl>
-                        <bibl>. <title level="m" xml:lang="vi-VN">Những thiên đường mú</title>. <hi xml:lang="en-CA"><placeName key="Hanoi" ref="https://sws.geonames.org/1581129" ana="webannotation:http://temp.lincsproject.ca/IJ2jnuSdII6">Hanoi</placeName>: The Women’s Publishing House</hi>, 1988. <title level="m">Les Paradis Aveugles</title>. Trad. Des Femmes. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/el05EvlQIeX">Paris</placeName>: Éditions Des Femmes, 1991. <title level="m" xml:lang="en-CA">Paradise of the Blind</title>. Trans. Phan Huy Duong and Nina McPherson. New York: William Morrow and Company, 1993.</bibl>
+                        <bibl>. <title level="m" xml:lang="vi-VN">Những thiên đường mú</title>. <hi xml:lang="en-CA"><placeName key="Hanoi" ref="https://sws.geonames.org/1581129" ana="webannotation:http://temp.lincsproject.ca/IJ2jnuSdII6">Hanoi</placeName>: The Women’s Publishing House</hi>, 1988. <title level="m">Les Paradis Aveugles</title>. Trad. Des Femmes. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/el05EvlQIeX">Paris</placeName>: <orgName key="Des femmes" ref="http://viaf.org/viaf/144378421" ana="webannotation:http://temp.lincsproject.ca/nWzDiS0wATW">Éditions Des Femmes</orgName>, 1991. <title level="m" xml:lang="en-CA">Paradise of the Blind</title>. Trans. Phan Huy Duong and Nina McPherson. New York: William Morrow and Company, 1993.</bibl>
                         <bibl><placeName key="Kellett-Betsos, Kathleen L. (Kathleen Louise), 1959-" ref="http://viaf.org/viaf/105747269" ana="webannotation:http://temp.lincsproject.ca/9imBDXpJwzF" type="real">Kellett-Betsos</placeName>, Kathleen. <title level="a">
                                 <title level="m">Two Shores / Deux rives</title> de Thuong Vuong-Riddick : Errance et ironie</title>. <title level="m">Littérature et culture francophones de <placeName key="British Columbia" ref="https://sws.geonames.org/5909050" ana="webannotation:http://temp.lincsproject.ca/tvgzTmGGi9e">Colombie-Britannique</placeName>: Espaces culturels francophones I</title>. Dir. Guy Poirier, Jacqueline Viswanathan et Grazia Merler. <placeName key="Ottawa" ref="https://www.geonames.org/6094817/ottawa.html" ana="webannotation:http://temp.lincsproject.ca/Z8ezIdZLHbl" type="real" cert="high" precision="high">Ottawa</placeName>: Les Éditions David, 2004. 85-106.</bibl>
                         <bibl>
@@ -4872,6 +4872,95 @@
         "oa:identifying",
         "edit:certaintyHigh",
         "edit:precisionHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/nWzDiS0wATW">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/nWzDiS0wATW",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-18T13:50:34.186Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/1Tmi8xNGJld",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "fr",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Lieu humain / lieu personne chez deux écrivaines canado-vietnamiennes, Thuong Vuong-Riddick et Kim Thúy"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/1Tmi8xNGJld/selector/textPosition/IdiNTZksyv4",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 38040,
+                "end": 38059,
+                "refinedBy": {
+                    "id": "/target/1Tmi8xNGJld/selector/textQuote/k3vh2dIpIIf",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Éditions Des Femmes",
+                    "prefix": " Paris:",
+                    "suffix": " 1991"
+                }
+            },
+            {
+                "id": "/target/1Tmi8xNGJld/selector/css/5Ix6QSqhJmC",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/nWzDiS0wATW]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/144378421",
+        "type": "crm:E74_Group",
+        "label": "Des femmes",
+        "description": "Éditions des femmes."
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
