@@ -779,7 +779,7 @@
                     <listBibl>
                         <bibl xml:lang="en-CA"><placeName key="Davis, Roćio G" ref="http://viaf.org/viaf/15012547" ana="webannotation:http://temp.lincsproject.ca/sWbHhC5vUgh">Davis</placeName>, Rocío G. <title level="m">Transcultural Reinventions: Asian American and Asian Canadian Short-Story Cycles</title>. <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/f21YA0hY8an" type="real" cert="high" precision="high">Toronto</placeName>: <hi rend="small-caps">tsar</hi> Publications, 2001.</bibl>
                         <bibl>Duffy, Dan. <title level="a" xml:lang="en-CA">Beyond the National Tradition: Thuong Vuong-Riddick’s <title level="m">Two Shores / Deux rives</title>
-                            </title>. <title level="m">American Babel: Literatures of the United States from Abnaki to Zuni</title>. Dir. Marc Shell. <placeName key="Cambridge" ref="https://www.geonames.org/4931972/cambridge.html" ana="webannotation:http://temp.lincsproject.ca/WRjmhMyKjWk">Cambridge</placeName>, <orgName key="Harvard University Press" ref="http://viaf.org/viaf/139568154" ana="webannotation:http://temp.lincsproject.ca/mgF0caRciNG" type="real" cert="high">MA: Harvard University Press</orgName>, 2002. 322-42.</bibl>
+                            </title>. <title level="m">American Babel: Literatures of the United States from Abnaki to Zuni</title>. Dir. Marc Shell. <placeName key="Cambridge" ref="https://www.geonames.org/4931972/cambridge.html" ana="webannotation:http://temp.lincsproject.ca/WRjmhMyKjWk" type="real">Cambridge</placeName>, <orgName key="Harvard University Press" ref="http://viaf.org/viaf/139568154" ana="webannotation:http://temp.lincsproject.ca/mgF0caRciNG" type="real" cert="high">MA: Harvard University Press</orgName>, 2002. 322-42.</bibl>
                         <bibl>Duras, Marguerite. <title level="m">L’Amant</title>. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/nbB5BU5YHaF">Paris</placeName>: Les éditions de Minuit, 1984.</bibl>
                         <bibl>
                             <hi xml:lang="vi-VN">Dương, Thu Hương</hi>. <title level="m" xml:lang="vi-VN">Hành Trình Ngày Thơ Ấu</title>. 1985. <title level="m">Itinéraire d’enfance</title>. Trad. Phuong Dang Tran. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/P302FBERMjO">Paris</placeName>: Sabine Wespieser Éditeur, 2007.</bibl>
@@ -5684,7 +5684,10 @@
         "id": "https://www.geonames.org/4931972/cambridge.html",
         "label": "Cambridge",
         "type": "crm:E53_Place",
-        "entityType": "crm:E53_Place"
+        "entityType": "crm:E53_Place",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
