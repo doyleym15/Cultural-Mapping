@@ -785,7 +785,7 @@
                             <hi xml:lang="vi-VN">Dương, Thu Hương</hi>. <title level="m" xml:lang="vi-VN">Hành Trình Ngày Thơ Ấu</title>. 1985. <title level="m">Itinéraire d’enfance</title>. Trad. Phuong Dang Tran. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/P302FBERMjO">Paris</placeName>: Sabine Wespieser Éditeur, 2007.</bibl>
                         <bibl>. <title level="m" xml:lang="vi-VN">Những thiên đường mú</title>. <hi xml:lang="en-CA"><placeName key="Hanoi" ref="https://sws.geonames.org/1581129" ana="webannotation:http://temp.lincsproject.ca/IJ2jnuSdII6">Hanoi</placeName>: The Women’s Publishing House</hi>, 1988. <title level="m">Les Paradis Aveugles</title>. Trad. Des Femmes. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/el05EvlQIeX">Paris</placeName>: Éditions Des Femmes, 1991. <title level="m" xml:lang="en-CA">Paradise of the Blind</title>. Trans. Phan Huy Duong and Nina McPherson. New York: William Morrow and Company, 1993.</bibl>
                         <bibl><placeName key="Kellett-Betsos, Kathleen L. (Kathleen Louise), 1959-" ref="http://viaf.org/viaf/105747269" ana="webannotation:http://temp.lincsproject.ca/9imBDXpJwzF" type="real">Kellett-Betsos</placeName>, Kathleen. <title level="a">
-                                <title level="m">Two Shores / Deux rives</title> de Thuong Vuong-Riddick : Errance et ironie</title>. <title level="m">Littérature et culture francophones de <placeName key="British Columbia" ref="https://sws.geonames.org/5909050" ana="webannotation:http://temp.lincsproject.ca/tvgzTmGGi9e">Colombie-Britannique</placeName>: Espaces culturels francophones I</title>. Dir. Guy Poirier, Jacqueline Viswanathan et Grazia Merler. <placeName key="Ottawa" ref="https://www.geonames.org/6094817/ottawa.html" ana="webannotation:http://temp.lincsproject.ca/Z8ezIdZLHbl">Ottawa</placeName>: Les Éditions David, 2004. 85-106.</bibl>
+                                <title level="m">Two Shores / Deux rives</title> de Thuong Vuong-Riddick : Errance et ironie</title>. <title level="m">Littérature et culture francophones de <placeName key="British Columbia" ref="https://sws.geonames.org/5909050" ana="webannotation:http://temp.lincsproject.ca/tvgzTmGGi9e">Colombie-Britannique</placeName>: Espaces culturels francophones I</title>. Dir. Guy Poirier, Jacqueline Viswanathan et Grazia Merler. <placeName key="Ottawa" ref="https://www.geonames.org/6094817/ottawa.html" ana="webannotation:http://temp.lincsproject.ca/Z8ezIdZLHbl" type="real" cert="high" precision="high">Ottawa</placeName>: Les Éditions David, 2004. 85-106.</bibl>
                         <bibl>
                             <author xml:lang="vi-VN"><placeName key="Nguyễn, Phú Phong" ref="http://viaf.org/viaf/2474905" ana="webannotation:http://temp.lincsproject.ca/5GGP7noqHmU" type="real" cert="high">Nguyễn</placeName>, Phú Phong</author>.<title level="m"> Questions de linguistique vietnamienne : Les classificateurs et les déictiques.</title> <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/u7uVAbugHzQ">Paris</placeName>: Presses de l’École française d’Extrême-Orient, 1995.</bibl>
                         <bibl>Paré, François. <title level="m">Les Littératures de l’exiguïté</title>. Hearst: Les Éditions du Nordir, 1992.</bibl>
@@ -5049,10 +5049,15 @@
         "id": "https://www.geonames.org/6094817/ottawa.html",
         "label": "Ottawa",
         "type": "crm:E53_Place",
-        "entityType": "crm:E53_Place"
+        "entityType": "crm:E53_Place",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh",
+        "edit:precisionHigh"
     ]
 }]]>
 				
