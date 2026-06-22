@@ -427,7 +427,7 @@
                 </p>
                 <p xml:id="p1279">
                     <ref target="#sexuality">
-                        <ref target="#theme_or_topic">When we first formulated the <abbr>LGLC</abbr> project in December 2010, we envisaged a straightforward online publication of <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975</title>, a groundbreaking work by Donald McLeod, a long-time volunteer at the Canadian Lesbian and Gay Archives and a librarian at <orgName key="University of Toronto." ref="http://viaf.org/viaf/130333233" ana="webannotation:http://temp.lincsproject.ca/CwFXn9U9YIO">the University of Toronto</orgName>. <ref target="#non-book_media">
+                        <ref target="#theme_or_topic">When we first formulated the <abbr>LGLC</abbr> project in December 2010, we envisaged a straightforward online publication of <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975</title>, a groundbreaking work by Donald McLeod, a long-time volunteer at the Canadian Lesbian and Gay Archives and a librarian at <orgName key="University of Toronto." ref="http://viaf.org/viaf/130333233" ana="webannotation:http://temp.lincsproject.ca/CwFXn9U9YIO" type="real">the University of Toronto</orgName>. <ref target="#non-book_media">
                                 <ref target="#gender_issue">We planned to augment the digital edition with maps and network graphs that would illustrate the relationships between the events, people, and places that were central to the gay and lesbian liberation movement in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/DBydcNObSc4">Canada</placeName>.</ref> From the outset, our project was tied closely to the Canadian Lesbian and Gay Archives (<abbr>CLGA</abbr>), since <abbr>CLGA</abbr> material underpins much of McLeod’s chronology. And, indeed, our project was guided by the <abbr>CLGA</abbr> motto, <q>keeping our stories alive.</q>
                             </ref>
                             <ref target="#authorship">
@@ -475,7 +475,7 @@
                     <head>Don McLeod and <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975</title>
                     </head>
                     <p xml:id="p1283">
-                        <ref target="#intellectual_history">Donald W. McLeod was born in 1957 in Cornwall, Ontario and grew up in Calgary, Alberta. <ref target="#education">Since receiving his master’s degree in library science from the University of Toronto in 1983, he has worked in both publishing and librarianship.</ref>
+                        <ref target="#intellectual_history">Donald W. McLeod was born in 1957 in Cornwall, Ontario and grew up in Calgary, Alberta. <ref target="#education">Since receiving his master’s degree in library science from <orgName key="University of Toronto." ref="http://viaf.org/viaf/130333233" ana="webannotation:http://temp.lincsproject.ca/Bu8sSEp9NnR">the University of Toronto</orgName> in 1983, he has worked in both publishing and librarianship.</ref>
                             <ref target="#gender_issue">He is now the head of book and serial acquisitions for the University of Toronto Libraries, and continues to be involved in the publication of documents on gay and Canadian history. In addition to his writing and editorial work, he has been a volunteer at the Canadian Lesbian and Gay Archives for twenty-five years. <ref target="#health_issue">He first became involved with the <abbr>CLGA</abbr> when he was commissioned by the <abbr>CLGA</abbr> and the <abbr>AIDS</abbr> Committee of Toronto to work on <title level="m">Medical, Social, and Political Aspects of the Acquired Immune Deficiency Syndrome (<abbr>AIDS</abbr>) Crisis: A Bibliography</title>, which was published in 1985 <note place="inline">
                                         <note place="inline">
                                             <bibl>
@@ -2342,7 +2342,102 @@
         "id": "http://viaf.org/viaf/130333233",
         "type": "crm:E74_Group",
         "label": "University of Toronto.",
-        "description": "Université de Toronto université à Toronto en Ontario au Canada"
+        "description": "Université de Toronto université à Toronto en Ontario au Canada",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Bu8sSEp9NnR">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Bu8sSEp9NnR",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:42:56.374Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Hzz9kR7uDfN",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Hzz9kR7uDfN/selector/textPosition/NQlNgiV1q9A",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6527,
+                "end": 6552,
+                "refinedBy": {
+                    "id": "/target/Hzz9kR7uDfN/selector/textQuote/Zqvu98wBECs",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the University of Toronto",
+                    "prefix": " Since receiving his master’s degree in library science from",
+                    "suffix": "in 1983, he has worked in both publishing and librarianship"
+                }
+            },
+            {
+                "id": "/target/Hzz9kR7uDfN/selector/css/nEfsuilAFmx",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Bu8sSEp9NnR]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/130333233",
+        "type": "crm:E74_Group",
+        "label": "University of Toronto.",
+        "description": "Université de Toronto université à Toronto en Ontario au Canada",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
