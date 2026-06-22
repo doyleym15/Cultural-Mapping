@@ -494,7 +494,7 @@
                                             <ref target="#anthologization">The work was inspired by <title level="a">Victories and Defeats: A Gay and Lesbian Chronology, 1964–1982,</title> which James Fraser compiled and published in the 1982 anthology <title level="m">Flaunting It!: A Decade of Gay Journalism from <title level="j">The Body Politic</title>
                                                 </title>
                                                 <note place="inline">
-                                                    <bibl>edited by <persName key="Jackson, Ed" ref="http://viaf.org/viaf/296159032578101180999" ana="webannotation:http://temp.lincsproject.ca/GeLlkiHI6wA" type="real" cert="high">Ed Jackson</persName> and <persName key="Persky, Stan, 1941-" ref="http://viaf.org/viaf/57448780" ana="webannotation:http://temp.lincsproject.ca/b9wboNwUVgM">Stan Persky</persName></bibl>
+                                                    <bibl>edited by <persName key="Jackson, Ed" ref="http://viaf.org/viaf/296159032578101180999" ana="webannotation:http://temp.lincsproject.ca/GeLlkiHI6wA" type="real" cert="high">Ed Jackson</persName> and <persName key="Persky, Stan, 1941-" ref="http://viaf.org/viaf/57448780" ana="webannotation:http://temp.lincsproject.ca/b9wboNwUVgM" type="real">Stan Persky</persName></bibl>
                                                 </note>
                                             </ref>. In the course of his work at the <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/qDOaFw8YnVV">CLGA</orgName></abbr>, <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/08rebypJdAw">McLeod</persName> often consulted Fraser’s chronology but was frustrated by its lack of bibliographic citations. <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/8eDQpEDNlqe">McLeod</persName> believed that a detailed chronology of gay liberation history <hi rend="italic">combined </hi>with a bibliography of sources for each entry would be an <q>authoritative reference guide to the origins and development of lesbians and gay liberation in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/jQc2CSoWNgb">Canada</placeName></q>
                                             <note place="inline">
@@ -13349,7 +13349,10 @@
         "id": "http://viaf.org/viaf/57448780",
         "type": "crm:E21_Person",
         "label": "Persky, Stan, 1941-",
-        "description": "Persky, Stan, 1941-2024"
+        "description": "Persky, Stan, 1941-2024",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -13438,7 +13441,10 @@
         "id": "http://viaf.org/viaf/57448780",
         "type": "crm:E21_Person",
         "label": "Persky, Stan, 1941-",
-        "description": "Persky, Stan, 1941-2024"
+        "description": "Persky, Stan, 1941-2024",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -13527,7 +13533,10 @@
         "id": "http://viaf.org/viaf/57448780",
         "type": "crm:E21_Person",
         "label": "Persky, Stan, 1941-",
-        "description": "Persky, Stan, 1941-2024"
+        "description": "Persky, Stan, 1941-2024",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
