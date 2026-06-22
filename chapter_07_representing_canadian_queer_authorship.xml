@@ -447,7 +447,7 @@
                         <ref target="#social_movement">
                             <ref target="#representation_of_women">
                                 <ref target="#gender_issue">
-                                    <ref target="#theme_or_topic">Our encoding of the events of the gay and lesbian liberation movement in <abbr>TEI</abbr> (the markup language of <orgName key="Text Encoding Initiative" ref="http://viaf.org/viaf/262867947" ana="webannotation:http://temp.lincsproject.ca/wEuBTS41jLm" type="real" cert="high">the Text Encoding Initiative</orgName>), for addition to <orgName key="Canadian Writing Research Collaboratory" ref="http://www.wikidata.org/entity/Q134008740" ana="webannotation:http://temp.lincsproject.ca/8y1mTLUUJPf" type="real" cert="high">the Canadian Writing Research Collaboratory’s</orgName> (<abbr>CWRC</abbr>) corpus, is part of our attempt to make the Internet a women’s place: one that reflects women’s multiple experiences and supports their multiple perspectives. We seek to intervene in the online representation of the women in our data set, with the hope of increasing their visibility to the traditional and citizen scholars who work within <abbr>CWRC</abbr>, and to the public at large. <ref target="#collaboration">Our 2011 inclusion within <abbr>CWRC</abbr> has compelled us to look outward, not just at the relationships represented within our material source (<persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/gDG3KGiDgO7">McLeod</persName>’s chronology), but at the social relationships represented and, indeed, <hi rend="italic">forged</hi>, online. <abbr>CWRC</abbr> is a digital space designed to foster interaction among traditional scholars, citizen scholars, and, in the case of our project, perhaps even the living persons represented within our data set.</ref>
+                                    <ref target="#theme_or_topic">Our encoding of the events of the gay and lesbian liberation movement in <abbr>TEI</abbr> (the markup language of <orgName key="Text Encoding Initiative" ref="http://viaf.org/viaf/262867947" ana="webannotation:http://temp.lincsproject.ca/wEuBTS41jLm" type="real" cert="high">the Text Encoding Initiative</orgName>), for addition to <orgName key="Canadian Writing Research Collaboratory" ref="http://www.wikidata.org/entity/Q134008740" ana="webannotation:http://temp.lincsproject.ca/8y1mTLUUJPf" type="real" cert="high">the Canadian Writing Research Collaboratory’s</orgName> (<abbr><orgName key="Canadian Writing Research Collaboratory" ref="http://www.wikidata.org/entity/Q134008740" ana="webannotation:http://temp.lincsproject.ca/1bxLggZKXE8">CWRC</orgName></abbr>) corpus, is part of our attempt to make the Internet a women’s place: one that reflects women’s multiple experiences and supports their multiple perspectives. We seek to intervene in the online representation of the women in our data set, with the hope of increasing their visibility to the traditional and citizen scholars who work within <abbr><orgName key="Canadian Writing Research Collaboratory" ref="http://www.wikidata.org/entity/Q134008740" ana="webannotation:http://temp.lincsproject.ca/AztLLUerDFb">CWRC</orgName></abbr>, and to the public at large. <ref target="#collaboration">Our 2011 inclusion within <abbr><orgName key="Canadian Writing Research Collaboratory" ref="http://www.wikidata.org/entity/Q134008740" ana="webannotation:http://temp.lincsproject.ca/sCsToidFqRB">CWRC</orgName></abbr> has compelled us to look outward, not just at the relationships represented within our material source (<persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/gDG3KGiDgO7">McLeod</persName>’s chronology), but at the social relationships represented and, indeed, <hi rend="italic">forged</hi>, online. <abbr><orgName key="Canadian Writing Research Collaboratory" ref="http://www.wikidata.org/entity/Q134008740" ana="webannotation:http://temp.lincsproject.ca/6M2uxEKtiJb">CWRC</orgName></abbr> is a digital space designed to foster interaction among traditional scholars, citizen scholars, and, in the case of our project, perhaps even the living persons represented within our data set.</ref>
                                     </ref>
                                 </ref>
                             </ref>
@@ -701,7 +701,7 @@
                                             <bibl>
                                                 <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/ayaGRvkOUPu">CLGA</orgName></abbr>, <title level="a">Collections</title>
                                             </bibl>
-                                        </note>. It was born, too, of a desire to preserve archival material that might otherwise disappear. In the twenty years since <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/ZwDhMRqLkC0">CLGA</orgName></abbr> added <q>lesbian</q> to its name, it has been working to rehabilitate its reputation from an organization concerned only with gay men. We hope to support those efforts by amplifying <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/LYxkqq11GMQ">McLeod</persName>’s chronology: the addition of personographic and place records will help establish the importance of women’s materials at the <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/L7UWXNHIpKY">CLGA</orgName></abbr> and the importance of queer history in online communities like <abbr>CWRC</abbr>.</ref>
+                                        </note>. It was born, too, of a desire to preserve archival material that might otherwise disappear. In the twenty years since <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/ZwDhMRqLkC0">CLGA</orgName></abbr> added <q>lesbian</q> to its name, it has been working to rehabilitate its reputation from an organization concerned only with gay men. We hope to support those efforts by amplifying <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/LYxkqq11GMQ">McLeod</persName>’s chronology: the addition of personographic and place records will help establish the importance of women’s materials at the <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/L7UWXNHIpKY">CLGA</orgName></abbr> and the importance of queer history in online communities like <abbr><orgName key="Canadian Writing Research Collaboratory" ref="http://www.wikidata.org/entity/Q134008740" ana="webannotation:http://temp.lincsproject.ca/dAypanHxdYb">CWRC</orgName></abbr>.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -8962,6 +8962,451 @@
     "P2_has_type": [
         "oa:identifying",
         "edit:certaintyHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/1bxLggZKXE8">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/1bxLggZKXE8",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:11:42.934Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/be924dTdhjO",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/be924dTdhjO/selector/textPosition/KtXPdYVrKSl",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 3422,
+                "end": 3426,
+                "refinedBy": {
+                    "id": "/target/be924dTdhjO/selector/textQuote/IZigJLrVr2k",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": "\n                                        \n                                    \n                                \n                            \n                        \n                    \n                \n                \n                    \n                        \n                            \n                                \n                                    Our encoding of the events of the gay and lesbian liberation movement in TEI (the markup language of the Text Encoding Initiative), for addition to the Canadian Writing Research Collaboratory’s ",
+                    "suffix": " corpus, is part of our attempt to make the Internet a women’s place: one that reflects women’s multiple experiences and supports their multiple perspectives"
+                }
+            },
+            {
+                "id": "/target/be924dTdhjO/selector/css/ad1DBlpk8Oo",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/1bxLggZKXE8]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q134008740",
+        "type": "crm:E74_Group",
+        "label": "Canadian Writing Research Collaboratory",
+        "description": "online infrastructure for literary research in and about Canada"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/AztLLUerDFb">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/AztLLUerDFb",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:11:43.085Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/lgCo009NSDa",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/lgCo009NSDa/selector/textPosition/M6VyGYoczYu",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 3767,
+                "end": 3771,
+                "refinedBy": {
+                    "id": "/target/lgCo009NSDa/selector/textQuote/mx4rNkdMYSj",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": " We seek to intervene in the online representation of the women in our data set, with the hope of increasing their visibility to the traditional and citizen scholars who work within",
+                    "suffix": " and to the public at large"
+                }
+            },
+            {
+                "id": "/target/lgCo009NSDa/selector/css/4ylcsumAMi0",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/AztLLUerDFb]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q134008740",
+        "type": "crm:E74_Group",
+        "label": "Canadian Writing Research Collaboratory",
+        "description": "online infrastructure for literary research in and about Canada"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/sCsToidFqRB">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/sCsToidFqRB",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:11:43.202Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/BFbhvjN5PBv",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/BFbhvjN5PBv/selector/textPosition/2Vr3Zbq1acK",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 3827,
+                "end": 3831,
+                "refinedBy": {
+                    "id": "/target/BFbhvjN5PBv/selector/textQuote/uf7lCTbc9NV",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": " Our 2011 inclusion within",
+                    "suffix": "has compelled us to look outward, not just at the relationships represented within our material source (McLeod’s chronology), but at the social relationships represented and, indeed, forged, online"
+                }
+            },
+            {
+                "id": "/target/BFbhvjN5PBv/selector/css/ZaFMWVxPZfD",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/sCsToidFqRB]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q134008740",
+        "type": "crm:E74_Group",
+        "label": "Canadian Writing Research Collaboratory",
+        "description": "online infrastructure for literary research in and about Canada"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/6M2uxEKtiJb">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/6M2uxEKtiJb",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:11:43.316Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/JXneb5t7sUp",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/JXneb5t7sUp/selector/textPosition/XQw7YU7PBit",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 4031,
+                "end": 4035,
+                "refinedBy": {
+                    "id": "/target/JXneb5t7sUp/selector/textQuote/p8n01SuiH4J",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": "",
+                    "suffix": "is a digital space designed to foster interaction among traditional scholars, citizen scholars, and, in the case of our project, perhaps even the living persons represented within our data set"
+                }
+            },
+            {
+                "id": "/target/JXneb5t7sUp/selector/css/Wuf3CH3bmJr",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/6M2uxEKtiJb]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q134008740",
+        "type": "crm:E74_Group",
+        "label": "Canadian Writing Research Collaboratory",
+        "description": "online infrastructure for literary research in and about Canada"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/dAypanHxdYb">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/dAypanHxdYb",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:11:43.429Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/prADwgEcjs4",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/prADwgEcjs4/selector/textPosition/uYnZykIMiZF",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27330,
+                "end": 27334,
+                "refinedBy": {
+                    "id": "/target/prADwgEcjs4/selector/textQuote/CcDEAmRIPls",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "CWRC",
+                    "prefix": " We hope to support those efforts by amplifying McLeod’s chronology: the addition of personographic and place records will help establish the importance of women’s materials at the CLGA and the importance of queer history in online communities like",
+                    "suffix": "\n                                \n                            \n                        \n                    \n                \n                \n                    \n                        Keeping Our Stories Alive\n                    \n                    \n                        Before outlining TEI’s markup utility in teasing out new meanings from the details of McLeod’s chronology, we would like to relate the sort of story we hope the LGLC project will bring to the fore"
+                }
+            },
+            {
+                "id": "/target/prADwgEcjs4/selector/css/4JO2vA7hpEN",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/dAypanHxdYb]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q134008740",
+        "type": "crm:E74_Group",
+        "label": "Canadian Writing Research Collaboratory",
+        "description": "online infrastructure for literary research in and about Canada"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
