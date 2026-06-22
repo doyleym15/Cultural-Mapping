@@ -642,7 +642,7 @@
                         <ref target="#cannon_formation">
                             <ref target="#gender_issue">
                                 <ref target="#archival_location">
-                                    <ref target="#spatiality">The <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/ixTWkwBFKsm">CLGA</orgName></abbr> has had a series of homes since its beginning in Dayman’s basement at 203 Boulton Avenue in <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/UgRVA5NYGlh">Toronto</placeName>. The collection has grown from its origins as a personal hobby, out of storage space in the homes of various members of <title level="j">The Body Politic</title> collective, to a large-scale research collection in need of workspace for archivists and researchers alike. In 1988, it moved to a 1,000-square-foot space on the second floor of 464 <placeName key="Yonge Street" ref="https://sws.geonames.org/7671011" ana="webannotation:http://temp.lincsproject.ca/SujlklOKUcC">Yonge Street</placeName> in <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/m0XMOwDCfI0">Toronto</placeName>. By 1992, the collection had grown so large it demanded a move to the archive’s first fully independent space—2,000 square feet at 56 Temperance Street in <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/ZMbzkJRKKfA">Toronto</placeName> <note place="inline">
+                                    <ref target="#spatiality">The <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/ixTWkwBFKsm">CLGA</orgName></abbr> has had a series of homes since its beginning in Dayman’s basement at 203 Boulton Avenue in <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/UgRVA5NYGlh">Toronto</placeName>. The collection has grown from its origins as a personal hobby, out of storage space in the homes of various members of <title level="j">The Body Politic</title> collective, to a large-scale research collection in need of workspace for archivists and researchers alike. In 1988, it moved to a 1,000-square-foot space on the second floor of 464 <placeName key="Yonge Street" ref="https://sws.geonames.org/7671011" ana="webannotation:http://temp.lincsproject.ca/SujlklOKUcC" type="real" cert="high">Yonge Street</placeName> in <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/m0XMOwDCfI0">Toronto</placeName>. By 1992, the collection had grown so large it demanded a move to the archive’s first fully independent space—2,000 square feet at 56 Temperance Street in <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/ZMbzkJRKKfA">Toronto</placeName> <note place="inline">
                                             <bibl>
                                                 <abbr>CLGA</abbr>, <title level="a">A Chronology of the Archives</title>
                                             </bibl>
@@ -13073,10 +13073,14 @@
         "id": "https://sws.geonames.org/7671011",
         "type": "crm:E53_Place",
         "label": "Yonge Street",
-        "description": "Ontario, CA"
+        "description": "Ontario, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh"
     ]
 }]]>
 				
