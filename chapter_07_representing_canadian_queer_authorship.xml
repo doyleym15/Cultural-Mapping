@@ -427,7 +427,7 @@
                 </p>
                 <p xml:id="p1279">
                     <ref target="#sexuality">
-                        <ref target="#theme_or_topic">When we first formulated the <abbr>LGLC</abbr> project in December 2010, we envisaged a straightforward online publication of <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975</title>, a groundbreaking work by Donald McLeod, a long-time volunteer at the Canadian Lesbian and Gay Archives and a librarian at <orgName key="University of Toronto." ref="http://viaf.org/viaf/130333233" ana="webannotation:http://temp.lincsproject.ca/CwFXn9U9YIO" type="real">the University of Toronto</orgName>. <ref target="#non-book_media">
+                        <ref target="#theme_or_topic">When we first formulated the <abbr>LGLC</abbr> project in December 2010, we envisaged a straightforward online publication of <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975</title>, a groundbreaking work by <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/yKihVqEhvFe">Donald McLeod</persName>, a long-time volunteer at the Canadian Lesbian and Gay Archives and a librarian at <orgName key="University of Toronto." ref="http://viaf.org/viaf/130333233" ana="webannotation:http://temp.lincsproject.ca/CwFXn9U9YIO" type="real" cert="high">the University of Toronto</orgName>. <ref target="#non-book_media">
                                 <ref target="#gender_issue">We planned to augment the digital edition with maps and network graphs that would illustrate the relationships between the events, people, and places that were central to the gay and lesbian liberation movement in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/DBydcNObSc4">Canada</placeName>.</ref> From the outset, our project was tied closely to the Canadian Lesbian and Gay Archives (<abbr>CLGA</abbr>), since <abbr>CLGA</abbr> material underpins much of McLeod’s chronology. And, indeed, our project was guided by the <abbr>CLGA</abbr> motto, <q>keeping our stories alive.</q>
                             </ref>
                             <ref target="#authorship">
@@ -2262,6 +2262,95 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/yKihVqEhvFe">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/yKihVqEhvFe",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:45:05.087Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/KcjJYD7NkDY",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/KcjJYD7NkDY/selector/textPosition/VxOnZgk566L",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 1472,
+                "end": 1485,
+                "refinedBy": {
+                    "id": "/target/KcjJYD7NkDY/selector/textQuote/4mOjxhVaDeX",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Donald McLeod",
+                    "prefix": "\n                        \n                    \n                \n                \n                    \n                        When we first formulated the LGLC project in December 2010, we envisaged a straightforward online publication of Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975, a groundbreaking work by",
+                    "suffix": " a long-time volunteer at the Canadian Lesbian and Gay Archives and a librarian at the University of Toronto"
+                }
+            },
+            {
+                "id": "/target/KcjJYD7NkDY/selector/css/mekK2lHdCU0",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/yKihVqEhvFe]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26046460",
+        "type": "crm:E21_Person",
+        "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
+        "description": "McLeod, Donald W."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/CwFXn9U9YIO">
 <![CDATA[{
     "@context": [
@@ -2348,7 +2437,8 @@
         ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh"
     ]
 }]]>
 				
