@@ -523,7 +523,7 @@
                                     <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975</title> was originally published by Homewood Books in 1996 and reissued in 2011.</ref>
                                 <ref target="#history">
                                     <ref target="#social_movement">The book consists of a chronology of the first twelve years of the <q>organized homophile/gay liberation movement in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/eMSdzg3abzi">Canada</placeName>.</q>
-                                    </ref> The chronology begins with the formation of the <placeName key="Vancouver" ref="https://www.geonames.org/6173331/vancouver.html" ana="webannotation:http://temp.lincsproject.ca/Rqo9UUDUTeq">Vancouver</placeName>-based Association for Social Knowledge, the country’s first large-scale homophile organization. It ends with the founding of the National Gay Rights Coalition/<hi xml:lang="fr-CA">Coalition national pour les droits des homosexuels</hi>, the <q>first truly national coalition of Canadian lesbian and gay groups</q>
+                                    </ref> The chronology begins with the formation of the <placeName key="Vancouver" ref="https://www.geonames.org/6173331/vancouver.html" ana="webannotation:http://temp.lincsproject.ca/Rqo9UUDUTeq" type="real" cert="high" precision="high">Vancouver</placeName>-based Association for Social Knowledge, the country’s first large-scale homophile organization. It ends with the founding of the National Gay Rights Coalition/<hi xml:lang="fr-CA">Coalition national pour les droits des homosexuels</hi>, the <q>first truly national coalition of Canadian lesbian and gay groups</q>
                                     <note place="inline">
                                         <bibl><persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/T1MnqQTVrXl">McLeod</persName> viii</bibl>
                                     </note>.</ref>
@@ -10297,10 +10297,15 @@
         "id": "https://www.geonames.org/6173331/vancouver.html",
         "label": "Vancouver",
         "type": "crm:E53_Place",
-        "entityType": "crm:E53_Place"
+        "entityType": "crm:E53_Place",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh",
+        "edit:precisionHigh"
     ]
 }]]>
 				
@@ -10386,7 +10391,10 @@
         "id": "https://www.geonames.org/6173331/vancouver.html",
         "label": "Vancouver",
         "type": "crm:E53_Place",
-        "entityType": "crm:E53_Place"
+        "entityType": "crm:E53_Place",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -10475,7 +10483,10 @@
         "id": "https://www.geonames.org/6173331/vancouver.html",
         "label": "Vancouver",
         "type": "crm:E53_Place",
-        "entityType": "crm:E53_Place"
+        "entityType": "crm:E53_Place",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -10564,7 +10575,10 @@
         "id": "https://www.geonames.org/6173331/vancouver.html",
         "label": "Vancouver",
         "type": "crm:E53_Place",
-        "entityType": "crm:E53_Place"
+        "entityType": "crm:E53_Place",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
