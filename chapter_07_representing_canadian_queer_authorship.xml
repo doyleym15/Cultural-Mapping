@@ -427,7 +427,7 @@
                 </p>
                 <p xml:id="p1279">
                     <ref target="#sexuality">
-                        <ref target="#theme_or_topic">When we first formulated the <abbr>LGLC</abbr> project in December 2010, we envisaged a straightforward online publication of <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975</title>, a groundbreaking work by Donald McLeod, a long-time volunteer at the Canadian Lesbian and Gay Archives and a librarian at the University of Toronto. <ref target="#non-book_media">
+                        <ref target="#theme_or_topic">When we first formulated the <abbr>LGLC</abbr> project in December 2010, we envisaged a straightforward online publication of <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975</title>, a groundbreaking work by Donald McLeod, a long-time volunteer at the Canadian Lesbian and Gay Archives and a librarian at <orgName key="University of Toronto." ref="http://viaf.org/viaf/130333233" ana="webannotation:http://temp.lincsproject.ca/CwFXn9U9YIO">the University of Toronto</orgName>. <ref target="#non-book_media">
                                 <ref target="#gender_issue">We planned to augment the digital edition with maps and network graphs that would illustrate the relationships between the events, people, and places that were central to the gay and lesbian liberation movement in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/DBydcNObSc4">Canada</placeName>.</ref> From the outset, our project was tied closely to the Canadian Lesbian and Gay Archives (<abbr>CLGA</abbr>), since <abbr>CLGA</abbr> material underpins much of McLeod’s chronology. And, indeed, our project was guided by the <abbr>CLGA</abbr> motto, <q>keeping our stories alive.</q>
                             </ref>
                             <ref target="#authorship">
@@ -691,7 +691,7 @@
                                 <ref target="#archive">
                                     <ref target="#nationality_issue">
                                         <ref target="#sexuality">
-                                            <ref target="#spatiality">The <abbr>CLGA</abbr>’s mandate is to <q>acquire, preserve, organize, and give public access to information and materials in any medium, by and about lesbians and gays, primarily produced in or concerning Canada</q>
+                                            <ref target="#spatiality">The <abbr>CLGA</abbr>’s mandate is to <q>acquire, preserve, organize, and give public access to information and materials in any medium, by and about lesbians and gays, primarily produced in or concerning <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/D2eBJsDXphn">Canada</placeName></q>
                                                 <note place="inline">
                                                     <bibl>
                                                         <title level="a">About Us</title>
@@ -728,7 +728,7 @@
                                     </note>.</ref>
                                 <ref target="#history">
                                     <ref target="#social_movement">The incident galvanized the Toronto gay community, whose defense of the Brunswick Four has been likened to the consciousness-raising that followed the Stonewall riots of June 28, 1969 in New York’s Greenwich Village. </ref>
-                                    <ref target="#technology">The Brunswick Four may be a prime example of women’s centrality to the gay liberation movement in Canada, but representing the Brunswick Four and their influence through <abbr>TEI</abbr> helps dramatize the difficulty of trying to build a reliable and ethically responsible personography of the actors in the movement.</ref>
+                                    <ref target="#technology">The Brunswick Four may be a prime example of women’s centrality to the gay liberation movement in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/2tdhlVvEaIo">Canada</placeName>, but representing the Brunswick Four and their influence through <abbr>TEI</abbr> helps dramatize the difficulty of trying to build a reliable and ethically responsible personography of the actors in the movement.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -760,7 +760,7 @@
                                         <ref target="#attitudes_to_women_writing">Our personographic encoding, complete with explicit and temporally specific records of self-naming, results not in a dictionary definition of what, for example, the word <q>dyke</q> meant in 1974, but rather a list of women whose self-identification produces a definition by example. Our desire is to reconstruct what Eve Kosofsky Sedgwick calls nonce taxonomies, formed through <q>the making and unmaking…of hundreds of old and new categorical imaginings…for mapping [a particular social] landscape</q>
                                             <note place="inline">
                                                 <bibl>23</bibl>
-                                            </note>. Interesting in itself, this endeavour will further serve one of the central goals of our project. <ref target="#archive">In order to make sense of our populated, rather than verbal, definitions, users will have to learn about the women in the archive, thereby increasing the general knowledge about women’s contributions to gay liberation in Canada.</ref>
+                                            </note>. Interesting in itself, this endeavour will further serve one of the central goals of our project. <ref target="#archive">In order to make sense of our populated, rather than verbal, definitions, users will have to learn about the women in the archive, thereby increasing the general knowledge about women’s contributions to gay liberation in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/12JNR9WKhUo">Canada</placeName>.</ref>
                                         </ref>
                                     </ref>
                                 </ref>
@@ -787,7 +787,7 @@
                                 <ref target="#non-book_media">
                                     <ref target="#gender_issue">
                                         <ref target="#representation_of_women">
-                                            <ref target="#theme_or_topic">The stories that we would like our data to tell through prose, maps, and graphs are conspicuous (to us, at least) in their absence from popular knowledge repositories, such as <title level="m">Wikipedia</title>. For example, even though she does not have her own <title level="m">Wikipedia</title> entry, National Portrait Collection inductee Pat Murphy is mentioned in the <title level="m">Wikipedia</title> entry that describes the arrest of the Brunswick Four. Indeed, none of the Brunswick Four women have individual <title level="m">Wikipedia</title> entries. Moreover, there is no <title level="m">Wikipedia</title> entry for <ref target="#history">the Community Homophile Association of Toronto (<abbr>CHAT</abbr>), one of the first gay liberation organizations in all of Canada, which Murphy founded with George Hislop and others in 1971</ref>
+                                            <ref target="#theme_or_topic">The stories that we would like our data to tell through prose, maps, and graphs are conspicuous (to us, at least) in their absence from popular knowledge repositories, such as <title level="m">Wikipedia</title>. For example, even though she does not have her own <title level="m">Wikipedia</title> entry, National Portrait Collection inductee Pat Murphy is mentioned in the <title level="m">Wikipedia</title> entry that describes the arrest of the Brunswick Four. Indeed, none of the Brunswick Four women have individual <title level="m">Wikipedia</title> entries. Moreover, there is no <title level="m">Wikipedia</title> entry for <ref target="#history">the Community Homophile Association of Toronto (<abbr>CHAT</abbr>), one of the first gay liberation organizations in all of <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/2VMf0uBcB1P">Canada</placeName>, which Murphy founded with George Hislop and others in 1971</ref>
                                                 <note place="inline">
                                                     <bibl>McLeod 56</bibl>
                                                 </note>.</ref>
@@ -870,7 +870,7 @@
                             <ref target="#authority">
                                 <ref target="#theme_or_topic">We need to have a conversation, while the online sphere is still open, as to whether <orgName>Wikipedia</orgName> and Google ought to be the gatekeepers of our cultural knowledge—a conversation that we can pair with activism (such as that carried out under the aegis of <abbr>CWRC</abbr>) and will empower traditional and citizen scholars alike. <ref target="#gender_issue">
                                         <ref target="#representation_of_women">
-                                            <ref target="#history">After all, we now know that Rule was not the only lesbian in Canada in 1964, nor is she the only lesbian on the Internet today. The Lesbian and Gay Liberation in Canada project seeks to represent historical lesbian and gay experience in order to make the Internet truly a digital Women’s Place.</ref>
+                                            <ref target="#history">After all, we now know that Rule was not the only lesbian in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/eryNrw5SMNG">Canada</placeName> in 1964, nor is she the only lesbian on the Internet today. The Lesbian and Gay Liberation in Canada project seeks to represent historical lesbian and gay experience in order to make the Internet truly a digital Women’s Place.</ref>
                                         </ref>
                                     </ref>
                                 </ref>
@@ -1809,6 +1809,540 @@
         "type": "crm:E53_Place",
         "label": "Canada",
         "description": "null, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/D2eBJsDXphn">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/D2eBJsDXphn",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:38:14.576Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/rmBoIxQ2r5i",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/rmBoIxQ2r5i/selector/textPosition/N5vWSwDsBFm",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 26120,
+                "end": 26126,
+                "refinedBy": {
+                    "id": "/target/rmBoIxQ2r5i/selector/textQuote/GvwmUcheuwq",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canada",
+                    "prefix": "\n                        \n                    \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                            The CLGA’s mandate is to acquire, preserve, organize, and give public access to information and materials in any medium, by and about lesbians and gays, primarily produced in or concerning",
+                    "suffix": "                                                \n                                                    \n                                                        About Us\n                                                    \n                                                "
+                }
+            },
+            {
+                "id": "/target/rmBoIxQ2r5i/selector/css/rLNfygbugrZ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/D2eBJsDXphn]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6251999",
+        "type": "crm:E53_Place",
+        "label": "Canada",
+        "description": "null, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/2tdhlVvEaIo">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/2tdhlVvEaIo",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:38:14.577Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/e1xBBdkxBcN",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/e1xBBdkxBcN/selector/textPosition/giq8grju2jO",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 29514,
+                "end": 29520,
+                "refinedBy": {
+                    "id": "/target/e1xBBdkxBcN/selector/textQuote/5oy4i07LJIV",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canada",
+                    "prefix": " \n                                    The Brunswick Four may be a prime example of women’s centrality to the gay liberation movement in",
+                    "suffix": " but representing the Brunswick Four and their influence through TEI helps dramatize the difficulty of trying to build a reliable and ethically responsible personography of the actors in the movement"
+                }
+            },
+            {
+                "id": "/target/e1xBBdkxBcN/selector/css/SFRcdK7mz4t",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/2tdhlVvEaIo]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6251999",
+        "type": "crm:E53_Place",
+        "label": "Canada",
+        "description": "null, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/12JNR9WKhUo">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/12JNR9WKhUo",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:38:14.577Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/PZkC4wtAcBu",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/PZkC4wtAcBu/selector/textPosition/1tig6lncxdt",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 33905,
+                "end": 33911,
+                "refinedBy": {
+                    "id": "/target/PZkC4wtAcBu/selector/textQuote/mFfHZW9uNn8",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canada",
+                    "prefix": " In order to make sense of our populated, rather than verbal, definitions, users will have to learn about the women in the archive, thereby increasing the general knowledge about women’s contributions to gay liberation in",
+                    "suffix": "\n                                        \n                                    \n                                \n                            \n                        \n                    \n                    \n                        \n                            \n                                We have been preoccupied with TEI standards when encoding personographies"
+                }
+            },
+            {
+                "id": "/target/PZkC4wtAcBu/selector/css/NwULNR7RCFH",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/12JNR9WKhUo]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6251999",
+        "type": "crm:E53_Place",
+        "label": "Canada",
+        "description": "null, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/2VMf0uBcB1P">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/2VMf0uBcB1P",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:38:14.577Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/SbJuSJkVkR6",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/SbJuSJkVkR6/selector/textPosition/UhzNNUpyJ3n",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 36308,
+                "end": 36314,
+                "refinedBy": {
+                    "id": "/target/SbJuSJkVkR6/selector/textQuote/pvqlndNg1TB",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canada",
+                    "prefix": " Moreover, there is no Wikipedia entry for the Community Homophile Association of Toronto (CHAT), one of the first gay liberation organizations in all of",
+                    "suffix": " which Murphy founded with George Hislop and others in 1971\n                                                \n                                                    McLeod 56\n                                                "
+                }
+            },
+            {
+                "id": "/target/SbJuSJkVkR6/selector/css/UyH9ziDY7RF",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/2VMf0uBcB1P]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6251999",
+        "type": "crm:E53_Place",
+        "label": "Canada",
+        "description": "null, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/eryNrw5SMNG">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/eryNrw5SMNG",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:38:14.577Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/a2LwNJEro5O",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/a2LwNJEro5O/selector/textPosition/dPdz5LNJH8F",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 46277,
+                "end": 46283,
+                "refinedBy": {
+                    "id": "/target/a2LwNJEro5O/selector/textQuote/wh7DbEkcd2E",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canada",
+                    "prefix": " \n                                        \n                                            After all, we now know that Rule was not the only lesbian in",
+                    "suffix": "in 1964, nor is she the only lesbian on the Internet today"
+                }
+            },
+            {
+                "id": "/target/a2LwNJEro5O/selector/css/bChtrPIwLmf",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/eryNrw5SMNG]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6251999",
+        "type": "crm:E53_Place",
+        "label": "Canada",
+        "description": "null, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/CwFXn9U9YIO">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/CwFXn9U9YIO",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:42:56.134Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Jypi4D9SMzr",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Jypi4D9SMzr/selector/textPosition/zoKZ2Nel3jL",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 1569,
+                "end": 1594,
+                "refinedBy": {
+                    "id": "/target/Jypi4D9SMzr/selector/textQuote/iDFVvJjrZ1B",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the University of Toronto",
+                    "prefix": "\n                        \n                    \n                \n                \n                    \n                        When we first formulated the LGLC project in December 2010, we envisaged a straightforward online publication of Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975, a groundbreaking work by Donald McLeod, a long-time volunteer at the Canadian Lesbian and Gay Archives and a librarian at",
+                    "suffix": " \n                                We planned to augment the digital edition with maps and network graphs that would illustrate the relationships between the events, people, and places that were central to the gay and lesbian liberation movement in Canada"
+                }
+            },
+            {
+                "id": "/target/Jypi4D9SMzr/selector/css/1Qg8kGb1yVa",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/CwFXn9U9YIO]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/130333233",
+        "type": "crm:E74_Group",
+        "label": "University of Toronto.",
+        "description": "Université de Toronto université à Toronto en Ontario au Canada"
     },
     "P2_has_type": [
         "oa:identifying"
