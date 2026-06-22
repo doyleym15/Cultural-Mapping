@@ -447,7 +447,7 @@
                         <ref target="#social_movement">
                             <ref target="#representation_of_women">
                                 <ref target="#gender_issue">
-                                    <ref target="#theme_or_topic">Our encoding of the events of the gay and lesbian liberation movement in <abbr>TEI</abbr> (the markup language of the Text Encoding Initiative), for addition to the Canadian Writing Research Collaboratory’s (<abbr>CWRC</abbr>) corpus, is part of our attempt to make the Internet a women’s place: one that reflects women’s multiple experiences and supports their multiple perspectives. We seek to intervene in the online representation of the women in our data set, with the hope of increasing their visibility to the traditional and citizen scholars who work within <abbr>CWRC</abbr>, and to the public at large. <ref target="#collaboration">Our 2011 inclusion within <abbr>CWRC</abbr> has compelled us to look outward, not just at the relationships represented within our material source (<persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/gDG3KGiDgO7">McLeod</persName>’s chronology), but at the social relationships represented and, indeed, <hi rend="italic">forged</hi>, online. <abbr>CWRC</abbr> is a digital space designed to foster interaction among traditional scholars, citizen scholars, and, in the case of our project, perhaps even the living persons represented within our data set.</ref>
+                                    <ref target="#theme_or_topic">Our encoding of the events of the gay and lesbian liberation movement in <abbr>TEI</abbr> (the markup language of <orgName key="Text Encoding Initiative" ref="http://viaf.org/viaf/262867947" ana="webannotation:http://temp.lincsproject.ca/wEuBTS41jLm">the Text Encoding Initiative</orgName>), for addition to the Canadian Writing Research Collaboratory’s (<abbr>CWRC</abbr>) corpus, is part of our attempt to make the Internet a women’s place: one that reflects women’s multiple experiences and supports their multiple perspectives. We seek to intervene in the online representation of the women in our data set, with the hope of increasing their visibility to the traditional and citizen scholars who work within <abbr>CWRC</abbr>, and to the public at large. <ref target="#collaboration">Our 2011 inclusion within <abbr>CWRC</abbr> has compelled us to look outward, not just at the relationships represented within our material source (<persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/gDG3KGiDgO7">McLeod</persName>’s chronology), but at the social relationships represented and, indeed, <hi rend="italic">forged</hi>, online. <abbr>CWRC</abbr> is a digital space designed to foster interaction among traditional scholars, citizen scholars, and, in the case of our project, perhaps even the living persons represented within our data set.</ref>
                                     </ref>
                                 </ref>
                             </ref>
@@ -8765,6 +8765,95 @@
         "P2_has_type": [
             "edit:modeReal"
         ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/wEuBTS41jLm">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/wEuBTS41jLm",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:02:39.531Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/BQiWXECGlEg",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/BQiWXECGlEg/selector/textPosition/WF2elKFjMqJ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 3328,
+                "end": 3356,
+                "refinedBy": {
+                    "id": "/target/BQiWXECGlEg/selector/textQuote/MqZ8fjfMU4u",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the Text Encoding Initiative",
+                    "prefix": "\n                                        \n                                    \n                                \n                            \n                        \n                    \n                \n                \n                    \n                        \n                            \n                                \n                                    Our encoding of the events of the gay and lesbian liberation movement in TEI (the markup language of",
+                    "suffix": ", for addition to the Canadian Writing Research Collaboratory’s (CWRC) corpus, is part of our attempt to make the Internet a women’s place: one that reflects women’s multiple experiences and supports their multiple perspectives"
+                }
+            },
+            {
+                "id": "/target/BQiWXECGlEg/selector/css/q6SZEgV3TwW",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/wEuBTS41jLm]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/262867947",
+        "type": "crm:E74_Group",
+        "label": "Text Encoding Initiative",
+        "description": "TEI (Text Encoding Initiative) El TEI és un esquema de marcatge de textos adaptat al XML"
     },
     "P2_has_type": [
         "oa:identifying"
