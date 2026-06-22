@@ -413,7 +413,7 @@
                     <title level="a">Representing Canadian Queer Authorship</title>
                 </head>
                 <byline>Making the Internet a Women’s Place</byline>
-                <docAuthor> <persName key="Schwartz, Michelle" ref="https://orcid.org/0000-0002-3298-4871" ana="webannotation:http://temp.lincsproject.ca/DvSUcCgu7kt" type="real">Michelle Schwartz</persName> &amp; Constance Crompton</docAuthor>
+                <docAuthor> <persName key="Schwartz, Michelle" ref="https://orcid.org/0000-0002-3298-4871" ana="webannotation:http://temp.lincsproject.ca/DvSUcCgu7kt" type="real" cert="high">Michelle Schwartz</persName> &amp; <persName key="Crompton, Constance" ref="http://viaf.org/viaf/313489118" ana="webannotation:http://temp.lincsproject.ca/W5CStjZYzcQ">Constance Crompton</persName></docAuthor>
                 <p xml:id="p1278">
                     <ref target="#gender_issue">
                         <ref target="#sexuality">
@@ -1011,6 +1011,96 @@
         "P2_has_type": [
             "edit:modeReal"
         ]
+    },
+    "P2_has_type": [
+        "oa:identifying",
+        "edit:certaintyHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/W5CStjZYzcQ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/W5CStjZYzcQ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T16:08:07.349Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/H4k1yap8bBS",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/H4k1yap8bBS/selector/textPosition/ME1KAvWXEuo",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 205,
+                "end": 223,
+                "refinedBy": {
+                    "id": "/target/H4k1yap8bBS/selector/textQuote/DIbM97JW36L",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Constance Crompton",
+                    "prefix": "\n        \n            \n                \n                    Representing Canadian Queer Authorship\n                \n                Making the Internet a Women’s Place\n                 Michelle Schwartz &",
+                    "suffix": "                \n                    \n                        \n                            Reflecting on her life, Jane Rule mused that after the 1964 publication of Desert of the Heart, English Canada’s first literary lesbian novel, she became, for the media, the only lesbian in Canada\n                                \n                                    Martin S8\n                                "
+                }
+            },
+            {
+                "id": "/target/H4k1yap8bBS/selector/css/vqAgQf20dRZ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/W5CStjZYzcQ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/313489118",
+        "type": "crm:E21_Person",
+        "label": "Crompton, Constance",
+        "description": "Crompton, Constance (Constance Louise Kathleen)"
     },
     "P2_has_type": [
         "oa:identifying"
