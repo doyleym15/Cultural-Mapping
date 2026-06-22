@@ -738,7 +738,7 @@
                             <ref target="#theme_or_topic">
                                 <ref target="#gender_issue">
                                     <ref target="#sexuality">The Lesbian and Gay Liberation in Canada project is not interested solely in recovering gay history; it is also responsive to the very debates that have shaped that history.</ref>
-                                    <abbr>LGLC</abbr>’s initial personographic encoding has been motivated by the rise in the 1990s of those seeking to recuperate lost lesbian and trans histories. The debates may be familiar. In the 1980s, there was a rush to assert lesbian status for biological females who lived as men (including surgeon James Barry, music hall performer Annie Hindle, and pianist Billy Tipton)—those who previously did not have access to <q>lesbian</q> as an identity marker. In the following decade, the trans community rejoined with competing claims that these historical actors were part of trans history. <ref target="#intertextuality"><persName key="Halberstam, Jack, 1961-...." ref="http://viaf.org/viaf/56760858" ana="webannotation:http://temp.lincsproject.ca/wkir64eyCEs" type="real">Jack Halberstam</persName> draws on the typical characterization of jazz pianist Billy Tipton to summarize the debate: <q>Tipton, the jazz musician who lived his life as a man and who married a woman, is often represented within lesbian history as a lesbian woman forced to hide her gender in order to advance within her profession, rather than as a transsexual man living within his chosen gender identity</q>
+                                    <abbr>LGLC</abbr>’s initial personographic encoding has been motivated by the rise in the 1990s of those seeking to recuperate lost lesbian and trans histories. The debates may be familiar. In the 1980s, there was a rush to assert lesbian status for biological females who lived as men (including surgeon James Barry, music hall performer Annie Hindle, and pianist Billy Tipton)—those who previously did not have access to <q>lesbian</q> as an identity marker. In the following decade, the trans community rejoined with competing claims that these historical actors were part of trans history. <ref target="#intertextuality"><persName key="Halberstam, Jack, 1961-...." ref="http://viaf.org/viaf/56760858" ana="webannotation:http://temp.lincsproject.ca/wkir64eyCEs" type="real" cert="high">Jack Halberstam</persName> draws on the typical characterization of jazz pianist Billy Tipton to summarize the debate: <q>Tipton, the jazz musician who lived his life as a man and who married a woman, is often represented within lesbian history as a lesbian woman forced to hide her gender in order to advance within her profession, rather than as a transsexual man living within his chosen gender identity</q>
                                         <note place="inline">
                                             <bibl>Halberstam 293</bibl>
                                         </note>
@@ -16314,7 +16314,8 @@
         ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh"
     ]
 }]]>
 				
