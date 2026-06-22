@@ -642,7 +642,7 @@
                         <ref target="#cannon_formation">
                             <ref target="#gender_issue">
                                 <ref target="#archival_location">
-                                    <ref target="#spatiality">The <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/ixTWkwBFKsm">CLGA</orgName></abbr> has had a series of homes since its beginning in Dayman’s basement at 203 Boulton Avenue in <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/UgRVA5NYGlh">Toronto</placeName>. The collection has grown from its origins as a personal hobby, out of storage space in the homes of various members of <title level="j">The Body Politic</title> collective, to a large-scale research collection in need of workspace for archivists and researchers alike. In 1988, it moved to a 1,000-square-foot space on the second floor of 464 Yonge Street in <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/m0XMOwDCfI0">Toronto</placeName>. By 1992, the collection had grown so large it demanded a move to the archive’s first fully independent space—2,000 square feet at 56 Temperance Street in <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/ZMbzkJRKKfA">Toronto</placeName> <note place="inline">
+                                    <ref target="#spatiality">The <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/ixTWkwBFKsm">CLGA</orgName></abbr> has had a series of homes since its beginning in Dayman’s basement at 203 Boulton Avenue in <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/UgRVA5NYGlh">Toronto</placeName>. The collection has grown from its origins as a personal hobby, out of storage space in the homes of various members of <title level="j">The Body Politic</title> collective, to a large-scale research collection in need of workspace for archivists and researchers alike. In 1988, it moved to a 1,000-square-foot space on the second floor of 464 <placeName key="Yonge Street" ref="https://sws.geonames.org/7671011" ana="webannotation:http://temp.lincsproject.ca/SujlklOKUcC">Yonge Street</placeName> in <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/m0XMOwDCfI0">Toronto</placeName>. By 1992, the collection had grown so large it demanded a move to the archive’s first fully independent space—2,000 square feet at 56 Temperance Street in <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/ZMbzkJRKKfA">Toronto</placeName> <note place="inline">
                                             <bibl>
                                                 <abbr>CLGA</abbr>, <title level="a">A Chronology of the Archives</title>
                                             </bibl>
@@ -12985,6 +12985,95 @@
         "P2_has_type": [
             "edit:modeReal"
         ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/SujlklOKUcC">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/SujlklOKUcC",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:23:36.956Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/7cVvV9wV7eO",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/7cVvV9wV7eO/selector/textPosition/zSi29jfI3Lr",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 21244,
+                "end": 21256,
+                "refinedBy": {
+                    "id": "/target/7cVvV9wV7eO/selector/textQuote/O9RGhP9OhxM",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Yonge Street",
+                    "prefix": " In 1988, it moved to a 1,000-square-foot space on the second floor of 464",
+                    "suffix": "in Toronto"
+                }
+            },
+            {
+                "id": "/target/7cVvV9wV7eO/selector/css/urCc22XceHS",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/SujlklOKUcC]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/7671011",
+        "type": "crm:E53_Place",
+        "label": "Yonge Street",
+        "description": "Ontario, CA"
     },
     "P2_has_type": [
         "oa:identifying"
