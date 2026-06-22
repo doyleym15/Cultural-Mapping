@@ -757,7 +757,7 @@
                         <ref target="#technology">
                             <ref target="#theme_or_topic">If, at the start of the project, we were wary about encoding identity, we are all the more wary today about personographic tagging practices. Rather than impose identity definitions from on high, our aim is to develop a tagging method that would produce temporally specific identity definitions built from collective self-naming. <ref target="#women_writing">
                                     <ref target="#sexuality">
-                                        <ref target="#attitudes_to_women_writing">Our personographic encoding, complete with explicit and temporally specific records of self-naming, results not in a dictionary definition of what, for example, the word <q>dyke</q> meant in 1974, but rather a list of women whose self-identification produces a definition by example. Our desire is to reconstruct what <persName key="Sedgwick, Eve Kosofsky, 1950-2009." ref="http://viaf.org/viaf/79051317" ana="webannotation:http://temp.lincsproject.ca/cyQGdSsefwv" type="real">Eve Kosofsky Sedgwick</persName> calls nonce taxonomies, formed through <q>the making and unmaking…of hundreds of old and new categorical imaginings…for mapping [a particular social] landscape</q>
+                                        <ref target="#attitudes_to_women_writing">Our personographic encoding, complete with explicit and temporally specific records of self-naming, results not in a dictionary definition of what, for example, the word <q>dyke</q> meant in 1974, but rather a list of women whose self-identification produces a definition by example. Our desire is to reconstruct what <persName key="Sedgwick, Eve Kosofsky, 1950-2009." ref="http://viaf.org/viaf/79051317" ana="webannotation:http://temp.lincsproject.ca/cyQGdSsefwv" type="real" cert="high">Eve Kosofsky Sedgwick</persName> calls nonce taxonomies, formed through <q>the making and unmaking…of hundreds of old and new categorical imaginings…for mapping [a particular social] landscape</q>
                                             <note place="inline">
                                                 <bibl>23</bibl>
                                             </note>. Interesting in itself, this endeavour will further serve one of the central goals of our project. <ref target="#archive">In order to make sense of our populated, rather than verbal, definitions, users will have to learn about the women in the archive, thereby increasing the general knowledge about women’s contributions to gay liberation in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/12JNR9WKhUo">Canada</placeName>.</ref>
@@ -914,7 +914,7 @@
                         <bibl>Rule, <persName key="Rule, Jane, 1931-2007" ref="http://viaf.org/viaf/62399671" ana="webannotation:http://temp.lincsproject.ca/pRgAGbmoBIY">Jane</persName>. <title level="m">Lesbian Images.</title> <placeName key="Garden City" ref="https://www.geonames.org/5118226/garden-city.html" ana="webannotation:http://temp.lincsproject.ca/tp7MrJNXYZb" type="real" cert="high" precision="high">Garden City</placeName>, <placeName key="New York" ref="https://www.geonames.org/5128581/new-york-city.html" ana="webannotation:http://temp.lincsproject.ca/uwvzgskww8m" type="real" cert="high" precision="high">NY</placeName>: Doubleday, 1975.</bibl>
                         <bibl>Schwabel, Fania. <title level="a">Our Shocking Past: Queer Youth Offer Four Quickie Histories.</title>
                             <title level="j">Xtra!</title> 23 September 1999: n. pag.</bibl>
-                        <bibl>Sedgwick, Eve Kosofsky. <title level="m">Epistemology of the Closet.</title> <placeName key="Berkely" ref="https://www.geonames.org/5327684/berkeley.html" ana="webannotation:http://temp.lincsproject.ca/9yTBMtYGxya" type="real" cert="high" precision="high">Berkeley</placeName>: University of California Press, 1990.</bibl>
+                        <bibl><persName key="Sedgwick, Eve Kosofsky, 1950-2009." ref="http://viaf.org/viaf/79051317" ana="webannotation:http://temp.lincsproject.ca/tWciuOjotRa">Sedgwick</persName>, Eve Kosofsky. <title level="m">Epistemology of the Closet.</title> <placeName key="Berkely" ref="https://www.geonames.org/5327684/berkeley.html" ana="webannotation:http://temp.lincsproject.ca/9yTBMtYGxya" type="real" cert="high" precision="high">Berkeley</placeName>: University of California Press, 1990.</bibl>
                         <bibl>Warner, Tom. <title level="m">Never Going Back: A History of Queer Activism in Canada.</title> <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/vOc6wMEzSP6">Toronto</placeName>: University of Toronto Press, 2002.</bibl>
                     </listBibl>
                 </div>
@@ -16767,7 +16767,8 @@
         ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh"
     ]
 }]]>
 				
@@ -17321,6 +17322,95 @@
         "oa:identifying",
         "edit:certaintyHigh",
         "edit:precisionHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/tWciuOjotRa">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/tWciuOjotRa",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T16:53:05.926Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/DWi27tXjMkX",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/DWi27tXjMkX/selector/textPosition/ZCBTChIFcyK",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 50070,
+                "end": 50078,
+                "refinedBy": {
+                    "id": "/target/DWi27tXjMkX/selector/textQuote/pbAIG9gV8Xt",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Sedgwick",
+                    "prefix": "\n                       ",
+                    "suffix": " Eve Kosofsky"
+                }
+            },
+            {
+                "id": "/target/DWi27tXjMkX/selector/css/SbKF3xp0Ty5",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/tWciuOjotRa]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/79051317",
+        "type": "crm:E21_Person",
+        "label": "Sedgwick, Eve Kosofsky, 1950-2009.",
+        "description": "Sedgwick, Eve Kosofsky"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
