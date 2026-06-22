@@ -434,7 +434,7 @@
                                 <ref target="#genre_fiction">
                                     <ref target="#genre_non-fiction">
                                         <ref target="#genre_poetry">
-                                            <ref target="#politics">The 107 women (including, for instance, author and politician <persName key="LaMarsh, Judy, 1924-1980" ref="http://viaf.org/viaf/104003106" ana="webannotation:http://temp.lincsproject.ca/hug3D4s0I5F" type="real" cert="high">Judy LaMarsh</persName>, authors <persName key="Manthorne, Jackie, 1946-" ref="http://viaf.org/viaf/56473595" ana="webannotation:http://temp.lincsproject.ca/KFxvXaU3or0" type="real" cert="high">Jackie Manthorne</persName> and Marie-Claire Blais, and activists Pat Murphy and Lamar Van Dyke) whose stories are represented in <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/OH71PSb7hqW">McLeod</persName>’s book, and in <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/AVpfqvpyFjX">CLGA</orgName></abbr>’s collection more broadly, wore many hats; they were and remain writers of fiction and polemic, experts in poetry and politics. Their work as authors has been informed by their activism; their writing has, in turn, shaped the Canadian political and literary landscape, and yet they are underrepresented in high traffic online areas.</ref>
+                                            <ref target="#politics">The 107 women (including, for instance, author and politician <persName key="LaMarsh, Judy, 1924-1980" ref="http://viaf.org/viaf/104003106" ana="webannotation:http://temp.lincsproject.ca/hug3D4s0I5F" type="real" cert="high">Judy LaMarsh</persName>, authors <persName key="Manthorne, Jackie, 1946-" ref="http://viaf.org/viaf/56473595" ana="webannotation:http://temp.lincsproject.ca/KFxvXaU3or0" type="real" cert="high">Jackie Manthorne</persName> and <persName key="Blais, Marie-Claire, 1939-2021" ref="http://viaf.org/viaf/79020626" ana="webannotation:http://temp.lincsproject.ca/Z2CXx32vFHu">Marie-Claire Blais</persName>, and activists Pat Murphy and Lamar Van Dyke) whose stories are represented in <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/OH71PSb7hqW">McLeod</persName>’s book, and in <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/AVpfqvpyFjX">CLGA</orgName></abbr>’s collection more broadly, wore many hats; they were and remain writers of fiction and polemic, experts in poetry and politics. Their work as authors has been informed by their activism; their writing has, in turn, shaped the Canadian political and literary landscape, and yet they are underrepresented in high traffic online areas.</ref>
                                         </ref>
                                     </ref>
                                 </ref>
@@ -9601,6 +9601,95 @@
     "P2_has_type": [
         "oa:identifying",
         "edit:certaintyHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Z2CXx32vFHu">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Z2CXx32vFHu",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T16:16:29.340Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/5uzuPxatP6h",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/5uzuPxatP6h/selector/textPosition/arh92En62Dr",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 2405,
+                "end": 2423,
+                "refinedBy": {
+                    "id": "/target/5uzuPxatP6h/selector/textQuote/8GKVMmeUP7u",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Marie-Claire Blais",
+                    "prefix": "\n                            \n                            \n                                \n                                    \n                                        \n                                            The 107 women (including, for instance, author and politician Judy LaMarsh, authors Jackie Manthorne and",
+                    "suffix": " and activists Pat Murphy and Lamar Van Dyke) whose stories are represented in McLeod’s book, and in CLGA’s collection more broadly, wore many hats; they were and remain writers of fiction and polemic, experts in poetry and politics"
+                }
+            },
+            {
+                "id": "/target/5uzuPxatP6h/selector/css/YjMEyiEv2XK",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Z2CXx32vFHu]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/79020626",
+        "type": "crm:E21_Person",
+        "label": "Blais, Marie-Claire, 1939-2021",
+        "description": "Blais, Marie-Claire, 1939-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
