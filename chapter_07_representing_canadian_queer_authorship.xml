@@ -413,7 +413,7 @@
                     <title level="a">Representing Canadian Queer Authorship</title>
                 </head>
                 <byline>Making the Internet a Women’s Place</byline>
-                <docAuthor> <persName key="Schwartz, Michelle" ref="https://orcid.org/0000-0002-3298-4871" ana="webannotation:http://temp.lincsproject.ca/DvSUcCgu7kt" type="real" cert="high">Michelle Schwartz</persName> &amp; <persName key="Crompton, Constance" ref="http://viaf.org/viaf/313489118" ana="webannotation:http://temp.lincsproject.ca/W5CStjZYzcQ">Constance Crompton</persName></docAuthor>
+                <docAuthor> <persName key="Schwartz, Michelle" ref="https://orcid.org/0000-0002-3298-4871" ana="webannotation:http://temp.lincsproject.ca/DvSUcCgu7kt" type="real" cert="high">Michelle Schwartz</persName> &amp; <persName key="Crompton, Constance" ref="http://viaf.org/viaf/313489118" ana="webannotation:http://temp.lincsproject.ca/W5CStjZYzcQ" type="real">Constance Crompton</persName></docAuthor>
                 <p xml:id="p1278">
                     <ref target="#gender_issue">
                         <ref target="#sexuality">
@@ -1100,7 +1100,10 @@
         "id": "http://viaf.org/viaf/313489118",
         "type": "crm:E21_Person",
         "label": "Crompton, Constance",
-        "description": "Crompton, Constance (Constance Louise Kathleen)"
+        "description": "Crompton, Constance (Constance Louise Kathleen)",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
