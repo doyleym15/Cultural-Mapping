@@ -428,13 +428,13 @@
                 <p xml:id="p1279">
                     <ref target="#sexuality">
                         <ref target="#theme_or_topic">When we first formulated the <abbr>LGLC</abbr> project in December 2010, we envisaged a straightforward online publication of <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975</title>, a groundbreaking work by <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/yKihVqEhvFe">Donald McLeod</persName>, a long-time volunteer at the Canadian Lesbian and Gay Archives and a librarian at <orgName key="University of Toronto." ref="http://viaf.org/viaf/130333233" ana="webannotation:http://temp.lincsproject.ca/CwFXn9U9YIO" type="real" cert="high">the University of Toronto</orgName>. <ref target="#non-book_media">
-                                <ref target="#gender_issue">We planned to augment the digital edition with maps and network graphs that would illustrate the relationships between the events, people, and places that were central to the gay and lesbian liberation movement in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/DBydcNObSc4">Canada</placeName>.</ref> From the outset, our project was tied closely to the Canadian Lesbian and Gay Archives (<abbr>CLGA</abbr>), since <abbr>CLGA</abbr> material underpins much of <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/GuWhh7gKC1a">McLeod</persName>’s chronology. And, indeed, our project was guided by the <abbr>CLGA</abbr> motto, <q>keeping our stories alive.</q>
+                                <ref target="#gender_issue">We planned to augment the digital edition with maps and network graphs that would illustrate the relationships between the events, people, and places that were central to the gay and lesbian liberation movement in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/DBydcNObSc4">Canada</placeName>.</ref> From the outset, our project was tied closely to the Canadian Lesbian and Gay Archives (<abbr>CLGA</abbr>), since <abbr>CLGA</abbr> material underpins much of <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/GuWhh7gKC1a" type="real">McLeod</persName>’s chronology. And, indeed, our project was guided by the <abbr>CLGA</abbr> motto, <q>keeping our stories alive.</q>
                             </ref>
                             <ref target="#authorship">
                                 <ref target="#genre_fiction">
                                     <ref target="#genre_non-fiction">
                                         <ref target="#genre_poetry">
-                                            <ref target="#politics">The 107 women (including, for instance, author and politician Judy LaMarsh, authors Jackie Manthorne and Marie-Claire Blais, and activists Pat Murphy and Lamar Van Dyke) whose stories are represented in McLeod’s book, and in <abbr>CLGA</abbr>’s collection more broadly, wore many hats; they were and remain writers of fiction and polemic, experts in poetry and politics. Their work as authors has been informed by their activism; their writing has, in turn, shaped the Canadian political and literary landscape, and yet they are underrepresented in high traffic online areas.</ref>
+                                            <ref target="#politics">The 107 women (including, for instance, author and politician Judy LaMarsh, authors Jackie Manthorne and Marie-Claire Blais, and activists Pat Murphy and Lamar Van Dyke) whose stories are represented in <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/OH71PSb7hqW">McLeod</persName>’s book, and in <abbr>CLGA</abbr>’s collection more broadly, wore many hats; they were and remain writers of fiction and polemic, experts in poetry and politics. Their work as authors has been informed by their activism; their writing has, in turn, shaped the Canadian political and literary landscape, and yet they are underrepresented in high traffic online areas.</ref>
                                         </ref>
                                     </ref>
                                 </ref>
@@ -447,7 +447,7 @@
                         <ref target="#social_movement">
                             <ref target="#representation_of_women">
                                 <ref target="#gender_issue">
-                                    <ref target="#theme_or_topic">Our encoding of the events of the gay and lesbian liberation movement in <abbr>TEI</abbr> (the markup language of the Text Encoding Initiative), for addition to the Canadian Writing Research Collaboratory’s (<abbr>CWRC</abbr>) corpus, is part of our attempt to make the Internet a women’s place: one that reflects women’s multiple experiences and supports their multiple perspectives. We seek to intervene in the online representation of the women in our data set, with the hope of increasing their visibility to the traditional and citizen scholars who work within <abbr>CWRC</abbr>, and to the public at large. <ref target="#collaboration">Our 2011 inclusion within <abbr>CWRC</abbr> has compelled us to look outward, not just at the relationships represented within our material source (McLeod’s chronology), but at the social relationships represented and, indeed, <hi rend="italic">forged</hi>, online. <abbr>CWRC</abbr> is a digital space designed to foster interaction among traditional scholars, citizen scholars, and, in the case of our project, perhaps even the living persons represented within our data set.</ref>
+                                    <ref target="#theme_or_topic">Our encoding of the events of the gay and lesbian liberation movement in <abbr>TEI</abbr> (the markup language of the Text Encoding Initiative), for addition to the Canadian Writing Research Collaboratory’s (<abbr>CWRC</abbr>) corpus, is part of our attempt to make the Internet a women’s place: one that reflects women’s multiple experiences and supports their multiple perspectives. We seek to intervene in the online representation of the women in our data set, with the hope of increasing their visibility to the traditional and citizen scholars who work within <abbr>CWRC</abbr>, and to the public at large. <ref target="#collaboration">Our 2011 inclusion within <abbr>CWRC</abbr> has compelled us to look outward, not just at the relationships represented within our material source (<persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/gDG3KGiDgO7">McLeod</persName>’s chronology), but at the social relationships represented and, indeed, <hi rend="italic">forged</hi>, online. <abbr>CWRC</abbr> is a digital space designed to foster interaction among traditional scholars, citizen scholars, and, in the case of our project, perhaps even the living persons represented within our data set.</ref>
                                     </ref>
                                 </ref>
                             </ref>
@@ -467,7 +467,7 @@
                     <ref target="#technology">
                         <ref target="#history">
                             <ref target="#non-book_media">
-                                <ref target="#theme_or_topic">In addition to reproducing McLeod’s text, the <abbr>LGLC</abbr> project reconfigures his chronology as a digital resource that will let researchers trace the events of the gay liberation movement aided by maps and timelines; model the shifting identities of the actors within the text; contribute personal reflections about the events in the text; and critically evaluate the relationship between the text and the bibliographic materials that make up its content.</ref>
+                                <ref target="#theme_or_topic">In addition to reproducing <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/qa2sbWtLeum">McLeod</persName>’s text, the <abbr>LGLC</abbr> project reconfigures his chronology as a digital resource that will let researchers trace the events of the gay liberation movement aided by maps and timelines; model the shifting identities of the actors within the text; contribute personal reflections about the events in the text; and critically evaluate the relationship between the text and the bibliographic materials that make up its content.</ref>
                             </ref> Our project is underpinned by material from the Canadian Lesbian and Gay Archives, so we want our project, from the code on up, to be a credit to the organization.</ref>
                     </ref>
                 </p>
@@ -490,15 +490,15 @@
                         <ref target="#authorship">
                             <ref target="#intellectual_history">
                                 <ref target="#gender_issue">
-                                    <ref target="#sexuality">McLeod began work on the first volume of <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology</title> in 1989. <ref target="#intertextuality">
+                                    <ref target="#sexuality"><persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/CVMQuNKMkOI">McLeod</persName> began work on the first volume of <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology</title> in 1989. <ref target="#intertextuality">
                                             <ref target="#anthologization">The work was inspired by <title level="a">Victories and Defeats: A Gay and Lesbian Chronology, 1964–1982,</title> which James Fraser compiled and published in the 1982 anthology <title level="m">Flaunting It!: A Decade of Gay Journalism from <title level="j">The Body Politic</title>
                                                 </title>
                                                 <note place="inline">
                                                     <bibl>edited by Ed Jackson and Stan Persky</bibl>
                                                 </note>
-                                            </ref>. In the course of his work at the <abbr>CLGA</abbr>, McLeod often consulted Fraser’s chronology but was frustrated by its lack of bibliographic citations. McLeod believed that a detailed chronology of gay liberation history <hi rend="italic">combined </hi>with a bibliography of sources for each entry would be an <q>authoritative reference guide to the origins and development of lesbians and gay liberation in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/jQc2CSoWNgb">Canada</placeName></q>
+                                            </ref>. In the course of his work at the <abbr>CLGA</abbr>, <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/08rebypJdAw">McLeod</persName> often consulted Fraser’s chronology but was frustrated by its lack of bibliographic citations. <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/8eDQpEDNlqe">McLeod</persName> believed that a detailed chronology of gay liberation history <hi rend="italic">combined </hi>with a bibliography of sources for each entry would be an <q>authoritative reference guide to the origins and development of lesbians and gay liberation in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/jQc2CSoWNgb">Canada</placeName></q>
                                             <note place="inline">
-                                                <bibl>McLeod viii</bibl>
+                                                <bibl><persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/mxSoBvMuO1A">McLeod</persName> viii</bibl>
                                             </note>.</ref>
                                     </ref>
                                 </ref>
@@ -507,10 +507,10 @@
                     </p>
                     <p xml:id="p1285">
                         <ref target="#authorship">
-                            <ref target="#intellectual_history">From 1989 to 1996, during his free time, McLeod laboured over his chronology. <ref target="#archival_location">
-                                    <ref target="#gender_issue">The <abbr>CLGA</abbr> served as the base of operations for his research, as the archive possesses the world’s largest collection of lesbian and gay periodicals, as well as the records for many of the most influential gay liberation organizations for the period in question. <ref target="#collaboration">Along with the <abbr>CLGA</abbr>, the holdings of two other organizations formed the tripartite backbone of the sources for McLeod’s book: the Archives gaies du Québec in Montreal, and the Canadian Women’s Movement Archives in Ottawa. McLeod supplemented these collections with materials found in the archives of the University of British Columbia and the New York Public Library, and further augmented them with accounts from his direct correspondence with fifty of the key actors in the events mentioned in his book.</ref> These individuals were called upon to correct errors or misconceptions and to offer additional sources of information. Finally, <q>more than ten of them were asked to examine an earl[y] draft of the project and were able to offer cogent advice</q>
+                            <ref target="#intellectual_history">From 1989 to 1996, during his free time, <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/8RQcZTN9Cq6">McLeod</persName> laboured over his chronology. <ref target="#archival_location">
+                                    <ref target="#gender_issue">The <abbr>CLGA</abbr> served as the base of operations for his research, as the archive possesses the world’s largest collection of lesbian and gay periodicals, as well as the records for many of the most influential gay liberation organizations for the period in question. <ref target="#collaboration">Along with the <abbr>CLGA</abbr>, the holdings of two other organizations formed the tripartite backbone of the sources for <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/yicmxZIz5D9">McLeod</persName>’s book: the Archives gaies du Québec in Montreal, and the Canadian Women’s Movement Archives in Ottawa. <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/f8MkjOzbUjL">McLeod</persName> supplemented these collections with materials found in the archives of the University of British Columbia and the New York Public Library, and further augmented them with accounts from his direct correspondence with fifty of the key actors in the events mentioned in his book.</ref> These individuals were called upon to correct errors or misconceptions and to offer additional sources of information. Finally, <q>more than ten of them were asked to examine an earl[y] draft of the project and were able to offer cogent advice</q>
                                         <note place="inline">
-                                            <bibl>McLeod ix</bibl>
+                                            <bibl><persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/C1EmCGEBeHB">McLeod</persName> ix</bibl>
                                         </note>.</ref>
                                 </ref>
                             </ref>
@@ -525,12 +525,12 @@
                                     <ref target="#social_movement">The book consists of a chronology of the first twelve years of the <q>organized homophile/gay liberation movement in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/eMSdzg3abzi">Canada</placeName>.</q>
                                     </ref> The chronology begins with the formation of the Vancouver-based Association for Social Knowledge, the country’s first large-scale homophile organization. It ends with the founding of the National Gay Rights Coalition/<hi xml:lang="fr-CA">Coalition national pour les droits des homosexuels</hi>, the <q>first truly national coalition of Canadian lesbian and gay groups</q>
                                     <note place="inline">
-                                        <bibl>McLeod viii</bibl>
+                                        <bibl><persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/T1MnqQTVrXl">McLeod</persName> viii</bibl>
                                     </note>.</ref>
-                                <ref target="#sexuality">The book’s subtitle—<title level="m" type="sub">A Selected Annotated Chronology</title>—refers to McLeod’s primary focus on <q>self-declared lesbians and gay men and their activities in regard to the forging of lesbian and gay communities and liberation in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/Lzl9YQymdoB">Canada</placeName></q>
+                                <ref target="#sexuality">The book’s subtitle—<title level="m" type="sub">A Selected Annotated Chronology</title>—refers to <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/uKEgEkS58Hw">McLeod</persName>’s primary focus on <q>self-declared lesbians and gay men and their activities in regard to the forging of lesbian and gay communities and liberation in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/Lzl9YQymdoB">Canada</placeName></q>
                                     <note place="inline">
                                         <bibl>viii</bibl>
-                                    </note>. Hence, the book devotes most attention to demonstrations, political actions, lobbying, and legal reforms. As a secondary and supplementary focus, it lists <q>artistic and cultural contributions with significant lesbian or gay content,</q> and includes three appendices listing lesbian and gay organizations, periodicals, bars and clubs. Heterosexuals who were instrumental either in supporting or opposing the gay liberation movement are included, and foreign events are noted if they either had a direct impact on the Canadian gay liberation movement or featured the prominent involvement of gay Canadians. McLeod is currently completing a second volume that will span from 1975 to 1981, from the founding of the National Gay Rights Coalition/<hi xml:lang="fr-CA">Coalition national pour les droits des homosexuels</hi> to the start of the <ref target="#health_issues">
+                                    </note>. Hence, the book devotes most attention to demonstrations, political actions, lobbying, and legal reforms. As a secondary and supplementary focus, it lists <q>artistic and cultural contributions with significant lesbian or gay content,</q> and includes three appendices listing lesbian and gay organizations, periodicals, bars and clubs. Heterosexuals who were instrumental either in supporting or opposing the gay liberation movement are included, and foreign events are noted if they either had a direct impact on the Canadian gay liberation movement or featured the prominent involvement of gay Canadians. <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/gML6zX1wdSc">McLeod</persName> is currently completing a second volume that will span from 1975 to 1981, from the founding of the National Gay Rights Coalition/<hi xml:lang="fr-CA">Coalition national pour les droits des homosexuels</hi> to the start of the <ref target="#health_issues">
                                         <abbr>AIDS</abbr> crisis</ref>.</ref>
                             </ref>
                         </ref>
@@ -539,7 +539,7 @@
                         <ref target="#technology">
                             <ref target="#theme_or_topic">
                                 <ref target="#spatiality">
-                                    <ref target="#history">McLeod’s chronology is structured as a series of entries, first by date, then by location. Each entry is followed by a dense bibliography of primary sources. The combination of chronology and bibliography drew us to <abbr>TEI</abbr> encoding as a potential methodology to enhance access to McLeod’s text. We were not motivated simply to digitize the chronology—in fact, it is available online on <title level="m">
+                                    <ref target="#history"><persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/M2KmO0N81c0">McLeod</persName>’s chronology is structured as a series of entries, first by date, then by location. Each entry is followed by a dense bibliography of primary sources. The combination of chronology and bibliography drew us to <abbr>TEI</abbr> encoding as a potential methodology to enhance access to <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/IKcKf7ySUQi">McLeod</persName>’s text. We were not motivated simply to digitize the chronology—in fact, it is available online on <title level="m">
                                             <abbr>LGBT</abbr> Life with Full Text</title> and as a <abbr>PDF</abbr> on <title level="m">T-Space</title>, the University of Toronto’s research repository. Rather, we saw potential in <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975</title> as both a text and a rich geospatial and temporal database of landmarks in Canadian history.</ref>
                                 </ref>
                             </ref>
@@ -701,7 +701,7 @@
                                             <bibl>
                                                 <abbr>CLGA</abbr>, <title level="a">Collections</title>
                                             </bibl>
-                                        </note>. It was born, too, of a desire to preserve archival material that might otherwise disappear. In the twenty years since <abbr>CLGA</abbr> added <q>lesbian</q> to its name, it has been working to rehabilitate its reputation from an organization concerned only with gay men. We hope to support those efforts by amplifying McLeod’s chronology: the addition of personographic and place records will help establish the importance of women’s materials at the <abbr>CLGA</abbr> and the importance of queer history in online communities like <abbr>CWRC</abbr>.</ref>
+                                        </note>. It was born, too, of a desire to preserve archival material that might otherwise disappear. In the twenty years since <abbr>CLGA</abbr> added <q>lesbian</q> to its name, it has been working to rehabilitate its reputation from an organization concerned only with gay men. We hope to support those efforts by amplifying <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/LYxkqq11GMQ">McLeod</persName>’s chronology: the addition of personographic and place records will help establish the importance of women’s materials at the <abbr>CLGA</abbr> and the importance of queer history in online communities like <abbr>CWRC</abbr>.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -712,7 +712,7 @@
                         <q>Keeping Our Stories Alive</q>
                     </head>
                     <p xml:id="p1296">
-                        <ref target="#technology">Before outlining <abbr>TEI</abbr>’s markup utility in teasing out new meanings from the details of McLeod’s chronology, we would like to relate the sort of story we hope the <abbr>LGLC</abbr> project will bring to the fore.</ref>
+                        <ref target="#technology">Before outlining <abbr>TEI</abbr>’s markup utility in teasing out new meanings from the details of <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/ARL7EiqbBP2">McLeod</persName>’s chronology, we would like to relate the sort of story we hope the <abbr>LGLC</abbr> project will bring to the fore.</ref>
                         <ref target="#representation_of_women">
                             <ref target="#historical_oppression">
                                 <ref target="#spatiality">On January 15, 1974, four women took the stage on amateur talent night at the Brunswick Tavern. <ref target="#class_issue">The Brunswick, an institution in what was then a working-class Toronto neighbourhood that was just starting to cater to students at the nearby University of Toronto, was a rowdy place, a cavernous hall lined with wooden tables and benches, with a plywood stage at one end of the hall.</ref>
@@ -789,7 +789,7 @@
                                         <ref target="#representation_of_women">
                                             <ref target="#theme_or_topic">The stories that we would like our data to tell through prose, maps, and graphs are conspicuous (to us, at least) in their absence from popular knowledge repositories, such as <title level="m">Wikipedia</title>. For example, even though she does not have her own <title level="m">Wikipedia</title> entry, National Portrait Collection inductee Pat Murphy is mentioned in the <title level="m">Wikipedia</title> entry that describes the arrest of the Brunswick Four. Indeed, none of the Brunswick Four women have individual <title level="m">Wikipedia</title> entries. Moreover, there is no <title level="m">Wikipedia</title> entry for <ref target="#history">the Community Homophile Association of Toronto (<abbr>CHAT</abbr>), one of the first gay liberation organizations in all of <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/2VMf0uBcB1P">Canada</placeName>, which Murphy founded with George Hislop and others in 1971</ref>
                                                 <note place="inline">
-                                                    <bibl>McLeod 56</bibl>
+                                                    <bibl><persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/mUQUGwrpbbb">McLeod</persName> 56</bibl>
                                                 </note>.</ref>
                                         </ref>
                                     </ref>
@@ -851,7 +851,7 @@
                     </p>
                     <p xml:id="p1307">
                         <ref target="#technology">Through our involvement with <abbr>CWRC</abbr>, we hope to further expand the network of online connections, drawing on the rich array of materials available under the umbrella of <abbr>CWRC</abbr>’s Online Research Canada repository. <ref target="#sexuality">
-                                <ref target="#genre_novel">For instance, author Jane Rule played an important role in Canadian gay history, initiating, to McLeod’s mind at least, the Canadian lesbian and gay liberation movement with her publication of the lesbian themed novel, <title level="m">Desert of the Heart</title>
+                                <ref target="#genre_novel">For instance, author Jane Rule played an important role in Canadian gay history, initiating, to <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/aVWEGc6pmn9">McLeod</persName>’s mind at least, the Canadian lesbian and gay liberation movement with her publication of the lesbian themed novel, <title level="m">Desert of the Heart</title>
                                     <note place="inline">
                                         <bibl>McLeod 2</bibl>
                                     </note>. In addition to <title level="m">Lesbian Images</title>, a study of lesbian writers</ref>, and several other novels, <ref target="#genre_journalism">Rule also wrote extensively for <title level="j">The Body Politic</title>, the Canadian gay liberation newspaper that gave birth to the <abbr>CLGA</abbr>. <ref target="#censorship">
@@ -902,7 +902,7 @@
                         <bibl>Lam, Shyong, et al. <title level="a">WP: Clubhouse? An Exploration of <title level="m">Wikipedia</title>’s Gender Imbalance</title>. <title level="m">WikiSym 2011: Seventh International Symposium on Wikis and Open Collaboration</title>. <ref target="http://dl.acm.org/citation.cfm?doid=2038558.2038560">http://dl.acm.org/citation.cfm?doid=2038558.2038560</ref>
                         </bibl>
                         <bibl>Martin, Sandra. <title level="a">B.C. Novelist Wrote a Cult Classic and Became a Lesbian Role Model</title>. <title level="j">Globe and Mail</title> 2 November 2007: S8.</bibl>
-                        <bibl>McLeod, Donald W. <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975</title>. Toronto: <hi rend="small-caps">ecw</hi> Press/Homewood Books, 1996.</bibl>
+                        <bibl><persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/winmQfH9wIQ">McLeod</persName>, Donald W. <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975</title>. Toronto: <hi rend="small-caps">ecw</hi> Press/Homewood Books, 1996.</bibl>
                         <bibl>. <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975. <hi rend="small-capitals">lgbt</hi> Life with Full Text</title>. <ref target="http://www.ebscohost.com/academic/lgbt-life-with-full-text">http://www.ebscohost.com/academic/lgbt-life-with-full-text</ref>
                         </bibl>
                         <bibl>.<title level="m"> Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975. T-Space at the University of Toronto Libraries</title>. <ref target="https://tspace.library.utoronto.ca/handle/1807/4397">https://tspace.library.utoronto.ca/handle/1807/4397</ref>
@@ -2616,7 +2616,1942 @@
         "id": "http://viaf.org/viaf/26046460",
         "type": "crm:E21_Person",
         "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
-        "description": "McLeod, Donald W."
+        "description": "McLeod, Donald W.",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/OH71PSb7hqW">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/OH71PSb7hqW",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:45:30.535Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/UZVxYgxHuRI",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/UZVxYgxHuRI/selector/textPosition/X9CVW9LkjwY",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 2503,
+                "end": 2509,
+                "refinedBy": {
+                    "id": "/target/UZVxYgxHuRI/selector/textQuote/3swUc9ASFHF",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McLeod",
+                    "prefix": "\n                            \n                            \n                                \n                                    \n                                        \n                                            The 107 women (including, for instance, author and politician Judy LaMarsh, authors Jackie Manthorne and Marie-Claire Blais, and activists Pat Murphy and Lamar Van Dyke) whose stories are represented in",
+                    "suffix": "s book, and in CLGA’s collection more broadly, wore many hats; they were and remain writers of fiction and polemic, experts in poetry and politics"
+                }
+            },
+            {
+                "id": "/target/UZVxYgxHuRI/selector/css/zlPKvKR4Q6m",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/OH71PSb7hqW]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26046460",
+        "type": "crm:E21_Person",
+        "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
+        "description": "McLeod, Donald W.",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/gDG3KGiDgO7">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/gDG3KGiDgO7",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:45:31.144Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/DMqRsZqFka3",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/DMqRsZqFka3/selector/textPosition/oUJgOAi1DPP",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 3936,
+                "end": 3942,
+                "refinedBy": {
+                    "id": "/target/DMqRsZqFka3/selector/textQuote/myY7ddpQ2QQ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McLeod",
+                    "prefix": " Our 2011 inclusion within CWRC has compelled us to look outward, not just at the relationships represented within our material source ",
+                    "suffix": "s chronology), but at the social relationships represented and, indeed, forged, online"
+                }
+            },
+            {
+                "id": "/target/DMqRsZqFka3/selector/css/CgyLaqfFTBc",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/gDG3KGiDgO7]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26046460",
+        "type": "crm:E21_Person",
+        "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
+        "description": "McLeod, Donald W.",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/qa2sbWtLeum">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/qa2sbWtLeum",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:45:31.144Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/orrUBJ33fmF",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/orrUBJ33fmF/selector/textPosition/2G7HzyaXETo",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5525,
+                "end": 5531,
+                "refinedBy": {
+                    "id": "/target/orrUBJ33fmF/selector/textQuote/WIoOuf3SeDx",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McLeod",
+                    "prefix": "\n                            \n                        \n                    \n                \n                \n                    \n                        \n                            \n                                In addition to reproducing",
+                    "suffix": "s text, the LGLC project reconfigures his chronology as a digital resource that will let researchers trace the events of the gay liberation movement aided by maps and timelines; model the shifting identities of the actors within the text; contribute personal reflections about the events in the text; and critically evaluate the relationship between the text and the bibliographic materials that make up its content"
+                }
+            },
+            {
+                "id": "/target/orrUBJ33fmF/selector/css/oKJ18U76bo7",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/qa2sbWtLeum]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26046460",
+        "type": "crm:E21_Person",
+        "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
+        "description": "McLeod, Donald W.",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/CVMQuNKMkOI">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/CVMQuNKMkOI",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:45:31.145Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/LOW9TzXKrgS",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/LOW9TzXKrgS/selector/textPosition/cpowxDysTe5",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 7733,
+                "end": 7739,
+                "refinedBy": {
+                    "id": "/target/LOW9TzXKrgS/selector/textQuote/3OPYkeJgs4J",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McLeod",
+                    "prefix": "\n                            \n                        \n                    \n                    \n                        \n                            \n                                \n                                   ",
+                    "suffix": "began work on the first volume of Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology in 1989"
+                }
+            },
+            {
+                "id": "/target/LOW9TzXKrgS/selector/css/IenITjWbfKa",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/CVMQuNKMkOI]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26046460",
+        "type": "crm:E21_Person",
+        "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
+        "description": "McLeod, Donald W.",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/08rebypJdAw">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/08rebypJdAw",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:45:31.146Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/nsNfVbjFbZZ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/nsNfVbjFbZZ/selector/textPosition/570zLvQBzy0",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 8436,
+                "end": 8442,
+                "refinedBy": {
+                    "id": "/target/nsNfVbjFbZZ/selector/textQuote/s62Q5PthAMe",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McLeod",
+                    "prefix": " In the course of his work at the CLGA,",
+                    "suffix": "often consulted Fraser’s chronology but was frustrated by its lack of bibliographic citations"
+                }
+            },
+            {
+                "id": "/target/nsNfVbjFbZZ/selector/css/jGEkCgIMT2h",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/08rebypJdAw]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26046460",
+        "type": "crm:E21_Person",
+        "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
+        "description": "McLeod, Donald W.",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/8eDQpEDNlqe">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/8eDQpEDNlqe",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:45:31.146Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/fKTpx5HO9Hc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/fKTpx5HO9Hc/selector/textPosition/6HPKT9lFIAx",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 8538,
+                "end": 8544,
+                "refinedBy": {
+                    "id": "/target/fKTpx5HO9Hc/selector/textQuote/jKu4fwQcjtZ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McLeod",
+                    "prefix": "",
+                    "suffix": "believed that a detailed chronology of gay liberation history combined with a bibliography of sources for each entry would be an authoritative reference guide to the origins and development of lesbians and gay liberation in Canada\n                                            \n                                                McLeod viii\n                                            "
+                }
+            },
+            {
+                "id": "/target/fKTpx5HO9Hc/selector/css/OaympxWcXLU",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/8eDQpEDNlqe]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26046460",
+        "type": "crm:E21_Person",
+        "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
+        "description": "McLeod, Donald W.",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/mxSoBvMuO1A">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/mxSoBvMuO1A",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:45:31.146Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/6GBAyiNP1f7",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/6GBAyiNP1f7/selector/textPosition/7aFilum74eV",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 8869,
+                "end": 8875,
+                "refinedBy": {
+                    "id": "/target/6GBAyiNP1f7/selector/textQuote/WFYxKzjorx5",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McLeod",
+                    "prefix": " McLeod believed that a detailed chronology of gay liberation history combined with a bibliography of sources for each entry would be an authoritative reference guide to the origins and development of lesbians and gay liberation in Canada\n                                            \n                                               ",
+                    "suffix": "viii\n                                            "
+                }
+            },
+            {
+                "id": "/target/6GBAyiNP1f7/selector/css/6UmfSz2E26h",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/mxSoBvMuO1A]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26046460",
+        "type": "crm:E21_Person",
+        "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
+        "description": "McLeod, Donald W.",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/8RQcZTN9Cq6">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/8RQcZTN9Cq6",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:45:31.147Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/P4sxUSSaMEA",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/P4sxUSSaMEA/selector/textPosition/QtX1F5VNu4B",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 9187,
+                "end": 9193,
+                "refinedBy": {
+                    "id": "/target/P4sxUSSaMEA/selector/textQuote/btn0Dub62N2",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McLeod",
+                    "prefix": "\n                                    \n                                \n                            \n                        \n                    \n                    \n                        \n                            From 1989 to 1996, during his free time,",
+                    "suffix": "laboured over his chronology"
+                }
+            },
+            {
+                "id": "/target/P4sxUSSaMEA/selector/css/x1hxXgx2w7o",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/8RQcZTN9Cq6]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26046460",
+        "type": "crm:E21_Person",
+        "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
+        "description": "McLeod, Donald W.",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/yicmxZIz5D9">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/yicmxZIz5D9",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:45:31.147Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/8LFvv5mPJ7t",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/8LFvv5mPJ7t/selector/textPosition/9BVFP8N02sn",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 9633,
+                "end": 9639,
+                "refinedBy": {
+                    "id": "/target/8LFvv5mPJ7t/selector/textQuote/uEHe8V0J4BL",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McLeod",
+                    "prefix": " Along with the CLGA, the holdings of two other organizations formed the tripartite backbone of the sources for",
+                    "suffix": "s book: the Archives gaies du Québec in Montreal, and the Canadian Women’s Movement Archives in Ottawa"
+                }
+            },
+            {
+                "id": "/target/8LFvv5mPJ7t/selector/css/FBqYWXpwwVw",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/yicmxZIz5D9]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26046460",
+        "type": "crm:E21_Person",
+        "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
+        "description": "McLeod, Donald W.",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/f8MkjOzbUjL">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/f8MkjOzbUjL",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:45:31.147Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/BZ03VPW7D9t",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/BZ03VPW7D9t/selector/textPosition/asCEdVe0l2j",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 9744,
+                "end": 9750,
+                "refinedBy": {
+                    "id": "/target/BZ03VPW7D9t/selector/textQuote/6ShbiHkNAbd",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McLeod",
+                    "prefix": "",
+                    "suffix": "supplemented these collections with materials found in the archives of the University of British Columbia and the New York Public Library, and further augmented them with accounts from his direct correspondence with fifty of the key actors in the events mentioned in his book"
+                }
+            },
+            {
+                "id": "/target/BZ03VPW7D9t/selector/css/QKaNlELxlc7",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/f8MkjOzbUjL]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26046460",
+        "type": "crm:E21_Person",
+        "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
+        "description": "McLeod, Donald W.",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/C1EmCGEBeHB">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/C1EmCGEBeHB",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:45:31.147Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/PmGWuEyFJPw",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/PmGWuEyFJPw/selector/textPosition/KF4XT0I0TQg",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 10354,
+                "end": 10360,
+                "refinedBy": {
+                    "id": "/target/PmGWuEyFJPw/selector/textQuote/MX1lGdQQSJ1",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McLeod",
+                    "prefix": " Finally, more than ten of them were asked to examine an earl[y] draft of the project and were able to offer cogent advice\n                                        \n                                           ",
+                    "suffix": "ix\n                                        "
+                }
+            },
+            {
+                "id": "/target/PmGWuEyFJPw/selector/css/upHVmSTOcxT",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/C1EmCGEBeHB]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26046460",
+        "type": "crm:E21_Person",
+        "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
+        "description": "McLeod, Donald W.",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/T1MnqQTVrXl">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/T1MnqQTVrXl",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:45:31.504Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/SHaPZmKKIc7",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/SHaPZmKKIc7/selector/textPosition/U3GFlwQLUYy",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 11456,
+                "end": 11462,
+                "refinedBy": {
+                    "id": "/target/SHaPZmKKIc7/selector/textQuote/BbRZsEPgM3V",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McLeod",
+                    "prefix": " It ends with the founding of the National Gay Rights Coalition/Coalition national pour les droits des homosexuels, the first truly national coalition of Canadian lesbian and gay groups\n                                    \n                                       ",
+                    "suffix": "viii\n                                    "
+                }
+            },
+            {
+                "id": "/target/SHaPZmKKIc7/selector/css/rt1kaSRL83Z",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/T1MnqQTVrXl]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26046460",
+        "type": "crm:E21_Person",
+        "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
+        "description": "McLeod, Donald W.",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/uKEgEkS58Hw">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/uKEgEkS58Hw",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:45:31.505Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/DivlAvLpbUc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/DivlAvLpbUc/selector/textPosition/37pb4j6UHbU",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 11600,
+                "end": 11606,
+                "refinedBy": {
+                    "id": "/target/DivlAvLpbUc/selector/textQuote/JmUexaSfwyu",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McLeod",
+                    "prefix": "\n                                The book’s subtitle—A Selected Annotated Chronology—refers to",
+                    "suffix": "s primary focus on self-declared lesbians and gay men and their activities in regard to the forging of lesbian and gay communities and liberation in Canada\n                                    \n                                        viii\n                                    "
+                }
+            },
+            {
+                "id": "/target/DivlAvLpbUc/selector/css/CHusE20yEin",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/uKEgEkS58Hw]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26046460",
+        "type": "crm:E21_Person",
+        "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
+        "description": "McLeod, Donald W.",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/gML6zX1wdSc">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/gML6zX1wdSc",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:45:31.505Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/WW8FTcf4c5X",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/WW8FTcf4c5X/selector/textPosition/D90ni8ctHgi",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 12484,
+                "end": 12490,
+                "refinedBy": {
+                    "id": "/target/WW8FTcf4c5X/selector/textQuote/QyomOYH9uqq",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McLeod",
+                    "prefix": "",
+                    "suffix": "is currently completing a second volume that will span from 1975 to 1981, from the founding of the National Gay Rights Coalition/Coalition national pour les droits des homosexuels to the start of the \n                                        AIDS crisis"
+                }
+            },
+            {
+                "id": "/target/WW8FTcf4c5X/selector/css/6EqRaSUAOOq",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/gML6zX1wdSc]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26046460",
+        "type": "crm:E21_Person",
+        "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
+        "description": "McLeod, Donald W.",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/M2KmO0N81c0">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/M2KmO0N81c0",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:45:31.505Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/YkDBhp1v3r0",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/YkDBhp1v3r0/selector/textPosition/VpkEsl1M1ta",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 12964,
+                "end": 12970,
+                "refinedBy": {
+                    "id": "/target/YkDBhp1v3r0/selector/textQuote/XGYKvVHIJH7",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McLeod",
+                    "prefix": "\n                            \n                        \n                    \n                    \n                        \n                            \n                                \n                                   ",
+                    "suffix": "s chronology is structured as a series of entries, first by date, then by location"
+                }
+            },
+            {
+                "id": "/target/YkDBhp1v3r0/selector/css/80sEiKlPev8",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/M2KmO0N81c0]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26046460",
+        "type": "crm:E21_Person",
+        "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
+        "description": "McLeod, Donald W.",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/IKcKf7ySUQi">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/IKcKf7ySUQi",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:45:31.506Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/x8Asg7GmauX",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/x8Asg7GmauX/selector/textPosition/R6jYRtafDvi",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 13241,
+                "end": 13247,
+                "refinedBy": {
+                    "id": "/target/x8Asg7GmauX/selector/textQuote/lordzIgXeLB",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McLeod",
+                    "prefix": " The combination of chronology and bibliography drew us to TEI encoding as a potential methodology to enhance access to",
+                    "suffix": "s text"
+                }
+            },
+            {
+                "id": "/target/x8Asg7GmauX/selector/css/1VqbY7sbfm0",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/IKcKf7ySUQi]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26046460",
+        "type": "crm:E21_Person",
+        "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
+        "description": "McLeod, Donald W.",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/LYxkqq11GMQ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/LYxkqq11GMQ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:45:31.507Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/h51rbBFRm8z",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/h51rbBFRm8z/selector/textPosition/C6ZbcMWpgSj",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27129,
+                "end": 27135,
+                "refinedBy": {
+                    "id": "/target/h51rbBFRm8z/selector/textQuote/hQlC3ksmdAe",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McLeod",
+                    "prefix": " We hope to support those efforts by amplifying",
+                    "suffix": "s chronology: the addition of personographic and place records will help establish the importance of women’s materials at the CLGA and the importance of queer history in online communities like CWRC"
+                }
+            },
+            {
+                "id": "/target/h51rbBFRm8z/selector/css/fbfEHJUwC2L",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/LYxkqq11GMQ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26046460",
+        "type": "crm:E21_Person",
+        "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
+        "description": "McLeod, Donald W.",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ARL7EiqbBP2">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ARL7EiqbBP2",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:45:31.508Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/QlDdC4pK6oY",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/QlDdC4pK6oY/selector/textPosition/YBFYE6be9nF",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27701,
+                "end": 27707,
+                "refinedBy": {
+                    "id": "/target/QlDdC4pK6oY/selector/textQuote/URLTE6mq9Oq",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McLeod",
+                    "prefix": "\n                                \n                            \n                        \n                    \n                \n                \n                    \n                        Keeping Our Stories Alive\n                    \n                    \n                        Before outlining TEI’s markup utility in teasing out new meanings from the details of",
+                    "suffix": "s chronology, we would like to relate the sort of story we hope the LGLC project will bring to the fore"
+                }
+            },
+            {
+                "id": "/target/QlDdC4pK6oY/selector/css/AsfDRWsxglT",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ARL7EiqbBP2]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26046460",
+        "type": "crm:E21_Person",
+        "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
+        "description": "McLeod, Donald W.",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/mUQUGwrpbbb">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/mUQUGwrpbbb",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:45:31.508Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/TX5YAV8C8Sq",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/TX5YAV8C8Sq/selector/textPosition/3uoT7jvRi5j",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 36476,
+                "end": 36482,
+                "refinedBy": {
+                    "id": "/target/TX5YAV8C8Sq/selector/textQuote/enQrcyqW8Wm",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McLeod",
+                    "prefix": " Moreover, there is no Wikipedia entry for the Community Homophile Association of Toronto (CHAT), one of the first gay liberation organizations in all of Canada, which Murphy founded with George Hislop and others in 1971\n                                                \n                                                   ",
+                    "suffix": "56\n                                                "
+                }
+            },
+            {
+                "id": "/target/TX5YAV8C8Sq/selector/css/BuP7Kh4JqNa",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/mUQUGwrpbbb]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26046460",
+        "type": "crm:E21_Person",
+        "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
+        "description": "McLeod, Donald W.",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/aVWEGc6pmn9">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/aVWEGc6pmn9",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:45:31.508Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/MBtFvGWJpEb",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/MBtFvGWJpEb/selector/textPosition/LjzE8B7KsV7",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 44541,
+                "end": 44547,
+                "refinedBy": {
+                    "id": "/target/MBtFvGWJpEb/selector/textQuote/32rbv52DLjb",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McLeod",
+                    "prefix": " \n                                For instance, author Jane Rule played an important role in Canadian gay history, initiating, to",
+                    "suffix": "s mind at least, the Canadian lesbian and gay liberation movement with her publication of the lesbian themed novel, Desert of the Heart\n                                    \n                                        McLeod 2\n                                    "
+                }
+            },
+            {
+                "id": "/target/MBtFvGWJpEb/selector/css/xgxPbMyaBqf",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/aVWEGc6pmn9]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26046460",
+        "type": "crm:E21_Person",
+        "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
+        "description": "McLeod, Donald W.",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/winmQfH9wIQ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/winmQfH9wIQ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:45:31.508Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/vAfa3DqFYtP",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/vAfa3DqFYtP/selector/textPosition/7x7fGccMPUy",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 48819,
+                "end": 48825,
+                "refinedBy": {
+                    "id": "/target/vAfa3DqFYtP/selector/textQuote/tYWh9I1RNZR",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McLeod",
+                    "prefix": "\n                       ",
+                    "suffix": " Donald W"
+                }
+            },
+            {
+                "id": "/target/vAfa3DqFYtP/selector/css/s1La2w68ECB",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/winmQfH9wIQ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26046460",
+        "type": "crm:E21_Person",
+        "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
+        "description": "McLeod, Donald W.",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
