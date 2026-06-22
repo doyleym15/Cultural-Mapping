@@ -457,7 +457,7 @@
                 <p xml:id="p1281">
                     <ref target="#technology">
                         <ref target="#gender_issue">
-                            <ref target="#theme_or_topic">This chapter introduces our project in the context of <orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/ZqS5hrwBxC2">the Canadian Lesbian and Gay Archives</orgName>. First, we introduce our source text, the type of community story we aim to tell, and demonstrate how <abbr>TEI</abbr> might help us tell that story. <ref target="#representation_of_women">We go on to investigate the difficulties associated with this project: the implications of the current representation of the women in our data set on <title level="m">Wikipedia</title>, in the online instantiation of the <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/2N2t92LVVZC">CLGA</orgName></abbr>’s National Portrait Collection (<abbr>NPC</abbr>), and on the Internet more generally.</ref>
+                            <ref target="#theme_or_topic">This chapter introduces our project in the context of <orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/ZqS5hrwBxC2">the Canadian Lesbian and Gay Archives</orgName>. First, we introduce our source text, the type of community story we aim to tell, and demonstrate how <abbr><orgName key="Text Encoding Initiative" ref="http://viaf.org/viaf/262867947" ana="webannotation:http://temp.lincsproject.ca/afiTnTeOuFv">TEI</orgName></abbr> might help us tell that story. <ref target="#representation_of_women">We go on to investigate the difficulties associated with this project: the implications of the current representation of the women in our data set on <title level="m">Wikipedia</title>, in the online instantiation of the <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/2N2t92LVVZC">CLGA</orgName></abbr>’s National Portrait Collection (<abbr>NPC</abbr>), and on the Internet more generally.</ref>
                                 <ref target="#collaboration">Using our project as a case study, we argue that digital scholarship and online activism can be paired in order to spur on the larger discussion about whether Internet behemoths like <orgName>Wikipedia</orgName> and Google should be the primary gatekeepers of our cultural history.</ref>
                             </ref>
                         </ref>
@@ -712,7 +712,7 @@
                         <q>Keeping Our Stories Alive</q>
                     </head>
                     <p xml:id="p1296">
-                        <ref target="#technology">Before outlining <abbr>TEI</abbr>’s markup utility in teasing out new meanings from the details of <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/ARL7EiqbBP2">McLeod</persName>’s chronology, we would like to relate the sort of story we hope the <abbr>LGLC</abbr> project will bring to the fore.</ref>
+                        <ref target="#technology">Before outlining <abbr><orgName key="Text Encoding Initiative" ref="http://viaf.org/viaf/262867947" ana="webannotation:http://temp.lincsproject.ca/tHHg4mfjFH7">TEI</orgName></abbr>’s markup utility in teasing out new meanings from the details of <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/ARL7EiqbBP2">McLeod</persName>’s chronology, we would like to relate the sort of story we hope the <abbr>LGLC</abbr> project will bring to the fore.</ref>
                         <ref target="#representation_of_women">
                             <ref target="#historical_oppression">
                                 <ref target="#spatiality">On January 15, 1974, four women took the stage on amateur talent night at the Brunswick Tavern. <ref target="#class_issue">The Brunswick, an institution in what was then a working-class Toronto neighbourhood that was just starting to cater to students at the nearby University of Toronto, was a rowdy place, a cavernous hall lined with wooden tables and benches, with a plywood stage at one end of the hall.</ref>
@@ -728,7 +728,7 @@
                                     </note>.</ref>
                                 <ref target="#history">
                                     <ref target="#social_movement">The incident galvanized the Toronto gay community, whose defense of the Brunswick Four has been likened to the consciousness-raising that followed the Stonewall riots of June 28, 1969 in New York’s Greenwich Village. </ref>
-                                    <ref target="#technology">The Brunswick Four may be a prime example of women’s centrality to the gay liberation movement in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/2tdhlVvEaIo">Canada</placeName>, but representing the Brunswick Four and their influence through <abbr>TEI</abbr> helps dramatize the difficulty of trying to build a reliable and ethically responsible personography of the actors in the movement.</ref>
+                                    <ref target="#technology">The Brunswick Four may be a prime example of women’s centrality to the gay liberation movement in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/2tdhlVvEaIo">Canada</placeName>, but representing the Brunswick Four and their influence through <abbr><orgName key="Text Encoding Initiative" ref="http://viaf.org/viaf/262867947" ana="webannotation:http://temp.lincsproject.ca/eQJPCrqTh1g">TEI</orgName></abbr> helps dramatize the difficulty of trying to build a reliable and ethically responsible personography of the actors in the movement.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -809,7 +809,7 @@
                                     <ref target="#gender_issue">
                                         <ref target="#theme_or_topic">
                                             <ref target="#history">It is extremely difficult, even when conducting more traditional online research, to discern the connections between organizations, events, and people, and to piece together women’s involvement in Canadian <abbr>LGBT</abbr> history</ref>.</ref>
-                                        <ref target="#spatiality">For instance, via correspondence with Lamar Van Dyke (formerly Heather Beyer Elizabeth), one of the Brunswick Four, we learned the reason the four women had been at the Brunswick Tavern on the night of their arrest; Van Dyke, then co-ordinator of A Women’s Place, a feminist community centre, sought a rapprochement with Murphy, who had been working primarily with <abbr>CHAT</abbr>, an organization perceived by the women’s movement as focusing only on gay men’s issues. Searches for variations of <q>A Women’s Place</q> returned no relevant Google hits—even for us—despite the fact that A Women’s Place was the original location for what became the Toronto Women’s Bookstore, a fixture of the feminist and <abbr>LGBT</abbr> communities in Toronto for thirty-nine years (the store closed on November 30, 2012). In the <title level="m">Wikipedia</title> entry on the Toronto Women’s Bookstore, A Women’s Place is referenced in passing as an unnamed women’s resource centre located on nearby Dupont Street. <abbr>TEI</abbr> will help us draw these very connections between the various events, places, and people in the <abbr>LGLC</abbr> data set within the Collaboratory.</ref>
+                                        <ref target="#spatiality">For instance, via correspondence with Lamar Van Dyke (formerly Heather Beyer Elizabeth), one of the Brunswick Four, we learned the reason the four women had been at the Brunswick Tavern on the night of their arrest; Van Dyke, then co-ordinator of A Women’s Place, a feminist community centre, sought a rapprochement with Murphy, who had been working primarily with <abbr>CHAT</abbr>, an organization perceived by the women’s movement as focusing only on gay men’s issues. Searches for variations of <q>A Women’s Place</q> returned no relevant Google hits—even for us—despite the fact that A Women’s Place was the original location for what became the Toronto Women’s Bookstore, a fixture of the feminist and <abbr>LGBT</abbr> communities in Toronto for thirty-nine years (the store closed on November 30, 2012). In the <title level="m">Wikipedia</title> entry on the Toronto Women’s Bookstore, A Women’s Place is referenced in passing as an unnamed women’s resource centre located on nearby Dupont Street. <abbr><orgName key="Text Encoding Initiative" ref="http://viaf.org/viaf/262867947" ana="webannotation:http://temp.lincsproject.ca/0qC5suygYpW">TEI</orgName></abbr> will help us draw these very connections between the various events, places, and people in the <abbr>LGLC</abbr> data set within the Collaboratory.</ref>
                                     </ref>
                                 </ref>
                             </ref>
@@ -8946,6 +8946,362 @@
         "id": "https://nerve.lincsproject.ca/Z_AV2-MYLscUx3TXl72xN",
         "type": "crm:E74_Group",
         "label": "the Canadian Writing Research Collaboratory’s"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/afiTnTeOuFv">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/afiTnTeOuFv",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:06:15.313Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/WWOb6dmioqS",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/WWOb6dmioqS/selector/textPosition/MmLNNxkMzuG",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 4677,
+                "end": 4680,
+                "refinedBy": {
+                    "id": "/target/WWOb6dmioqS/selector/textQuote/tdCYwARCpxr",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "TEI",
+                    "prefix": " First, we introduce our source text, the type of community story we aim to tell, and demonstrate how",
+                    "suffix": "might help us tell that story"
+                }
+            },
+            {
+                "id": "/target/WWOb6dmioqS/selector/css/Z1PnwkjWimQ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/afiTnTeOuFv]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/262867947",
+        "type": "crm:E74_Group",
+        "label": "Text Encoding Initiative",
+        "description": "TEI (Text Encoding Initiative) El TEI és un esquema de marcatge de textos adaptat al XML"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/tHHg4mfjFH7">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/tHHg4mfjFH7",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:06:15.315Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/M8x0abCizZN",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/M8x0abCizZN/selector/textPosition/kCJKqOrNAIa",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27632,
+                "end": 27635,
+                "refinedBy": {
+                    "id": "/target/M8x0abCizZN/selector/textQuote/7XIXbY0mvpi",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "TEI",
+                    "prefix": "\n                                \n                            \n                        \n                    \n                \n                \n                    \n                        Keeping Our Stories Alive\n                    \n                    \n                        Before outlining",
+                    "suffix": "s markup utility in teasing out new meanings from the details of McLeod’s chronology, we would like to relate the sort of story we hope the LGLC project will bring to the fore"
+                }
+            },
+            {
+                "id": "/target/M8x0abCizZN/selector/css/fewdQGmrqC9",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/tHHg4mfjFH7]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/262867947",
+        "type": "crm:E74_Group",
+        "label": "Text Encoding Initiative",
+        "description": "TEI (Text Encoding Initiative) El TEI és un esquema de marcatge de textos adaptat al XML"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/eQJPCrqTh1g">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/eQJPCrqTh1g",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:06:15.317Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/t97fY7Gq5ZF",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/t97fY7Gq5ZF/selector/textPosition/pZOFD1CYD4W",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 29586,
+                "end": 29589,
+                "refinedBy": {
+                    "id": "/target/t97fY7Gq5ZF/selector/textQuote/Cu1Nr7mFKT5",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "TEI",
+                    "prefix": " \n                                    The Brunswick Four may be a prime example of women’s centrality to the gay liberation movement in Canada, but representing the Brunswick Four and their influence through",
+                    "suffix": "helps dramatize the difficulty of trying to build a reliable and ethically responsible personography of the actors in the movement"
+                }
+            },
+            {
+                "id": "/target/t97fY7Gq5ZF/selector/css/LudNVe6SXfD",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/eQJPCrqTh1g]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/262867947",
+        "type": "crm:E74_Group",
+        "label": "Text Encoding Initiative",
+        "description": "TEI (Text Encoding Initiative) El TEI és un esquema de marcatge de textos adaptat al XML"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/0qC5suygYpW">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/0qC5suygYpW",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:06:15.318Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/4sfyXXoL37n",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/4sfyXXoL37n/selector/textPosition/I5ZqG2YH8PU",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 39356,
+                "end": 39359,
+                "refinedBy": {
+                    "id": "/target/4sfyXXoL37n/selector/textQuote/HBG1ctNq0ny",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "TEI",
+                    "prefix": "",
+                    "suffix": "will help us draw these very connections between the various events, places, and people in the LGLC data set within the Collaboratory"
+                }
+            },
+            {
+                "id": "/target/4sfyXXoL37n/selector/css/dX8W8YWn4gE",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/0qC5suygYpW]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/262867947",
+        "type": "crm:E74_Group",
+        "label": "Text Encoding Initiative",
+        "description": "TEI (Text Encoding Initiative) El TEI és un esquema de marcatge de textos adaptat al XML"
     },
     "P2_has_type": [
         "oa:identifying"
