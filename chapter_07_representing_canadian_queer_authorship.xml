@@ -914,7 +914,7 @@
                         <bibl>Rule, Jane. <title level="m">Lesbian Images.</title> <placeName key="Garden City" ref="https://www.geonames.org/5118226/garden-city.html" ana="webannotation:http://temp.lincsproject.ca/tp7MrJNXYZb" type="real" cert="high" precision="high">Garden City</placeName>, <placeName key="New York" ref="https://www.geonames.org/5128581/new-york-city.html" ana="webannotation:http://temp.lincsproject.ca/uwvzgskww8m" type="real" cert="high" precision="high">NY</placeName>: Doubleday, 1975.</bibl>
                         <bibl>Schwabel, Fania. <title level="a">Our Shocking Past: Queer Youth Offer Four Quickie Histories.</title>
                             <title level="j">Xtra!</title> 23 September 1999: n. pag.</bibl>
-                        <bibl>Sedgwick, Eve Kosofsky. <title level="m">Epistemology of the Closet.</title> Berkeley: University of California Press, 1990.</bibl>
+                        <bibl>Sedgwick, Eve Kosofsky. <title level="m">Epistemology of the Closet.</title> <placeName key="Berkely" ref="https://www.geonames.org/5327684/berkeley.html" ana="webannotation:http://temp.lincsproject.ca/9yTBMtYGxya">Berkeley</placeName>: University of California Press, 1990.</bibl>
                         <bibl>Warner, Tom. <title level="m">Never Going Back: A History of Queer Activism in Canada.</title> <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/vOc6wMEzSP6">Toronto</placeName>: University of Toronto Press, 2002.</bibl>
                     </listBibl>
                 </div>
@@ -13552,6 +13552,95 @@
         "oa:identifying",
         "edit:certaintyHigh",
         "edit:precisionHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/9yTBMtYGxya">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/9yTBMtYGxya",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:35:56.144Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/7ncaZV4z7j3",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/7ncaZV4z7j3/selector/textPosition/dKv6GHoMYxd",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 50122,
+                "end": 50130,
+                "refinedBy": {
+                    "id": "/target/7ncaZV4z7j3/selector/textQuote/pwnTP42TXEl",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berkeley",
+                    "prefix": "",
+                    "suffix": " University of California Press, 1990"
+                }
+            },
+            {
+                "id": "/target/7ncaZV4z7j3/selector/css/7x9k2zIAgRU",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/9yTBMtYGxya]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.geonames.org/5327684/berkeley.html",
+        "label": "Berkely",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
