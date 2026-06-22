@@ -727,7 +727,7 @@
                                         <bibl>Warner 40</bibl>
                                     </note>.</ref>
                                 <ref target="#history">
-                                    <ref target="#social_movement">The incident galvanized the <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/yZKJoYqcAG1">Toronto</placeName> gay community, whose defense of the Brunswick Four has been likened to the consciousness-raising that followed the Stonewall riots of June 28, 1969 in New York’s <placeName key="Greenwich Village" ref="https://sws.geonames.org/5119418" ana="webannotation:http://temp.lincsproject.ca/zj4lCxeZgeH">Greenwich Village</placeName>. </ref>
+                                    <ref target="#social_movement">The incident galvanized the <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/yZKJoYqcAG1">Toronto</placeName> gay community, whose defense of the Brunswick Four has been likened to the consciousness-raising that followed the Stonewall riots of June 28, 1969 in New York’s <placeName key="Greenwich Village" ref="https://sws.geonames.org/5119418" ana="webannotation:http://temp.lincsproject.ca/zj4lCxeZgeH" type="real">Greenwich Village</placeName>. </ref>
                                     <ref target="#technology">The Brunswick Four may be a prime example of women’s centrality to the gay liberation movement in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/2tdhlVvEaIo">Canada</placeName>, but representing the Brunswick Four and their influence through <abbr><orgName key="Text Encoding Initiative" ref="http://viaf.org/viaf/262867947" ana="webannotation:http://temp.lincsproject.ca/eQJPCrqTh1g">TEI</orgName></abbr> helps dramatize the difficulty of trying to build a reliable and ethically responsible personography of the actors in the movement.</ref>
                                 </ref>
                             </ref>
@@ -13167,7 +13167,10 @@
         "id": "https://sws.geonames.org/5119418",
         "type": "crm:E53_Place",
         "label": "Greenwich Village",
-        "description": "New York, New York County, US"
+        "description": "New York, New York County, US",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
