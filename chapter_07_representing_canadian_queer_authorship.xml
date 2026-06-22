@@ -434,7 +434,7 @@
                                 <ref target="#genre_fiction">
                                     <ref target="#genre_non-fiction">
                                         <ref target="#genre_poetry">
-                                            <ref target="#politics">The 107 women (including, for instance, author and politician <persName key="LaMarsh, Judy, 1924-1980" ref="http://viaf.org/viaf/104003106" ana="webannotation:http://temp.lincsproject.ca/hug3D4s0I5F" type="real" cert="high">Judy LaMarsh</persName>, authors <persName key="Manthorne, Jackie, 1946-" ref="http://viaf.org/viaf/56473595" ana="webannotation:http://temp.lincsproject.ca/KFxvXaU3or0">Jackie Manthorne</persName> and Marie-Claire Blais, and activists Pat Murphy and Lamar Van Dyke) whose stories are represented in <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/OH71PSb7hqW">McLeod</persName>’s book, and in <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/AVpfqvpyFjX">CLGA</orgName></abbr>’s collection more broadly, wore many hats; they were and remain writers of fiction and polemic, experts in poetry and politics. Their work as authors has been informed by their activism; their writing has, in turn, shaped the Canadian political and literary landscape, and yet they are underrepresented in high traffic online areas.</ref>
+                                            <ref target="#politics">The 107 women (including, for instance, author and politician <persName key="LaMarsh, Judy, 1924-1980" ref="http://viaf.org/viaf/104003106" ana="webannotation:http://temp.lincsproject.ca/hug3D4s0I5F" type="real" cert="high">Judy LaMarsh</persName>, authors <persName key="Manthorne, Jackie, 1946-" ref="http://viaf.org/viaf/56473595" ana="webannotation:http://temp.lincsproject.ca/KFxvXaU3or0" type="real" cert="high">Jackie Manthorne</persName> and Marie-Claire Blais, and activists Pat Murphy and Lamar Van Dyke) whose stories are represented in <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/OH71PSb7hqW">McLeod</persName>’s book, and in <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/AVpfqvpyFjX">CLGA</orgName></abbr>’s collection more broadly, wore many hats; they were and remain writers of fiction and polemic, experts in poetry and politics. Their work as authors has been informed by their activism; their writing has, in turn, shaped the Canadian political and literary landscape, and yet they are underrepresented in high traffic online areas.</ref>
                                         </ref>
                                     </ref>
                                 </ref>
@@ -9593,10 +9593,14 @@
     "body": {
         "id": "http://viaf.org/viaf/56473595",
         "type": "crm:E21_Person",
-        "label": "Manthorne, Jackie, 1946-"
+        "label": "Manthorne, Jackie, 1946-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh"
     ]
 }]]>
 				
