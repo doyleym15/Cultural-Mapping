@@ -556,7 +556,7 @@
                                         <ref target="#history">
                                             <ref target="#place_of_publication">
                                                 <ref target="#theme_or_topic">
-                                                    <ref target="#intellectual_history">Originally called the Canadian Gay Liberation Movement Archives, the core of the <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/ndD4ZH88xCD">CLGA</orgName></abbr>’s collection consists of the records of <title level="j">The Body Politic (<abbr>TBP</abbr>)</title>, a gay liberation newspaper published in <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/A2JBsppfQ5F" type="real">Toronto</placeName> between 1971 and 1987.</ref> In just over fifteen years, <title level="j">The Body Politic</title> published 135 issues, becoming <q>the leading journal of gay liberation in all of <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/LQx8TSVwYsh">Canada</placeName> and—with an eventual third of its circulation outside the country—an internationally respected voice of radical gay thought</q>
+                                                    <ref target="#intellectual_history">Originally called the Canadian Gay Liberation Movement Archives, the core of the <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/ndD4ZH88xCD">CLGA</orgName></abbr>’s collection consists of the records of <title level="j">The Body Politic (<abbr>TBP</abbr>)</title>, a gay liberation newspaper published in <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/A2JBsppfQ5F" type="real" cert="high" precision="high">Toronto</placeName> between 1971 and 1987.</ref> In just over fifteen years, <title level="j">The Body Politic</title> published 135 issues, becoming <q>the leading journal of gay liberation in all of <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/LQx8TSVwYsh">Canada</placeName> and—with an eventual third of its circulation outside the country—an internationally respected voice of radical gay thought</q>
                                                 </ref>
                                             </ref>
                                         </ref>
@@ -10303,7 +10303,9 @@
         ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh",
+        "edit:precisionHigh"
     ]
 }]]>
 				
