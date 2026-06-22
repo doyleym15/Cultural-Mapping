@@ -475,7 +475,7 @@
                     <head><persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/sr8WCHaY9Mo" type="real" cert="high">Don McLeod</persName> and <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975</title>
                     </head>
                     <p xml:id="p1283">
-                        <ref target="#intellectual_history"><persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/Gtj3xtnwxOi">Donald W. McLeod</persName> was born in 1957 in <placeName key="Cornwall" ref="https://www.geonames.org/5928065/cornwall.html" ana="webannotation:http://temp.lincsproject.ca/5X4XHnHAMvo" type="real" cert="high" precision="high">Cornwall</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/Gt98AW34iZz" type="real" cert="high" precision="high">Ontario</placeName> and grew up in <placeName key="Calgary" ref="https://sws.geonames.org/5913490" ana="webannotation:http://temp.lincsproject.ca/igsvy9dBAZf">Calgary</placeName>, Alberta. <ref target="#education">Since receiving his master’s degree in library science from <orgName key="University of Toronto." ref="http://viaf.org/viaf/130333233" ana="webannotation:http://temp.lincsproject.ca/Bu8sSEp9NnR">the University of Toronto</orgName> in 1983, he has worked in both publishing and librarianship.</ref>
+                        <ref target="#intellectual_history"><persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/Gtj3xtnwxOi">Donald W. McLeod</persName> was born in 1957 in <placeName key="Cornwall" ref="https://www.geonames.org/5928065/cornwall.html" ana="webannotation:http://temp.lincsproject.ca/5X4XHnHAMvo" type="real" cert="high" precision="high">Cornwall</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/Gt98AW34iZz" type="real" cert="high" precision="high">Ontario</placeName> and grew up in <placeName key="Calgary" ref="https://sws.geonames.org/5913490" ana="webannotation:http://temp.lincsproject.ca/igsvy9dBAZf" type="real" cert="high" precision="high">Calgary</placeName>, Alberta. <ref target="#education">Since receiving his master’s degree in library science from <orgName key="University of Toronto." ref="http://viaf.org/viaf/130333233" ana="webannotation:http://temp.lincsproject.ca/Bu8sSEp9NnR">the University of Toronto</orgName> in 1983, he has worked in both publishing and librarianship.</ref>
                             <ref target="#gender_issue">He is now the head of book and serial acquisitions for the University of Toronto Libraries, and continues to be involved in the publication of documents on gay and Canadian history. In addition to his writing and editorial work, he has been a volunteer at <orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/SS5Io8oRXbS">the Canadian Lesbian and Gay Archives</orgName> for twenty-five years. <ref target="#health_issue">He first became involved with the <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/HXmlOGUiLeE">CLGA</orgName></abbr> when he was commissioned by the <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/Ch8rt03aZhp">CLGA</orgName></abbr> and the <abbr>AIDS</abbr> Committee of Toronto to work on <title level="m">Medical, Social, and Political Aspects of the Acquired Immune Deficiency Syndrome (<abbr>AIDS</abbr>) Crisis: A Bibliography</title>, which was published in 1985 <note place="inline">
                                         <note place="inline">
                                             <bibl>
@@ -10485,10 +10485,15 @@
         "id": "https://sws.geonames.org/5913490",
         "type": "crm:E53_Place",
         "label": "Calgary",
-        "description": "Alberta, CA"
+        "description": "Alberta, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh",
+        "edit:precisionHigh"
     ]
 }]]>
 				
