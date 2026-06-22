@@ -715,7 +715,7 @@
                         <ref target="#technology">Before outlining <abbr><orgName key="Text Encoding Initiative" ref="http://viaf.org/viaf/262867947" ana="webannotation:http://temp.lincsproject.ca/tHHg4mfjFH7">TEI</orgName></abbr>’s markup utility in teasing out new meanings from the details of <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/ARL7EiqbBP2">McLeod</persName>’s chronology, we would like to relate the sort of story we hope the <abbr>LGLC</abbr> project will bring to the fore.</ref>
                         <ref target="#representation_of_women">
                             <ref target="#historical_oppression">
-                                <ref target="#spatiality">On January 15, 1974, four women took the stage on amateur talent night at the <placeName key="British Columbia" ref="https://sws.geonames.org/5909050" ana="webannotation:http://temp.lincsproject.ca/GutrBoKmz5n" type="real" cert="high">Brunswick Tavern</placeName>. <ref target="#class_issue">The Brunswick, an institution in what was then a working-class <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/mJxcOBNu2jC">Toronto</placeName> neighbourhood that was just starting to cater to students at the nearby University of Toronto, was a rowdy place, a cavernous hall lined with wooden tables and benches, with a plywood stage at one end of the hall.</ref>
+                                <ref target="#spatiality">On January 15, 1974, four women took the stage on amateur talent night at the <placeName key="British Columbia" ref="https://sws.geonames.org/5909050" ana="webannotation:http://temp.lincsproject.ca/GutrBoKmz5n" type="real" cert="high" precision="high">Brunswick Tavern</placeName>. <ref target="#class_issue">The Brunswick, an institution in what was then a working-class <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/mJxcOBNu2jC">Toronto</placeName> neighbourhood that was just starting to cater to students at the nearby University of Toronto, was a rowdy place, a cavernous hall lined with wooden tables and benches, with a plywood stage at one end of the hall.</ref>
                                 </ref>
                                 <ref target="#sexuality">
                                     <ref target="#genre_performance">Heather Beyer Elizabeth, Pat Murphy, Adrienne Potts, and Sue Wells got up on the stage and sang <title level="a">I Enjoy Being a Dyke,</title> their lively send-up of <title level="a">I Enjoy Being a Girl.</title>
@@ -911,7 +911,7 @@
                         </bibl>
                         <bibl>Pink Triangle Press. <title level="a">The Collective Years</title>. <ref target="http://www.pinktrianglepress.com/collective-years">http://www.pinktrianglepress.com/collective-years</ref>
                         </bibl>
-                        <bibl>Rule, Jane. <title level="m">Lesbian Images.</title> Garden City, <placeName key="New York" ref="https://www.geonames.org/5128581/new-york-city.html" ana="webannotation:http://temp.lincsproject.ca/uwvzgskww8m" type="real" cert="high" precision="high">NY</placeName>: Doubleday, 1975.</bibl>
+                        <bibl>Rule, Jane. <title level="m">Lesbian Images.</title> <placeName key="Garden City" ref="https://www.geonames.org/5118226/garden-city.html" ana="webannotation:http://temp.lincsproject.ca/tp7MrJNXYZb">Garden City</placeName>, <placeName key="New York" ref="https://www.geonames.org/5128581/new-york-city.html" ana="webannotation:http://temp.lincsproject.ca/uwvzgskww8m" type="real" cert="high" precision="high">NY</placeName>: Doubleday, 1975.</bibl>
                         <bibl>Schwabel, Fania. <title level="a">Our Shocking Past: Queer Youth Offer Four Quickie Histories.</title>
                             <title level="j">Xtra!</title> 23 September 1999: n. pag.</bibl>
                         <bibl>Sedgwick, Eve Kosofsky. <title level="m">Epistemology of the Closet.</title> Berkeley: University of California Press, 1990.</bibl>
@@ -13362,7 +13362,97 @@
     },
     "P2_has_type": [
         "oa:identifying",
-        "edit:certaintyHigh"
+        "edit:certaintyHigh",
+        "edit:precisionHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/tp7MrJNXYZb">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/tp7MrJNXYZb",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:34:48.223Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/tfQDDIiGgVn",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/tfQDDIiGgVn/selector/textPosition/Hmcpw0O9Mh6",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 49849,
+                "end": 49860,
+                "refinedBy": {
+                    "id": "/target/tfQDDIiGgVn/selector/textQuote/W0tsKFIV7y3",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Garden City",
+                    "prefix": "",
+                    "suffix": " NY: Doubleday, 1975"
+                }
+            },
+            {
+                "id": "/target/tfQDDIiGgVn/selector/css/BgCo9J49O7j",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/tp7MrJNXYZb]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.geonames.org/5118226/garden-city.html",
+        "label": "Garden City",
+        "type": "crm:E53_Place",
+        "entityType": "crm:E53_Place"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
