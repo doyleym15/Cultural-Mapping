@@ -472,7 +472,7 @@
                     </ref>
                 </p>
                 <div type="section">
-                    <head><persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/sr8WCHaY9Mo">Don McLeod</persName> and <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975</title>
+                    <head><persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/sr8WCHaY9Mo" type="real">Don McLeod</persName> and <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975</title>
                     </head>
                     <p xml:id="p1283">
                         <ref target="#intellectual_history"><persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/Gtj3xtnwxOi">Donald W. McLeod</persName> was born in 1957 in Cornwall, Ontario and grew up in Calgary, Alberta. <ref target="#education">Since receiving his master’s degree in library science from <orgName key="University of Toronto." ref="http://viaf.org/viaf/130333233" ana="webannotation:http://temp.lincsproject.ca/Bu8sSEp9NnR">the University of Toronto</orgName> in 1983, he has worked in both publishing and librarianship.</ref>
@@ -4641,7 +4641,10 @@
         "id": "http://viaf.org/viaf/26046460",
         "type": "crm:E21_Person",
         "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
-        "description": "McLeod, Donald W."
+        "description": "McLeod, Donald W.",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
