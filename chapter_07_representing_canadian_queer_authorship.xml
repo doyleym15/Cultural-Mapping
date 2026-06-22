@@ -911,7 +911,7 @@
                         </bibl>
                         <bibl>Pink Triangle Press. <title level="a">The Collective Years</title>. <ref target="http://www.pinktrianglepress.com/collective-years">http://www.pinktrianglepress.com/collective-years</ref>
                         </bibl>
-                        <bibl>Rule, Jane. <title level="m">Lesbian Images.</title> Garden City, <placeName key="New York" ref="https://www.geonames.org/5128581/new-york-city.html" ana="webannotation:http://temp.lincsproject.ca/uwvzgskww8m">NY</placeName>: Doubleday, 1975.</bibl>
+                        <bibl>Rule, Jane. <title level="m">Lesbian Images.</title> Garden City, <placeName key="New York" ref="https://www.geonames.org/5128581/new-york-city.html" ana="webannotation:http://temp.lincsproject.ca/uwvzgskww8m" type="real" cert="high" precision="high">NY</placeName>: Doubleday, 1975.</bibl>
                         <bibl>Schwabel, Fania. <title level="a">Our Shocking Past: Queer Youth Offer Four Quickie Histories.</title>
                             <title level="j">Xtra!</title> 23 September 1999: n. pag.</bibl>
                         <bibl>Sedgwick, Eve Kosofsky. <title level="m">Epistemology of the Closet.</title> Berkeley: University of California Press, 1990.</bibl>
@@ -13355,10 +13355,15 @@
         "id": "https://www.geonames.org/5128581/new-york-city.html",
         "label": "New York",
         "type": "crm:E53_Place",
-        "entityType": "crm:E53_Place"
+        "entityType": "crm:E53_Place",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh",
+        "edit:precisionHigh"
     ]
 }]]>
 				
