@@ -727,7 +727,7 @@
                                         <bibl>Warner 40</bibl>
                                     </note>.</ref>
                                 <ref target="#history">
-                                    <ref target="#social_movement">The incident galvanized the <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/yZKJoYqcAG1">Toronto</placeName> gay community, whose defense of the Brunswick Four has been likened to the consciousness-raising that followed the Stonewall riots of June 28, 1969 in New York’s Greenwich Village. </ref>
+                                    <ref target="#social_movement">The incident galvanized the <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/yZKJoYqcAG1">Toronto</placeName> gay community, whose defense of the Brunswick Four has been likened to the consciousness-raising that followed the Stonewall riots of June 28, 1969 in New York’s <placeName key="Greenwich Village" ref="https://sws.geonames.org/5119418" ana="webannotation:http://temp.lincsproject.ca/zj4lCxeZgeH">Greenwich Village</placeName>. </ref>
                                     <ref target="#technology">The Brunswick Four may be a prime example of women’s centrality to the gay liberation movement in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/2tdhlVvEaIo">Canada</placeName>, but representing the Brunswick Four and their influence through <abbr><orgName key="Text Encoding Initiative" ref="http://viaf.org/viaf/262867947" ana="webannotation:http://temp.lincsproject.ca/eQJPCrqTh1g">TEI</orgName></abbr> helps dramatize the difficulty of trying to build a reliable and ethically responsible personography of the actors in the movement.</ref>
                                 </ref>
                             </ref>
@@ -13082,6 +13082,95 @@
         "oa:identifying",
         "edit:certaintyHigh",
         "edit:precisionHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/zj4lCxeZgeH">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/zj4lCxeZgeH",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:27:40.541Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/smO2vguJAlc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/smO2vguJAlc/selector/textPosition/ao5SpEgsWoq",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 29360,
+                "end": 29377,
+                "refinedBy": {
+                    "id": "/target/smO2vguJAlc/selector/textQuote/3RQF4TJ97Qe",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Greenwich Village",
+                    "prefix": "\n                                \n                                    The incident galvanized the Toronto gay community, whose defense of the Brunswick Four has been likened to the consciousness-raising that followed the Stonewall riots of June 28, 1969 in New York’s",
+                    "suffix": " \n                                    The Brunswick Four may be a prime example of women’s centrality to the gay liberation movement in Canada, but representing the Brunswick Four and their influence through TEI helps dramatize the difficulty of trying to build a reliable and ethically responsible personography of the actors in the movement"
+                }
+            },
+            {
+                "id": "/target/smO2vguJAlc/selector/css/fWaarbOJlnR",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/zj4lCxeZgeH]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/5119418",
+        "type": "crm:E53_Place",
+        "label": "Greenwich Village",
+        "description": "New York, New York County, US"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
