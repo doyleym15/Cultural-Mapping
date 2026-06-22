@@ -747,7 +747,7 @@
                         </ref>
                     </p>
                     <p xml:id="p1298">
-                        <ref target="#technology">What is the conscientious encoder to do in the face of such temporal specificity? <ref target="#history">The particular actors in the <abbr>LGLC</abbr> project are far removed from the cultural context that led Tipton to identify as a man in the 1940s and 1950s; however, that many individuals in the <abbr>LGLC</abbr> data set share similar stories gives us an opportunity to code for self-identification over time. <ref target="#gender_issue">
+                        <ref target="#technology">What is the conscientious encoder to do in the face of such temporal specificity? <ref target="#history">The particular actors in the <abbr>LGLC</abbr> project are far removed from the cultural context that led <persName key="Tipton, Billy, 1914-1989" ref="http://viaf.org/viaf/74692769" ana="webannotation:http://temp.lincsproject.ca/SCeezcvsyzK">Tipton</persName> to identify as a man in the 1940s and 1950s; however, that many individuals in the <abbr>LGLC</abbr> data set share similar stories gives us an opportunity to code for self-identification over time. <ref target="#gender_issue">
                                     <ref target="#sexuality">Encoding practices may offer a new way to comprehend the relationship between gender performance, sexual practice, and the cultural context embedded in identity-naming practices.</ref>
                                 </ref>
                             </ref>
@@ -757,7 +757,7 @@
                         <ref target="#technology">
                             <ref target="#theme_or_topic">If, at the start of the project, we were wary about encoding identity, we are all the more wary today about personographic tagging practices. Rather than impose identity definitions from on high, our aim is to develop a tagging method that would produce temporally specific identity definitions built from collective self-naming. <ref target="#women_writing">
                                     <ref target="#sexuality">
-                                        <ref target="#attitudes_to_women_writing">Our personographic encoding, complete with explicit and temporally specific records of self-naming, results not in a dictionary definition of what, for example, the word <q>dyke</q> meant in 1974, but rather a list of women whose self-identification produces a definition by example. Our desire is to reconstruct what Eve Kosofsky Sedgwick calls nonce taxonomies, formed through <q>the making and unmaking…of hundreds of old and new categorical imaginings…for mapping [a particular social] landscape</q>
+                                        <ref target="#attitudes_to_women_writing">Our personographic encoding, complete with explicit and temporally specific records of self-naming, results not in a dictionary definition of what, for example, the word <q>dyke</q> meant in 1974, but rather a list of women whose self-identification produces a definition by example. Our desire is to reconstruct what <persName key="Sedgwick, Eve Kosofsky, 1950-2009." ref="http://viaf.org/viaf/79051317" ana="webannotation:http://temp.lincsproject.ca/cyQGdSsefwv">Eve Kosofsky Sedgwick</persName> calls nonce taxonomies, formed through <q>the making and unmaking…of hundreds of old and new categorical imaginings…for mapping [a particular social] landscape</q>
                                             <note place="inline">
                                                 <bibl>23</bibl>
                                             </note>. Interesting in itself, this endeavour will further serve one of the central goals of our project. <ref target="#archive">In order to make sense of our populated, rather than verbal, definitions, users will have to learn about the women in the archive, thereby increasing the general knowledge about women’s contributions to gay liberation in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/12JNR9WKhUo">Canada</placeName>.</ref>
@@ -16584,6 +16584,184 @@
         "type": "crm:E21_Person",
         "label": "Tipton, Billy, 1914-1989",
         "description": "Billy Tipton American jazz musician, bandleader and talent agent (1914–1989)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/SCeezcvsyzK">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/SCeezcvsyzK",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T16:51:42.704Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/KgQOMpO0eh5",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/KgQOMpO0eh5/selector/textPosition/bPYVxVLHkOs",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 31955,
+                "end": 31961,
+                "refinedBy": {
+                    "id": "/target/KgQOMpO0eh5/selector/textQuote/Iy2M3031mVk",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Tipton",
+                    "prefix": "\n                            \n                        \n                    \n                    \n                        What is the conscientious encoder to do in the face of such temporal specificity? The particular actors in the LGLC project are far removed from the cultural context that led",
+                    "suffix": "to identify as a man in the 1940s and 1950s; however, that many individuals in the LGLC data set share similar stories gives us an opportunity to code for self-identification over time"
+                }
+            },
+            {
+                "id": "/target/KgQOMpO0eh5/selector/css/qHkmYO0fNGP",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/SCeezcvsyzK]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/74692769",
+        "type": "crm:E21_Person",
+        "label": "Tipton, Billy, 1914-1989",
+        "description": "Billy Tipton American jazz musician, bandleader and talent agent (1914–1989)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/cyQGdSsefwv">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/cyQGdSsefwv",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T16:52:36.966Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/6j4jmSpJw7Z",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/6j4jmSpJw7Z/selector/textPosition/lFqxJCOvTDr",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 33265,
+                "end": 33286,
+                "refinedBy": {
+                    "id": "/target/6j4jmSpJw7Z/selector/textQuote/SWQrZ4015jV",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Eve Kosofsky Sedgwick",
+                    "prefix": " Our desire is to reconstruct what",
+                    "suffix": "calls nonce taxonomies, formed through the making and unmaking…of hundreds of old and new categorical imaginings…for mapping [a particular social] landscape\n                                            \n                                                23\n                                            "
+                }
+            },
+            {
+                "id": "/target/6j4jmSpJw7Z/selector/css/MMzfIie4lxp",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/cyQGdSsefwv]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/79051317",
+        "type": "crm:E21_Person",
+        "label": "Sedgwick, Eve Kosofsky, 1950-2009.",
+        "description": "Sedgwick, Eve Kosofsky"
     },
     "P2_has_type": [
         "oa:identifying"
