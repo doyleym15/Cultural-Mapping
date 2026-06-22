@@ -472,7 +472,7 @@
                     </ref>
                 </p>
                 <div type="section">
-                    <head>Don McLeod and <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975</title>
+                    <head><persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/sr8WCHaY9Mo">Don McLeod</persName> and <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975</title>
                     </head>
                     <p xml:id="p1283">
                         <ref target="#intellectual_history"><persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/Gtj3xtnwxOi">Donald W. McLeod</persName> was born in 1957 in Cornwall, Ontario and grew up in Calgary, Alberta. <ref target="#education">Since receiving his master’s degree in library science from <orgName key="University of Toronto." ref="http://viaf.org/viaf/130333233" ana="webannotation:http://temp.lincsproject.ca/Bu8sSEp9NnR">the University of Toronto</orgName> in 1983, he has worked in both publishing and librarianship.</ref>
@@ -4553,6 +4553,95 @@
         "P2_has_type": [
             "edit:modeReal"
         ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/sr8WCHaY9Mo">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/sr8WCHaY9Mo",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T14:52:17.180Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/PyJwzogCOHd",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/PyJwzogCOHd/selector/textPosition/i3jMFWnKipr",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6217,
+                "end": 6227,
+                "refinedBy": {
+                    "id": "/target/PyJwzogCOHd/selector/textQuote/tdgjcybjl12",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Don McLeod",
+                    "prefix": "\n                    \n                \n                \n                   ",
+                    "suffix": "and Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975\n                    \n                    \n                        Donald W"
+                }
+            },
+            {
+                "id": "/target/PyJwzogCOHd/selector/css/VGZb1sf06cK",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/sr8WCHaY9Mo]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/26046460",
+        "type": "crm:E21_Person",
+        "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
+        "description": "McLeod, Donald W."
     },
     "P2_has_type": [
         "oa:identifying"
