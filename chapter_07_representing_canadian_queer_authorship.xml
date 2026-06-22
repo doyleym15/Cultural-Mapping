@@ -420,7 +420,7 @@
                             <ref target="#genre_novel">Reflecting on her life, <persName key="Rule, Jane, 1931-2007" ref="http://viaf.org/viaf/62399671" ana="webannotation:http://temp.lincsproject.ca/ybt4coMxO6l" type="real" cert="high">Jane Rule</persName> mused that after the 1964 publication of <title level="m">Desert of the Heart</title>, English Canada’s first literary lesbian novel, she <q>became, for the media, the only lesbian in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/486LJ86g4du">Canada</placeName></q>
                                 <note place="inline">
                                     <bibl>Martin S8</bibl>
-                                </note>.</ref> <persName key="Rule, Jane, 1931-2007" ref="http://viaf.org/viaf/62399671" ana="webannotation:http://temp.lincsproject.ca/4bu5TNbfTjO">Rule</persName> passed away in 2007, but not before she became a featured activist on the website of <orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/K1F3IYeYO3a">the Canadian Lesbian and Gay Archives’</orgName> National Portrait Collection and one of the few female activists from the Canadian lesbian and gay liberation movement with an entry in <title level="m">Wikipedia.</title>
+                                </note>.</ref> <persName key="Rule, Jane, 1931-2007" ref="http://viaf.org/viaf/62399671" ana="webannotation:http://temp.lincsproject.ca/4bu5TNbfTjO" type="real">Rule</persName> passed away in 2007, but not before she became a featured activist on the website of <orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/K1F3IYeYO3a">the Canadian Lesbian and Gay Archives’</orgName> National Portrait Collection and one of the few female activists from the Canadian lesbian and gay liberation movement with an entry in <title level="m">Wikipedia.</title>
                             <ref target="#politics">Her inclusion in these online spaces meets one of the political goals of the Lesbian and Gay Liberation in Canada (<abbr>LGLC</abbr>) project—namely, to increase the online visibility of queer Canadian history.</ref>
                         </ref>
                     </ref>
@@ -854,7 +854,7 @@
                                 <ref target="#genre_novel">For instance, author <persName key="Rule, Jane, 1931-2007" ref="http://viaf.org/viaf/62399671" ana="webannotation:http://temp.lincsproject.ca/KPN6xj5He2o">Jane Rule</persName> played an important role in Canadian gay history, initiating, to <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/aVWEGc6pmn9">McLeod</persName>’s mind at least, the Canadian lesbian and gay liberation movement with her publication of the lesbian themed novel, <title level="m">Desert of the Heart</title>
                                     <note place="inline">
                                         <bibl>McLeod 2</bibl>
-                                    </note>. In addition to <title level="m">Lesbian Images</title>, a study of lesbian writers</ref>, and several other novels, <ref target="#genre_journalism">Rule also wrote extensively for <title level="j">The Body Politic</title>, the Canadian gay liberation newspaper that gave birth to the <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/ZX5nPB07jYB">CLGA</orgName></abbr>. <ref target="#censorship">
+                                    </note>. In addition to <title level="m">Lesbian Images</title>, a study of lesbian writers</ref>, and several other novels, <ref target="#genre_journalism"><persName key="Rule, Jane, 1931-2007" ref="http://viaf.org/viaf/62399671" ana="webannotation:http://temp.lincsproject.ca/L3pQLyBdRtf">Rule</persName> also wrote extensively for <title level="j">The Body Politic</title>, the Canadian gay liberation newspaper that gave birth to the <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/ZX5nPB07jYB">CLGA</orgName></abbr>. <ref target="#censorship">
                                         <ref target="#historical_oppression">Her column, <title level="a">So’s Your Grandmother,</title> began in response to the police raid of the offices of the newspaper and archives after the publication of the article <title level="a">Men Loving Boys Loving Men.</title>
                                         </ref>
                                         <ref target="#censorship">To show her support for the organization and her opposition to censorship, she offered to write regularly for the duration of the legal proceedings</ref>
@@ -870,7 +870,7 @@
                             <ref target="#authority">
                                 <ref target="#theme_or_topic">We need to have a conversation, while the online sphere is still open, as to whether <orgName>Wikipedia</orgName> and  ought to be the gatekeepers of our cultural knowledge—a conversation that we can pair with activism (such as that carried out under the aegis of <abbr><orgName key="Canadian Writing Research Collaboratory" ref="http://www.wikidata.org/entity/Q134008740" ana="webannotation:http://temp.lincsproject.ca/cY0CWuY4EEH">CWRC</orgName></abbr>) and will empower traditional and citizen scholars alike. <ref target="#gender_issue">
                                         <ref target="#representation_of_women">
-                                            <ref target="#history">After all, we now know that Rule was not the only lesbian in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/eryNrw5SMNG">Canada</placeName> in 1964, nor is she the only lesbian on the Internet today. The Lesbian and Gay Liberation in Canada project seeks to represent historical lesbian and gay experience in order to make the Internet truly a digital Women’s Place.</ref>
+                                            <ref target="#history">After all, we now know that <persName key="Rule, Jane, 1931-2007" ref="http://viaf.org/viaf/62399671" ana="webannotation:http://temp.lincsproject.ca/fKrhJvBA8sv">Rule</persName> was not the only lesbian in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/eryNrw5SMNG">Canada</placeName> in 1964, nor is she the only lesbian on the Internet today. The Lesbian and Gay Liberation in Canada project seeks to represent historical lesbian and gay experience in order to make the Internet truly a digital Women’s Place.</ref>
                                         </ref>
                                     </ref>
                                 </ref>
@@ -2713,7 +2713,194 @@
         "id": "http://viaf.org/viaf/62399671",
         "type": "crm:E21_Person",
         "label": "Rule, Jane, 1931-2007",
-        "description": "Rule, Jane"
+        "description": "Rule, Jane",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/L3pQLyBdRtf">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/L3pQLyBdRtf",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T16:09:12.934Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/VsFxcTp3aIt",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/VsFxcTp3aIt/selector/textPosition/k69YxvfBQER",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 44893,
+                "end": 44897,
+                "refinedBy": {
+                    "id": "/target/VsFxcTp3aIt/selector/textQuote/thER5TYQzaE",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Rule",
+                    "prefix": " In addition to Lesbian Images, a study of lesbian writers, and several other novels,",
+                    "suffix": "also wrote extensively for The Body Politic, the Canadian gay liberation newspaper that gave birth to the CLGA"
+                }
+            },
+            {
+                "id": "/target/VsFxcTp3aIt/selector/css/OoBSQHwyi1W",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/L3pQLyBdRtf]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/62399671",
+        "type": "crm:E21_Person",
+        "label": "Rule, Jane, 1931-2007",
+        "description": "Rule, Jane",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/fKrhJvBA8sv">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/fKrhJvBA8sv",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T16:09:12.984Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/6I5DSZp4emt",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/6I5DSZp4emt/selector/textPosition/QDNDd925vSa",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 46244,
+                "end": 46248,
+                "refinedBy": {
+                    "id": "/target/6I5DSZp4emt/selector/textQuote/jWDscHvUspI",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Rule",
+                    "prefix": " \n                                        \n                                            After all, we now know that",
+                    "suffix": "was not the only lesbian in Canada in 1964, nor is she the only lesbian on the Internet today"
+                }
+            },
+            {
+                "id": "/target/6I5DSZp4emt/selector/css/D5V50CphSac",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/fKrhJvBA8sv]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/62399671",
+        "type": "crm:E21_Person",
+        "label": "Rule, Jane, 1931-2007",
+        "description": "Rule, Jane",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
