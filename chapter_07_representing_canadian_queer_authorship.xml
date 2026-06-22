@@ -458,7 +458,7 @@
                     <ref target="#technology">
                         <ref target="#gender_issue">
                             <ref target="#theme_or_topic">This chapter introduces our project in the context of <orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/ZqS5hrwBxC2">the Canadian Lesbian and Gay Archives</orgName>. First, we introduce our source text, the type of community story we aim to tell, and demonstrate how <abbr><orgName key="Text Encoding Initiative" ref="http://viaf.org/viaf/262867947" ana="webannotation:http://temp.lincsproject.ca/afiTnTeOuFv">TEI</orgName></abbr> might help us tell that story. <ref target="#representation_of_women">We go on to investigate the difficulties associated with this project: the implications of the current representation of the women in our data set on <title level="m">Wikipedia</title>, in the online instantiation of the <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/2N2t92LVVZC">CLGA</orgName></abbr>’s National Portrait Collection (<abbr>NPC</abbr>), and on the Internet more generally.</ref>
-                                <ref target="#collaboration">Using our project as a case study, we argue that digital scholarship and online activism can be paired in order to spur on the larger discussion about whether Internet behemoths like <orgName>Wikipedia</orgName> and Google should be the primary gatekeepers of our cultural history.</ref>
+                                <ref target="#collaboration">Using our project as a case study, we argue that digital scholarship and online activism can be paired in order to spur on the larger discussion about whether Internet behemoths like <orgName>Wikipedia</orgName> and  should be the primary gatekeepers of our cultural history.</ref>
                             </ref>
                         </ref>
                     </ref>
@@ -799,7 +799,7 @@
                     </p>
                     <p xml:id="p1302">
                         <ref target="#technology">
-                            <ref target="#gender_issue">It is nearly impossible to find information about Murphy through Google. Google’s new customized search results have reduced the serendipity of Google searches, returning results that Google’s algorithms suggest for each user based on previous searches. When <hi rend="italic">we</hi> search for Murphy, her <abbr>NPC</abbr> biography is elevated to our first page of Google hits because Google has collected data on our preferred search results. Our frequent visits to the National Portrait Collection through the Google homepage, rather than through direct links, ensure that we are linked to Murphy through Google. These modestly promising returns are wiped out, however, when Google’s default personalization is turned off, reducing the number of relevant hits on the first page of a Google search from one to zero. Due to Google’s reliance on personalization and <q>relevance</q> (determined in large part by the number of links on a page), it is unlikely that users who are not already running Google searches related to the Canadian lesbian and gay liberation movement will ever locate information about Murphy.</ref>
+                            <ref target="#gender_issue">It is nearly impossible to find information about Murphy through . ’s new customized search results have reduced the serendipity of  searches, returning results that ’s algorithms suggest for each user based on previous searches. When <hi rend="italic">we</hi> search for Murphy, her <abbr>NPC</abbr> biography is elevated to our first page of  hits because  has collected data on our preferred search results. Our frequent visits to the National Portrait Collection through the  homepage, rather than through direct links, ensure that we are linked to Murphy through . These modestly promising returns are wiped out, however, when ’s default personalization is turned off, reducing the number of relevant hits on the first page of a  search from one to zero. Due to ’s reliance on personalization and <q>relevance</q> (determined in large part by the number of links on a page), it is unlikely that users who are not already running  searches related to the Canadian lesbian and gay liberation movement will ever locate information about Murphy.</ref>
                         </ref>
                     </p>
                     <p xml:id="p1303">
@@ -809,7 +809,7 @@
                                     <ref target="#gender_issue">
                                         <ref target="#theme_or_topic">
                                             <ref target="#history">It is extremely difficult, even when conducting more traditional online research, to discern the connections between organizations, events, and people, and to piece together women’s involvement in Canadian <abbr>LGBT</abbr> history</ref>.</ref>
-                                        <ref target="#spatiality">For instance, via correspondence with Lamar Van Dyke (formerly Heather Beyer Elizabeth), one of the Brunswick Four, we learned the reason the four women had been at the Brunswick Tavern on the night of their arrest; Van Dyke, then co-ordinator of A Women’s Place, a feminist community centre, sought a rapprochement with Murphy, who had been working primarily with <abbr>CHAT</abbr>, an organization perceived by the women’s movement as focusing only on gay men’s issues. Searches for variations of <q>A Women’s Place</q> returned no relevant Google hits—even for us—despite the fact that A Women’s Place was the original location for what became the Toronto Women’s Bookstore, a fixture of the feminist and <abbr>LGBT</abbr> communities in <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/fLWzC2nk3rx">Toronto</placeName> for thirty-nine years (the store closed on November 30, 2012). In the <title level="m">Wikipedia</title> entry on the Toronto Women’s Bookstore, A Women’s Place is referenced in passing as an unnamed women’s resource centre located on nearby Dupont Street. <abbr><orgName key="Text Encoding Initiative" ref="http://viaf.org/viaf/262867947" ana="webannotation:http://temp.lincsproject.ca/0qC5suygYpW">TEI</orgName></abbr> will help us draw these very connections between the various events, places, and people in the <abbr>LGLC</abbr> data set within the Collaboratory.</ref>
+                                        <ref target="#spatiality">For instance, via correspondence with Lamar Van Dyke (formerly Heather Beyer Elizabeth), one of the Brunswick Four, we learned the reason the four women had been at the Brunswick Tavern on the night of their arrest; Van Dyke, then co-ordinator of A Women’s Place, a feminist community centre, sought a rapprochement with Murphy, who had been working primarily with <abbr>CHAT</abbr>, an organization perceived by the women’s movement as focusing only on gay men’s issues. Searches for variations of <q>A Women’s Place</q> returned no relevant  hits—even for us—despite the fact that A Women’s Place was the original location for what became the Toronto Women’s Bookstore, a fixture of the feminist and <abbr>LGBT</abbr> communities in <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/fLWzC2nk3rx">Toronto</placeName> for thirty-nine years (the store closed on November 30, 2012). In the <title level="m">Wikipedia</title> entry on the Toronto Women’s Bookstore, A Women’s Place is referenced in passing as an unnamed women’s resource centre located on nearby Dupont Street. <abbr><orgName key="Text Encoding Initiative" ref="http://viaf.org/viaf/262867947" ana="webannotation:http://temp.lincsproject.ca/0qC5suygYpW">TEI</orgName></abbr> will help us draw these very connections between the various events, places, and people in the <abbr>LGLC</abbr> data set within the Collaboratory.</ref>
                                     </ref>
                                 </ref>
                             </ref>
@@ -821,7 +821,7 @@
                                 <ref target="#technology">
                                     <ref target="#theme_or_topic">
                                         <ref target="#intertextuality">Although the scope of our project is currently bound by the years 1964 to 1981, the date at which Don McLeod’s chronology ends, we are keenly aware of the dearth of online information about queer trailblazers.</ref>
-                                        <ref target="#representation_of_women">Pioneering activists from the <abbr>LGLC</abbr> data set and later waves of the lesbian and gay liberation movement do not fare much better in <title level="m">Wikipedia</title> than in Google search results. <ref target="#genre_issue">Persimmon Blackbridge, author, mental health activist, and recent National Portrait Collection inductee, only appears on <title level="m">Wikipedia</title> in the entry for Kiss and Tell, her <placeName key="Vancouver" ref="https://www.geonames.org/6173331/vancouver.html" ana="webannotation:http://temp.lincsproject.ca/cMd6says2vZ">Vancouver</placeName>-based art collective. At the time of writing, Blackbridge’s name appears in red on the Kiss and Tell page, which signifies that even though she does not have a dedicated entry in <title level="m">Wikipedia</title>, at least one <title level="m">Wikipedia</title> editor has suggested that such an entry ought to exist. The Kiss and Tell <title level="m">Wikipedia</title> entry is itself an orphan—an article to which no other article links. To read about Kiss and Tell on <title level="m">Wikipedia</title> one must have prior knowledge of the collective, which works against the serendipitous knowledge acquisition that makes encyclopedias such wonderful resources. If links are the currency of the Internet in general, and in Google’s indexing algorithm and <title level="m">Wikipedia</title> more specifically, then the women in the <abbr>LGLC</abbr>’s data set lack sufficient cultural capital.</ref>
+                                        <ref target="#representation_of_women">Pioneering activists from the <abbr>LGLC</abbr> data set and later waves of the lesbian and gay liberation movement do not fare much better in <title level="m">Wikipedia</title> than in  search results. <ref target="#genre_issue">Persimmon Blackbridge, author, mental health activist, and recent National Portrait Collection inductee, only appears on <title level="m">Wikipedia</title> in the entry for Kiss and Tell, her <placeName key="Vancouver" ref="https://www.geonames.org/6173331/vancouver.html" ana="webannotation:http://temp.lincsproject.ca/cMd6says2vZ">Vancouver</placeName>-based art collective. At the time of writing, Blackbridge’s name appears in red on the Kiss and Tell page, which signifies that even though she does not have a dedicated entry in <title level="m">Wikipedia</title>, at least one <title level="m">Wikipedia</title> editor has suggested that such an entry ought to exist. The Kiss and Tell <title level="m">Wikipedia</title> entry is itself an orphan—an article to which no other article links. To read about Kiss and Tell on <title level="m">Wikipedia</title> one must have prior knowledge of the collective, which works against the serendipitous knowledge acquisition that makes encyclopedias such wonderful resources. If links are the currency of the Internet in general, and in ’s indexing algorithm and <title level="m">Wikipedia</title> more specifically, then the women in the <abbr>LGLC</abbr>’s data set lack sufficient cultural capital.</ref>
                                         </ref>
                                     </ref>
                                 </ref>
@@ -868,7 +868,7 @@
                     <p xml:id="p1308">
                         <ref target="#technology">
                             <ref target="#authority">
-                                <ref target="#theme_or_topic">We need to have a conversation, while the online sphere is still open, as to whether <orgName>Wikipedia</orgName> and Google ought to be the gatekeepers of our cultural knowledge—a conversation that we can pair with activism (such as that carried out under the aegis of <abbr><orgName key="Canadian Writing Research Collaboratory" ref="http://www.wikidata.org/entity/Q134008740" ana="webannotation:http://temp.lincsproject.ca/cY0CWuY4EEH">CWRC</orgName></abbr>) and will empower traditional and citizen scholars alike. <ref target="#gender_issue">
+                                <ref target="#theme_or_topic">We need to have a conversation, while the online sphere is still open, as to whether <orgName>Wikipedia</orgName> and  ought to be the gatekeepers of our cultural knowledge—a conversation that we can pair with activism (such as that carried out under the aegis of <abbr><orgName key="Canadian Writing Research Collaboratory" ref="http://www.wikidata.org/entity/Q134008740" ana="webannotation:http://temp.lincsproject.ca/cY0CWuY4EEH">CWRC</orgName></abbr>) and will empower traditional and citizen scholars alike. <ref target="#gender_issue">
                                         <ref target="#representation_of_women">
                                             <ref target="#history">After all, we now know that Rule was not the only lesbian in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/eryNrw5SMNG">Canada</placeName> in 1964, nor is she the only lesbian on the Internet today. The Lesbian and Gay Liberation in Canada project seeks to represent historical lesbian and gay experience in order to make the Internet truly a digital Women’s Place.</ref>
                                         </ref>
@@ -891,7 +891,7 @@
                         </bibl>
                         <bibl>. <title level="a">Collections</title>. <ref target="http://www.clga.ca/collections">http://www.clga.ca/collections</ref>
                         </bibl>
-                        <bibl>. <title level="a">Doors Open Script</title>. 30 May 2010: n. pag.</bibl>
+                        <bibl>. <title level="a"><orgName key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/T307PuFygNZ"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="vU3gwD5UCWs" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/9Y06q2cDz4x"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="oMcglygpxwT" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/fT9KFuA8gQ4"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="FXG_7MKtbCE" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/dXABEbxrUJ8"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="CTHWNRrPlih" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/PqfxH23Gwer"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="5LfQoNK8ZyI" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/bGgIVngBCeA"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="jGsbHc6EjAl" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/ewqScYC0XoQ"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="1RilK7rPSN3" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/QxdoCa60sRU"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="AIex9vP2LMp" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/hZHMt3wXmrK"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="7RZI8FF6dwJ" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/C3K3CTTrlbD"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="4c3bLX8RJof" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/tuv1zstwlzt"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="wzHCn7avqwE" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/nd8Yh1ziD5Z"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="KEpSBP3Er3O" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/0F4yEde0TGA"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="tSxIQ_Y1Sdr" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/EepIuxZFpRZ"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="5nVN8laGB6p" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/B1uWdcPOG3N"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="6jih8Bs2G8n" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/sJeof1Y9nha"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="fueBX5gZHnz" data-nerve-selected="true" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/lPj3jp36KHl">Doors Open Script</orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></title>. 30 May 2010: n. pag.</bibl>
                         <bibl>. <title level="a">National Portrait Collection/<hi xml:lang="fr-CA">La Collection nationale de portraits</hi>
                             </title>. <ref target="http://www.clga.ca/npc">http://www.clga.ca/npc</ref>
                         </bibl>
@@ -10027,6 +10027,1519 @@
         "type": "crm:E74_Group",
         "label": "Text Encoding Initiative",
         "description": "TEI (Text Encoding Initiative) El TEI és un esquema de marcatge de textos adaptat al XML"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/lPj3jp36KHl">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/lPj3jp36KHl",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:40:48.351Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ghsgjlsNC1E",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ghsgjlsNC1E/selector/textPosition/ghoDJAb0y1U",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5216,
+                "end": 5222,
+                "refinedBy": {
+                    "id": "/target/ghsgjlsNC1E/selector/textQuote/iev9vAdUqw0",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Google",
+                    "prefix": "\n                                Using our project as a case study, we argue that digital scholarship and online activism can be paired in order to spur on the larger discussion about whether Internet behemoths like Wikipedia and",
+                    "suffix": "should be the primary gatekeepers of our cultural history"
+                }
+            },
+            {
+                "id": "/target/ghsgjlsNC1E/selector/css/ArTzqB46P0h",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/lPj3jp36KHl]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/124291214",
+        "type": "crm:E74_Group",
+        "label": "Google American multinational technology company, a subsidiary of Alphabet Inc.",
+        "description": "Google firma"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/sJeof1Y9nha">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/sJeof1Y9nha",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:40:48.353Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/4H1O2u6wLNj",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/4H1O2u6wLNj/selector/textPosition/h622YIeG8Em",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 36861,
+                "end": 36867,
+                "refinedBy": {
+                    "id": "/target/4H1O2u6wLNj/selector/textQuote/yFy9NjWCKiF",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Google",
+                    "prefix": "\n                                        \n                                    \n                                \n                            \n                        \n                    \n                    \n                        \n                            It is nearly impossible to find information about Murphy through",
+                    "suffix": " Google’s new customized search results have reduced the serendipity of Google searches, returning results that Google’s algorithms suggest for each user based on previous searches"
+                }
+            },
+            {
+                "id": "/target/4H1O2u6wLNj/selector/css/D6SjotwHzDq",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/sJeof1Y9nha]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/124291214",
+        "type": "crm:E74_Group",
+        "label": "Google American multinational technology company, a subsidiary of Alphabet Inc.",
+        "description": "Google firma"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/B1uWdcPOG3N">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/B1uWdcPOG3N",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:40:48.354Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/NJ7pIZBblsJ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/NJ7pIZBblsJ/selector/textPosition/Z2mWQw4It6M",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 36869,
+                "end": 36875,
+                "refinedBy": {
+                    "id": "/target/NJ7pIZBblsJ/selector/textQuote/5LfuGQAc0L7",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Google",
+                    "prefix": "",
+                    "suffix": "s new customized search results have reduced the serendipity of Google searches, returning results that Google’s algorithms suggest for each user based on previous searches"
+                }
+            },
+            {
+                "id": "/target/NJ7pIZBblsJ/selector/css/Qv4V8A5aVag",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/B1uWdcPOG3N]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/124291214",
+        "type": "crm:E74_Group",
+        "label": "Google American multinational technology company, a subsidiary of Alphabet Inc.",
+        "description": "Google firma"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/EepIuxZFpRZ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/EepIuxZFpRZ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:40:48.356Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/21OU9acGsYb",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/21OU9acGsYb/selector/textPosition/3uqKnVeujjo",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 36940,
+                "end": 36946,
+                "refinedBy": {
+                    "id": "/target/21OU9acGsYb/selector/textQuote/QWyTWLAMRrT",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Google",
+                    "prefix": " Google’s new customized search results have reduced the serendipity of",
+                    "suffix": "searches, returning results that Google’s algorithms suggest for each user based on previous searches"
+                }
+            },
+            {
+                "id": "/target/21OU9acGsYb/selector/css/3z7gsIbmYs7",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/EepIuxZFpRZ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/124291214",
+        "type": "crm:E74_Group",
+        "label": "Google American multinational technology company, a subsidiary of Alphabet Inc.",
+        "description": "Google firma"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/0F4yEde0TGA">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/0F4yEde0TGA",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:40:48.358Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/t0bUd2Qzq0v",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/t0bUd2Qzq0v/selector/textPosition/Ts7z6RPTo22",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 36980,
+                "end": 36986,
+                "refinedBy": {
+                    "id": "/target/t0bUd2Qzq0v/selector/textQuote/R0mz5Zh08D5",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Google",
+                    "prefix": " Google’s new customized search results have reduced the serendipity of Google searches, returning results that",
+                    "suffix": "s algorithms suggest for each user based on previous searches"
+                }
+            },
+            {
+                "id": "/target/t0bUd2Qzq0v/selector/css/DP4vheGHIrp",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/0F4yEde0TGA]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/124291214",
+        "type": "crm:E74_Group",
+        "label": "Google American multinational technology company, a subsidiary of Alphabet Inc.",
+        "description": "Google firma"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/nd8Yh1ziD5Z">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/nd8Yh1ziD5Z",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:40:48.360Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/f0RczVB0ZHc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/f0RczVB0ZHc/selector/textPosition/Bu3AzlyyZLo",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 37128,
+                "end": 37134,
+                "refinedBy": {
+                    "id": "/target/f0RczVB0ZHc/selector/textQuote/DvHUn9qIPA0",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Google",
+                    "prefix": " When we search for Murphy, her NPC biography is elevated to our first page of",
+                    "suffix": "hits because Google has collected data on our preferred search results"
+                }
+            },
+            {
+                "id": "/target/f0RczVB0ZHc/selector/css/ieCVf7L2qto",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/nd8Yh1ziD5Z]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/124291214",
+        "type": "crm:E74_Group",
+        "label": "Google American multinational technology company, a subsidiary of Alphabet Inc.",
+        "description": "Google firma"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/tuv1zstwlzt">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/tuv1zstwlzt",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:40:48.362Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/0122pOixfdT",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/0122pOixfdT/selector/textPosition/8YlhnRyBXEn",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 37148,
+                "end": 37154,
+                "refinedBy": {
+                    "id": "/target/0122pOixfdT/selector/textQuote/AJ7WryevwnK",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Google",
+                    "prefix": " When we search for Murphy, her NPC biography is elevated to our first page of Google hits because",
+                    "suffix": "has collected data on our preferred search results"
+                }
+            },
+            {
+                "id": "/target/0122pOixfdT/selector/css/kpMqOneBnrL",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/tuv1zstwlzt]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/124291214",
+        "type": "crm:E74_Group",
+        "label": "Google American multinational technology company, a subsidiary of Alphabet Inc.",
+        "description": "Google firma"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/C3K3CTTrlbD">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/C3K3CTTrlbD",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:40:48.363Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/KjEyK2JPrCm",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/KjEyK2JPrCm/selector/textPosition/YnHGjMyBW35",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 37275,
+                "end": 37281,
+                "refinedBy": {
+                    "id": "/target/KjEyK2JPrCm/selector/textQuote/N9MKmPgWBmk",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Google",
+                    "prefix": " Our frequent visits to the National Portrait Collection through the",
+                    "suffix": "homepage, rather than through direct links, ensure that we are linked to Murphy through Google"
+                }
+            },
+            {
+                "id": "/target/KjEyK2JPrCm/selector/css/1aioy4Iyyf3",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/C3K3CTTrlbD]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/124291214",
+        "type": "crm:E74_Group",
+        "label": "Google American multinational technology company, a subsidiary of Alphabet Inc.",
+        "description": "Google firma"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/hZHMt3wXmrK">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/hZHMt3wXmrK",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:40:48.365Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/5iDAW4PRQ5P",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/5iDAW4PRQ5P/selector/textPosition/yC2LyUnAyg6",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 37370,
+                "end": 37376,
+                "refinedBy": {
+                    "id": "/target/5iDAW4PRQ5P/selector/textQuote/HYyUxioIzad",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Google",
+                    "prefix": " Our frequent visits to the National Portrait Collection through the Google homepage, rather than through direct links, ensure that we are linked to Murphy through",
+                    "suffix": " These modestly promising returns are wiped out, however, when Google’s default personalization is turned off, reducing the number of relevant hits on the first page of a Google search from one to zero"
+                }
+            },
+            {
+                "id": "/target/5iDAW4PRQ5P/selector/css/HPQyhIwgDLN",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/hZHMt3wXmrK]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/124291214",
+        "type": "crm:E74_Group",
+        "label": "Google American multinational technology company, a subsidiary of Alphabet Inc.",
+        "description": "Google firma"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/QxdoCa60sRU">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/QxdoCa60sRU",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:40:48.367Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/6aDZ4lC7tAj",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/6aDZ4lC7tAj/selector/textPosition/sHg2gUwmw1E",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 37440,
+                "end": 37446,
+                "refinedBy": {
+                    "id": "/target/6aDZ4lC7tAj/selector/textQuote/eCVHdoNY6YD",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Google",
+                    "prefix": " These modestly promising returns are wiped out, however, when",
+                    "suffix": "s default personalization is turned off, reducing the number of relevant hits on the first page of a Google search from one to zero"
+                }
+            },
+            {
+                "id": "/target/6aDZ4lC7tAj/selector/css/gOConAtDYbF",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/QxdoCa60sRU]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/124291214",
+        "type": "crm:E74_Group",
+        "label": "Google American multinational technology company, a subsidiary of Alphabet Inc.",
+        "description": "Google firma"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ewqScYC0XoQ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ewqScYC0XoQ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:40:48.934Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/wVUSAMQNwIx",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/wVUSAMQNwIx/selector/textPosition/gYiIJdKGV9F",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 37548,
+                "end": 37554,
+                "refinedBy": {
+                    "id": "/target/wVUSAMQNwIx/selector/textQuote/8furysYTeOK",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Google",
+                    "prefix": " These modestly promising returns are wiped out, however, when Google’s default personalization is turned off, reducing the number of relevant hits on the first page of a",
+                    "suffix": "search from one to zero"
+                }
+            },
+            {
+                "id": "/target/wVUSAMQNwIx/selector/css/V7hwh99bSb6",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ewqScYC0XoQ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/124291214",
+        "type": "crm:E74_Group",
+        "label": "Google American multinational technology company, a subsidiary of Alphabet Inc.",
+        "description": "Google firma"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/bGgIVngBCeA">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/bGgIVngBCeA",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:40:48.936Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/IVyfo47gckT",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/IVyfo47gckT/selector/textPosition/AULWapOHXa9",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 37587,
+                "end": 37593,
+                "refinedBy": {
+                    "id": "/target/IVyfo47gckT/selector/textQuote/yeuEbaDwD4x",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Google",
+                    "prefix": " Due to",
+                    "suffix": "s reliance on personalization and relevance (determined in large part by the number of links on a page), it is unlikely that users who are not already running Google searches related to the Canadian lesbian and gay liberation movement will ever locate information about Murphy"
+                }
+            },
+            {
+                "id": "/target/IVyfo47gckT/selector/css/rFXuVDjXnfg",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/bGgIVngBCeA]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/124291214",
+        "type": "crm:E74_Group",
+        "label": "Google American multinational technology company, a subsidiary of Alphabet Inc.",
+        "description": "Google firma"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/PqfxH23Gwer">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/PqfxH23Gwer",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:40:48.937Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/w4Mh01uKJOh",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/w4Mh01uKJOh/selector/textPosition/Ne66vDmw4Ra",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 37753,
+                "end": 37759,
+                "refinedBy": {
+                    "id": "/target/w4Mh01uKJOh/selector/textQuote/mTYRCmiQl9t",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Google",
+                    "prefix": " Due to Google’s reliance on personalization and relevance (determined in large part by the number of links on a page), it is unlikely that users who are not already running",
+                    "suffix": "searches related to the Canadian lesbian and gay liberation movement will ever locate information about Murphy"
+                }
+            },
+            {
+                "id": "/target/w4Mh01uKJOh/selector/css/gDFJWRjqGmo",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/PqfxH23Gwer]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/124291214",
+        "type": "crm:E74_Group",
+        "label": "Google American multinational technology company, a subsidiary of Alphabet Inc.",
+        "description": "Google firma"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/dXABEbxrUJ8">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/dXABEbxrUJ8",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:40:48.938Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/pJ2fhfHAVrD",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/pJ2fhfHAVrD/selector/textPosition/VVeFvfRwVmr",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 38931,
+                "end": 38937,
+                "refinedBy": {
+                    "id": "/target/pJ2fhfHAVrD/selector/textQuote/FhfQ8Avdv0m",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Google",
+                    "prefix": " Searches for variations of A Women’s Place returned no relevant",
+                    "suffix": "hits—even for us—despite the fact that A Women’s Place was the original location for what became the Toronto Women’s Bookstore, a fixture of the feminist and LGBT communities in Toronto for thirty-nine years (the store closed on November 30, 2012)"
+                }
+            },
+            {
+                "id": "/target/pJ2fhfHAVrD/selector/css/GUf1APkcWxP",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/dXABEbxrUJ8]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/124291214",
+        "type": "crm:E74_Group",
+        "label": "Google American multinational technology company, a subsidiary of Alphabet Inc.",
+        "description": "Google firma"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/fT9KFuA8gQ4">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/fT9KFuA8gQ4",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:40:48.940Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/orL7vE8FKHQ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/orL7vE8FKHQ/selector/textPosition/8d5zJT6bebT",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 40223,
+                "end": 40229,
+                "refinedBy": {
+                    "id": "/target/orL7vE8FKHQ/selector/textQuote/J6pcy8DEYK4",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Google",
+                    "prefix": "\n                                        Pioneering activists from the LGLC data set and later waves of the lesbian and gay liberation movement do not fare much better in Wikipedia than in",
+                    "suffix": "search results"
+                }
+            },
+            {
+                "id": "/target/orL7vE8FKHQ/selector/css/msXbrHRgmHd",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/fT9KFuA8gQ4]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/124291214",
+        "type": "crm:E74_Group",
+        "label": "Google American multinational technology company, a subsidiary of Alphabet Inc.",
+        "description": "Google firma"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/9Y06q2cDz4x">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/9Y06q2cDz4x",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:40:48.942Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/yFIJs8DHEjr",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/yFIJs8DHEjr/selector/textPosition/jRBAcBHMkqX",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 41052,
+                "end": 41058,
+                "refinedBy": {
+                    "id": "/target/yFIJs8DHEjr/selector/textQuote/7UcntJjxlcZ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Google",
+                    "prefix": " If links are the currency of the Internet in general, and in",
+                    "suffix": "s indexing algorithm and Wikipedia more specifically, then the women in the LGLC’s data set lack sufficient cultural capital"
+                }
+            },
+            {
+                "id": "/target/yFIJs8DHEjr/selector/css/wTFM5mfBvoi",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/9Y06q2cDz4x]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/124291214",
+        "type": "crm:E74_Group",
+        "label": "Google American multinational technology company, a subsidiary of Alphabet Inc.",
+        "description": "Google firma"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/T307PuFygNZ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/T307PuFygNZ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T15:40:48.944Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/eglnK3g4yya",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/eglnK3g4yya/selector/textPosition/hhA6ZvkD7tr",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 45915,
+                "end": 45921,
+                "refinedBy": {
+                    "id": "/target/eglnK3g4yya/selector/textQuote/4aO2rKHoZuP",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Google",
+                    "prefix": "\n                            \n                        \n                    \n                    \n                        \n                            \n                                We need to have a conversation, while the online sphere is still open, as to whether Wikipedia and",
+                    "suffix": "ought to be the gatekeepers of our cultural knowledge—a conversation that we can pair with activism (such as that carried out under the aegis of CWRC) and will empower traditional and citizen scholars alike"
+                }
+            },
+            {
+                "id": "/target/eglnK3g4yya/selector/css/bpE4DIYMGQF",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/T307PuFygNZ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/124291214",
+        "type": "crm:E74_Group",
+        "label": "Google American multinational technology company, a subsidiary of Alphabet Inc.",
+        "description": "Google firma"
     },
     "P2_has_type": [
         "oa:identifying"
