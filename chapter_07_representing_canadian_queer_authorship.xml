@@ -413,7 +413,7 @@
                     <title level="a">Representing Canadian Queer Authorship</title>
                 </head>
                 <byline>Making the Internet a Women’s Place</byline>
-                <docAuthor> Michelle Schwartz &amp; Constance Crompton</docAuthor>
+                <docAuthor> <persName key="Schwartz, Michelle" ref="https://orcid.org/0000-0002-3298-4871" ana="webannotation:http://temp.lincsproject.ca/DvSUcCgu7kt">Michelle Schwartz</persName> &amp; Constance Crompton</docAuthor>
                 <p xml:id="p1278">
                     <ref target="#gender_issue">
                         <ref target="#sexuality">
@@ -891,7 +891,7 @@
                         </bibl>
                         <bibl>. <title level="a">Collections</title>. <ref target="http://www.clga.ca/collections">http://www.clga.ca/collections</ref>
                         </bibl>
-                        <bibl>. <title level="a"><orgName key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/T307PuFygNZ"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="vU3gwD5UCWs" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/9Y06q2cDz4x"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="oMcglygpxwT" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/fT9KFuA8gQ4"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="FXG_7MKtbCE" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/dXABEbxrUJ8"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="CTHWNRrPlih" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/PqfxH23Gwer"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="5LfQoNK8ZyI" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/bGgIVngBCeA"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="jGsbHc6EjAl" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/ewqScYC0XoQ"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="1RilK7rPSN3" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/QxdoCa60sRU"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="AIex9vP2LMp" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/hZHMt3wXmrK"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="7RZI8FF6dwJ" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/C3K3CTTrlbD"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="4c3bLX8RJof" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/tuv1zstwlzt"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="wzHCn7avqwE" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/nd8Yh1ziD5Z"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="KEpSBP3Er3O" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/0F4yEde0TGA"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="tSxIQ_Y1Sdr" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/EepIuxZFpRZ"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="5nVN8laGB6p" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/B1uWdcPOG3N"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="6jih8Bs2G8n" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/sJeof1Y9nha"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="fueBX5gZHnz" data-nerve-selected="true" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/lPj3jp36KHl" type="real" data-nerve-action="hover" cert="high">Doors Open Script</orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></title>. 30 May 2010: n. pag.</bibl>
+                        <bibl>. <title level="a"><orgName key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/T307PuFygNZ"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="vU3gwD5UCWs" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/9Y06q2cDz4x"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="oMcglygpxwT" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/fT9KFuA8gQ4"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="FXG_7MKtbCE" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/dXABEbxrUJ8"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="CTHWNRrPlih" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/PqfxH23Gwer"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="5LfQoNK8ZyI" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/bGgIVngBCeA"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="jGsbHc6EjAl" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/ewqScYC0XoQ"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="1RilK7rPSN3" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/QxdoCa60sRU"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="AIex9vP2LMp" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/hZHMt3wXmrK"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="7RZI8FF6dwJ" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/C3K3CTTrlbD"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="4c3bLX8RJof" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/tuv1zstwlzt"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="wzHCn7avqwE" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/nd8Yh1ziD5Z"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="KEpSBP3Er3O" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/0F4yEde0TGA"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="tSxIQ_Y1Sdr" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/EepIuxZFpRZ"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="5nVN8laGB6p" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/B1uWdcPOG3N"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="6jih8Bs2G8n" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/sJeof1Y9nha"><orgName class="nerve-entity" data-nerve-entity-type="organization" data-nerve-status="approved" data-nerve-wa-uuid="fueBX5gZHnz" key="Google American multinational technology company, a subsidiary of Alphabet Inc." ref="http://viaf.org/viaf/124291214" ana="webannotation:http://temp.lincsproject.ca/lPj3jp36KHl" type="real" cert="high">Doors Open Script</orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></orgName></title>. 30 May 2010: n. pag.</bibl>
                         <bibl>. <title level="a">National Portrait Collection/<hi xml:lang="fr-CA">La Collection nationale de portraits</hi>
                             </title>. <ref target="http://www.clga.ca/npc">http://www.clga.ca/npc</ref>
                         </bibl>
@@ -926,6 +926,95 @@
 <xenoData>
 			
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/DvSUcCgu7kt">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/DvSUcCgu7kt",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-22T16:02:32.193Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Vu7ntu282Ku",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Vu7ntu282Ku/selector/textPosition/xMcTom1e3QU",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 185,
+                "end": 202,
+                "refinedBy": {
+                    "id": "/target/Vu7ntu282Ku/selector/textQuote/PMw1uIA0Mq7",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Michelle Schwartz",
+                    "prefix": "\n        \n            \n                \n                    Representing Canadian Queer Authorship\n                \n                Making the Internet a Women’s Place\n                ",
+                    "suffix": "& Constance Crompton\n                \n                    \n                        \n                            Reflecting on her life, Jane Rule mused that after the 1964 publication of Desert of the Heart, English Canada’s first literary lesbian novel, she became, for the media, the only lesbian in Canada\n                                \n                                    Martin S8\n                                "
+                }
+            },
+            {
+                "id": "/target/Vu7ntu282Ku/selector/css/n8sqn2Xdhze",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/DvSUcCgu7kt]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://orcid.org/0000-0002-3298-4871",
+        "label": "Schwartz, Michelle",
+        "type": "crm:E21_Person",
+        "entityType": "crm:E21_Person"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
 				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/486LJ86g4du">
 <![CDATA[{
