@@ -757,7 +757,7 @@
                         <ref target="#technology">
                             <ref target="#theme_or_topic">If, at the start of the project, we were wary about encoding identity, we are all the more wary today about personographic tagging practices. Rather than impose identity definitions from on high, our aim is to develop a tagging method that would produce temporally specific identity definitions built from collective self-naming. <ref target="#women_writing">
                                     <ref target="#sexuality">
-                                        <ref target="#attitudes_to_women_writing">Our personographic encoding, complete with explicit and temporally specific records of self-naming, results not in a dictionary definition of what, for example, the word <q>dyke</q> meant in 1974, but rather a list of women whose self-identification produces a definition by example. Our desire is to reconstruct what <persName key="Sedgwick, Eve Kosofsky, 1950-2009." ref="http://viaf.org/viaf/79051317" ana="webannotation:http://temp.lincsproject.ca/cyQGdSsefwv">Eve Kosofsky Sedgwick</persName> calls nonce taxonomies, formed through <q>the making and unmaking…of hundreds of old and new categorical imaginings…for mapping [a particular social] landscape</q>
+                                        <ref target="#attitudes_to_women_writing">Our personographic encoding, complete with explicit and temporally specific records of self-naming, results not in a dictionary definition of what, for example, the word <q>dyke</q> meant in 1974, but rather a list of women whose self-identification produces a definition by example. Our desire is to reconstruct what <persName key="Sedgwick, Eve Kosofsky, 1950-2009." ref="http://viaf.org/viaf/79051317" ana="webannotation:http://temp.lincsproject.ca/cyQGdSsefwv" type="real">Eve Kosofsky Sedgwick</persName> calls nonce taxonomies, formed through <q>the making and unmaking…of hundreds of old and new categorical imaginings…for mapping [a particular social] landscape</q>
                                             <note place="inline">
                                                 <bibl>23</bibl>
                                             </note>. Interesting in itself, this endeavour will further serve one of the central goals of our project. <ref target="#archive">In order to make sense of our populated, rather than verbal, definitions, users will have to learn about the women in the archive, thereby increasing the general knowledge about women’s contributions to gay liberation in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/12JNR9WKhUo">Canada</placeName>.</ref>
@@ -16761,7 +16761,10 @@
         "id": "http://viaf.org/viaf/79051317",
         "type": "crm:E21_Person",
         "label": "Sedgwick, Eve Kosofsky, 1950-2009.",
-        "description": "Sedgwick, Eve Kosofsky"
+        "description": "Sedgwick, Eve Kosofsky",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
