@@ -508,7 +508,7 @@
                     <p xml:id="p1285">
                         <ref target="#authorship">
                             <ref target="#intellectual_history">From 1989 to 1996, during his free time, <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/8RQcZTN9Cq6">McLeod</persName> laboured over his chronology. <ref target="#archival_location">
-                                    <ref target="#gender_issue">The <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/CRsPAPiuBDr">CLGA</orgName></abbr> served as the base of operations for his research, as the archive possesses the world’s largest collection of lesbian and gay periodicals, as well as the records for many of the most influential gay liberation organizations for the period in question. <ref target="#collaboration">Along with the <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/nwrkyzLqmzU">CLGA</orgName></abbr>, the holdings of two other organizations formed the tripartite backbone of the sources for <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/yicmxZIz5D9">McLeod</persName>’s book: <orgName key="Archives gaies du Québec" ref="http://id.lincsproject.ca/3HH5TcSMH8A" ana="webannotation:http://temp.lincsproject.ca/5oe34S57Tah" type="real" cert="high">the Archives gaies du Québec</orgName> in <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/gtfCSGU9a9u" type="real" cert="high" precision="high">Montreal</placeName>, and <orgName key="Canadian Women's Movement Archives Collection" ref="http://www.wikidata.org/entity/Q102076381" ana="webannotation:http://temp.lincsproject.ca/9ohuP954fMF" type="real">the Canadian Women’s Movement Archives</orgName> in <placeName key="Ottawa" ref="https://www.geonames.org/6094817/ottawa.html" ana="webannotation:http://temp.lincsproject.ca/wP2mYrgwHY7" type="real" cert="high" precision="high">Ottawa</placeName>. <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/f8MkjOzbUjL">McLeod</persName> supplemented these collections with materials found in the archives of the University of British Columbia and the New York Public Library, and further augmented them with accounts from his direct correspondence with fifty of the key actors in the events mentioned in his book.</ref> These individuals were called upon to correct errors or misconceptions and to offer additional sources of information. Finally, <q>more than ten of them were asked to examine an earl[y] draft of the project and were able to offer cogent advice</q>
+                                    <ref target="#gender_issue">The <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/CRsPAPiuBDr">CLGA</orgName></abbr> served as the base of operations for his research, as the archive possesses the world’s largest collection of lesbian and gay periodicals, as well as the records for many of the most influential gay liberation organizations for the period in question. <ref target="#collaboration">Along with the <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/nwrkyzLqmzU">CLGA</orgName></abbr>, the holdings of two other organizations formed the tripartite backbone of the sources for <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/yicmxZIz5D9">McLeod</persName>’s book: <orgName key="Archives gaies du Québec" ref="http://id.lincsproject.ca/3HH5TcSMH8A" ana="webannotation:http://temp.lincsproject.ca/5oe34S57Tah" type="real" cert="high">the Archives gaies du Québec</orgName> in <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/gtfCSGU9a9u" type="real" cert="high" precision="high">Montreal</placeName>, and <orgName key="Canadian Women's Movement Archives Collection" ref="http://www.wikidata.org/entity/Q102076381" ana="webannotation:http://temp.lincsproject.ca/9ohuP954fMF" type="real" cert="high">the Canadian Women’s Movement Archives</orgName> in <placeName key="Ottawa" ref="https://www.geonames.org/6094817/ottawa.html" ana="webannotation:http://temp.lincsproject.ca/wP2mYrgwHY7" type="real" cert="high" precision="high">Ottawa</placeName>. <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/f8MkjOzbUjL">McLeod</persName> supplemented these collections with materials found in the archives of <orgName key="University of British Columbia." ref="http://viaf.org/viaf/134507210" ana="webannotation:http://temp.lincsproject.ca/HQ6RIqATwmb">the University of British Columbia</orgName> and the New York Public Library, and further augmented them with accounts from his direct correspondence with fifty of the key actors in the events mentioned in his book.</ref> These individuals were called upon to correct errors or misconceptions and to offer additional sources of information. Finally, <q>more than ten of them were asked to examine an earl[y] draft of the project and were able to offer cogent advice</q>
                                         <note place="inline">
                                             <bibl><persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/C1EmCGEBeHB">McLeod</persName> ix</bibl>
                                         </note>.</ref>
@@ -17625,7 +17625,8 @@
         ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh"
     ]
 }]]>
 				
@@ -17715,6 +17716,95 @@
         "P2_has_type": [
             "edit:modeReal"
         ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/HQ6RIqATwmb">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/HQ6RIqATwmb",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T19:01:14.097Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/QWZHe1A4xvD",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/QWZHe1A4xvD/selector/textPosition/hOZsuBtFhwm",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 9816,
+                "end": 9850,
+                "refinedBy": {
+                    "id": "/target/QWZHe1A4xvD/selector/textQuote/HZARbafAVqN",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the University of British Columbia",
+                    "prefix": " McLeod supplemented these collections with materials found in the archives of",
+                    "suffix": "and the New York Public Library, and further augmented them with accounts from his direct correspondence with fifty of the key actors in the events mentioned in his book"
+                }
+            },
+            {
+                "id": "/target/QWZHe1A4xvD/selector/css/jOb2MdVR3KO",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/HQ6RIqATwmb]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/134507210",
+        "type": "crm:E74_Group",
+        "label": "University of British Columbia.",
+        "description": "Université de la Colombie-Britannique université canadienne située à Vancouver en Colombie-Britannique"
     },
     "P2_has_type": [
         "oa:identifying"
