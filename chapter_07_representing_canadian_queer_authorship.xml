@@ -600,7 +600,7 @@
                                                     <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/mf8ojBJoiCI">CLGA</orgName></abbr>, <title level="a">The Collective Years</title>
                                                 </bibl>
                                             </note>. <ref target="#historical_oppression">
-                                                <ref target="#sexuality">By printing cartoons depicting oral sex to articles about fist fucking, the collective provoked the Morality Squad of <orgName key="Metropolitan Toronto (Ont.). Police Force" ref="http://viaf.org/viaf/134786318" ana="webannotation:http://temp.lincsproject.ca/KVmYHLK0RNa">the Metropolitan Toronto Police</orgName> to remove issues of <title level="j">The Body Politic</title> from newsstands, and the joint <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/Z69RpsAQaEH">Toronto</placeName>–provincial pornography squad (known as <q>
+                                                <ref target="#sexuality">By printing cartoons depicting oral sex to articles about fist fucking, the collective provoked the Morality Squad of <orgName key="Metropolitan Toronto (Ont.). Police Force" ref="http://viaf.org/viaf/134786318" ana="webannotation:http://temp.lincsproject.ca/KVmYHLK0RNa" type="real">the Metropolitan Toronto Police</orgName> to remove issues of <title level="j">The Body Politic</title> from newsstands, and the joint <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/Z69RpsAQaEH">Toronto</placeName>–provincial pornography squad (known as <q>
                                                         <orgName>Operation P</orgName>
                                                     </q>) to raid its offices and seize crates of material, including the newspaper’s subscription lists <note place="inline">
                                                         <bibl>Bébout, <title level="a">Promiscuous</title>
@@ -18170,7 +18170,10 @@
     "body": {
         "id": "http://viaf.org/viaf/134786318",
         "type": "crm:E74_Group",
-        "label": "Metropolitan Toronto (Ont.). Police Force"
+        "label": "Metropolitan Toronto (Ont.). Police Force",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
