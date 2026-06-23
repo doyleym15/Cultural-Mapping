@@ -840,7 +840,7 @@
                     <p xml:id="p1306">
                         <ref target="#theme_or_topic">
                             <ref target="#technology">
-                                <ref target="#attitudes_to_women_writing">Our findings are consistent with the general trend in <title level="m">Wikipedia</title>. <ref target="#gender_issue">Using length as a proxy for quality, Shyong Lam, a computer scientist from the University of Minnesota, has noted that the <title level="m">Wikipedia</title> content that attracts male editors is of higher quality than the content that attracts female editors. We are especially interested in the distribution of gendered articles across <title level="m">Wikipedia</title>’s seven content areas: Arts, Geography, Health, History, People, Philosophy and Religion, and Science. <ref target="#writing_climate">Women are more likely to contribute to <title level="a">Arts</title> and <title level="a">People</title> (the areas most relevant to our project) than they are to other content areas, but, due to the relative lack of female <title level="m">Wikipedia</title> editors, entries on men in the <title level="a">Arts</title> and <title level="a">People</title> sections outnumber those on women by a ratio of ten to one.<note xml:id="n74" place="end">According to Lam, who was using data from 2008, 11.8 per cent of <title level="a">People</title> and <title level="a">Arts</title> contributors are self-identified women <bibl>Lam et al.</bibl>.</note>
+                                <ref target="#attitudes_to_women_writing">Our findings are consistent with the general trend in <title level="m">Wikipedia</title>. <ref target="#gender_issue">Using length as a proxy for quality, <persName key="Shyong K. Lam" ref="http://www.wikidata.org/entity/Q67218987" ana="webannotation:http://temp.lincsproject.ca/xClHuTn4Ip7">Shyong Lam</persName>, a computer scientist from the University of Minnesota, has noted that the <title level="m">Wikipedia</title> content that attracts male editors is of higher quality than the content that attracts female editors. We are especially interested in the distribution of gendered articles across <title level="m">Wikipedia</title>’s seven content areas: Arts, Geography, Health, History, People, Philosophy and Religion, and Science. <ref target="#writing_climate">Women are more likely to contribute to <title level="a">Arts</title> and <title level="a">People</title> (the areas most relevant to our project) than they are to other content areas, but, due to the relative lack of female <title level="m">Wikipedia</title> editors, entries on men in the <title level="a">Arts</title> and <title level="a">People</title> sections outnumber those on women by a ratio of ten to one.<note xml:id="n74" place="end">According to Lam, who was using data from 2008, 11.8 per cent of <title level="a">People</title> and <title level="a">Arts</title> contributors are self-identified women <bibl>Lam et al.</bibl>.</note>
                                         </ref>
                                         <ref target="#women_writing">Lam attributes this gap to the culture of <title level="m">Wikipedia</title>: women do not have a critical mass in the encyclopedia, and the <orgName>Wikipedia</orgName> community treats them far less affably than it does men. Just 16 per cent of <title level="m">Wikipedia</title> editors are women, and new female editors are more likely than their male counterparts to have their edits reversed. <ref target="#sexuality">Women’s lack of participation in <title level="m">Wikipedia</title> has skewed the encyclopedia’s content, quality, and, by extension, the visibility of subjects that, due to the enculturated differences between the sexes, are of particular interest to women (including the lesbian focused events, places, and women in the Lesbian and Gay Liberation in Canada data set).</ref>
                                         </ref>
@@ -17620,6 +17620,95 @@
         "type": "crm:E21_Person",
         "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
         "description": "McLeod, Donald W."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/xClHuTn4Ip7">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/xClHuTn4Ip7",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T18:02:57.244Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/fYPHn4kuVYO",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/fYPHn4kuVYO/selector/textPosition/Kk7IjFb6ouw",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 42308,
+                "end": 42318,
+                "refinedBy": {
+                    "id": "/target/fYPHn4kuVYO/selector/textQuote/LCwDFanlUyN",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Shyong Lam",
+                    "prefix": " Using length as a proxy for quality,",
+                    "suffix": " a computer scientist from the University of Minnesota, has noted that the Wikipedia content that attracts male editors is of higher quality than the content that attracts female editors"
+                }
+            },
+            {
+                "id": "/target/fYPHn4kuVYO/selector/css/A06mU2B8qvP",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/xClHuTn4Ip7]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q67218987",
+        "type": "crm:E21_Person",
+        "label": "Shyong K. Lam",
+        "description": "computer scientist at the University of Minnesota"
     },
     "P2_has_type": [
         "oa:identifying"
