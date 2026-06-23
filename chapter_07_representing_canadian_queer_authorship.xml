@@ -915,7 +915,7 @@
                         <bibl>Schwabel, Fania. <title level="a">Our Shocking Past: Queer Youth Offer Four Quickie Histories.</title>
                             <title level="j">Xtra!</title> 23 September 1999: n. pag.</bibl>
                         <bibl><persName key="Sedgwick, Eve Kosofsky, 1950-2009." ref="http://viaf.org/viaf/79051317" ana="webannotation:http://temp.lincsproject.ca/tWciuOjotRa">Sedgwick</persName>, Eve Kosofsky. <title level="m">Epistemology of the Closet.</title> <placeName key="Berkely" ref="https://www.geonames.org/5327684/berkeley.html" ana="webannotation:http://temp.lincsproject.ca/9yTBMtYGxya" type="real" cert="high" precision="high">Berkeley</placeName>: University of California Press, 1990.</bibl>
-                        <bibl>Warner, Tom. <title level="m">Never Going Back: A History of Queer Activism in Canada.</title> <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/vOc6wMEzSP6">Toronto</placeName>: University of Toronto Press, 2002.</bibl>
+                        <bibl>Warner, Tom. <title level="m">Never Going Back: A History of Queer Activism in Canada.</title> <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/vOc6wMEzSP6">Toronto</placeName>: <orgName key="University of Toronto. Press" ref="http://viaf.org/viaf/126595939" ana="webannotation:http://temp.lincsproject.ca/L06x7H2yjTc">University of Toronto Press</orgName>, 2002.</bibl>
                     </listBibl>
                 </div>
             </div>
@@ -19082,6 +19082,95 @@
     "P2_has_type": [
         "oa:identifying",
         "edit:certaintyHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/L06x7H2yjTc">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/L06x7H2yjTc",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T19:33:33.217Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/UwI8eNzw2ZC",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/UwI8eNzw2ZC/selector/textPosition/ZMl27J4TFDt",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 50167,
+                "end": 50194,
+                "refinedBy": {
+                    "id": "/target/UwI8eNzw2ZC/selector/textQuote/58ZBlzWQ6sd",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "University of Toronto Press",
+                    "prefix": " Toronto:",
+                    "suffix": " 2002"
+                }
+            },
+            {
+                "id": "/target/UwI8eNzw2ZC/selector/css/o573U4wHNO3",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/L06x7H2yjTc]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/126595939",
+        "type": "crm:E74_Group",
+        "label": "University of Toronto. Press",
+        "description": "University of Toronto Press maison d'édition"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
