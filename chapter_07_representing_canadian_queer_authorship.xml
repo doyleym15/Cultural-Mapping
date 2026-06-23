@@ -883,7 +883,7 @@
                     <listBibl>
                         <bibl><persName key="Averill, Harold A. (Harold Arthur), 1945-" ref="http://viaf.org/viaf/48201576" ana="webannotation:http://temp.lincsproject.ca/mGVqQAvfLAQ" type="real">Averill</persName>, Harold. <title level="a">
                                 <q>Re: Women’s Accessions</q>. Email to the authors</title>. 5 March 2011.</bibl>
-                        <bibl><persName key="Bébout, Rick 1950-2009" ref="http://viaf.org/viaf/90149841846502840078" ana="webannotation:http://temp.lincsproject.ca/SXgjlBnCopB">Bébout</persName>, Rick. <title level="m">Promiscuous Affections: A Life in the Bar, 1969–2000.</title> <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/AV0GYTUqogE">Toronto</placeName>: n.p., 2003.</bibl>
+                        <bibl><persName key="Bébout, Rick 1950-2009" ref="http://viaf.org/viaf/90149841846502840078" ana="webannotation:http://temp.lincsproject.ca/SXgjlBnCopB" type="real" cert="high">Bébout</persName>, Rick. <title level="m">Promiscuous Affections: A Life in the Bar, 1969–2000.</title> <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/AV0GYTUqogE">Toronto</placeName>: n.p., 2003.</bibl>
                         <bibl>. <title level="m">Text Crimes: Yet Again…The Issue That Won’t Go Away</title>. <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/2XpXHHtkf16">Toronto</placeName>: n.p., 2003.</bibl>
                         <bibl>Canadian Lesbian and Gay Archives (<abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/WInZ6lB5Se4">CLGA</orgName></abbr>). <title level="a">About Us</title>. <ref target="http://www.clga.ca/about-us">http://www.clga.ca/about-us</ref>
                         </bibl>
@@ -18244,10 +18244,14 @@
     "body": {
         "id": "http://viaf.org/viaf/90149841846502840078",
         "type": "crm:E21_Person",
-        "label": "Bébout, Rick 1950-2009"
+        "label": "Bébout, Rick 1950-2009",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh"
     ]
 }]]>
 				
