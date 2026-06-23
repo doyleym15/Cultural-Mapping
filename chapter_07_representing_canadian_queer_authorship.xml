@@ -899,7 +899,7 @@
                         <bibl><persName key="Halberstam, Jack, 1961-...." ref="http://viaf.org/viaf/56760858" ana="webannotation:http://temp.lincsproject.ca/uYu06xOY0ah" type="real" cert="medium">Halberstam</persName>, J. Jack. <title level="a">Transgender Butch: Butch/<hi rend="small-caps">ftm</hi> Border Wars and the Masculine Continuum</title>. <title level="j">
                                 <hi rend="small-capitals">gql</hi>: A Journal of Lesbian and Gay Studies</title> 4.2 (1998): 287–310.</bibl>
                         <bibl>Jackson, <persName key="Jackson, Ed" ref="http://viaf.org/viaf/296159032578101180999" ana="webannotation:http://temp.lincsproject.ca/mnNkbpzW6cv">Ed</persName>, and <persName key="Persky, Stan, 1941-" ref="http://viaf.org/viaf/57448780" ana="webannotation:http://temp.lincsproject.ca/cQZWHshdmf6">Stan Persky</persName>, eds. <title level="m">Flaunting It!: A Decade of Gay Journalism from <title level="j">The Body Politic</title>: An Anthology</title>. <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/0WBvY2hMCME">Toronto</placeName>: Pink Triangle Press; <placeName key="Vancouver" ref="https://www.geonames.org/6173331/vancouver.html" ana="webannotation:http://temp.lincsproject.ca/gOiBI5udZ85">Vancouver</placeName>: New Star Books, 1982.</bibl>
-                        <bibl>Lam, Shyong, et al. <title level="a">WP: Clubhouse? An Exploration of <title level="m">Wikipedia</title>’s Gender Imbalance</title>. <title level="m">WikiSym 2011: Seventh International Symposium on Wikis and Open Collaboration</title>. <ref target="http://dl.acm.org/citation.cfm?doid=2038558.2038560">http://dl.acm.org/citation.cfm?doid=2038558.2038560</ref>
+                        <bibl>Lam, <persName key="Shyong K. Lam" ref="http://www.wikidata.org/entity/Q67218987" ana="webannotation:http://temp.lincsproject.ca/7gqsmKOc2ok">Shyong</persName>, et al. <title level="a">WP: Clubhouse? An Exploration of <title level="m">Wikipedia</title>’s Gender Imbalance</title>. <title level="m">WikiSym 2011: Seventh International Symposium on Wikis and Open Collaboration</title>. <ref target="http://dl.acm.org/citation.cfm?doid=2038558.2038560">http://dl.acm.org/citation.cfm?doid=2038558.2038560</ref>
                         </bibl>
                         <bibl>Martin, Sandra. <title level="a"> Novelist Wrote a Cult Classic and Became a Lesbian Role Model</title>. <title level="j">Globe and Mail</title> 2 November 2007: S8.</bibl>
                         <bibl><persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/winmQfH9wIQ">McLeod</persName>, Donald W. <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975</title>. <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/e1F4NCM5Cm7">Toronto</placeName>: <hi rend="small-caps">ecw</hi> Press/Homewood Books, 1996.</bibl>
@@ -17620,6 +17620,95 @@
         "type": "crm:E21_Person",
         "label": "McLeod, Donald W. (Donald Wilfred), 1957-",
         "description": "McLeod, Donald W."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/7gqsmKOc2ok">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/7gqsmKOc2ok",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T18:02:38.756Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/67866bc1E8W",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/67866bc1E8W/selector/textPosition/Ql2B14IDIN3",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 48315,
+                "end": 48321,
+                "refinedBy": {
+                    "id": "/target/67866bc1E8W/selector/textQuote/GvKomRsr13F",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Shyong",
+                    "prefix": "\n                        Lam,",
+                    "suffix": " et al"
+                }
+            },
+            {
+                "id": "/target/67866bc1E8W/selector/css/0CA7KlyaUYM",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/7gqsmKOc2ok]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q67218987",
+        "type": "crm:E21_Person",
+        "label": "Shyong K. Lam",
+        "description": "computer scientist at the University of Minnesota"
     },
     "P2_has_type": [
         "oa:identifying"
