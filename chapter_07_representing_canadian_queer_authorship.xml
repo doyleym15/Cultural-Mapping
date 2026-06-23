@@ -883,7 +883,7 @@
                     <listBibl>
                         <bibl><persName key="Averill, Harold A. (Harold Arthur), 1945-" ref="http://viaf.org/viaf/48201576" ana="webannotation:http://temp.lincsproject.ca/mGVqQAvfLAQ" type="real">Averill</persName>, Harold. <title level="a">
                                 <q>Re: Women’s Accessions</q>. Email to the authors</title>. 5 March 2011.</bibl>
-                        <bibl>Bébout, Rick. <title level="m">Promiscuous Affections: A Life in the Bar, 1969–2000.</title> <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/AV0GYTUqogE">Toronto</placeName>: n.p., 2003.</bibl>
+                        <bibl><persName key="Bébout, Rick 1950-2009" ref="http://viaf.org/viaf/90149841846502840078" ana="webannotation:http://temp.lincsproject.ca/SXgjlBnCopB">Bébout</persName>, Rick. <title level="m">Promiscuous Affections: A Life in the Bar, 1969–2000.</title> <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/AV0GYTUqogE">Toronto</placeName>: n.p., 2003.</bibl>
                         <bibl>. <title level="m">Text Crimes: Yet Again…The Issue That Won’t Go Away</title>. <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/2XpXHHtkf16">Toronto</placeName>: n.p., 2003.</bibl>
                         <bibl>Canadian Lesbian and Gay Archives (<abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/WInZ6lB5Se4">CLGA</orgName></abbr>). <title level="a">About Us</title>. <ref target="http://www.clga.ca/about-us">http://www.clga.ca/about-us</ref>
                         </bibl>
@@ -18157,6 +18157,94 @@
         "P2_has_type": [
             "edit:modeReal"
         ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/SXgjlBnCopB">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/SXgjlBnCopB",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T18:44:45.339Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/FjDXXf7PwAE",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/FjDXXf7PwAE/selector/textPosition/bTtDFPhAoUD",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 46840,
+                "end": 46846,
+                "refinedBy": {
+                    "id": "/target/FjDXXf7PwAE/selector/textQuote/gvlxpQoEMKA",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Bébout",
+                    "prefix": "\n                       ",
+                    "suffix": " Rick"
+                }
+            },
+            {
+                "id": "/target/FjDXXf7PwAE/selector/css/dHWe8lB9NBm",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/SXgjlBnCopB]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/90149841846502840078",
+        "type": "crm:E21_Person",
+        "label": "Bébout, Rick 1950-2009"
     },
     "P2_has_type": [
         "oa:identifying"
