@@ -523,7 +523,7 @@
                                     <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975</title> was originally published by Homewood Books in 1996 and reissued in 2011.</ref>
                                 <ref target="#history">
                                     <ref target="#social_movement">The book consists of a chronology of the first twelve years of the <q>organized homophile/gay liberation movement in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/eMSdzg3abzi">Canada</placeName>.</q>
-                                    </ref> The chronology begins with the formation of the <placeName key="Vancouver" ref="https://www.geonames.org/6173331/vancouver.html" ana="webannotation:http://temp.lincsproject.ca/Rqo9UUDUTeq" type="real" cert="high" precision="high">Vancouver</placeName>-based Association for Social Knowledge, the country’s first large-scale homophile organization. It ends with the founding of the National Gay Rights Coalition/<hi xml:lang="fr-CA">Coalition national pour les droits des homosexuels</hi>, the <q>first truly national coalition of Canadian lesbian and gay groups</q>
+                                    </ref> The chronology begins with the formation of the <placeName key="Vancouver" ref="https://www.geonames.org/6173331/vancouver.html" ana="webannotation:http://temp.lincsproject.ca/Rqo9UUDUTeq" type="real" cert="high" precision="high">Vancouver</placeName>-based <orgName key="Association for Social Knowledge" ref="http://viaf.org/viaf/123617070" ana="webannotation:http://temp.lincsproject.ca/ueM38KvN2im">Association for Social Knowledge</orgName>, the country’s first large-scale homophile organization. It ends with the founding of the National Gay Rights Coalition/<hi xml:lang="fr-CA">Coalition national pour les droits des homosexuels</hi>, the <q>first truly national coalition of Canadian lesbian and gay groups</q>
                                     <note place="inline">
                                         <bibl><persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/T1MnqQTVrXl">McLeod</persName> viii</bibl>
                                     </note>.</ref>
@@ -17905,6 +17905,94 @@
     "P2_has_type": [
         "oa:identifying",
         "edit:certaintyHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ueM38KvN2im">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ueM38KvN2im",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T19:28:58.378Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/3VteKheeP22",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/3VteKheeP22/selector/textPosition/JotY2YqRLwg",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 11098,
+                "end": 11130,
+                "refinedBy": {
+                    "id": "/target/3VteKheeP22/selector/textQuote/kQuZ0UFKMse",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Association for Social Knowledge",
+                    "prefix": "\n                                     The chronology begins with the formation of the Vancouver-based",
+                    "suffix": " the country’s first large-scale homophile organization"
+                }
+            },
+            {
+                "id": "/target/3VteKheeP22/selector/css/IBEsexPF4mV",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ueM38KvN2im]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/123617070",
+        "type": "crm:E74_Group",
+        "label": "Association for Social Knowledge"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
