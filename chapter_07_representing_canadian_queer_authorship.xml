@@ -600,7 +600,7 @@
                                                     <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/mf8ojBJoiCI">CLGA</orgName></abbr>, <title level="a">The Collective Years</title>
                                                 </bibl>
                                             </note>. <ref target="#historical_oppression">
-                                                <ref target="#sexuality">By printing cartoons depicting oral sex to articles about fist fucking, the collective provoked the Morality Squad of the Metropolitan Toronto Police to remove issues of <title level="j">The Body Politic</title> from newsstands, and the joint <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/Z69RpsAQaEH">Toronto</placeName>–provincial pornography squad (known as <q>
+                                                <ref target="#sexuality">By printing cartoons depicting oral sex to articles about fist fucking, the collective provoked the Morality Squad of <orgName key="Metropolitan Toronto (Ont.). Police Force" ref="http://viaf.org/viaf/134786318" ana="webannotation:http://temp.lincsproject.ca/KVmYHLK0RNa">the Metropolitan Toronto Police</orgName> to remove issues of <title level="j">The Body Politic</title> from newsstands, and the joint <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/Z69RpsAQaEH">Toronto</placeName>–provincial pornography squad (known as <q>
                                                         <orgName>Operation P</orgName>
                                                     </q>) to raid its offices and seize crates of material, including the newspaper’s subscription lists <note place="inline">
                                                         <bibl>Bébout, <title level="a">Promiscuous</title>
@@ -18083,6 +18083,94 @@
         "type": "crm:E74_Group",
         "label": "University of Toronto.",
         "description": "Université de Toronto université à Toronto en Ontario au Canada"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/KVmYHLK0RNa">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/KVmYHLK0RNa",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T19:32:57.577Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/HpjpF5TPjIL",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/HpjpF5TPjIL/selector/textPosition/3UB0kFXODUd",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 17797,
+                "end": 17828,
+                "refinedBy": {
+                    "id": "/target/HpjpF5TPjIL/selector/textQuote/i34Md6SEaQS",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the Metropolitan Toronto Police",
+                    "prefix": " \n                                                By printing cartoons depicting oral sex to articles about fist fucking, the collective provoked the Morality Squad of",
+                    "suffix": "to remove issues of The Body Politic from newsstands, and the joint Toronto–provincial pornography squad (known as \n                                                        Operation P\n                                                    ) to raid its offices and seize crates of material, including the newspaper’s subscription lists \n                                                        Bébout, Promiscuous\n                                                        \n                                                    \n                                                "
+                }
+            },
+            {
+                "id": "/target/HpjpF5TPjIL/selector/css/d3k81OcC1c6",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/KVmYHLK0RNa]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/134786318",
+        "type": "crm:E74_Group",
+        "label": "Metropolitan Toronto (Ont.). Police Force"
     },
     "P2_has_type": [
         "oa:identifying"
