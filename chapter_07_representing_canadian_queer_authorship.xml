@@ -540,7 +540,7 @@
                             <ref target="#theme_or_topic">
                                 <ref target="#spatiality">
                                     <ref target="#history"><persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/M2KmO0N81c0">McLeod</persName>’s chronology is structured as a series of entries, first by date, then by location. Each entry is followed by a dense bibliography of primary sources. The combination of chronology and bibliography drew us to <abbr>TEI</abbr> encoding as a potential methodology to enhance access to <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/IKcKf7ySUQi">McLeod</persName>’s text. We were not motivated simply to digitize the chronology—in fact, it is available online on <title level="m">
-                                            <abbr>LGBT</abbr> Life with Full Text</title> and as a <abbr>PDF</abbr> on <title level="m">T-Space</title>, the University of Toronto’s research repository. Rather, we saw potential in <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975</title> as both a text and a rich geospatial and temporal database of landmarks in Canadian history.</ref>
+                                            <abbr>LGBT</abbr> Life with Full Text</title> and as a <abbr>PDF</abbr> on <title level="m">T-Space</title>, <orgName key="University of Toronto." ref="http://viaf.org/viaf/130333233" ana="webannotation:http://temp.lincsproject.ca/kQrFNYG2SPi">the University of Toronto’s</orgName> research repository. Rather, we saw potential in <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975</title> as both a text and a rich geospatial and temporal database of landmarks in Canadian history.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -17997,6 +17997,95 @@
     "P2_has_type": [
         "oa:identifying",
         "edit:certaintyMedium"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/kQrFNYG2SPi">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/kQrFNYG2SPi",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T19:30:05.327Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/AwC2bFDTEpt",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/AwC2bFDTEpt/selector/textPosition/DllPK1zHFGO",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 13436,
+                "end": 13463,
+                "refinedBy": {
+                    "id": "/target/AwC2bFDTEpt/selector/textQuote/QTbU3qxn2Wn",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the University of Toronto’s",
+                    "prefix": " We were not motivated simply to digitize the chronology—in fact, it is available online on \n                                            LGBT Life with Full Text and as a PDF on T-Space,",
+                    "suffix": "research repository"
+                }
+            },
+            {
+                "id": "/target/AwC2bFDTEpt/selector/css/x5e29Dgn0Z1",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/kQrFNYG2SPi]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/130333233",
+        "type": "crm:E74_Group",
+        "label": "University of Toronto.",
+        "description": "Université de Toronto université à Toronto en Ontario au Canada"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
