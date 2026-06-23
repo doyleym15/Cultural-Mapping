@@ -840,9 +840,9 @@
                     <p xml:id="p1306">
                         <ref target="#theme_or_topic">
                             <ref target="#technology">
-                                <ref target="#attitudes_to_women_writing">Our findings are consistent with the general trend in <title level="m">Wikipedia</title>. <ref target="#gender_issue">Using length as a proxy for quality, <persName key="Shyong K. Lam" ref="http://www.wikidata.org/entity/Q67218987" ana="webannotation:http://temp.lincsproject.ca/xClHuTn4Ip7">Shyong Lam</persName>, a computer scientist from the University of Minnesota, has noted that the <title level="m">Wikipedia</title> content that attracts male editors is of higher quality than the content that attracts female editors. We are especially interested in the distribution of gendered articles across <title level="m">Wikipedia</title>’s seven content areas: Arts, Geography, Health, History, People, Philosophy and Religion, and Science. <ref target="#writing_climate">Women are more likely to contribute to <title level="a">Arts</title> and <title level="a">People</title> (the areas most relevant to our project) than they are to other content areas, but, due to the relative lack of female <title level="m">Wikipedia</title> editors, entries on men in the <title level="a">Arts</title> and <title level="a">People</title> sections outnumber those on women by a ratio of ten to one.<note xml:id="n74" place="end">According to <persName key="Shyong K. Lam" ref="http://www.wikidata.org/entity/Q67218987" ana="webannotation:http://temp.lincsproject.ca/qI0YK1hscSH">Lam</persName>, who was using data from 2008, 11.8 per cent of <title level="a">People</title> and <title level="a">Arts</title> contributors are self-identified women <bibl>Lam et al.</bibl>.</note>
+                                <ref target="#attitudes_to_women_writing">Our findings are consistent with the general trend in <title level="m">Wikipedia</title>. <ref target="#gender_issue">Using length as a proxy for quality, <persName key="Shyong K. Lam" ref="http://www.wikidata.org/entity/Q67218987" ana="webannotation:http://temp.lincsproject.ca/xClHuTn4Ip7">Shyong Lam</persName>, a computer scientist from the University of Minnesota, has noted that the <title level="m">Wikipedia</title> content that attracts male editors is of higher quality than the content that attracts female editors. We are especially interested in the distribution of gendered articles across <title level="m">Wikipedia</title>’s seven content areas: Arts, Geography, Health, History, People, Philosophy and Religion, and Science. <ref target="#writing_climate">Women are more likely to contribute to <title level="a">Arts</title> and <title level="a">People</title> (the areas most relevant to our project) than they are to other content areas, but, due to the relative lack of female <title level="m">Wikipedia</title> editors, entries on men in the <title level="a">Arts</title> and <title level="a">People</title> sections outnumber those on women by a ratio of ten to one.<note xml:id="n74" place="end">According to <persName key="Shyong K. Lam" ref="http://www.wikidata.org/entity/Q67218987" ana="webannotation:http://temp.lincsproject.ca/qI0YK1hscSH">Lam</persName>, who was using data from 2008, 11.8 per cent of <title level="a">People</title> and <title level="a">Arts</title> contributors are self-identified women <bibl><persName key="Shyong K. Lam" ref="http://www.wikidata.org/entity/Q67218987" ana="webannotation:http://temp.lincsproject.ca/pifbXoHN3m0">Lam</persName> et al.</bibl>.</note>
                                         </ref>
-                                        <ref target="#women_writing">Lam attributes this gap to the culture of <title level="m">Wikipedia</title>: women do not have a critical mass in the encyclopedia, and the <orgName>Wikipedia</orgName> community treats them far less affably than it does men. Just 16 per cent of <title level="m">Wikipedia</title> editors are women, and new female editors are more likely than their male counterparts to have their edits reversed. <ref target="#sexuality">Women’s lack of participation in <title level="m">Wikipedia</title> has skewed the encyclopedia’s content, quality, and, by extension, the visibility of subjects that, due to the enculturated differences between the sexes, are of particular interest to women (including the lesbian focused events, places, and women in the Lesbian and Gay Liberation in Canada data set).</ref>
+                                        <ref target="#women_writing"><persName key="Shyong K. Lam" ref="http://www.wikidata.org/entity/Q67218987" ana="webannotation:http://temp.lincsproject.ca/4J54pqSE8rk">Lam</persName> attributes this gap to the culture of <title level="m">Wikipedia</title>: women do not have a critical mass in the encyclopedia, and the <orgName>Wikipedia</orgName> community treats them far less affably than it does men. Just 16 per cent of <title level="m">Wikipedia</title> editors are women, and new female editors are more likely than their male counterparts to have their edits reversed. <ref target="#sexuality">Women’s lack of participation in <title level="m">Wikipedia</title> has skewed the encyclopedia’s content, quality, and, by extension, the visibility of subjects that, due to the enculturated differences between the sexes, are of particular interest to women (including the lesbian focused events, places, and women in the Lesbian and Gay Liberation in Canada data set).</ref>
                                         </ref>
                                     </ref>
                                 </ref>
@@ -881,7 +881,7 @@
                 <div type="section">
                     <head>Works Cited</head>
                     <listBibl>
-                        <bibl>Averill, Harold. <title level="a">
+                        <bibl><persName key="Averill, Harold A. (Harold Arthur), 1945-" ref="http://viaf.org/viaf/48201576" ana="webannotation:http://temp.lincsproject.ca/mGVqQAvfLAQ" type="real">Averill</persName>, Harold. <title level="a">
                                 <q>Re: Women’s Accessions</q>. Email to the authors</title>. 5 March 2011.</bibl>
                         <bibl>Bébout, Rick. <title level="m">Promiscuous Affections: A Life in the Bar, 1969–2000.</title> <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/AV0GYTUqogE">Toronto</placeName>: n.p., 2003.</bibl>
                         <bibl>. <title level="m">Text Crimes: Yet Again…The Issue That Won’t Go Away</title>. <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/2XpXHHtkf16">Toronto</placeName>: n.p., 2003.</bibl>
@@ -899,7 +899,7 @@
                         <bibl><persName key="Halberstam, Jack, 1961-...." ref="http://viaf.org/viaf/56760858" ana="webannotation:http://temp.lincsproject.ca/uYu06xOY0ah" type="real" cert="medium">Halberstam</persName>, J. Jack. <title level="a">Transgender Butch: Butch/<hi rend="small-caps">ftm</hi> Border Wars and the Masculine Continuum</title>. <title level="j">
                                 <hi rend="small-capitals">gql</hi>: A Journal of Lesbian and Gay Studies</title> 4.2 (1998): 287–310.</bibl>
                         <bibl>Jackson, <persName key="Jackson, Ed" ref="http://viaf.org/viaf/296159032578101180999" ana="webannotation:http://temp.lincsproject.ca/mnNkbpzW6cv">Ed</persName>, and <persName key="Persky, Stan, 1941-" ref="http://viaf.org/viaf/57448780" ana="webannotation:http://temp.lincsproject.ca/cQZWHshdmf6">Stan Persky</persName>, eds. <title level="m">Flaunting It!: A Decade of Gay Journalism from <title level="j">The Body Politic</title>: An Anthology</title>. <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/0WBvY2hMCME">Toronto</placeName>: Pink Triangle Press; <placeName key="Vancouver" ref="https://www.geonames.org/6173331/vancouver.html" ana="webannotation:http://temp.lincsproject.ca/gOiBI5udZ85">Vancouver</placeName>: New Star Books, 1982.</bibl>
-                        <bibl>Lam, <persName key="Shyong K. Lam" ref="http://www.wikidata.org/entity/Q67218987" ana="webannotation:http://temp.lincsproject.ca/7gqsmKOc2ok" type="real" cert="high">Shyong</persName>, et al. <title level="a">WP: Clubhouse? An Exploration of <title level="m">Wikipedia</title>’s Gender Imbalance</title>. <title level="m">WikiSym 2011: Seventh International Symposium on Wikis and Open Collaboration</title>. <ref target="http://dl.acm.org/citation.cfm?doid=2038558.2038560">http://dl.acm.org/citation.cfm?doid=2038558.2038560</ref>
+                        <bibl><persName key="Shyong K. Lam" ref="http://www.wikidata.org/entity/Q67218987" ana="webannotation:http://temp.lincsproject.ca/XFDA6FWWc3U">Lam</persName>, <persName key="Shyong K. Lam" ref="http://www.wikidata.org/entity/Q67218987" ana="webannotation:http://temp.lincsproject.ca/7gqsmKOc2ok" type="real" cert="high">Shyong</persName>, et al. <title level="a">WP: Clubhouse? An Exploration of <title level="m">Wikipedia</title>’s Gender Imbalance</title>. <title level="m">WikiSym 2011: Seventh International Symposium on Wikis and Open Collaboration</title>. <ref target="http://dl.acm.org/citation.cfm?doid=2038558.2038560">http://dl.acm.org/citation.cfm?doid=2038558.2038560</ref>
                         </bibl>
                         <bibl>Martin, Sandra. <title level="a"> Novelist Wrote a Cult Classic and Became a Lesbian Role Model</title>. <title level="j">Globe and Mail</title> 2 November 2007: S8.</bibl>
                         <bibl><persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/winmQfH9wIQ">McLeod</persName>, Donald W. <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975</title>. <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/e1F4NCM5Cm7">Toronto</placeName>: <hi rend="small-caps">ecw</hi> Press/Homewood Books, 1996.</bibl>
@@ -17798,6 +17798,365 @@
         "type": "crm:E21_Person",
         "label": "Shyong K. Lam",
         "description": "computer scientist at the University of Minnesota"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/pifbXoHN3m0">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/pifbXoHN3m0",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T18:38:27.443Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/tzvHmlunjeS",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/tzvHmlunjeS/selector/textPosition/nSIKEDfBdS0",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 43107,
+                "end": 43110,
+                "refinedBy": {
+                    "id": "/target/tzvHmlunjeS/selector/textQuote/CVW4jV6tjDv",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Lam",
+                    "prefix": "8 per cent of People and Arts contributors are self-identified women",
+                    "suffix": "et al"
+                }
+            },
+            {
+                "id": "/target/tzvHmlunjeS/selector/css/Lmy7eXFLtik",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/pifbXoHN3m0]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q67218987",
+        "type": "crm:E21_Person",
+        "label": "Shyong K. Lam",
+        "description": "computer scientist at the University of Minnesota"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/4J54pqSE8rk">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/4J54pqSE8rk",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T18:38:27.495Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/RrZ1yyln65d",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/RrZ1yyln65d/selector/textPosition/vjZRALoPW4P",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 43200,
+                "end": 43203,
+                "refinedBy": {
+                    "id": "/target/RrZ1yyln65d/selector/textQuote/K7JIsVcUtjL",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Lam",
+                    "prefix": "\n                                        \n                                       ",
+                    "suffix": "attributes this gap to the culture of Wikipedia: women do not have a critical mass in the encyclopedia, and the Wikipedia community treats them far less affably than it does men"
+                }
+            },
+            {
+                "id": "/target/RrZ1yyln65d/selector/css/30NlEU38Bnn",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/4J54pqSE8rk]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q67218987",
+        "type": "crm:E21_Person",
+        "label": "Shyong K. Lam",
+        "description": "computer scientist at the University of Minnesota"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/XFDA6FWWc3U">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/XFDA6FWWc3U",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T18:38:27.553Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/xKxo5karWsK",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/xKxo5karWsK/selector/textPosition/ztZ1UZdvlFe",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 48310,
+                "end": 48313,
+                "refinedBy": {
+                    "id": "/target/xKxo5karWsK/selector/textQuote/XBAKn6JGOUf",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Lam",
+                    "prefix": "\n                       ",
+                    "suffix": " Shyong, et al"
+                }
+            },
+            {
+                "id": "/target/xKxo5karWsK/selector/css/WliAIvadn6k",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/XFDA6FWWc3U]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q67218987",
+        "type": "crm:E21_Person",
+        "label": "Shyong K. Lam",
+        "description": "computer scientist at the University of Minnesota"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/mGVqQAvfLAQ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/mGVqQAvfLAQ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-06-23T18:42:13.532Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/CMrB8OlbDgf",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/CMrB8OlbDgf/selector/textPosition/OI3IpYfwa7S",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 46706,
+                "end": 46713,
+                "refinedBy": {
+                    "id": "/target/CMrB8OlbDgf/selector/textQuote/vSWcVg5YNED",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Averill",
+                    "prefix": "\n                                        \n                                    \n                                \n                            \n                        \n                    \n                \n                \n                    Works Cited\n                    \n                       ",
+                    "suffix": " Harold"
+                }
+            },
+            {
+                "id": "/target/CMrB8OlbDgf/selector/css/1IiKMqvP696",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/mGVqQAvfLAQ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/48201576",
+        "type": "crm:E21_Person",
+        "label": "Averill, Harold A. (Harold Arthur), 1945-",
+        "description": "Averill, Harold A. 1945-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
