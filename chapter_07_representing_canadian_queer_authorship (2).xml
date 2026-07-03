@@ -911,7 +911,7 @@
                         </bibl>
                         <bibl><orgName key="Pink Triangle Press" ref="http://viaf.org/viaf/145367045" ana="webannotation:http://temp.lincsproject.ca/CtEdZ676C3V">Pink Triangle Press</orgName>. <title level="a">The Collective Years</title>. <ref target="http://www.pinktrianglepress.com/collective-years">http://www.pinktrianglepress.com/collective-years</ref>
                         </bibl>
-                        <bibl>Rule, <persName key="Rule, Jane, 1931-2007" ref="http://viaf.org/viaf/62399671" ana="webannotation:http://temp.lincsproject.ca/pRgAGbmoBIY">Jane</persName>. <title level="m">Lesbian Images.</title> <placeName key="Garden City" ref="https://www.geonames.org/5118226/garden-city.html" ana="webannotation:http://temp.lincsproject.ca/tp7MrJNXYZb" type="real" cert="high" precision="high">Garden City</placeName>, <placeName key="New York" ref="https://www.geonames.org/5128581/new-york-city.html" ana="webannotation:http://temp.lincsproject.ca/uwvzgskww8m" type="real" cert="high" precision="high">NY</placeName>: Doubleday, 1975.</bibl>
+                        <bibl>Rule, <persName key="Rule, Jane, 1931-2007" ref="http://viaf.org/viaf/62399671" ana="webannotation:http://temp.lincsproject.ca/pRgAGbmoBIY">Jane</persName>. <title level="m">Lesbian Images.</title> <placeName key="Garden City" ref="https://www.geonames.org/5118226/garden-city.html" ana="webannotation:http://temp.lincsproject.ca/tp7MrJNXYZb" type="real" cert="high" precision="high">Garden City</placeName>, <placeName key="New York" ref="https://www.geonames.org/5128581/new-york-city.html" ana="webannotation:http://temp.lincsproject.ca/uwvzgskww8m" type="real" cert="high" precision="high">NY</placeName>: <orgName key="Doubleday &amp; Company." ref="http://viaf.org/viaf/294994700" ana="webannotation:http://temp.lincsproject.ca/LcPEUcMl0BA">Doubleday</orgName>, 1975.</bibl>
                         <bibl>Schwabel, Fania. <title level="a">Our Shocking Past: Queer Youth Offer Four Quickie Histories.</title>
                             <title level="j">Xtra!</title> 23 September 1999: n. pag.</bibl>
                         <bibl><persName key="Sedgwick, Eve Kosofsky, 1950-2009." ref="http://viaf.org/viaf/79051317" ana="webannotation:http://temp.lincsproject.ca/tWciuOjotRa">Sedgwick</persName>, Eve Kosofsky. <title level="m">Epistemology of the Closet.</title> <placeName key="Berkely" ref="https://www.geonames.org/5327684/berkeley.html" ana="webannotation:http://temp.lincsproject.ca/9yTBMtYGxya" type="real" cert="high" precision="high">Berkeley</placeName>: <orgName key="University of California press" ref="http://viaf.org/viaf/148948307" ana="webannotation:http://temp.lincsproject.ca/ayYqnZTwage">University of California Press</orgName>, 1990.</bibl>
@@ -20414,6 +20414,95 @@
         "type": "crm:E74_Group",
         "label": "Globe and Mail (Firm)",
         "description": "Globe and Mail (Firme)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/LcPEUcMl0BA">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/LcPEUcMl0BA",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-03T17:05:32.747Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/028pIleJ7QB",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/028pIleJ7QB/selector/textPosition/jQXsF6ooMBP",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 49760,
+                "end": 49769,
+                "refinedBy": {
+                    "id": "/target/028pIleJ7QB/selector/textQuote/gWfMisXzv2W",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Doubleday",
+                    "prefix": " Garden City, NY:",
+                    "suffix": " 1975"
+                }
+            },
+            {
+                "id": "/target/028pIleJ7QB/selector/css/hs2LxtAS1wm",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/LcPEUcMl0BA]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/294994700",
+        "type": "crm:E74_Group",
+        "label": "Doubleday & Company.",
+        "description": "Doubleday & Company, Inc."
     },
     "P2_has_type": [
         "oa:identifying"
