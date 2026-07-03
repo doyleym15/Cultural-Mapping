@@ -909,7 +909,7 @@
                         </bibl>
                         <bibl>. <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1976–1981</title>. <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/DjByGVvosiA">Toronto</placeName>: Homewood Books, 2014. <hi rend="italic">T-Space at <orgName key="University of Toronto. Library." ref="http://viaf.org/viaf/122308641" ana="webannotation:http://temp.lincsproject.ca/mhlDTN0OPWt">the University of Toronto Libraries</orgName></hi>. <ref target="http://lglc.library.utoronto.ca">http://lglc.library.utoronto.ca</ref>
                         </bibl>
-                        <bibl>Pink Triangle Press. <title level="a">The Collective Years</title>. <ref target="http://www.pinktrianglepress.com/collective-years">http://www.pinktrianglepress.com/collective-years</ref>
+                        <bibl><orgName key="Pink Triangle Press" ref="http://viaf.org/viaf/145367045" ana="webannotation:http://temp.lincsproject.ca/CtEdZ676C3V">Pink Triangle Press</orgName>. <title level="a">The Collective Years</title>. <ref target="http://www.pinktrianglepress.com/collective-years">http://www.pinktrianglepress.com/collective-years</ref>
                         </bibl>
                         <bibl>Rule, <persName key="Rule, Jane, 1931-2007" ref="http://viaf.org/viaf/62399671" ana="webannotation:http://temp.lincsproject.ca/pRgAGbmoBIY">Jane</persName>. <title level="m">Lesbian Images.</title> <placeName key="Garden City" ref="https://www.geonames.org/5118226/garden-city.html" ana="webannotation:http://temp.lincsproject.ca/tp7MrJNXYZb" type="real" cert="high" precision="high">Garden City</placeName>, <placeName key="New York" ref="https://www.geonames.org/5128581/new-york-city.html" ana="webannotation:http://temp.lincsproject.ca/uwvzgskww8m" type="real" cert="high" precision="high">NY</placeName>: Doubleday, 1975.</bibl>
                         <bibl>Schwabel, Fania. <title level="a">Our Shocking Past: Queer Youth Offer Four Quickie Histories.</title>
@@ -19793,6 +19793,95 @@
         "type": "crm:E74_Group",
         "label": "University of Toronto. Library.",
         "description": "University of Toronto Libraries maison d'édition"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/CtEdZ676C3V">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/CtEdZ676C3V",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-03T16:57:46.104Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/GeSdbjcIazJ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/GeSdbjcIazJ/selector/textPosition/cLcyo0Gfahl",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 49573,
+                "end": 49592,
+                "refinedBy": {
+                    "id": "/target/GeSdbjcIazJ/selector/textQuote/mJMvWDEVvky",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Pink Triangle Press",
+                    "prefix": "ca\n                        \n                       ",
+                    "suffix": " The Collective Years"
+                }
+            },
+            {
+                "id": "/target/GeSdbjcIazJ/selector/css/b3gzmcm5f4K",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/CtEdZ676C3V]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/145367045",
+        "type": "crm:E74_Group",
+        "label": "Pink Triangle Press",
+        "description": "Pink Triangle Press (Canada)"
     },
     "P2_has_type": [
         "oa:identifying"
