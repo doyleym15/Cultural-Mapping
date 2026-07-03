@@ -895,7 +895,7 @@
                         <bibl>. <title level="a">National Portrait Collection/<hi xml:lang="fr-CA">La Collection nationale de portraits</hi>
                             </title>. <ref target="http://www.clga.ca/npc">http://www.clga.ca/npc</ref>
                         </bibl>
-                        <bibl>Fraser, James. <title level="a">Victories and Defeats: A Gay and Lesbian Chronology, 1969–1982</title>. <title level="m">Flaunting It!: A Decade of Gay Journalism from <title level="j">The Body Politic</title>: An Anthology</title>. Ed. <persName key="Jackson, Ed" ref="http://viaf.org/viaf/296159032578101180999" ana="webannotation:http://temp.lincsproject.ca/D0EIgnSLqSQ">Ed Jackson</persName> and <persName key="Persky, Stan, 1941-" ref="http://viaf.org/viaf/57448780" ana="webannotation:http://temp.lincsproject.ca/82nUNop5PbA">Stan Persky</persName>. <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/HH8neVXCZcf">Toronto</placeName>: Pink Triangle Press; <placeName key="Vancouver" ref="https://www.geonames.org/6173331/vancouver.html" ana="webannotation:http://temp.lincsproject.ca/HyNfnCUNmB5">Vancouver</placeName>: New Star Books, 1982. 224–43.</bibl>
+                        <bibl>Fraser, James. <title level="a">Victories and Defeats: A Gay and Lesbian Chronology, 1969–1982</title>. <title level="m">Flaunting It!: A Decade of Gay Journalism from <title level="j">The Body Politic</title>: An Anthology</title>. Ed. <persName key="Jackson, Ed" ref="http://viaf.org/viaf/296159032578101180999" ana="webannotation:http://temp.lincsproject.ca/D0EIgnSLqSQ">Ed Jackson</persName> and <persName key="Persky, Stan, 1941-" ref="http://viaf.org/viaf/57448780" ana="webannotation:http://temp.lincsproject.ca/82nUNop5PbA">Stan Persky</persName>. <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/HH8neVXCZcf">Toronto</placeName>: <orgName key="Pink Triangle Press" ref="http://viaf.org/viaf/145367045" ana="webannotation:http://temp.lincsproject.ca/yNf6ByZBmCO">Pink Triangle Press</orgName>; <placeName key="Vancouver" ref="https://www.geonames.org/6173331/vancouver.html" ana="webannotation:http://temp.lincsproject.ca/HyNfnCUNmB5">Vancouver</placeName>: New Star Books, 1982. 224–43.</bibl>
                         <bibl><persName key="Halberstam, Jack, 1961-...." ref="http://viaf.org/viaf/56760858" ana="webannotation:http://temp.lincsproject.ca/uYu06xOY0ah" type="real" cert="medium">Halberstam</persName>, J. Jack. <title level="a">Transgender Butch: Butch/<hi rend="small-caps">ftm</hi> Border Wars and the Masculine Continuum</title>. <title level="j">
                                 <hi rend="small-capitals">gql</hi>: A Journal of Lesbian and Gay Studies</title> 4.2 (1998): 287–310.</bibl>
                         <bibl>Jackson, <persName key="Jackson, Ed" ref="http://viaf.org/viaf/296159032578101180999" ana="webannotation:http://temp.lincsproject.ca/mnNkbpzW6cv">Ed</persName>, and <persName key="Persky, Stan, 1941-" ref="http://viaf.org/viaf/57448780" ana="webannotation:http://temp.lincsproject.ca/cQZWHshdmf6">Stan Persky</persName>, eds. <title level="m">Flaunting It!: A Decade of Gay Journalism from <title level="j">The Body Politic</title>: An Anthology</title>. <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/0WBvY2hMCME">Toronto</placeName>: <orgName key="Pink Triangle Press" ref="http://viaf.org/viaf/145367045" ana="webannotation:http://temp.lincsproject.ca/qYn9AvWe0BY">Pink Triangle Press</orgName>; <placeName key="Vancouver" ref="https://www.geonames.org/6173331/vancouver.html" ana="webannotation:http://temp.lincsproject.ca/gOiBI5udZ85">Vancouver</placeName>: New Star Books, 1982.</bibl>
@@ -19793,6 +19793,95 @@
         "type": "crm:E74_Group",
         "label": "University of Toronto. Library.",
         "description": "University of Toronto Libraries maison d'édition"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/yNf6ByZBmCO">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/yNf6ByZBmCO",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-03T16:58:08.920Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/P6dIgTr46rG",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/P6dIgTr46rG/selector/textPosition/sn8ZFvDZYoa",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 47812,
+                "end": 47831,
+                "refinedBy": {
+                    "id": "/target/P6dIgTr46rG/selector/textQuote/KfM8762xE1u",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Pink Triangle Press",
+                    "prefix": " Toronto:",
+                    "suffix": " Vancouver: New Star Books, 1982"
+                }
+            },
+            {
+                "id": "/target/P6dIgTr46rG/selector/css/WtgU45ncXfD",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/yNf6ByZBmCO]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/145367045",
+        "type": "crm:E74_Group",
+        "label": "Pink Triangle Press",
+        "description": "Pink Triangle Press (Canada)"
     },
     "P2_has_type": [
         "oa:identifying"
