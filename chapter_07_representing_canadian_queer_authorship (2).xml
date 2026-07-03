@@ -901,7 +901,7 @@
                         <bibl>Jackson, <persName key="Jackson, Ed" ref="http://viaf.org/viaf/296159032578101180999" ana="webannotation:http://temp.lincsproject.ca/mnNkbpzW6cv">Ed</persName>, and <persName key="Persky, Stan, 1941-" ref="http://viaf.org/viaf/57448780" ana="webannotation:http://temp.lincsproject.ca/cQZWHshdmf6">Stan Persky</persName>, eds. <title level="m">Flaunting It!: A Decade of Gay Journalism from <title level="j">The Body Politic</title>: An Anthology</title>. <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/0WBvY2hMCME">Toronto</placeName>: Pink Triangle Press; <placeName key="Vancouver" ref="https://www.geonames.org/6173331/vancouver.html" ana="webannotation:http://temp.lincsproject.ca/gOiBI5udZ85">Vancouver</placeName>: New Star Books, 1982.</bibl>
                         <bibl><persName key="Shyong K. Lam" ref="http://www.wikidata.org/entity/Q67218987" ana="webannotation:http://temp.lincsproject.ca/XFDA6FWWc3U">Lam</persName>, <persName key="Shyong K. Lam" ref="http://www.wikidata.org/entity/Q67218987" ana="webannotation:http://temp.lincsproject.ca/7gqsmKOc2ok" type="real" cert="high">Shyong</persName>, et al. <title level="a">WP: Clubhouse? An Exploration of <title level="m">Wikipedia</title>’s Gender Imbalance</title>. <title level="m">WikiSym 2011: Seventh International Symposium on Wikis and Open Collaboration</title>. <ref target="http://dl.acm.org/citation.cfm?doid=2038558.2038560">http://dl.acm.org/citation.cfm?doid=2038558.2038560</ref>
                         </bibl>
-                        <bibl>Martin, Sandra. <title level="a"> Novelist Wrote a Cult Classic and Became a Lesbian Role Model</title>. <title level="j">Globe and Mail</title> 2 November 2007: S8.</bibl>
+                        <bibl>Martin, Sandra. <title level="a"> Novelist Wrote a Cult Classic and Became a Lesbian Role Model</title>. <title level="j"><orgName key="Globe and Mail (Firm)" ref="http://viaf.org/viaf/157050868" ana="webannotation:http://temp.lincsproject.ca/6l1zYZLnXIJ">Globe and Mail</orgName></title> 2 November 2007: S8.</bibl>
                         <bibl><persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/winmQfH9wIQ">McLeod</persName>, Donald W. <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975</title>. <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/e1F4NCM5Cm7">Toronto</placeName>: <hi rend="small-caps">ecw</hi> Press/Homewood Books, 1996.</bibl>
                         <bibl>. <title level="m">Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964–1975. <hi rend="small-capitals">lgbt</hi> Life with Full Text</title>. <ref target="http://www.ebscohost.com/academic/lgbt-life-with-full-text">http://www.ebscohost.com/academic/lgbt-life-with-full-text</ref>
                         </bibl>
@@ -19615,6 +19615,95 @@
         "type": "crm:E74_Group",
         "label": "University of Toronto. Library.",
         "description": "University of Toronto Libraries maison d'édition"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/6l1zYZLnXIJ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/6l1zYZLnXIJ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-03T16:56:50.551Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/5dQO2AkwMu9",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/5dQO2AkwMu9/selector/textPosition/lx9MrIRqhgf",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 48653,
+                "end": 48667,
+                "refinedBy": {
+                    "id": "/target/5dQO2AkwMu9/selector/textQuote/0bjeXSmPVbt",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Globe and Mail",
+                    "prefix": "",
+                    "suffix": "2 November 2007: S8"
+                }
+            },
+            {
+                "id": "/target/5dQO2AkwMu9/selector/css/26RBaCOh3DO",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/6l1zYZLnXIJ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/157050868",
+        "type": "crm:E74_Group",
+        "label": "Globe and Mail (Firm)",
+        "description": "Globe and Mail (Firme)"
     },
     "P2_has_type": [
         "oa:identifying"
