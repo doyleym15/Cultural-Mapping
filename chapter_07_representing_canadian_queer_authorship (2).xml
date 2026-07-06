@@ -738,7 +738,7 @@
                             <ref target="#theme_or_topic">
                                 <ref target="#gender_issue">
                                     <ref target="#sexuality">The Lesbian and Gay Liberation in Canada project is not interested solely in recovering gay history; it is also responsive to the very debates that have shaped that history.</ref>
-                                    <abbr>LGLC</abbr>’s initial personographic encoding has been motivated by the rise in the 1990s of those seeking to recuperate lost lesbian and trans histories. The debates may be familiar. In the 1980s, there was a rush to assert lesbian status for biological females who lived as men (including surgeon James Barry, music hall performer <persName key="Annie Hindle" ref="http://www.wikidata.org/entity/Q21176937" ana="webannotation:http://temp.lincsproject.ca/Bnh7oGT8CAs" type="real" cert="high">Annie Hindle</persName>, and pianist <persName key="Tipton, Billy, 1914-1989" ref="http://viaf.org/viaf/74692769" ana="webannotation:http://temp.lincsproject.ca/ZEUL7JRtnGR">Billy Tipton)—those</persName> who previously did not have access to <q>lesbian</q> as an identity marker. In the following decade, the trans community rejoined with competing claims that these historical actors were part of trans history. <ref target="#intertextuality"><persName key="Halberstam, Jack, 1961-...." ref="http://viaf.org/viaf/56760858" ana="webannotation:http://temp.lincsproject.ca/wkir64eyCEs" type="real" cert="high">Jack Halberstam</persName> draws on the typical characterization of jazz pianist <persName key="Tipton, Billy, 1914-1989" ref="http://viaf.org/viaf/74692769" ana="webannotation:http://temp.lincsproject.ca/S1QsB7zkInf" type="real" cert="high">Billy Tipton</persName> to summarize the debate: <q><persName key="Tipton, Billy, 1914-1989" ref="http://viaf.org/viaf/74692769" ana="webannotation:http://temp.lincsproject.ca/7DAXjZKqw3m">Tipton</persName>, the jazz musician who lived his life as a man and who married a woman, is often represented within lesbian history as a lesbian woman forced to hide her gender in order to advance within her profession, rather than as a transsexual man living within his chosen gender identity</q>
+                                    <abbr>LGLC</abbr>’s initial personographic encoding has been motivated by the rise in the 1990s of those seeking to recuperate lost lesbian and trans histories. The debates may be familiar. In the 1980s, there was a rush to assert lesbian status for biological females who lived as men (including surgeon <persName key="James Barry" ref="http://viaf.org/viaf/72251810" ana="webannotation:http://temp.lincsproject.ca/FI6S9dbgqxv">James Barry</persName>, music hall performer <persName key="Annie Hindle" ref="http://www.wikidata.org/entity/Q21176937" ana="webannotation:http://temp.lincsproject.ca/Bnh7oGT8CAs" type="real" cert="high">Annie Hindle</persName>, and pianist <persName key="Tipton, Billy, 1914-1989" ref="http://viaf.org/viaf/74692769" ana="webannotation:http://temp.lincsproject.ca/ZEUL7JRtnGR">Billy Tipton)—those</persName> who previously did not have access to <q>lesbian</q> as an identity marker. In the following decade, the trans community rejoined with competing claims that these historical actors were part of trans history. <ref target="#intertextuality"><persName key="Halberstam, Jack, 1961-...." ref="http://viaf.org/viaf/56760858" ana="webannotation:http://temp.lincsproject.ca/wkir64eyCEs" type="real" cert="high">Jack Halberstam</persName> draws on the typical characterization of jazz pianist <persName key="Tipton, Billy, 1914-1989" ref="http://viaf.org/viaf/74692769" ana="webannotation:http://temp.lincsproject.ca/S1QsB7zkInf" type="real" cert="high">Billy Tipton</persName> to summarize the debate: <q><persName key="Tipton, Billy, 1914-1989" ref="http://viaf.org/viaf/74692769" ana="webannotation:http://temp.lincsproject.ca/7DAXjZKqw3m">Tipton</persName>, the jazz musician who lived his life as a man and who married a woman, is often represented within lesbian history as a lesbian woman forced to hide her gender in order to advance within her profession, rather than as a transsexual man living within his chosen gender identity</q>
                                         <note place="inline">
                                             <bibl>Halberstam 293</bibl>
                                         </note>
@@ -20860,6 +20860,95 @@
         "type": "crm:E74_Group",
         "label": "Archives of Ontario",
         "description": "archives publiques de l'Ontario"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/FI6S9dbgqxv">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/FI6S9dbgqxv",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T15:41:00.864Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/BVtTc28Hft4",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/BVtTc28Hft4/selector/textPosition/vDbrqDHPM3q",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 30470,
+                "end": 30481,
+                "refinedBy": {
+                    "id": "/target/BVtTc28Hft4/selector/textQuote/V4ujHbk0QLL",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "James Barry",
+                    "prefix": " In the 1980s, there was a rush to assert lesbian status for biological females who lived as men (including surgeon",
+                    "suffix": " music hall performer Annie Hindle, and pianist Billy Tipton)—those who previously did not have access to lesbian as an identity marker"
+                }
+            },
+            {
+                "id": "/target/BVtTc28Hft4/selector/css/fEAvv0inwE5",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/FI6S9dbgqxv]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/72251810",
+        "type": "crm:E21_Person",
+        "label": "James Barry",
+        "description": ""
     },
     "P2_has_type": [
         "oa:identifying"
