@@ -617,7 +617,7 @@
                         <ref target="#censorship">
                             <ref target="#writing_climate">
                                 <ref target="#historical_oppression">
-                                    <ref target="#history">Most notably, following the publication in 1978 of <title level="j">The Body Politic</title> article <title level="a">Men Loving Boys Loving Men,</title> the Pink Triangle Press was charged by the Crown with <q>possession of obscene material for distribution</q> and <q>use of the mails for purpose of transmitting indecent, immoral or scurrilous materials.</q> The ongoing series of trials and appeals lasted until 1982, with the acquittal of the entire collective</ref>
+                                    <ref target="#history">Most notably, following the publication in 1978 of <title level="j">The Body Politic</title> article <title level="a">Men Loving Boys Loving Men,</title> <orgName key="Pink Triangle Press" ref="http://viaf.org/viaf/145367045" ana="webannotation:http://temp.lincsproject.ca/Ihl0iBXerbe">the Pink Triangle Press</orgName> was charged by the Crown with <q>possession of obscene material for distribution</q> and <q>use of the mails for purpose of transmitting indecent, immoral or scurrilous materials.</q> The ongoing series of trials and appeals lasted until 1982, with the acquittal of the entire collective</ref>
                                     <note place="inline">
                                         <bibl>Bébout, <title level="m">Text</title>
                                         </bibl>
@@ -20674,6 +20674,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/1ieGES1O4jr]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/145367045",
+        "type": "crm:E74_Group",
+        "label": "Pink Triangle Press",
+        "description": "Pink Triangle Press (Canada)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Ihl0iBXerbe">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Ihl0iBXerbe",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T15:31:10.283Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/qaMnVMq7F5f",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/qaMnVMq7F5f/selector/textPosition/vvqCTqikazC",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 18833,
+                "end": 18856,
+                "refinedBy": {
+                    "id": "/target/qaMnVMq7F5f/selector/textQuote/ywMp1lFXXdV",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the Pink Triangle Press",
+                    "prefix": "\n                                        \n                                    \n                                \n                            \n                        \n                    \n                    \n                        \n                            \n                                \n                                    Most notably, following the publication in 1978 of The Body Politic article Men Loving Boys Loving Men,",
+                    "suffix": "was charged by the Crown with possession of obscene material for distribution and use of the mails for purpose of transmitting indecent, immoral or scurrilous materials"
+                }
+            },
+            {
+                "id": "/target/qaMnVMq7F5f/selector/css/Pf9Wrja8umx",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Ihl0iBXerbe]"
             }
         ]
     },
