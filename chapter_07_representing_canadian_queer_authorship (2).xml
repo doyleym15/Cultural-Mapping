@@ -809,7 +809,7 @@
                                     <ref target="#gender_issue">
                                         <ref target="#theme_or_topic">
                                             <ref target="#history">It is extremely difficult, even when conducting more traditional online research, to discern the connections between organizations, events, and people, and to piece together women’s involvement in Canadian <abbr>LGBT</abbr> history</ref>.</ref>
-                                        <ref target="#spatiality">For instance, via correspondence with <persName key="Van Dyke, Lamar" ref="http://viaf.org/viaf/66191200" ana="webannotation:http://temp.lincsproject.ca/mJrKzLXjB3y">Lamar Van Dyke</persName> (formerly Heather Beyer Elizabeth), one of the Brunswick Four, we learned the reason the four women had been at the Brunswick Tavern on the night of their arrest; Van Dyke, then co-ordinator of A Women’s Place, a feminist community centre, sought a rapprochement with Murphy, who had been working primarily with <abbr>CHAT</abbr>, an organization perceived by the women’s movement as focusing only on gay men’s issues. Searches for variations of <q>A Women’s Place</q> returned no relevant  hits—even for us—despite the fact that A Women’s Place was the original location for what became the Toronto Women’s Bookstore, a fixture of the feminist and <abbr>LGBT</abbr> communities in <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/fLWzC2nk3rx">Toronto</placeName> for thirty-nine years (the store closed on November 30, 2012). In the <title level="m">Wikipedia</title> entry on the Toronto Women’s Bookstore, A Women’s Place is referenced in passing as an unnamed women’s resource centre located on nearby Dupont Street. <abbr><orgName key="Text Encoding Initiative" ref="http://viaf.org/viaf/262867947" ana="webannotation:http://temp.lincsproject.ca/0qC5suygYpW">TEI</orgName></abbr> will help us draw these very connections between the various events, places, and people in the <abbr>LGLC</abbr> data set within the Collaboratory.</ref>
+                                        <ref target="#spatiality">For instance, via correspondence with <persName key="Van Dyke, Lamar" ref="http://viaf.org/viaf/66191200" ana="webannotation:http://temp.lincsproject.ca/mJrKzLXjB3y">Lamar Van Dyke</persName> (formerly Heather Beyer Elizabeth), one of the Brunswick Four, we learned the reason the four women had been at the Brunswick Tavern on the night of their arrest; <persName key="Van Dyke, Lamar" ref="http://viaf.org/viaf/66191200" ana="webannotation:http://temp.lincsproject.ca/ytzDFtTiRMB">Van Dyke</persName>, then co-ordinator of A Women’s Place, a feminist community centre, sought a rapprochement with Murphy, who had been working primarily with <abbr>CHAT</abbr>, an organization perceived by the women’s movement as focusing only on gay men’s issues. Searches for variations of <q>A Women’s Place</q> returned no relevant  hits—even for us—despite the fact that A Women’s Place was the original location for what became the Toronto Women’s Bookstore, a fixture of the feminist and <abbr>LGBT</abbr> communities in <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/fLWzC2nk3rx">Toronto</placeName> for thirty-nine years (the store closed on November 30, 2012). In the <title level="m">Wikipedia</title> entry on the Toronto Women’s Bookstore, A Women’s Place is referenced in passing as an unnamed women’s resource centre located on nearby Dupont Street. <abbr><orgName key="Text Encoding Initiative" ref="http://viaf.org/viaf/262867947" ana="webannotation:http://temp.lincsproject.ca/0qC5suygYpW">TEI</orgName></abbr> will help us draw these very connections between the various events, places, and people in the <abbr>LGLC</abbr> data set within the Collaboratory.</ref>
                                     </ref>
                                 </ref>
                             </ref>
@@ -20148,6 +20148,94 @@
         "type": "crm:E74_Group",
         "label": "Pink Triangle Press",
         "description": "Pink Triangle Press (Canada)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ytzDFtTiRMB">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ytzDFtTiRMB",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T14:53:56.235Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/rzkzRGaTMS2",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/rzkzRGaTMS2/selector/textPosition/G6f4WDZewhr",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 38546,
+                "end": 38554,
+                "refinedBy": {
+                    "id": "/target/rzkzRGaTMS2/selector/textQuote/WTtmLiNZraL",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Van Dyke",
+                    "prefix": "\n                                        For instance, via correspondence with Lamar Van Dyke (formerly Heather Beyer Elizabeth), one of the Brunswick Four, we learned the reason the four women had been at the Brunswick Tavern on the night of their arrest;",
+                    "suffix": " then co-ordinator of A Women’s Place, a feminist community centre, sought a rapprochement with Murphy, who had been working primarily with CHAT, an organization perceived by the women’s movement as focusing only on gay men’s issues"
+                }
+            },
+            {
+                "id": "/target/rzkzRGaTMS2/selector/css/5O3TCFWNBm3",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ytzDFtTiRMB]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/66191200",
+        "type": "crm:E21_Person",
+        "label": "Van Dyke, Lamar"
     },
     "P2_has_type": [
         "oa:identifying"
