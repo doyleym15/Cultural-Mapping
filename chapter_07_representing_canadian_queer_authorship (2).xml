@@ -727,7 +727,7 @@
                                         <bibl>Warner 40</bibl>
                                     </note>.</ref>
                                 <ref target="#history">
-                                    <ref target="#social_movement">The incident galvanized the <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/yZKJoYqcAG1">Toronto</placeName> gay community, whose defense of the Brunswick Four has been likened to the consciousness-raising that followed the Stonewall riots of June 28, 1969 in <placeName key="New York" ref="https://www.geonames.org/5128581/new-york-city.html" ana="webannotation:http://temp.lincsproject.ca/N5U9bRP59eX" type="real" cert="high" precision="high">New York’s</placeName> <placeName key="Greenwich Village" ref="https://sws.geonames.org/5119418" ana="webannotation:http://temp.lincsproject.ca/zj4lCxeZgeH" type="real" cert="high" precision="high">Greenwich Village</placeName>. </ref>
+                                    <ref target="#social_movement">The incident galvanized the <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/yZKJoYqcAG1">Toronto</placeName> gay community, whose defense of the Brunswick Four has been likened to the consciousness-raising that followed the <event key="Stonewall riots" ref="http://www.wikidata.org/entity/Q51402" ana="webannotation:http://temp.lincsproject.ca/CLJaBeCNkhL">Stonewall</event> riots of June 28, 1969 in <placeName key="New York" ref="https://www.geonames.org/5128581/new-york-city.html" ana="webannotation:http://temp.lincsproject.ca/N5U9bRP59eX" type="real" cert="high" precision="high">New York’s</placeName> <placeName key="Greenwich Village" ref="https://sws.geonames.org/5119418" ana="webannotation:http://temp.lincsproject.ca/zj4lCxeZgeH" type="real" cert="high" precision="high">Greenwich Village</placeName>. </ref>
                                     <ref target="#technology">The Brunswick Four may be a prime example of women’s centrality to the gay liberation movement in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/2tdhlVvEaIo">Canada</placeName>, but representing the Brunswick Four and their influence through <abbr><orgName key="Text Encoding Initiative" ref="http://viaf.org/viaf/262867947" ana="webannotation:http://temp.lincsproject.ca/eQJPCrqTh1g">TEI</orgName></abbr> helps dramatize the difficulty of trying to build a reliable and ethically responsible personography of the actors in the movement.</ref>
                                 </ref>
                             </ref>
@@ -20860,6 +20860,95 @@
         "type": "crm:E74_Group",
         "label": "Archives of Ontario",
         "description": "archives publiques de l'Ontario"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/CLJaBeCNkhL">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/CLJaBeCNkhL",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T18:01:52.620Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/qWcb3baPsG0",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/qWcb3baPsG0/selector/textPosition/BJGkQM0bXhY",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 29307,
+                "end": 29316,
+                "refinedBy": {
+                    "id": "/target/qWcb3baPsG0/selector/textQuote/UtEnvHE85EK",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Stonewall",
+                    "prefix": "\n                                \n                                    The incident galvanized the Toronto gay community, whose defense of the Brunswick Four has been likened to the consciousness-raising that followed the",
+                    "suffix": "riots of June 28, 1969 in New York’s Greenwich Village"
+                }
+            },
+            {
+                "id": "/target/qWcb3baPsG0/selector/css/M5f45mFx0h7",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/CLJaBeCNkhL]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q51402",
+        "type": "crm:E5_Event",
+        "label": "Stonewall riots",
+        "description": "1969 LGBT rights demonstrations in New York City, United States"
     },
     "P2_has_type": [
         "oa:identifying"
