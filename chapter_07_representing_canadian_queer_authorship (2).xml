@@ -585,7 +585,7 @@
                             <ref target="#place_of_publication">
                                 <ref target="#politics">
                                     <ref target="#writing_climate">By establishing <orgName key="Pink Triangle Press" ref="http://viaf.org/viaf/145367045" ana="webannotation:http://temp.lincsproject.ca/t9EtGpOLcqR">Pink Triangle Press</orgName>, <ref target="#theme_or_topic">
-                                            <title level="j">The Body Politic</title> collective placed itself directly into the fray of the gay liberation struggle.</ref>
+                                            <title level="j">The <orgName key="Body Politic Collective (Organisme)" ref="http://viaf.org/viaf/139645576" ana="webannotation:http://temp.lincsproject.ca/bXyb8ZfnG50">Body Politic</orgName></title> collective placed itself directly into the fray of the gay liberation struggle.</ref>
                                         <ref target="#censorship">
                                             <ref target="#authority">Never content with simply reporting the news, the collective sought to re­inforce <q>opposition to state censorship as a form of social control</q> through the publication of material <q>about practices seen by some as beyond the bounds of conventional gay rights</q>
                                             </ref>
@@ -20415,6 +20415,95 @@
         "type": "crm:E74_Group",
         "label": "Pink Triangle Press",
         "description": "Pink Triangle Press (Canada)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/bXyb8ZfnG50">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/bXyb8ZfnG50",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T15:29:47.814Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/94Aa4cwChkq",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/94Aa4cwChkq/selector/textPosition/ukpLtQHsTmR",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 16379,
+                "end": 16391,
+                "refinedBy": {
+                    "id": "/target/94Aa4cwChkq/selector/textQuote/w6w6mIX4cYa",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Body Politic",
+                    "prefix": "\n                                        \n                                    \n                                \n                            \n                        \n                    \n                    \n                        \n                            \n                                \n                                    By establishing Pink Triangle Press, \n                                            The",
+                    "suffix": "collective placed itself directly into the fray of the gay liberation struggle"
+                }
+            },
+            {
+                "id": "/target/94Aa4cwChkq/selector/css/kQj5kkewkKf",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/bXyb8ZfnG50]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/139645576",
+        "type": "crm:E74_Group",
+        "label": "Body Politic Collective (Organisme)",
+        "description": "Body Politic Collective (Organization)"
     },
     "P2_has_type": [
         "oa:identifying"
