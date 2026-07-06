@@ -678,7 +678,7 @@
                         </ref>
                     </p>
                     <p xml:id="p1294">
-                        <ref target="#theme_or_topic">The <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/jSGQSbPri08">CLGA</orgName></abbr> has always been a volunteer-run, community-based organization. It is an open space, welcoming any member of the community—regardless of age or academic affiliation—who wishes to use its materials. <ref target="#economics">Access is open and usage fees remain minimal</ref>. Moreover, volunteers of any skill level are welcomed, trained, and assigned any number of tasks. <ref target="#archive">While similar collections, like <orgName key="Canadian Women's Movement Archives Collection" ref="http://www.wikidata.org/entity/Q102076381" ana="webannotation:http://temp.lincsproject.ca/rRd1cWdj4Oa">the Canadian Women’s Movement Archives</orgName> and the <hi rend="small-caps">one</hi> National Gay and Lesbian Archives, have been subsumed by government and university libraries, the <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/7giR7pAhDh5">CLGA</orgName></abbr> has opted to remain independent. Run by and for the community it serves, it turned down an offer from the Archives of Ontario to take over the curation and storage of a portion of the <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/EFVVxqCAbqo">CLGA</orgName></abbr>’s holdings <note place="inline">
+                        <ref target="#theme_or_topic">The <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/jSGQSbPri08">CLGA</orgName></abbr> has always been a volunteer-run, community-based organization. It is an open space, welcoming any member of the community—regardless of age or academic affiliation—who wishes to use its materials. <ref target="#economics">Access is open and usage fees remain minimal</ref>. Moreover, volunteers of any skill level are welcomed, trained, and assigned any number of tasks. <ref target="#archive">While similar collections, like <orgName key="Canadian Women's Movement Archives Collection" ref="http://www.wikidata.org/entity/Q102076381" ana="webannotation:http://temp.lincsproject.ca/rRd1cWdj4Oa">the Canadian Women’s Movement Archives</orgName> and the <hi rend="small-caps">one</hi> National Gay and Lesbian Archives, have been subsumed by government and university libraries, the <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/7giR7pAhDh5">CLGA</orgName></abbr> has opted to remain independent. Run by and for the community it serves, it turned down an offer from <orgName key="Archives of Ontario" ref="http://viaf.org/viaf/140637736" ana="webannotation:http://temp.lincsproject.ca/rR08RefOHW1">the Archives of Ontario</orgName> to take over the curation and storage of a portion of the <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/EFVVxqCAbqo">CLGA</orgName></abbr>’s holdings <note place="inline">
                                     <bibl>
                                         <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/5DEGBSIzgk3">CLGA</orgName></abbr>, <title level="a">A Chronology of the Archives</title>
                                     </bibl>
@@ -20771,6 +20771,95 @@
         "type": "crm:E74_Group",
         "label": "Pink Triangle Press",
         "description": "Pink Triangle Press (Canada)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/rR08RefOHW1">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/rR08RefOHW1",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T15:37:29.251Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/mGiAI0JIriY",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/mGiAI0JIriY/selector/textPosition/q8fnkMAOYAh",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 25367,
+                "end": 25390,
+                "refinedBy": {
+                    "id": "/target/mGiAI0JIriY/selector/textQuote/G8JR5DkGbFK",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the Archives of Ontario",
+                    "prefix": " Run by and for the community it serves, it turned down an offer from",
+                    "suffix": "to take over the curation and storage of a portion of the CLGA’s holdings \n                                    \n                                        CLGA, A Chronology of the Archives\n                                    \n                                "
+                }
+            },
+            {
+                "id": "/target/mGiAI0JIriY/selector/css/zXNtbfj8bGa",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/rR08RefOHW1]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/140637736",
+        "type": "crm:E74_Group",
+        "label": "Archives of Ontario",
+        "description": "archives publiques de l'Ontario"
     },
     "P2_has_type": [
         "oa:identifying"
