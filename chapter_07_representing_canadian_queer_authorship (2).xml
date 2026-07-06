@@ -566,7 +566,7 @@
                                             </bibl>
                                         </note>. <ref target="#writing_climate">
                                             <ref target="#place_of_publication">
-                                                <title level="j">The Body Politic</title> was published by a collective that incorporated in 1975 under the not-for-profit umbrella of Pink Triangle Press. The creation of Pink Triangle Press ensured that <q>if legal charges were ever laid against <hi rend="sc-italic">
+                                                <title level="j">The Body Politic</title> was published by a collective that incorporated in 1975 under the not-for-profit umbrella of <orgName key="Pink Triangle Press" ref="http://viaf.org/viaf/145367045" ana="webannotation:http://temp.lincsproject.ca/TcGEstC5HD5">Pink Triangle Press</orgName>. The creation of <orgName key="Pink Triangle Press" ref="http://viaf.org/viaf/145367045" ana="webannotation:http://temp.lincsproject.ca/g9153up92v9">Pink Triangle Press</orgName> ensured that <q>if legal charges were ever laid against <hi rend="sc-italic">
                                                         <abbr>TBP</abbr>
                                                     </hi>, those charges would be brought against the corporation and its officers, leaving most Collective members untouched and able to continue to publish the magazine</q>
                                                 <note place="inline">
@@ -584,7 +584,7 @@
                         <ref target="#textual_agency">
                             <ref target="#place_of_publication">
                                 <ref target="#politics">
-                                    <ref target="#writing_climate">By establishing Pink Triangle Press, <ref target="#theme_or_topic">
+                                    <ref target="#writing_climate">By establishing <orgName key="Pink Triangle Press" ref="http://viaf.org/viaf/145367045" ana="webannotation:http://temp.lincsproject.ca/t9EtGpOLcqR">Pink Triangle Press</orgName>, <ref target="#theme_or_topic">
                                             <title level="j">The Body Politic</title> collective placed itself directly into the fray of the gay liberation struggle.</ref>
                                         <ref target="#censorship">
                                             <ref target="#authority">Never content with simply reporting the news, the collective sought to re­inforce <q>opposition to state censorship as a form of social control</q> through the publication of material <q>about practices seen by some as beyond the bounds of conventional gay rights</q>
@@ -19881,6 +19881,273 @@
         "type": "crm:E74_Group",
         "label": "University of Toronto. Library.",
         "description": "University of Toronto Libraries maison d'édition"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/TcGEstC5HD5">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/TcGEstC5HD5",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T15:28:49.733Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/akr9sGiumzu",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/akr9sGiumzu/selector/textPosition/VAhmdASm2vA",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 15290,
+                "end": 15309,
+                "refinedBy": {
+                    "id": "/target/akr9sGiumzu/selector/textQuote/g8d2vvUkrEz",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Pink Triangle Press",
+                    "prefix": " \n                                            \n                                                The Body Politic was published by a collective that incorporated in 1975 under the not-for-profit umbrella of",
+                    "suffix": " The creation of Pink Triangle Press ensured that if legal charges were ever laid against \n                                                        TBP\n                                                    , those charges would be brought against the corporation and its officers, leaving most Collective members untouched and able to continue to publish the magazine\n                                                \n                                                    \n                                                        CLGA, The Collective Years\n                                                    \n                                                "
+                }
+            },
+            {
+                "id": "/target/akr9sGiumzu/selector/css/mmNsJtDWpEz",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/TcGEstC5HD5]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/145367045",
+        "type": "crm:E74_Group",
+        "label": "Pink Triangle Press",
+        "description": "Pink Triangle Press (Canada)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/g9153up92v9">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/g9153up92v9",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T15:28:49.736Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/r3RRLYy14xu",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/r3RRLYy14xu/selector/textPosition/lh3sxrwfC83",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 15327,
+                "end": 15346,
+                "refinedBy": {
+                    "id": "/target/r3RRLYy14xu/selector/textQuote/DeCrm5xDue1",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Pink Triangle Press",
+                    "prefix": " The creation of",
+                    "suffix": "ensured that if legal charges were ever laid against \n                                                        TBP\n                                                    , those charges would be brought against the corporation and its officers, leaving most Collective members untouched and able to continue to publish the magazine\n                                                \n                                                    \n                                                        CLGA, The Collective Years\n                                                    \n                                                "
+                }
+            },
+            {
+                "id": "/target/r3RRLYy14xu/selector/css/CDsdPzsRLD8",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/g9153up92v9]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/145367045",
+        "type": "crm:E74_Group",
+        "label": "Pink Triangle Press",
+        "description": "Pink Triangle Press (Canada)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/t9EtGpOLcqR">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/t9EtGpOLcqR",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T15:28:49.737Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/4zvZhuVwNLg",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/4zvZhuVwNLg/selector/textPosition/zki1ESF1qRm",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 16309,
+                "end": 16328,
+                "refinedBy": {
+                    "id": "/target/4zvZhuVwNLg/selector/textQuote/Altv3OlHYSY",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Pink Triangle Press",
+                    "prefix": "\n                                        \n                                    \n                                \n                            \n                        \n                    \n                    \n                        \n                            \n                                \n                                    By establishing",
+                    "suffix": " \n                                            The Body Politic collective placed itself directly into the fray of the gay liberation struggle"
+                }
+            },
+            {
+                "id": "/target/4zvZhuVwNLg/selector/css/YYJYl8nDvOf",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/t9EtGpOLcqR]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/145367045",
+        "type": "crm:E74_Group",
+        "label": "Pink Triangle Press",
+        "description": "Pink Triangle Press (Canada)"
     },
     "P2_has_type": [
         "oa:identifying"
