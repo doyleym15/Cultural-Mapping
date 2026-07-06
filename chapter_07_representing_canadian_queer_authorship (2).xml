@@ -821,7 +821,7 @@
                                 <ref target="#technology">
                                     <ref target="#theme_or_topic">
                                         <ref target="#intertextuality">Although the scope of our project is currently bound by the years 1964 to 1981, the date at which <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/ClvxNot3PQi">Don McLeod’s</persName> chronology ends, we are keenly aware of the dearth of online information about queer trailblazers.</ref>
-                                        <ref target="#representation_of_women">Pioneering activists from the <abbr>LGLC</abbr> data set and later waves of the lesbian and gay liberation movement do not fare much better in <title level="m">Wikipedia</title> than in  search results. <ref target="#genre_issue"><persName key="Blackbridge, Persimmon, 1951-" ref="http://viaf.org/viaf/23630748" ana="webannotation:http://temp.lincsproject.ca/zyvy0xje5KC">Persimmon Blackbridge</persName>, author, mental health activist, and recent National Portrait Collection inductee, only appears on <title level="m">Wikipedia</title> in the entry for <orgName key="Kiss &amp; Tell (Vancouver)." ref="http://viaf.org/viaf/139498980" ana="webannotation:http://temp.lincsproject.ca/nVyYaJpzdUP">Kiss and Tell</orgName>, her <placeName key="Vancouver" ref="https://www.geonames.org/6173331/vancouver.html" ana="webannotation:http://temp.lincsproject.ca/cMd6says2vZ">Vancouver</placeName>-based art collective. At the time of writing, Blackbridge’s name appears in red on the <orgName key="Kiss &amp; Tell (Vancouver)." ref="http://viaf.org/viaf/139498980" ana="webannotation:http://temp.lincsproject.ca/8fFzChYKNih">Kiss and Tell</orgName> page, which signifies that even though she does not have a dedicated entry in <title level="m">Wikipedia</title>, at least one <title level="m">Wikipedia</title> editor has suggested that such an entry ought to exist. The <orgName key="Kiss &amp; Tell (Vancouver)." ref="http://viaf.org/viaf/139498980" ana="webannotation:http://temp.lincsproject.ca/SrF28nZG8iY">Kiss and Tell</orgName> <title level="m">Wikipedia</title> entry is itself an orphan—an article to which no other article links. To read about <orgName key="Kiss &amp; Tell (Vancouver)." ref="http://viaf.org/viaf/139498980" ana="webannotation:http://temp.lincsproject.ca/ugNB9KpCOai">Kiss and Tell</orgName> on <title level="m">Wikipedia</title> one must have prior knowledge of the collective, which works against the serendipitous knowledge acquisition that makes encyclopedias such wonderful resources. If links are the currency of the Internet in general, and in ’s indexing algorithm and <title level="m">Wikipedia</title> more specifically, then the women in the <abbr>LGLC</abbr>’s data set lack sufficient cultural capital.</ref>
+                                        <ref target="#representation_of_women">Pioneering activists from the <abbr>LGLC</abbr> data set and later waves of the lesbian and gay liberation movement do not fare much better in <title level="m">Wikipedia</title> than in  search results. <ref target="#genre_issue"><persName key="Blackbridge, Persimmon, 1951-" ref="http://viaf.org/viaf/23630748" ana="webannotation:http://temp.lincsproject.ca/zyvy0xje5KC">Persimmon Blackbridge</persName>, author, mental health activist, and recent National Portrait Collection inductee, only appears on <title level="m">Wikipedia</title> in the entry for <orgName key="Kiss &amp; Tell (Vancouver)." ref="http://viaf.org/viaf/139498980" ana="webannotation:http://temp.lincsproject.ca/nVyYaJpzdUP">Kiss and Tell</orgName>, her <placeName key="Vancouver" ref="https://www.geonames.org/6173331/vancouver.html" ana="webannotation:http://temp.lincsproject.ca/cMd6says2vZ">Vancouver</placeName>-based art collective. At the time of writing, <persName key="Blackbridge, Persimmon, 1951-" ref="http://viaf.org/viaf/23630748" ana="webannotation:http://temp.lincsproject.ca/QhzXqtxJ3ax">Blackbridge</persName>’s name appears in red on the <orgName key="Kiss &amp; Tell (Vancouver)." ref="http://viaf.org/viaf/139498980" ana="webannotation:http://temp.lincsproject.ca/8fFzChYKNih">Kiss and Tell</orgName> page, which signifies that even though she does not have a dedicated entry in <title level="m">Wikipedia</title>, at least one <title level="m">Wikipedia</title> editor has suggested that such an entry ought to exist. The <orgName key="Kiss &amp; Tell (Vancouver)." ref="http://viaf.org/viaf/139498980" ana="webannotation:http://temp.lincsproject.ca/SrF28nZG8iY">Kiss and Tell</orgName> <title level="m">Wikipedia</title> entry is itself an orphan—an article to which no other article links. To read about <orgName key="Kiss &amp; Tell (Vancouver)." ref="http://viaf.org/viaf/139498980" ana="webannotation:http://temp.lincsproject.ca/ugNB9KpCOai">Kiss and Tell</orgName> on <title level="m">Wikipedia</title> one must have prior knowledge of the collective, which works against the serendipitous knowledge acquisition that makes encyclopedias such wonderful resources. If links are the currency of the Internet in general, and in ’s indexing algorithm and <title level="m">Wikipedia</title> more specifically, then the women in the <abbr>LGLC</abbr>’s data set lack sufficient cultural capital.</ref>
                                         </ref>
                                     </ref>
                                 </ref>
@@ -20505,6 +20505,95 @@
         "type": "crm:E74_Group",
         "label": "Kiss & Tell (Vancouver).",
         "description": "Kiss & Tell (Groupe d'artistes)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/QhzXqtxJ3ax">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/QhzXqtxJ3ax",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T14:53:18.759Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/LojfXvy8XdN",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/LojfXvy8XdN/selector/textPosition/nBKU7jnxPNA",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 40379,
+                "end": 40390,
+                "refinedBy": {
+                    "id": "/target/LojfXvy8XdN/selector/textQuote/0JoxLvxJKPX",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Blackbridge",
+                    "prefix": " At the time of writing,",
+                    "suffix": "s name appears in red on the Kiss and Tell page, which signifies that even though she does not have a dedicated entry in Wikipedia, at least one Wikipedia editor has suggested that such an entry ought to exist"
+                }
+            },
+            {
+                "id": "/target/LojfXvy8XdN/selector/css/nH9bvBMsrbv",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/QhzXqtxJ3ax]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/23630748",
+        "type": "crm:E21_Person",
+        "label": "Blackbridge, Persimmon, 1951-",
+        "description": "Blackbridge, Persimmon"
     },
     "P2_has_type": [
         "oa:identifying"
