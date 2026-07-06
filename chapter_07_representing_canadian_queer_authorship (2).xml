@@ -809,7 +809,7 @@
                                     <ref target="#gender_issue">
                                         <ref target="#theme_or_topic">
                                             <ref target="#history">It is extremely difficult, even when conducting more traditional online research, to discern the connections between organizations, events, and people, and to piece together women’s involvement in Canadian <abbr>LGBT</abbr> history</ref>.</ref>
-                                        <ref target="#spatiality">For instance, via correspondence with <persName key="Van Dyke, Lamar" ref="http://viaf.org/viaf/66191200" ana="webannotation:http://temp.lincsproject.ca/mJrKzLXjB3y">Lamar Van Dyke</persName> (formerly Heather Beyer Elizabeth), one of the Brunswick Four, we learned the reason the four women had been at the Brunswick Tavern on the night of their arrest; <persName key="Van Dyke, Lamar" ref="http://viaf.org/viaf/66191200" ana="webannotation:http://temp.lincsproject.ca/ytzDFtTiRMB">Van Dyke</persName>, then co-ordinator of A Women’s Place, a feminist community centre, sought a rapprochement with Murphy, who had been working primarily with <abbr>CHAT</abbr>, an organization perceived by the women’s movement as focusing only on gay men’s issues. Searches for variations of <q>A Women’s Place</q> returned no relevant  hits—even for us—despite the fact that A Women’s Place was the original location for what became <orgName key="Toronto Women's Bookstore" ref="http://www.wikidata.org/entity/Q14875455" ana="webannotation:http://temp.lincsproject.ca/Zv5s5ETU9jb">the Toronto Women’s Bookstore</orgName>, a fixture of the feminist and <abbr>LGBT</abbr> communities in <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/fLWzC2nk3rx">Toronto</placeName> for thirty-nine years (the store closed on November 30, 2012). In the <title level="m">Wikipedia</title> entry on the Toronto Women’s Bookstore, A Women’s Place is referenced in passing as an unnamed women’s resource centre located on nearby Dupont Street. <abbr><orgName key="Text Encoding Initiative" ref="http://viaf.org/viaf/262867947" ana="webannotation:http://temp.lincsproject.ca/0qC5suygYpW">TEI</orgName></abbr> will help us draw these very connections between the various events, places, and people in the <abbr>LGLC</abbr> data set within the Collaboratory.</ref>
+                                        <ref target="#spatiality">For instance, via correspondence with <persName key="Van Dyke, Lamar" ref="http://viaf.org/viaf/66191200" ana="webannotation:http://temp.lincsproject.ca/mJrKzLXjB3y">Lamar Van Dyke</persName> (formerly Heather Beyer Elizabeth), one of the Brunswick Four, we learned the reason the four women had been at the Brunswick Tavern on the night of their arrest; <persName key="Van Dyke, Lamar" ref="http://viaf.org/viaf/66191200" ana="webannotation:http://temp.lincsproject.ca/ytzDFtTiRMB">Van Dyke</persName>, then co-ordinator of A Women’s Place, a feminist community centre, sought a rapprochement with Murphy, who had been working primarily with <abbr>CHAT</abbr>, an organization perceived by the women’s movement as focusing only on gay men’s issues. Searches for variations of <q>A Women’s Place</q> returned no relevant  hits—even for us—despite the fact that A Women’s Place was the original location for what became <orgName key="Toronto Women's Bookstore" ref="http://www.wikidata.org/entity/Q14875455" ana="webannotation:http://temp.lincsproject.ca/Zv5s5ETU9jb">the Toronto Women’s Bookstore</orgName>, a fixture of the feminist and <abbr>LGBT</abbr> communities in <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/fLWzC2nk3rx">Toronto</placeName> for thirty-nine years (the store closed on November 30, 2012). In the <title level="m">Wikipedia</title> entry on <orgName key="Toronto Women's Bookstore" ref="http://www.wikidata.org/entity/Q14875455" ana="webannotation:http://temp.lincsproject.ca/MsSsoSrUG9m">the Toronto Women’s Bookstore</orgName>, A Women’s Place is referenced in passing as an unnamed women’s resource centre located on nearby Dupont Street. <abbr><orgName key="Text Encoding Initiative" ref="http://viaf.org/viaf/262867947" ana="webannotation:http://temp.lincsproject.ca/0qC5suygYpW">TEI</orgName></abbr> will help us draw these very connections between the various events, places, and people in the <abbr>LGLC</abbr> data set within the Collaboratory.</ref>
                                     </ref>
                                 </ref>
                             </ref>
@@ -885,7 +885,7 @@
                                 <q>Re: Women’s Accessions</q>. Email to the authors</title>. 5 March 2011.</bibl>
                         <bibl><persName key="Bébout, Rick 1950-2009" ref="http://viaf.org/viaf/90149841846502840078" ana="webannotation:http://temp.lincsproject.ca/SXgjlBnCopB" type="real" cert="high">Bébout</persName>, Rick. <title level="m">Promiscuous Affections: A Life in the Bar, 1969–2000.</title> <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/AV0GYTUqogE">Toronto</placeName>: n.p., 2003.</bibl>
                         <bibl>. <title level="m">Text Crimes: Yet Again…The Issue That Won’t Go Away</title>. <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/2XpXHHtkf16">Toronto</placeName>: n.p., 2003.</bibl>
-                        <bibl>Canadian Lesbian and Gay Archives (<abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/WInZ6lB5Se4">CLGA</orgName></abbr>). <title level="a">About Us</title>. <ref target="http://www.clga.ca/about-us">http://www.clga.ca/about-us</ref>
+                        <bibl><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/aUchijDzIg7">Canadian Lesbian and Gay Archives</orgName> (<abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/WInZ6lB5Se4">CLGA</orgName></abbr>). <title level="a">About Us</title>. <ref target="http://www.clga.ca/about-us">http://www.clga.ca/about-us</ref>
                         </bibl>
                         <bibl>. <title level="a">A Chronology of the Archives</title>. <ref target="http://www.clga.ca">http://www.clga.ca</ref>
                         </bibl>
@@ -21134,6 +21134,95 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/MsSsoSrUG9m">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/MsSsoSrUG9m",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T15:42:45.552Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/PqEX9QaRHcF",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/PqEX9QaRHcF/selector/textPosition/xRsjKGyR0x2",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 39129,
+                "end": 39158,
+                "refinedBy": {
+                    "id": "/target/PqEX9QaRHcF/selector/textQuote/ZwlVy2g1dsk",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the Toronto Women’s Bookstore",
+                    "prefix": " In the Wikipedia entry on",
+                    "suffix": " A Women’s Place is referenced in passing as an unnamed women’s resource centre located on nearby Dupont Street"
+                }
+            },
+            {
+                "id": "/target/PqEX9QaRHcF/selector/css/LNiUfpHFLOs",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/MsSsoSrUG9m]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q14875455",
+        "type": "crm:E74_Group",
+        "label": "Toronto Women's Bookstore",
+        "description": "Feminist bookstore in Canada"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/zyvy0xje5KC">
 <![CDATA[{
     "@context": [
@@ -21749,6 +21838,95 @@
         "type": "crm:E74_Group",
         "label": "University of Minnesota.",
         "description": "University of Minnesota (Minneapolis)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/aUchijDzIg7">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/aUchijDzIg7",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T15:43:54.433Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/NMdHpN9rBPa",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/NMdHpN9rBPa/selector/textPosition/S5txaGa9ynT",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 47053,
+                "end": 47086,
+                "refinedBy": {
+                    "id": "/target/NMdHpN9rBPa/selector/textQuote/EDsvAi21OmN",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canadian Lesbian and Gay Archives",
+                    "prefix": "\n                       ",
+                    "suffix": "(CLGA)"
+                }
+            },
+            {
+                "id": "/target/NMdHpN9rBPa/selector/css/eNJX5GB8kDp",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/aUchijDzIg7]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/125436305",
+        "type": "crm:E74_Group",
+        "label": "Canadian Lesbian and Gay Archives",
+        "description": "The ArQuives"
     },
     "P2_has_type": [
         "oa:identifying"
