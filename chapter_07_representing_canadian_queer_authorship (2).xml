@@ -593,7 +593,7 @@
                                                 <bibl>
                                                     <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/N5Ipz5SdFbH">CLGA</orgName></abbr>, <title level="a">The Collective Years</title>
                                                 </bibl>
-                                            </note>. Pink Triangle saw this open goading of institutional power as part of its <q>commitment to a wider struggle for liberation, and [a] refusal to marginalize others out of concern for <q>respectability</q>
+                                            </note>. <orgName key="Pink Triangle Press" ref="http://viaf.org/viaf/145367045" ana="webannotation:http://temp.lincsproject.ca/1ieGES1O4jr">Pink Triangle</orgName> saw this open goading of institutional power as part of its <q>commitment to a wider struggle for liberation, and [a] refusal to marginalize others out of concern for <q>respectability</q>
                                             </q>
                                             <note place="inline">
                                                 <bibl>
@@ -633,7 +633,7 @@
                         <ref target="#archival_location">
                             <ref target="#archive">
                                 <ref target="#theme_or_topic">
-                                    <ref target="#cannon_formation">In 1973, the <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/7xYIoRmOqBS">CLGA</orgName></abbr>’s nascent archivists began soliciting additional material in the pages of <title level="j">The Body Politic</title>, and the collection soon expanded beyond the basement of the archive’s founder and first champion, <title level="j">Body Politic</title> member Ron Dayman. The archives changed its name to the Canadian Gay Archives in 1975, and began gathering material from all over <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/RdL3aXLj0HR">Canada</placeName> and from beyond the confines of the gay liberation movement. This broadening mandate led to its current name, <orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/0tY1ogPvxYm">the Canadian Lesbian and Gay Archives</orgName>, adopted in 1993.</ref>
+                                    <ref target="#cannon_formation">In 1973, the <abbr><orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/7xYIoRmOqBS">CLGA</orgName></abbr>’s nascent archivists began soliciting additional material in the pages of <title level="j">The Body Politic</title>, and the collection soon expanded beyond the basement of the archive’s founder and first champion, <title level="j"><orgName key="Body Politic Collective (Organisme)" ref="http://viaf.org/viaf/139645576" ana="webannotation:http://temp.lincsproject.ca/54sjLPBddaA">Body Politic</orgName></title> member Ron Dayman. The archives changed its name to the Canadian Gay Archives in 1975, and began gathering material from all over <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/RdL3aXLj0HR">Canada</placeName> and from beyond the confines of the gay liberation movement. This broadening mandate led to its current name, <orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/0tY1ogPvxYm">the Canadian Lesbian and Gay Archives</orgName>, adopted in 1993.</ref>
                                 </ref>
                             </ref>
                         </ref>
@@ -20504,6 +20504,184 @@
         "type": "crm:E74_Group",
         "label": "Body Politic Collective (Organisme)",
         "description": "Body Politic Collective (Organization)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/54sjLPBddaA">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/54sjLPBddaA",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T15:29:48.235Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/CFvlg5PTLuX",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/CFvlg5PTLuX/selector/textPosition/Dshvii6AvTW",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 20242,
+                "end": 20254,
+                "refinedBy": {
+                    "id": "/target/CFvlg5PTLuX/selector/textQuote/S2asFDHwifN",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Body Politic",
+                    "prefix": "\n                            \n                        \n                    \n                    \n                        \n                            \n                                \n                                    In 1973, the CLGA’s nascent archivists began soliciting additional material in the pages of The Body Politic, and the collection soon expanded beyond the basement of the archive’s founder and first champion,",
+                    "suffix": "member Ron Dayman"
+                }
+            },
+            {
+                "id": "/target/CFvlg5PTLuX/selector/css/WlcEiyTW91V",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/54sjLPBddaA]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/139645576",
+        "type": "crm:E74_Group",
+        "label": "Body Politic Collective (Organisme)",
+        "description": "Body Politic Collective (Organization)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/1ieGES1O4jr">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/1ieGES1O4jr",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-06T15:30:07.835Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/JamE1AIxzye",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/JamE1AIxzye/selector/textPosition/X8JyYxoofBO",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 17124,
+                "end": 17137,
+                "refinedBy": {
+                    "id": "/target/JamE1AIxzye/selector/textQuote/7PI2wLudGre",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Pink Triangle",
+                    "prefix": "",
+                    "suffix": "saw this open goading of institutional power as part of its commitment to a wider struggle for liberation, and [a] refusal to marginalize others out of concern for respectability\n                                            \n                                            \n                                                \n                                                    CLGA, The Collective Years\n                                                \n                                            "
+                }
+            },
+            {
+                "id": "/target/JamE1AIxzye/selector/css/MQKF4aFgUKF",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/1ieGES1O4jr]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/145367045",
+        "type": "crm:E74_Group",
+        "label": "Pink Triangle Press",
+        "description": "Pink Triangle Press (Canada)"
     },
     "P2_has_type": [
         "oa:identifying"
