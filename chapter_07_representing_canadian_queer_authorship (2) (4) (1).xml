@@ -717,7 +717,7 @@
                                 <ref target="#spatiality">On January 15, 1974, four women took the stage on amateur talent night at the <placeName key="The Brunswick House" ref="http://www.wikidata.org/entity/Q7720426" ana="webannotation:http://temp.lincsproject.ca/TK2Uu0cZ494">Brunswick Tavern</placeName>. <ref target="#class_issue">The <orgName key="The Brunswick House" ref="http://www.wikidata.org/entity/Q7720426" ana="webannotation:http://temp.lincsproject.ca/gsHtFr5vEsO">Brunswick</orgName>, an institution in what was then a working-class <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/mJxcOBNu2jC">Toronto</placeName> neighbourhood that was just starting to cater to students at the nearby <orgName key="University of Toronto." ref="http://viaf.org/viaf/130333233" ana="webannotation:http://temp.lincsproject.ca/sf7NfAQhhIJ">University of Toronto</orgName>, was a rowdy place, a cavernous hall lined with wooden tables and benches, with a plywood stage at one end of the hall.</ref>
                                 </ref>
                                 <ref target="#sexuality">
-                                    <ref target="#genre_performance">Heather Beyer Elizabeth, Pat Murphy, Adrienne Potts, and Sue Wells got up on the stage and sang <title level="a">I Enjoy Being a Dyke,</title> their lively send-up of <title level="a">I Enjoy Being a Girl.</title>
+                                    <ref target="#genre_performance">Heather Beyer Elizabeth, Pat Murphy, Adrienne Potts, and Sue Wells got up on the stage and sang <title level="a">I Enjoy Being a Dyke,</title> their lively send-up of <title level="a"><title key="I Enjoy Being a Girl" ref="http://www.wikidata.org/entity/Q5977091" ana="webannotation:http://temp.lincsproject.ca/3HYsO7S5bnL">I Enjoy Being a Girl</title>.</title>
                                     </ref>
                                 </ref>
                                 <ref target="#censorship">The management asked the four women to leave. Although they were surrounded by beer-spitting, catcalling patrons, the women refused to depart <note place="inline">
@@ -23278,6 +23278,95 @@
         "type": "crm:E74_Group",
         "label": "Brunswick Four",
         "description": "women arrested in Canada in 1974"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/3HYsO7S5bnL">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/3HYsO7S5bnL",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-07T18:22:57.490Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ElKc0HLA6D4",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2) (4) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2) (4) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ElKc0HLA6D4/selector/textPosition/Pz52xn6X0l0",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 28518,
+                "end": 28538,
+                "refinedBy": {
+                    "id": "/target/ElKc0HLA6D4/selector/textQuote/QH7HjJ6kMID",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "I Enjoy Being a Girl",
+                    "prefix": "\n                                \n                                \n                                    Heather Beyer Elizabeth, Pat Murphy, Adrienne Potts, and Sue Wells got up on the stage and sang I Enjoy Being a Dyke, their lively send-up of",
+                    "suffix": "\n                                    \n                                \n                                The management asked the four women to leave"
+                }
+            },
+            {
+                "id": "/target/ElKc0HLA6D4/selector/css/J6E6jZP8RQA",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/3HYsO7S5bnL]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q5977091",
+        "type": "frbroo:F1",
+        "label": "I Enjoy Being a Girl",
+        "description": "song composed by Richard Rodgers"
     },
     "P2_has_type": [
         "oa:identifying"
