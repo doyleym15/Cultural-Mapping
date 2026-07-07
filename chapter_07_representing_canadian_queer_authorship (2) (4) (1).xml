@@ -714,7 +714,7 @@
                         <ref target="#technology">Before outlining <abbr><orgName key="Text Encoding Initiative" ref="http://viaf.org/viaf/262867947" ana="webannotation:http://temp.lincsproject.ca/tHHg4mfjFH7">TEI</orgName></abbr>’s markup utility in teasing out new meanings from the details of <persName key="McLeod, Donald W. (Donald Wilfred), 1957-" ref="http://viaf.org/viaf/26046460" ana="webannotation:http://temp.lincsproject.ca/ARL7EiqbBP2">McLeod</persName>’s chronology, we would like to relate the sort of story we hope the <abbr>LGLC</abbr> project will bring to the fore.</ref>
                         <ref target="#representation_of_women">
                             <ref target="#historical_oppression">
-                                <ref target="#spatiality">On January 15, 1974, four women took the stage on amateur talent night at the <placeName key="British Columbia" ref="https://sws.geonames.org/5909050" ana="webannotation:http://temp.lincsproject.ca/GutrBoKmz5n" type="real" cert="high" precision="high">Brunswick Tavern</placeName>. <ref target="#class_issue">The Brunswick, an institution in what was then a working-class <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/mJxcOBNu2jC">Toronto</placeName> neighbourhood that was just starting to cater to students at the nearby <orgName key="University of Toronto." ref="http://viaf.org/viaf/130333233" ana="webannotation:http://temp.lincsproject.ca/sf7NfAQhhIJ">University of Toronto</orgName>, was a rowdy place, a cavernous hall lined with wooden tables and benches, with a plywood stage at one end of the hall.</ref>
+                                <ref target="#spatiality">On January 15, 1974, four women took the stage on amateur talent night at the <placeName key="B.C." ref="https://nerve.lincsproject.ca/dWt0flwgAYNqkgvpWRmqh" ana="webannotation:http://temp.lincsproject.ca/GutrBoKmz5n">Brunswick Tavern</placeName>. <ref target="#class_issue">The Brunswick, an institution in what was then a working-class <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/mJxcOBNu2jC">Toronto</placeName> neighbourhood that was just starting to cater to students at the nearby <orgName key="University of Toronto." ref="http://viaf.org/viaf/130333233" ana="webannotation:http://temp.lincsproject.ca/sf7NfAQhhIJ">University of Toronto</orgName>, was a rowdy place, a cavernous hall lined with wooden tables and benches, with a plywood stage at one end of the hall.</ref>
                                 </ref>
                                 <ref target="#sexuality">
                                     <ref target="#genre_performance">Heather Beyer Elizabeth, Pat Murphy, Adrienne Potts, and Sue Wells got up on the stage and sang <title level="a">I Enjoy Being a Dyke,</title> their lively send-up of <title level="a">I Enjoy Being a Girl.</title>
@@ -16890,13 +16890,9 @@
         ]
     },
     "body": {
-        "id": "https://sws.geonames.org/5909050",
+        "id": "https://nerve.lincsproject.ca/dWt0flwgAYNqkgvpWRmqh",
         "type": "crm:E53_Place",
-        "label": "British Columbia",
-        "description": "British Columbia, CA",
-        "P2_has_type": [
-            "edit:modeReal"
-        ]
+        "label": "B.C."
     },
     "P2_has_type": [
         "oa:identifying",
