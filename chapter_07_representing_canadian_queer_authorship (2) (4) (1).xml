@@ -808,7 +808,7 @@
                                     <ref target="#gender_issue">
                                         <ref target="#theme_or_topic">
                                             <ref target="#history">It is extremely difficult, even when conducting more traditional online research, to discern the connections between organizations, events, and people, and to piece together women’s involvement in Canadian <abbr>LGBT</abbr> history</ref>.</ref>
-                                        <ref target="#spatiality">For instance, via correspondence with <persName key="Van Dyke, Lamar" ref="http://viaf.org/viaf/66191200" ana="webannotation:http://temp.lincsproject.ca/mJrKzLXjB3y">Lamar Van Dyke</persName> (formerly Heather Beyer Elizabeth), one of the Brunswick Four, we learned the reason the four women had been at <placeName key="The Brunswick House" ref="http://www.wikidata.org/entity/Q7720426" ana="webannotation:http://temp.lincsproject.ca/zuvIIrPNygw">the Brunswick Tavern</placeName> on the night of their arrest; <persName key="Van Dyke, Lamar" ref="http://viaf.org/viaf/66191200" ana="webannotation:http://temp.lincsproject.ca/ytzDFtTiRMB">Van Dyke</persName>, then co-ordinator of A Women’s Place, a feminist community centre, sought a rapprochement with Murphy, who had been working primarily with <abbr>CHAT</abbr>, an organization perceived by the women’s movement as focusing only on gay men’s issues. Searches for variations of <q>A Women’s Place</q> returned no relevant  hits—even for us—despite the fact that A Women’s Place was the original location for what became <orgName key="Toronto Women's Bookstore" ref="http://www.wikidata.org/entity/Q14875455" ana="webannotation:http://temp.lincsproject.ca/Zv5s5ETU9jb">the Toronto Women’s Bookstore</orgName>, a fixture of the feminist and <abbr>LGBT</abbr> communities in <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/fLWzC2nk3rx">Toronto</placeName> for thirty-nine years (the store closed on November 30, 2012). In the <title level="m">Wikipedia</title> entry on <orgName key="Toronto Women's Bookstore" ref="http://www.wikidata.org/entity/Q14875455" ana="webannotation:http://temp.lincsproject.ca/MsSsoSrUG9m">the Toronto Women’s Bookstore</orgName>, A Women’s Place is referenced in passing as an unnamed women’s resource centre located on nearby Dupont Street. <abbr><orgName key="Text Encoding Initiative" ref="http://viaf.org/viaf/262867947" ana="webannotation:http://temp.lincsproject.ca/0qC5suygYpW">TEI</orgName></abbr> will help us draw these very connections between the various events, places, and people in the <abbr>LGLC</abbr> data set within the Collaboratory.</ref>
+                                        <ref target="#spatiality">For instance, via correspondence with <persName key="Van Dyke, Lamar" ref="http://viaf.org/viaf/66191200" ana="webannotation:http://temp.lincsproject.ca/mJrKzLXjB3y">Lamar Van Dyke</persName> (formerly Heather Beyer Elizabeth), one of the Brunswick Four, we learned the reason the four women had been at <placeName key="The Brunswick House" ref="http://www.wikidata.org/entity/Q7720426" ana="webannotation:http://temp.lincsproject.ca/zuvIIrPNygw">the Brunswick Tavern</placeName> on the night of their arrest; <persName key="Van Dyke, Lamar" ref="http://viaf.org/viaf/66191200" ana="webannotation:http://temp.lincsproject.ca/ytzDFtTiRMB">Van Dyke</persName>, then co-ordinator of <orgName key="The Women's Place" ref="http://www.wikidata.org/entity/Q109678205" ana="webannotation:http://temp.lincsproject.ca/ViFTTP1GmBH">A Women’s Place</orgName>, a feminist community centre, sought a rapprochement with Murphy, who had been working primarily with <abbr>CHAT</abbr>, an organization perceived by the women’s movement as focusing only on gay men’s issues. Searches for variations of <q><orgName key="The Women's Place" ref="http://www.wikidata.org/entity/Q109678205" ana="webannotation:http://temp.lincsproject.ca/WVZQo2ftXzG">A Women’s Place</orgName></q> returned no relevant  hits—even for us—despite the fact that <orgName key="The Women's Place" ref="http://www.wikidata.org/entity/Q109678205" ana="webannotation:http://temp.lincsproject.ca/WDzenBDpsPj">A Women’s Place</orgName> was the original location for what became <orgName key="Toronto Women's Bookstore" ref="http://www.wikidata.org/entity/Q14875455" ana="webannotation:http://temp.lincsproject.ca/Zv5s5ETU9jb">the Toronto Women’s Bookstore</orgName>, a fixture of the feminist and <abbr>LGBT</abbr> communities in <placeName key="Toronto" ref="https://www.geonames.org/6167865/toronto.html" ana="webannotation:http://temp.lincsproject.ca/fLWzC2nk3rx">Toronto</placeName> for thirty-nine years (the store closed on November 30, 2012). In the <title level="m">Wikipedia</title> entry on <orgName key="Toronto Women's Bookstore" ref="http://www.wikidata.org/entity/Q14875455" ana="webannotation:http://temp.lincsproject.ca/MsSsoSrUG9m">the Toronto Women’s Bookstore</orgName>, <orgName key="The Women's Place" ref="http://www.wikidata.org/entity/Q109678205" ana="webannotation:http://temp.lincsproject.ca/QvpO6iBd7bF">A Women’s Place</orgName> is referenced in passing as an unnamed women’s resource centre located on nearby Dupont Street. <abbr><orgName key="Text Encoding Initiative" ref="http://viaf.org/viaf/262867947" ana="webannotation:http://temp.lincsproject.ca/0qC5suygYpW">TEI</orgName></abbr> will help us draw these very connections between the various events, places, and people in the <abbr>LGLC</abbr> data set within the Collaboratory.</ref>
                                     </ref>
                                 </ref>
                             </ref>
@@ -23367,6 +23367,362 @@
         "type": "crm:E74_Group",
         "label": "Brunswick Four",
         "description": "women arrested in Canada in 1974"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ViFTTP1GmBH">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ViFTTP1GmBH",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-07T16:09:36.296Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/BbsiQMhtJHZ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2) (4) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2) (4) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/BbsiQMhtJHZ/selector/textPosition/s8zlC0Jm5p7",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 38577,
+                "end": 38592,
+                "refinedBy": {
+                    "id": "/target/BbsiQMhtJHZ/selector/textQuote/Kml0IhO0bpX",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "A Women’s Place",
+                    "prefix": "\n                                        For instance, via correspondence with Lamar Van Dyke (formerly Heather Beyer Elizabeth), one of the Brunswick Four, we learned the reason the four women had been at the Brunswick Tavern on the night of their arrest; Van Dyke, then co-ordinator of",
+                    "suffix": " a feminist community centre, sought a rapprochement with Murphy, who had been working primarily with CHAT, an organization perceived by the women’s movement as focusing only on gay men’s issues"
+                }
+            },
+            {
+                "id": "/target/BbsiQMhtJHZ/selector/css/mdU134vq24I",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ViFTTP1GmBH]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q109678205",
+        "type": "crm:E74_Group",
+        "label": "The Women's Place",
+        "description": "feminist collective in Toronto, Ontario from 1972-1974"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/WVZQo2ftXzG">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/WVZQo2ftXzG",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-07T16:09:36.298Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/iPb6IR5eY1O",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2) (4) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2) (4) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/iPb6IR5eY1O/selector/textPosition/aUVBVCiEdug",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 38816,
+                "end": 38831,
+                "refinedBy": {
+                    "id": "/target/iPb6IR5eY1O/selector/textQuote/ZUYCFptEKWD",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "A Women’s Place",
+                    "prefix": " Searches for variations of",
+                    "suffix": "returned no relevant  hits—even for us—despite the fact that A Women’s Place was the original location for what became the Toronto Women’s Bookstore, a fixture of the feminist and LGBT communities in Toronto for thirty-nine years (the store closed on November 30, 2012)"
+                }
+            },
+            {
+                "id": "/target/iPb6IR5eY1O/selector/css/BHbfU6OOuul",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/WVZQo2ftXzG]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q109678205",
+        "type": "crm:E74_Group",
+        "label": "The Women's Place",
+        "description": "feminist collective in Toronto, Ontario from 1972-1974"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/WDzenBDpsPj">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/WDzenBDpsPj",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-07T16:09:36.298Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/x52SeqhnhVA",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2) (4) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2) (4) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/x52SeqhnhVA/selector/textPosition/WOVOZDLbvDV",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 38893,
+                "end": 38908,
+                "refinedBy": {
+                    "id": "/target/x52SeqhnhVA/selector/textQuote/vCNHyaUdC6c",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "A Women’s Place",
+                    "prefix": " Searches for variations of A Women’s Place returned no relevant  hits—even for us—despite the fact that",
+                    "suffix": "was the original location for what became the Toronto Women’s Bookstore, a fixture of the feminist and LGBT communities in Toronto for thirty-nine years (the store closed on November 30, 2012)"
+                }
+            },
+            {
+                "id": "/target/x52SeqhnhVA/selector/css/9vDbivR8mGC",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/WDzenBDpsPj]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q109678205",
+        "type": "crm:E74_Group",
+        "label": "The Women's Place",
+        "description": "feminist collective in Toronto, Ontario from 1972-1974"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/QvpO6iBd7bF">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/QvpO6iBd7bF",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-07T16:09:36.299Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Mfp9ymZ6D0s",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2) (4) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2) (4) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Mfp9ymZ6D0s/selector/textPosition/D3kRk7qCFIX",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 39160,
+                "end": 39175,
+                "refinedBy": {
+                    "id": "/target/Mfp9ymZ6D0s/selector/textQuote/8q8UMX3KCwY",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "A Women’s Place",
+                    "prefix": " In the Wikipedia entry on the Toronto Women’s Bookstore,",
+                    "suffix": "is referenced in passing as an unnamed women’s resource centre located on nearby Dupont Street"
+                }
+            },
+            {
+                "id": "/target/Mfp9ymZ6D0s/selector/css/exJ6fI3AwHn",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/QvpO6iBd7bF]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q109678205",
+        "type": "crm:E74_Group",
+        "label": "The Women's Place",
+        "description": "feminist collective in Toronto, Ontario from 1972-1974"
     },
     "P2_has_type": [
         "oa:identifying"
