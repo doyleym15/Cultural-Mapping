@@ -416,7 +416,7 @@
                 <p xml:id="p1278">
                     <ref target="#gender_issue">
                         <ref target="#sexuality">
-                            <ref target="#genre_novel">Reflecting on her life, <persName key="Rule, Jane, 1931-2007" ref="http://viaf.org/viaf/62399671" ana="webannotation:http://temp.lincsproject.ca/ybt4coMxO6l" type="real" cert="high">Jane Rule</persName> mused that after the 1964 publication of <title level="m">Desert of the Heart</title>, English Canada’s first literary lesbian novel, she <q>became, for the media, the only lesbian in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/486LJ86g4du">Canada</placeName></q>
+                            <ref target="#genre_novel">Reflecting on her life, <persName key="Rule, Jane, 1931-2007" ref="http://viaf.org/viaf/62399671" ana="webannotation:http://temp.lincsproject.ca/ybt4coMxO6l" type="real" cert="high">Jane Rule</persName> mused that after the 1964 publication of <title level="m">Desert of the Heart</title>, <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/X9MVNPAq7q4">English Canada’s</placeName> first literary lesbian novel, she <q>became, for the media, the only lesbian in <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/486LJ86g4du">Canada</placeName></q>
                                 <note place="inline">
                                     <bibl>Martin S8</bibl>
                                 </note>.</ref> <persName key="Rule, Jane, 1931-2007" ref="http://viaf.org/viaf/62399671" ana="webannotation:http://temp.lincsproject.ca/4bu5TNbfTjO" type="real" cert="high">Rule</persName> passed away in 2007, but not before she became a featured activist on the website of <orgName key="Canadian Lesbian and Gay Archives" ref="http://viaf.org/viaf/125436305" ana="webannotation:http://temp.lincsproject.ca/K1F3IYeYO3a">the Canadian Lesbian and Gay Archives’</orgName> National Portrait Collection and one of the few female activists from the Canadian lesbian and gay liberation movement with an entry in <title level="m">Wikipedia.</title>
@@ -22561,6 +22561,95 @@
         "type": "crm:E21_Person",
         "label": "Warner, Tom (Thomas E.), 1952-",
         "description": "Warner, Tom"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/X9MVNPAq7q4">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/X9MVNPAq7q4",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-07T15:46:50.973Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/m5m5Lk6G3ml",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2) (4) (1).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_07_representing_canadian_queer_authorship (2) (4) (1).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Representing Canadian Queer Authorship"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/m5m5Lk6G3ml/selector/textPosition/IVEQVdpBMCE",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 411,
+                "end": 427,
+                "refinedBy": {
+                    "id": "/target/m5m5Lk6G3ml/selector/textQuote/3zygc5sHDcM",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "English Canada’s",
+                    "prefix": "\n        \n            \n                \n                    Representing Canadian Queer Authorship\n                \n                Making the Internet a Women’s Place\n                 Michelle Schwartz & Constance Crompton\n                \n                    \n                        \n                            Reflecting on her life, Jane Rule mused that after the 1964 publication of Desert of the Heart,",
+                    "suffix": "first literary lesbian novel, she became, for the media, the only lesbian in Canada\n                                \n                                    Martin S8\n                                "
+                }
+            },
+            {
+                "id": "/target/m5m5Lk6G3ml/selector/css/V8VemM4UNQn",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/X9MVNPAq7q4]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6251999",
+        "type": "crm:E53_Place",
+        "label": "Canada",
+        "description": "null, CA"
     },
     "P2_has_type": [
         "oa:identifying"
