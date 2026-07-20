@@ -440,10 +440,10 @@
                         <ref target="#intellectual_history">Née en 1924, auteure et éditrice <ref target="#nationality">franco-ontarienne</ref>, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/rTxuKbqAut2">Marguerite Andersen</persName> est venue à l’écriture de fiction à l’âge de cinquante-trois ans, mariant cette nouvelle carrière à celle de professeure de littérature française.</ref>
                         <ref target="#recognitions">Elle fait son entrée sur la scène littéraire en 1982 avec <ref target="#genre_lifeWriting">
                                 <title level="m">De mémoire de femme</title>, <q>récit en partie autobiographique</q>
-                            </ref> pour lequel elle reçoit le Prix du Journal de Montréal. Grande admiratrice de Simone de Beauvoir et de ses œuvres autobiographiques, Andersen récidive en littérature intime avec <ref target="#genre_poetry">la prose poétique <title level="m">Bleu sur blanc</title>
+                            </ref> pour lequel elle reçoit le Prix du Journal de Montréal. Grande admiratrice de Simone de Beauvoir et de ses œuvres autobiographiques, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/wzdy3FxlIzi">Andersen</persName> récidive en littérature intime avec <ref target="#genre_poetry">la prose poétique <title level="m">Bleu sur blanc</title>
                             </ref> en 2000, avec <ref target="#genre_fiction">la fiction documentaire <title level="m">Parallèles</title>
                             </ref> en 2004 et avec <ref target="#genre_fiction">le roman <title level="m">Le figuier sur le toit</title>
-                            </ref>, pour lequel elle reçoit le Prix Trillium en 2008</ref>. <ref target="#genre_lifeWriting">Dans l’avant-propos de <title level="m">La vie devant elles</title>, paru en 2011, Andersen se présente comme <q>écrivaine à tendance autofictionnelle</q> mais précise que, dans cet ouvrage, elle construit plutôt <q>trois récits biofictionnels</q> à partir de la vie de ses six petites-filles <note place="inline">
+                            </ref>, pour lequel elle reçoit le Prix Trillium en 2008</ref>. <ref target="#genre_lifeWriting">Dans l’avant-propos de <title level="m">La vie devant elles</title>, paru en 2011, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/ZMTa8epIi6D">Andersen</persName> se présente comme <q>écrivaine à tendance autofictionnelle</q> mais précise que, dans cet ouvrage, elle construit plutôt <q>trois récits biofictionnels</q> à partir de la vie de ses six petites-filles <note place="inline">
                                 <bibl>7</bibl>
                             </note>. Dans ces autofictions, le <q>pacte autobiographique</q>
                             <note place="inline">
@@ -457,7 +457,7 @@
                             <note xml:id="n86" place="end">
                                 <ref target="#intertextuality">
                                     <ref target="#theory">
-                                        <ref target="#genre_lifeWriting">À partir de ces autofictions, Andersen crée ce que Régine Robin appelle un <q>roman mémoriel</q> : <q>Nous parlerons analogiquement de roman mémoriel par lequel un individu, un groupe ou une société pense son passé en le modifiant, le déplaçant, le déformant, s’inventant des souvenirs, un passé glorieux, des ancêtres, des filiations, des généalogies, ou, au contraire, luttant pour l’exactitude factuelle, pour la restitution de l’événement ou sa résurrection</q>
+                                        <ref target="#genre_lifeWriting">À partir de ces autofictions, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/p8lpXEtcPEA">Andersen</persName> crée ce que Régine Robin appelle un <q>roman mémoriel</q> : <q>Nous parlerons analogiquement de roman mémoriel par lequel un individu, un groupe ou une société pense son passé en le modifiant, le déplaçant, le déformant, s’inventant des souvenirs, un passé glorieux, des ancêtres, des filiations, des généalogies, ou, au contraire, luttant pour l’exactitude factuelle, pour la restitution de l’événement ou sa résurrection</q>
                                             <note place="inline">
                                                 <bibl>Robin, 48</bibl>
                                             </note>
@@ -6136,6 +6136,273 @@
         "P2_has_type": [
             "edit:modeReal"
         ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/wzdy3FxlIzi">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/wzdy3FxlIzi",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:38:20.664Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/FkReQoTYq2N",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/FkReQoTYq2N/selector/textPosition/T0vhEYRGQjo",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 2356,
+                "end": 2364,
+                "refinedBy": {
+                    "id": "/target/FkReQoTYq2N/selector/textQuote/WFtP5C8oSJT",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Andersen",
+                    "prefix": " Grande admiratrice de Simone de Beauvoir et de ses œuvres autobiographiques,",
+                    "suffix": "récidive en littérature intime avec la prose poétique Bleu sur blanc\n                             en 2000, avec la fiction documentaire Parallèles\n                             en 2004 et avec le roman Le figuier sur le toit\n                            , pour lequel elle reçoit le Prix Trillium en 2008"
+                }
+            },
+            {
+                "id": "/target/FkReQoTYq2N/selector/css/yldU2Mh2hXF",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/wzdy3FxlIzi]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/49233891",
+        "type": "crm:E21_Person",
+        "label": "Andersen, Marguerite, 1924-2022",
+        "description": "Andersen, Marguerite, 1924-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ZMTa8epIi6D">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ZMTa8epIi6D",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:38:20.809Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/qRBvivYA8QF",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/qRBvivYA8QF/selector/textPosition/tJJZsVAl4A0",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 2727,
+                "end": 2735,
+                "refinedBy": {
+                    "id": "/target/qRBvivYA8QF/selector/textQuote/rvC6HOJB6kC",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Andersen",
+                    "prefix": " Dans l’avant-propos de La vie devant elles, paru en 2011,",
+                    "suffix": "se présente comme écrivaine à tendance autofictionnelle mais précise que, dans cet ouvrage, elle construit plutôt trois récits biofictionnels à partir de la vie de ses six petites-filles \n                                7\n                            "
+                }
+            },
+            {
+                "id": "/target/qRBvivYA8QF/selector/css/ZL00uc6nA1F",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ZMTa8epIi6D]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/49233891",
+        "type": "crm:E21_Person",
+        "label": "Andersen, Marguerite, 1924-2022",
+        "description": "Andersen, Marguerite, 1924-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/p8lpXEtcPEA">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/p8lpXEtcPEA",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:38:20.913Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/tGxvs4wro5A",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/tGxvs4wro5A/selector/textPosition/1Gq4gxcuMu3",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 4092,
+                "end": 4100,
+                "refinedBy": {
+                    "id": "/target/tGxvs4wro5A/selector/textQuote/DZFPsA2TzKQ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Andersen",
+                    "prefix": " \n                                Tous ces romans retravaillent le passé historique comme le passé personnel de l’auteure, évoquant sous des perspectives diverses la vie mouvementée d’Andersen sur trois continents\n                            \n                            \n                                \n                                    \n                                        À partir de ces autofictions,",
+                    "suffix": "crée ce que Régine Robin appelle un roman mémoriel : Nous parlerons analogiquement de roman mémoriel par lequel un individu, un groupe ou une société pense son passé en le modifiant, le déplaçant, le déformant, s’inventant des souvenirs, un passé glorieux, des ancêtres, des filiations, des généalogies, ou, au contraire, luttant pour l’exactitude factuelle, pour la restitution de l’événement ou sa résurrection\n                                            \n                                                Robin, 48\n                                            \n                                        \n                                    \n                                "
+                }
+            },
+            {
+                "id": "/target/tGxvs4wro5A/selector/css/W20lE7uPULP",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/p8lpXEtcPEA]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/49233891",
+        "type": "crm:E21_Person",
+        "label": "Andersen, Marguerite, 1924-2022",
+        "description": "Andersen, Marguerite, 1924-"
     },
     "P2_has_type": [
         "oa:identifying"
