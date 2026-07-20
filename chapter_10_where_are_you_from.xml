@@ -643,7 +643,7 @@
                             <ref target="#spatiality">Dans l’ensemble de l’œuvre autofictionnelle, <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/StCIqxtgzCO">Montréal</placeName>, où <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/X1WB2tdaZVz">Marguerite</persName> s’installe en 1958, se présente comme un endroit excessivement pieux et nationaliste. <ref target="#theory">La scène de <q>l’arrivée en ville</q>, l’intrusion potentiellement subversive de l’étranger dans l’espace urbain dont <persName key="Harel, Simon, 1957-...." ref="http://viaf.org/viaf/2527335" ana="webannotation:http://temp.lincsproject.ca/hJZMggIudMm">parle Simon Harel</persName> dans <title level="m">Le Voleur de parcours</title>
                                     <note place="inline">
                                         <bibl>43</bibl>
-                                    </note>, coïncide avec l’arrivée au Canada</ref>
+                                    </note>, coïncide avec l’arrivée au <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/EgBhH2NoKWd">Canada</placeName></ref>
                             </ref>. <ref target="#politics">Dans <title level="m">Parallèles</title>, Marguerite, <ref target="voice_or_narration">la narratrice autodiégétique</ref>, est agressée verbalement par un officier, qui la traite de <q>voleuse de job</q> car elle est embauchée comme professeur par la Commission des écoles protestantes de Montréal alors que sa sœur à lui, enseignante également, mais francophone, n’a pas accès aux postes du conseil scolaire protestant : <q>
                                     <q>
                                         <ref target="#gender_issue">Nous n’avons pas besoin de professeurs au Canada, nous avons besoin de femmes de ménage</ref>
@@ -15523,6 +15523,95 @@
         "type": "crm:E21_Person",
         "label": "Harel, Simon, 1957-....",
         "description": "Harel, Simon"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/EgBhH2NoKWd">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/EgBhH2NoKWd",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:56:50.697Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/dGFA7W5hYnP",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/dGFA7W5hYnP/selector/textPosition/P1ML0FFP2AZ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 23168,
+                "end": 23174,
+                "refinedBy": {
+                    "id": "/target/dGFA7W5hYnP/selector/textQuote/Sx55EH7GwWy",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Canada",
+                    "prefix": " La scène de l’arrivée en ville, l’intrusion potentiellement subversive de l’étranger dans l’espace urbain dont parle Simon Harel dans Le Voleur de parcours\n                                    \n                                        43\n                                    , coïncide avec l’arrivée au",
+                    "suffix": "                            "
+                }
+            },
+            {
+                "id": "/target/dGFA7W5hYnP/selector/css/rD7rxJzrNFa",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/EgBhH2NoKWd]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6251999",
+        "type": "crm:E53_Place",
+        "label": "Canada",
+        "description": "null, CA"
     },
     "P2_has_type": [
         "oa:identifying"
