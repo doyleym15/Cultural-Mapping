@@ -877,7 +877,7 @@
                         <bibl><persName key="Harel, Simon, 1957-...." ref="http://viaf.org/viaf/2527335" ana="webannotation:http://temp.lincsproject.ca/Uz1LSqnBkEP">Harel</persName>, Simon. <title level="m">Le voleur de parcours: Identité et cosmopolitisme dans la littérature québécoise contemporaine</title>. Montréal: <hi rend="small-caps">xyz</hi>, 1999.</bibl>
                         <bibl><persName key="Hotte, Lucie, 1959-" ref="http://viaf.org/viaf/32220127" ana="webannotation:http://temp.lincsproject.ca/JhyV6IQZkzh">Hotte</persName>, Lucie. <title level="a">Préface : L’écriture et la vie</title>. <title level="m">De mémoire de femme</title>. <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/8IpFEjeMDoh">Marguerite Andersen</persName>. Édition revue et corrigée, <hi rend="small-caps">bcf</hi>. Ottawa: L’Interligne, 2002. 7-12.</bibl>
                         <bibl><persName key="Lejeune, Philippe, 1938-...." ref="http://viaf.org/viaf/76358606" ana="webannotation:http://temp.lincsproject.ca/Cmtz9UTkY2v">Lejeune</persName>, Philippe. <title level="m">Le pacte autobiographique</title>. Paris: Seuil, 1975.</bibl>
-                        <bibl>Paré, François. <title level="a">Souveraineté et détournement du regard dans les nouvelles de Marguerite Andersen</title>. <title level="j" xml:lang="en-CA">University of Toronto Quarterly</title> 68.4 (automne 1999): 823-34.</bibl>
+                        <bibl><persName key="Paré, François, 1949-" ref="http://viaf.org/viaf/66577014" ana="webannotation:http://temp.lincsproject.ca/gqS180zIiHA">Paré</persName>, François. <title level="a">Souveraineté et détournement du regard dans les nouvelles de Marguerite Andersen</title>. <title level="j" xml:lang="en-CA">University of Toronto Quarterly</title> 68.4 (automne 1999): 823-34.</bibl>
                         <bibl><persName key="Robin, Régine, 1939-2021" ref="http://viaf.org/viaf/36923835" ana="webannotation:http://temp.lincsproject.ca/XUm4nbRwAxj">Robin</persName>, Régine. <title level="m">Le roman mémoriel : de l’histoire à l’écriture du hors-lieu</title>. Montréal: Le Préambule, 1989.</bibl>
                         <bibl>
                             <title level="m">La Sainte Bible</title>. Traduite d’après les textes originaux hébreu et grec par Louis Segond. Édition revue avec références. Paris: La Société biblique, 1972.</bibl>
@@ -13262,6 +13262,95 @@
         "type": "crm:E21_Person",
         "label": "Lejeune, Philippe, 1938-....",
         "description": "Lejeune, Philippe"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/gqS180zIiHA">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/gqS180zIiHA",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T16:56:48.494Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/0GHgOftGz2o",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/0GHgOftGz2o/selector/textPosition/tA9mSrnWPkd",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 50720,
+                "end": 50724,
+                "refinedBy": {
+                    "id": "/target/0GHgOftGz2o/selector/textQuote/Jmnb2CJEMHv",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Paré",
+                    "prefix": "\n                       ",
+                    "suffix": " François"
+                }
+            },
+            {
+                "id": "/target/0GHgOftGz2o/selector/css/DiSjDbyNr4I",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/gqS180zIiHA]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/66577014",
+        "type": "crm:E21_Person",
+        "label": "Paré, François, 1949-",
+        "description": "Paré, François"
     },
     "P2_has_type": [
         "oa:identifying"
