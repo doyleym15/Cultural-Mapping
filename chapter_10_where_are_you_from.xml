@@ -414,7 +414,7 @@
                         <q>Where are you from?</q>
                     </title>
                 </head>
-                <byline>La ville et l’écriture migrante dans l’autofiction de <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/UoFDiUSu7DL" type="real">Marguerite Andersen</persName></byline>
+                <byline>La ville et l’écriture migrante dans l’autofiction de <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/UoFDiUSu7DL" type="real" cert="high">Marguerite Andersen</persName></byline>
                 <docAuthor> Kathleen Kellett</docAuthor>
                 <p xml:id="p1361">
                     <ref target="#genre_lifeWriting">
@@ -981,7 +981,8 @@
         ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh"
     ]
 }]]>
 				
