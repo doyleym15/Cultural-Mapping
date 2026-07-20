@@ -440,7 +440,7 @@
                         <ref target="#intellectual_history">Née en 1924, auteure et éditrice <ref target="#nationality">franco-ontarienne</ref>, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/rTxuKbqAut2">Marguerite Andersen</persName> est venue à l’écriture de fiction à l’âge de cinquante-trois ans, mariant cette nouvelle carrière à celle de professeure de littérature française.</ref>
                         <ref target="#recognitions">Elle fait son entrée sur la scène littéraire en 1982 avec <ref target="#genre_lifeWriting">
                                 <title level="m">De mémoire de femme</title>, <q>récit en partie autobiographique</q>
-                            </ref> pour lequel elle reçoit le Prix du Journal de Montréal. Grande admiratrice de Simone de Beauvoir et de ses œuvres autobiographiques, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/wzdy3FxlIzi" type="real">Andersen</persName> récidive en littérature intime avec <ref target="#genre_poetry">la prose poétique <title level="m">Bleu sur blanc</title>
+                            </ref> pour lequel elle reçoit le Prix du Journal de Montréal. Grande admiratrice de <persName key="Beauvoir, Simone de 1908-1986" ref="http://viaf.org/viaf/2466221" ana="webannotation:http://temp.lincsproject.ca/zGnGcKveQpy">Simone de Beauvoir</persName> et de ses œuvres autobiographiques, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/wzdy3FxlIzi" type="real">Andersen</persName> récidive en littérature intime avec <ref target="#genre_poetry">la prose poétique <title level="m">Bleu sur blanc</title>
                             </ref> en 2000, avec <ref target="#genre_fiction">la fiction documentaire <title level="m">Parallèles</title>
                             </ref> en 2004 et avec <ref target="#genre_fiction">le roman <title level="m">Le figuier sur le toit</title>
                             </ref>, pour lequel elle reçoit le Prix Trillium en 2008</ref>. <ref target="#genre_lifeWriting">Dans l’avant-propos de <title level="m">La vie devant elles</title>, paru en 2011, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/ZMTa8epIi6D">Andersen</persName> se présente comme <q>écrivaine à tendance autofictionnelle</q> mais précise que, dans cet ouvrage, elle construit plutôt <q>trois récits biofictionnels</q> à partir de la vie de ses six petites-filles <note place="inline">
@@ -6228,6 +6228,95 @@
         "P2_has_type": [
             "edit:modeReal"
         ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/zGnGcKveQpy">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/zGnGcKveQpy",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:43:50.066Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/t1qwACSi3gC",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/t1qwACSi3gC/selector/textPosition/qAYgDgvPITm",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 2301,
+                "end": 2319,
+                "refinedBy": {
+                    "id": "/target/t1qwACSi3gC/selector/textQuote/3eXyAJpL4H9",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Simone de Beauvoir",
+                    "prefix": " Grande admiratrice de",
+                    "suffix": "et de ses œuvres autobiographiques, Andersen récidive en littérature intime avec la prose poétique Bleu sur blanc\n                             en 2000, avec la fiction documentaire Parallèles\n                             en 2004 et avec le roman Le figuier sur le toit\n                            , pour lequel elle reçoit le Prix Trillium en 2008"
+                }
+            },
+            {
+                "id": "/target/t1qwACSi3gC/selector/css/OIGxd7jXuGW",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/zGnGcKveQpy]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/2466221",
+        "type": "crm:E21_Person",
+        "label": "Beauvoir, Simone de 1908-1986",
+        "description": "Beauvoir, Simone de"
     },
     "P2_has_type": [
         "oa:identifying"
