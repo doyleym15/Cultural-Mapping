@@ -868,11 +868,11 @@
                     <listBibl>
                         <bibl><persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/BxHsDhMxvzA">Andersen</persName>, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/IC9VkdXRNbL">Marguerite</persName>. <title level="a" xml:lang="en-CA">Autobiography: Tightrope Across the Search for Understanding</title>. <title level="j" xml:lang="en-CA">Institut Simone de Beauvoir Institute Review/<hi xml:lang="fr-FR">Revue</hi>
                             </title> 18-19 (2000): 113-28.</bibl>
-                        <bibl>. <title level="m">Bleu sur blanc</title>. <placeName key="Sudbury" ref="https://sws.geonames.org/6158840" ana="webannotation:http://temp.lincsproject.ca/NbBGWTvqs68">Sudbury</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/aR62FOcEeQM">ON</placeName>: Prise de parole, 2000.</bibl>
+                        <bibl>. <title level="m">Bleu sur blanc</title>. <placeName key="Sudbury" ref="https://sws.geonames.org/6158840" ana="webannotation:http://temp.lincsproject.ca/NbBGWTvqs68">Sudbury</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/aR62FOcEeQM">ON</placeName>: <orgName key="Prise de parole (Firm)" ref="http://viaf.org/viaf/159375660" ana="webannotation:http://temp.lincsproject.ca/BSxkRo3Qliw">Prise de parole</orgName>, 2000.</bibl>
                         <bibl>. <title level="m">De mémoire de femme</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/zEwV1bm8AzF">Montréal</placeName>: Quinze, 1982. Nouvelle édition revue et corrigée, <hi rend="small-caps">bcf</hi>, <placeName key="Ottawa" ref="https://sws.geonames.org/6094817" ana="webannotation:http://temp.lincsproject.ca/0MosCviK9DW">Ottawa</placeName>: L’Interligne, 2002.</bibl>
                         <bibl>. <title level="m">Le figuier sur le toit</title>. <placeName key="Ottawa" ref="https://sws.geonames.org/6094817" ana="webannotation:http://temp.lincsproject.ca/msTTBtthLlm">Ottawa</placeName>: L’Interligne, 2008.</bibl>
-                        <bibl>. <title level="m">Parallèles</title>. <placeName key="Sudbury" ref="https://sws.geonames.org/6158840" ana="webannotation:http://temp.lincsproject.ca/npfY82XJdr1">Sudbury</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/VaznlBzA7hs">ON</placeName>: Prise de parole, 2004.</bibl>
-                        <bibl>. <title level="m">La vie devant elles</title>. <placeName key="Sudbury" ref="https://sws.geonames.org/6158840" ana="webannotation:http://temp.lincsproject.ca/lvWG7DweBiT">Sudbury</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/QOFliM1Cutn">ON</placeName>: Prise de parole, 2011.</bibl>
+                        <bibl>. <title level="m">Parallèles</title>. <placeName key="Sudbury" ref="https://sws.geonames.org/6158840" ana="webannotation:http://temp.lincsproject.ca/npfY82XJdr1">Sudbury</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/VaznlBzA7hs">ON</placeName>: <orgName key="Prise de parole (Firm)" ref="http://viaf.org/viaf/159375660" ana="webannotation:http://temp.lincsproject.ca/sA7rx07E3ar">Prise de parole</orgName>, 2004.</bibl>
+                        <bibl>. <title level="m">La vie devant elles</title>. <placeName key="Sudbury" ref="https://sws.geonames.org/6158840" ana="webannotation:http://temp.lincsproject.ca/lvWG7DweBiT">Sudbury</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/QOFliM1Cutn">ON</placeName>: <orgName key="Prise de parole (Firm)" ref="http://viaf.org/viaf/159375660" ana="webannotation:http://temp.lincsproject.ca/K35AzetArng">Prise de parole</orgName>, 2011.</bibl>
                         <bibl><persName key="Coleman, Daniel, 1961-" ref="http://viaf.org/viaf/24827953" ana="webannotation:http://temp.lincsproject.ca/K14YCvxw4dJ">Coleman</persName>, Patrick. <title level="a" xml:lang="en-CA">From Canadian Trance to TransCanada: White Civility to Wry Civility in the Canlit Project</title>. <title level="m" xml:lang="en-CA">Trans.Can.Lit: Resituating the Study of Canadian Literature</title>. Dir. Smaro Kamboureli et Roy Miki. Waterloo, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/KuZLw8w5bOU">ON</placeName>: Wilfrid Laurier University Press, 2007. 25-44.</bibl>
                         <bibl><persName key="Harel, Simon, 1957-...." ref="http://viaf.org/viaf/2527335" ana="webannotation:http://temp.lincsproject.ca/Uz1LSqnBkEP">Harel</persName>, Simon. <title level="m">Le voleur de parcours: Identité et cosmopolitisme dans la littérature québécoise contemporaine</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/Ng9k9nTwDgb">Montréal</placeName>: <hi rend="small-caps">xyz</hi>, 1999.</bibl>
                         <bibl><persName key="Hotte, Lucie, 1959-" ref="http://viaf.org/viaf/32220127" ana="webannotation:http://temp.lincsproject.ca/JhyV6IQZkzh">Hotte</persName>, Lucie. <title level="a">Préface : L’écriture et la vie</title>. <title level="m">De mémoire de femme</title>. <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/8IpFEjeMDoh">Marguerite Andersen</persName>. Édition revue et corrigée, <hi rend="small-caps">bcf</hi>. <placeName key="Ottawa" ref="https://sws.geonames.org/6094817" ana="webannotation:http://temp.lincsproject.ca/lRJheWJlT1r">Ottawa</placeName>: L’Interligne, 2002. 7-12.</bibl>
@@ -883,7 +883,7 @@
                             <title level="m">La Sainte Bible</title>. Traduite d’après les textes originaux hébreu et grec par Louis Segond. Édition revue avec références. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/yRuKqazmm8b">Paris</placeName>: La Société biblique, 1972.</bibl>
                         <bibl>Tennier, Julie. <title level="a"><persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/mk2tW4iN4jl">Marguerite Andersen</persName> et le moi en l’absence de l’autre : <title level="m">De mémoire de femme</title>
                             </title>. <title level="j">Voix plurielles</title> 9.1 (2012): 58-68.</bibl>
-                        <bibl><persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/MPZ5ORPWYKP">Young</persName>, <persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/gN70u4oXOHm">Lélia</persName>. <title level="m">Poésie franco-ontarienne: Un aperçu</title>. <title level="m">Perspectives sur la littérature franco-ontarienne</title>. Dir. Ali Reguigui et Hédi Bouraoui. Édition revue et augmentée. <placeName key="Sudbury" ref="https://sws.geonames.org/6158840" ana="webannotation:http://temp.lincsproject.ca/t4QsijpP4IZ">Sudbury</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/UfI5Yp5tvZF">ON</placeName>: Prise de parole, 2007. 205-33.</bibl>
+                        <bibl><persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/MPZ5ORPWYKP">Young</persName>, <persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/gN70u4oXOHm">Lélia</persName>. <title level="m">Poésie franco-ontarienne: Un aperçu</title>. <title level="m">Perspectives sur la littérature franco-ontarienne</title>. Dir. Ali Reguigui et Hédi Bouraoui. Édition revue et augmentée. <placeName key="Sudbury" ref="https://sws.geonames.org/6158840" ana="webannotation:http://temp.lincsproject.ca/t4QsijpP4IZ">Sudbury</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/UfI5Yp5tvZF">ON</placeName>: <orgName key="Prise de parole (Firm)" ref="http://viaf.org/viaf/159375660" ana="webannotation:http://temp.lincsproject.ca/WHuK4hpcDLT">Prise de parole</orgName>, 2007. 205-33.</bibl>
                     </listBibl>
                 </div>
             </div>
@@ -19103,6 +19103,362 @@
         "type": "crm:E53_Place",
         "label": "Ontario",
         "description": "Ontario, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/BSxkRo3Qliw">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/BSxkRo3Qliw",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T19:17:14.607Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/YiRO43g4cE5",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/YiRO43g4cE5/selector/textPosition/9Jntx5OzImn",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 49585,
+                "end": 49600,
+                "refinedBy": {
+                    "id": "/target/YiRO43g4cE5/selector/textQuote/nKpve4ecDzd",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Prise de parole",
+                    "prefix": " Sudbury, ON:",
+                    "suffix": " 2000"
+                }
+            },
+            {
+                "id": "/target/YiRO43g4cE5/selector/css/zw7iOtvWEDm",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/BSxkRo3Qliw]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/159375660",
+        "type": "crm:E74_Group",
+        "label": "Prise de parole (Firm)",
+        "description": "Prise de parole Éditions)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/sA7rx07E3ar">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/sA7rx07E3ar",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T19:17:14.818Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/zdSsD0oen6h",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/zdSsD0oen6h/selector/textPosition/vkpgyBJPEpD",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 49877,
+                "end": 49892,
+                "refinedBy": {
+                    "id": "/target/zdSsD0oen6h/selector/textQuote/ubxABL0g1UJ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Prise de parole",
+                    "prefix": " Sudbury, ON:",
+                    "suffix": " 2004"
+                }
+            },
+            {
+                "id": "/target/zdSsD0oen6h/selector/css/lLyQlhxkXh5",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/sA7rx07E3ar]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/159375660",
+        "type": "crm:E74_Group",
+        "label": "Prise de parole (Firm)",
+        "description": "Prise de parole Éditions)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/K35AzetArng">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/K35AzetArng",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T19:17:14.902Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/BRKgUUxZvGQ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/BRKgUUxZvGQ/selector/textPosition/FGTxKQ4s15r",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 49960,
+                "end": 49975,
+                "refinedBy": {
+                    "id": "/target/BRKgUUxZvGQ/selector/textQuote/z6O1sAtzAaS",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Prise de parole",
+                    "prefix": " Sudbury, ON:",
+                    "suffix": " 2011"
+                }
+            },
+            {
+                "id": "/target/BRKgUUxZvGQ/selector/css/q1JAF9w9GOW",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/K35AzetArng]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/159375660",
+        "type": "crm:E74_Group",
+        "label": "Prise de parole (Firm)",
+        "description": "Prise de parole Éditions)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/WHuK4hpcDLT">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/WHuK4hpcDLT",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T19:17:15.346Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Y1LW5pxcV22",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Y1LW5pxcV22/selector/textPosition/YYUXbeSpzaR",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 51599,
+                "end": 51614,
+                "refinedBy": {
+                    "id": "/target/Y1LW5pxcV22/selector/textQuote/TC6Axv9MKU3",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Prise de parole",
+                    "prefix": " Sudbury, ON:",
+                    "suffix": " 2007"
+                }
+            },
+            {
+                "id": "/target/Y1LW5pxcV22/selector/css/hidZXLEWZU9",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/WHuK4hpcDLT]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/159375660",
+        "type": "crm:E74_Group",
+        "label": "Prise de parole (Firm)",
+        "description": "Prise de parole Éditions)"
     },
     "P2_has_type": [
         "oa:identifying"
