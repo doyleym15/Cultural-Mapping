@@ -426,7 +426,7 @@
                         </note>. <ref target="#history">
                             <ref target="#violence">
                                 <ref target="#nationality">
-                                    <ref target="#race_and_ethnicity">La question la plonge dans les souvenirs de son enfance à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/y1RZq3WrCac" type="real">Berlin</placeName> d’avant et d’après l’arrivée au pouvoir du régime nazi qui entraîne la persécution puis le génocide des Juifs ainsi que l’exécution des homosexuels, des malades mentaux, des Roms et des infirmes</ref>
+                                    <ref target="#race_and_ethnicity">La question la plonge dans les souvenirs de son enfance à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/y1RZq3WrCac" type="real" cert="high" precision="high">Berlin</placeName> d’avant et d’après l’arrivée au pouvoir du régime nazi qui entraîne la persécution puis le génocide des Juifs ainsi que l’exécution des homosexuels, des malades mentaux, des Roms et des infirmes</ref>
                                 </ref>
                             </ref>. <ref target="#theme_or_topic">
                                 <ref target="#spatiality">
@@ -981,7 +981,9 @@
         ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh",
+        "edit:precisionHigh"
     ]
 }]]>
 				
