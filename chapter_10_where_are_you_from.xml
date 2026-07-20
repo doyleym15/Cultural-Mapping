@@ -467,7 +467,7 @@
                     </ref>
                 </p>
                 <p xml:id="p1363">
-                    <ref target="#spatiality">Chaque ville représente une nouvelle étape dans sa vie. <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/PyfjXrjXNRM">Berlin</placeName>, ville qui inspire culpabilité et honte à <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/xeuTwROkIYQ">Andersen</persName>, est également le lieu privilégié de son père, <persName key="Bohner, Theodor, 1882-1963" ref="http://viaf.org/viaf/194237270" ana="webannotation:http://temp.lincsproject.ca/uEyRNbjfEZ5">Theodor Werner Bohner</persName>, <ref target="#religion">fils d’un missionnaire luthérien</ref>, ancien député au <hi rend="italic" xml:lang="de-DE">Landtag</hi>, romancier, biographe et essayiste, qui constitue à la fois un rival et une source d’inspiration. <ref target="#nationality">Londres est le lieu d’une évasion désespérée à la fin de la guerre pour sa famille, qui possède des passeports britanniques grâce à la naissance du père au Ghana. Marguerite perd sa citoyenneté allemande en se mariant à un soldat français qu’elle accompagne à Tunis : <q>J’avais rencontré un Français, jeune officier, j’allais l’épouser… L’amour? Au fond, je m’échappais, personne déplacée parmi tant d’autres</q>
+                    <ref target="#spatiality">Chaque ville représente une nouvelle étape dans sa vie. <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/PyfjXrjXNRM">Berlin</placeName>, ville qui inspire culpabilité et honte à <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/xeuTwROkIYQ">Andersen</persName>, est également le lieu privilégié de son père, <persName key="Bohner, Theodor, 1882-1963" ref="http://viaf.org/viaf/194237270" ana="webannotation:http://temp.lincsproject.ca/uEyRNbjfEZ5" type="real" cert="high">Theodor Werner Bohner</persName>, <ref target="#religion">fils d’un missionnaire luthérien</ref>, ancien député au <hi rend="italic" xml:lang="de-DE">Landtag</hi>, romancier, biographe et essayiste, qui constitue à la fois un rival et une source d’inspiration. <ref target="#nationality">Londres est le lieu d’une évasion désespérée à la fin de la guerre pour sa famille, qui possède des passeports britanniques grâce à la naissance du père au Ghana. Marguerite perd sa citoyenneté allemande en se mariant à un soldat français qu’elle accompagne à Tunis : <q>J’avais rencontré un Français, jeune officier, j’allais l’épouser… L’amour? Au fond, je m’échappais, personne déplacée parmi tant d’autres</q>
                             <note place="inline">
                                 <bibl>
                                     <title level="m">Bleu sur blanc</title> 17</bibl>
@@ -9573,10 +9573,14 @@
         "id": "http://viaf.org/viaf/194237270",
         "type": "crm:E21_Person",
         "label": "Bohner, Theodor, 1882-1963",
-        "description": "Bohner, Theodor"
+        "description": "Bohner, Theodor",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh"
     ]
 }]]>
 				
