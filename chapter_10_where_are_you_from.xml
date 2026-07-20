@@ -727,7 +727,7 @@
                                         <bibl>
                                             <title level="m">Mémoire</title> 32</bibl>
                                     </note>
-                                </ref>. <ref target="#response_formal">D’ailleurs, comme le remarque <persName key="Paré, François, 1949-" ref="http://viaf.org/viaf/66577014" ana="webannotation:http://temp.lincsproject.ca/zGP8kO4NpeF">François Paré</persName> dans une étude sur les nouvelles d’Andersen, on retrouve chez cette auteure un <q>refus de la ville anglophone</q>
+                                </ref>. <ref target="#response_formal">D’ailleurs, comme le remarque <persName key="Paré, François, 1949-" ref="http://viaf.org/viaf/66577014" ana="webannotation:http://temp.lincsproject.ca/zGP8kO4NpeF" type="real">François Paré</persName> dans une étude sur les nouvelles d’Andersen, on retrouve chez cette auteure un <q>refus de la ville anglophone</q>
                                     <note place="inline">
                                         <bibl>825</bibl>
                                     </note>, une tendance à transformer <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/Z4WV1jWDbfP">Toronto</placeName> en un espace <q>où la plupart des habitants portent des noms et des prénoms français et fréquentent des lieux appartenant clairement à la communauté francophone</q>
@@ -11550,7 +11550,10 @@
         "id": "http://viaf.org/viaf/66577014",
         "type": "crm:E21_Person",
         "label": "Paré, François, 1949-",
-        "description": "Paré, François"
+        "description": "Paré, François",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
