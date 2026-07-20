@@ -467,7 +467,7 @@
                     </ref>
                 </p>
                 <p xml:id="p1363">
-                    <ref target="#spatiality">Chaque ville représente une nouvelle étape dans sa vie. <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/PyfjXrjXNRM">Berlin</placeName>, ville qui inspire culpabilité et honte à <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/xeuTwROkIYQ">Andersen</persName>, est également le lieu privilégié de son père, Theodor Werner Bohner, <ref target="#religion">fils d’un missionnaire luthérien</ref>, ancien député au <hi rend="italic" xml:lang="de-DE">Landtag</hi>, romancier, biographe et essayiste, qui constitue à la fois un rival et une source d’inspiration. <ref target="#nationality">Londres est le lieu d’une évasion désespérée à la fin de la guerre pour sa famille, qui possède des passeports britanniques grâce à la naissance du père au Ghana. Marguerite perd sa citoyenneté allemande en se mariant à un soldat français qu’elle accompagne à Tunis : <q>J’avais rencontré un Français, jeune officier, j’allais l’épouser… L’amour? Au fond, je m’échappais, personne déplacée parmi tant d’autres</q>
+                    <ref target="#spatiality">Chaque ville représente une nouvelle étape dans sa vie. <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/PyfjXrjXNRM">Berlin</placeName>, ville qui inspire culpabilité et honte à <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/xeuTwROkIYQ">Andersen</persName>, est également le lieu privilégié de son père, <persName key="Bohner, Theodor, 1882-1963" ref="http://viaf.org/viaf/194237270" ana="webannotation:http://temp.lincsproject.ca/uEyRNbjfEZ5">Theodor Werner Bohner</persName>, <ref target="#religion">fils d’un missionnaire luthérien</ref>, ancien député au <hi rend="italic" xml:lang="de-DE">Landtag</hi>, romancier, biographe et essayiste, qui constitue à la fois un rival et une source d’inspiration. <ref target="#nationality">Londres est le lieu d’une évasion désespérée à la fin de la guerre pour sa famille, qui possède des passeports britanniques grâce à la naissance du père au Ghana. Marguerite perd sa citoyenneté allemande en se mariant à un soldat français qu’elle accompagne à Tunis : <q>J’avais rencontré un Français, jeune officier, j’allais l’épouser… L’amour? Au fond, je m’échappais, personne déplacée parmi tant d’autres</q>
                             <note place="inline">
                                 <bibl>
                                     <title level="m">Bleu sur blanc</title> 17</bibl>
@@ -9485,6 +9485,95 @@
         "type": "crm:E21_Person",
         "label": "Robin, Régine, 1939-2021",
         "description": "Robin, Régine, 1939-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/uEyRNbjfEZ5">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/uEyRNbjfEZ5",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T15:08:59.112Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Xgpc7R0IQMJ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Xgpc7R0IQMJ/selector/textPosition/xUZDvyWQujo",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5189,
+                "end": 5210,
+                "refinedBy": {
+                    "id": "/target/Xgpc7R0IQMJ/selector/textQuote/dX3hzZdBSu5",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Theodor Werner Bohner",
+                    "prefix": " Berlin, ville qui inspire culpabilité et honte à Andersen, est également le lieu privilégié de son père,",
+                    "suffix": " fils d’un missionnaire luthérien, ancien député au Landtag, romancier, biographe et essayiste, qui constitue à la fois un rival et une source d’inspiration"
+                }
+            },
+            {
+                "id": "/target/Xgpc7R0IQMJ/selector/css/5nwIgnv0XLV",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/uEyRNbjfEZ5]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/194237270",
+        "type": "crm:E21_Person",
+        "label": "Bohner, Theodor, 1882-1963",
+        "description": "Bohner, Theodor"
     },
     "P2_has_type": [
         "oa:identifying"
