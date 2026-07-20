@@ -463,7 +463,7 @@
                                             </note>
                                         </ref>
                                     </ref>
-                                </ref>.</note> : <ref target="#spatiality">elle fuit <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/GFgYMCmanmk">Berlin</placeName> en 1945 pour s’installer successivement à <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/6JZtcuGKQAR">Londres</placeName>, à <placeName key="Tunis" ref="https://sws.geonames.org/2464470" ana="webannotation:http://temp.lincsproject.ca/eMLux5MQsqs">Tunis</placeName>, à <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/XCPBuPwwqLz" type="real">Montréal</placeName>, à <placeName key="Addis Ababa" ref="https://sws.geonames.org/344979" ana="webannotation:http://temp.lincsproject.ca/w6gFp7imMQd">Addis-Abeba</placeName> et enfin à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/oTsylQlhyoa">Toronto</placeName>, au gré de ses amours et de sa carrière universitaire</ref>.</ref>
+                                </ref>.</note> : <ref target="#spatiality">elle fuit <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/GFgYMCmanmk">Berlin</placeName> en 1945 pour s’installer successivement à <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/6JZtcuGKQAR">Londres</placeName>, à <placeName key="Tunis" ref="https://sws.geonames.org/2464470" ana="webannotation:http://temp.lincsproject.ca/eMLux5MQsqs">Tunis</placeName>, à <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/XCPBuPwwqLz" type="real" cert="high" precision="high">Montréal</placeName>, à <placeName key="Addis Ababa" ref="https://sws.geonames.org/344979" ana="webannotation:http://temp.lincsproject.ca/w6gFp7imMQd">Addis-Abeba</placeName> et enfin à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/oTsylQlhyoa">Toronto</placeName>, au gré de ses amours et de sa carrière universitaire</ref>.</ref>
                     </ref>
                 </p>
                 <p xml:id="p1363">
@@ -10558,7 +10558,9 @@
         ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh",
+        "edit:precisionHigh"
     ]
 }]]>
 				
