@@ -440,7 +440,7 @@
                         <ref target="#intellectual_history">Née en 1924, auteure et éditrice <ref target="#nationality">franco-ontarienne</ref>, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/rTxuKbqAut2">Marguerite Andersen</persName> est venue à l’écriture de fiction à l’âge de cinquante-trois ans, mariant cette nouvelle carrière à celle de professeure de littérature française.</ref>
                         <ref target="#recognitions">Elle fait son entrée sur la scène littéraire en 1982 avec <ref target="#genre_lifeWriting">
                                 <title level="m">De mémoire de femme</title>, <q>récit en partie autobiographique</q>
-                            </ref> pour lequel elle reçoit le Prix du Journal de Montréal. Grande admiratrice de <persName key="Beauvoir, Simone de 1908-1986" ref="http://viaf.org/viaf/2466221" ana="webannotation:http://temp.lincsproject.ca/zGnGcKveQpy" type="real">Simone de Beauvoir</persName> et de ses œuvres autobiographiques, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/wzdy3FxlIzi" type="real">Andersen</persName> récidive en littérature intime avec <ref target="#genre_poetry">la prose poétique <title level="m">Bleu sur blanc</title>
+                            </ref> pour lequel elle reçoit le Prix du Journal de Montréal. Grande admiratrice de <persName key="Beauvoir, Simone de 1908-1986" ref="http://viaf.org/viaf/2466221" ana="webannotation:http://temp.lincsproject.ca/zGnGcKveQpy" type="real" cert="high">Simone de Beauvoir</persName> et de ses œuvres autobiographiques, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/wzdy3FxlIzi" type="real">Andersen</persName> récidive en littérature intime avec <ref target="#genre_poetry">la prose poétique <title level="m">Bleu sur blanc</title>
                             </ref> en 2000, avec <ref target="#genre_fiction">la fiction documentaire <title level="m">Parallèles</title>
                             </ref> en 2004 et avec <ref target="#genre_fiction">le roman <title level="m">Le figuier sur le toit</title>
                             </ref>, pour lequel elle reçoit le Prix Trillium en 2008</ref>. <ref target="#genre_lifeWriting">Dans l’avant-propos de <title level="m">La vie devant elles</title>, paru en 2011, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/ZMTa8epIi6D">Andersen</persName> se présente comme <q>écrivaine à tendance autofictionnelle</q> mais précise que, dans cet ouvrage, elle construit plutôt <q>trois récits biofictionnels</q> à partir de la vie de ses six petites-filles <note place="inline">
@@ -6322,7 +6322,8 @@
         ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh"
     ]
 }]]>
 				
