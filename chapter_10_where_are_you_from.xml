@@ -457,7 +457,7 @@
                             <note xml:id="n86" place="end">
                                 <ref target="#intertextuality">
                                     <ref target="#theory">
-                                        <ref target="#genre_lifeWriting">À partir de ces autofictions, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/p8lpXEtcPEA">Andersen</persName> crée ce que Régine Robin appelle un <q>roman mémoriel</q> : <q>Nous parlerons analogiquement de roman mémoriel par lequel un individu, un groupe ou une société pense son passé en le modifiant, le déplaçant, le déformant, s’inventant des souvenirs, un passé glorieux, des ancêtres, des filiations, des généalogies, ou, au contraire, luttant pour l’exactitude factuelle, pour la restitution de l’événement ou sa résurrection</q>
+                                        <ref target="#genre_lifeWriting">À partir de ces autofictions, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/p8lpXEtcPEA">Andersen</persName> crée ce que <persName key="Robin, Régine, 1939-2021" ref="http://viaf.org/viaf/36923835" ana="webannotation:http://temp.lincsproject.ca/qmoRykWbMNy">Régine Robin</persName> appelle un <q>roman mémoriel</q> : <q>Nous parlerons analogiquement de roman mémoriel par lequel un individu, un groupe ou une société pense son passé en le modifiant, le déplaçant, le déformant, s’inventant des souvenirs, un passé glorieux, des ancêtres, des filiations, des généalogies, ou, au contraire, luttant pour l’exactitude factuelle, pour la restitution de l’événement ou sa résurrection</q>
                                             <note place="inline">
                                                 <bibl>Robin, 48</bibl>
                                             </note>
@@ -9399,6 +9399,95 @@
     "P2_has_type": [
         "oa:identifying",
         "edit:certaintyHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/qmoRykWbMNy">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/qmoRykWbMNy",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T15:02:46.942Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Agoio2tCiN8",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Agoio2tCiN8/selector/textPosition/maZxeBBoi5F",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 4113,
+                "end": 4125,
+                "refinedBy": {
+                    "id": "/target/Agoio2tCiN8/selector/textQuote/vxbSs3noswU",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Régine Robin",
+                    "prefix": " \n                                Tous ces romans retravaillent le passé historique comme le passé personnel de l’auteure, évoquant sous des perspectives diverses la vie mouvementée d’Andersen sur trois continents\n                            \n                            \n                                \n                                    \n                                        À partir de ces autofictions, Andersen crée ce que",
+                    "suffix": "appelle un roman mémoriel : Nous parlerons analogiquement de roman mémoriel par lequel un individu, un groupe ou une société pense son passé en le modifiant, le déplaçant, le déformant, s’inventant des souvenirs, un passé glorieux, des ancêtres, des filiations, des généalogies, ou, au contraire, luttant pour l’exactitude factuelle, pour la restitution de l’événement ou sa résurrection\n                                            \n                                                Robin, 48\n                                            \n                                        \n                                    \n                                "
+                }
+            },
+            {
+                "id": "/target/Agoio2tCiN8/selector/css/NiMP7AyQJx4",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/qmoRykWbMNy]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/36923835",
+        "type": "crm:E21_Person",
+        "label": "Robin, Régine, 1939-2021",
+        "description": "Robin, Régine, 1939-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
