@@ -414,7 +414,7 @@
                         <q>Where are you from?</q>
                     </title>
                 </head>
-                <byline>La ville et l’écriture migrante dans l’autofiction de <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/UoFDiUSu7DL">Marguerite Andersen</persName></byline>
+                <byline>La ville et l’écriture migrante dans l’autofiction de <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/UoFDiUSu7DL" type="real">Marguerite Andersen</persName></byline>
                 <docAuthor> Kathleen Kellett</docAuthor>
                 <p xml:id="p1361">
                     <ref target="#genre_lifeWriting">
@@ -875,13 +875,13 @@
                         <bibl>. <title level="m">La vie devant elles</title>. Sudbury, ON: Prise de parole, 2011.</bibl>
                         <bibl>Coleman, Patrick. <title level="a" xml:lang="en-CA">From Canadian Trance to TransCanada: White Civility to Wry Civility in the Canlit Project</title>. <title level="m" xml:lang="en-CA">Trans.Can.Lit: Resituating the Study of Canadian Literature</title>. Dir. Smaro Kamboureli et Roy Miki. Waterloo, ON: Wilfrid Laurier University Press, 2007. 25-44.</bibl>
                         <bibl>Harel, Simon. <title level="m">Le voleur de parcours: Identité et cosmopolitisme dans la littérature québécoise contemporaine</title>. Montréal: <hi rend="small-caps">xyz</hi>, 1999.</bibl>
-                        <bibl>Hotte, Lucie. <title level="a">Préface : L’écriture et la vie</title>. <title level="m">De mémoire de femme</title>. Marguerite Andersen. Édition revue et corrigée, <hi rend="small-caps">bcf</hi>. Ottawa: L’Interligne, 2002. 7-12.</bibl>
+                        <bibl>Hotte, Lucie. <title level="a">Préface : L’écriture et la vie</title>. <title level="m">De mémoire de femme</title>. <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/8IpFEjeMDoh">Marguerite Andersen</persName>. Édition revue et corrigée, <hi rend="small-caps">bcf</hi>. Ottawa: L’Interligne, 2002. 7-12.</bibl>
                         <bibl>Lejeune, Philippe. <title level="m">Le pacte autobiographique</title>. Paris: Seuil, 1975.</bibl>
                         <bibl>Paré, François. <title level="a">Souveraineté et détournement du regard dans les nouvelles de Marguerite Andersen</title>. <title level="j" xml:lang="en-CA">University of Toronto Quarterly</title> 68.4 (automne 1999): 823-34.</bibl>
                         <bibl>Robin, Régine. <title level="m">Le roman mémoriel : de l’histoire à l’écriture du hors-lieu</title>. Montréal: Le Préambule, 1989.</bibl>
                         <bibl>
                             <title level="m">La Sainte Bible</title>. Traduite d’après les textes originaux hébreu et grec par Louis Segond. Édition revue avec références. Paris: La Société biblique, 1972.</bibl>
-                        <bibl>Tennier, Julie. <title level="a">Marguerite Andersen et le moi en l’absence de l’autre : <title level="m">De mémoire de femme</title>
+                        <bibl>Tennier, Julie. <title level="a"><persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/mk2tW4iN4jl">Marguerite Andersen</persName> et le moi en l’absence de l’autre : <title level="m">De mémoire de femme</title>
                             </title>. <title level="j">Voix plurielles</title> 9.1 (2012): 58-68.</bibl>
                         <bibl>Young, Lélia. <title level="m">Poésie franco-ontarienne: Un aperçu</title>. <title level="m">Perspectives sur la littérature franco-ontarienne</title>. Dir. Ali Reguigui et Hédi Bouraoui. Édition revue et augmentée. Sudbury, ON: Prise de parole, 2007. 205-33.</bibl>
                     </listBibl>
@@ -975,7 +975,10 @@
         "id": "http://viaf.org/viaf/49233891",
         "type": "crm:E21_Person",
         "label": "Andersen, Marguerite, 1924-2022",
-        "description": "Andersen, Marguerite, 1924-"
+        "description": "Andersen, Marguerite, 1924-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -1064,7 +1067,10 @@
         "id": "http://viaf.org/viaf/49233891",
         "type": "crm:E21_Person",
         "label": "Andersen, Marguerite, 1924-2022",
-        "description": "Andersen, Marguerite, 1924-"
+        "description": "Andersen, Marguerite, 1924-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -1153,7 +1159,194 @@
         "id": "http://viaf.org/viaf/49233891",
         "type": "crm:E21_Person",
         "label": "Andersen, Marguerite, 1924-2022",
-        "description": "Andersen, Marguerite, 1924-"
+        "description": "Andersen, Marguerite, 1924-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/8IpFEjeMDoh">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/8IpFEjeMDoh",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:37:45.064Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/BKiqnhc3dhc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/BKiqnhc3dhc/selector/textPosition/f16SDQZW8Bp",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 50519,
+                "end": 50538,
+                "refinedBy": {
+                    "id": "/target/BKiqnhc3dhc/selector/textQuote/XKS8tVcjbfh",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Marguerite Andersen",
+                    "prefix": "",
+                    "suffix": " Édition revue et corrigée, bcf"
+                }
+            },
+            {
+                "id": "/target/BKiqnhc3dhc/selector/css/ZFPpHvFfO2D",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/8IpFEjeMDoh]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/49233891",
+        "type": "crm:E21_Person",
+        "label": "Andersen, Marguerite, 1924-2022",
+        "description": "Andersen, Marguerite, 1924-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/mk2tW4iN4jl">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/mk2tW4iN4jl",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:37:45.160Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ytHPo5gUt6p",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ytHPo5gUt6p/selector/textPosition/DkQpnf1DaGI",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 51255,
+                "end": 51274,
+                "refinedBy": {
+                    "id": "/target/ytHPo5gUt6p/selector/textQuote/NkRAzwmyz4e",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Marguerite Andersen",
+                    "prefix": "",
+                    "suffix": "et le moi en l’absence de l’autre : De mémoire de femme\n                            "
+                }
+            },
+            {
+                "id": "/target/ytHPo5gUt6p/selector/css/nIFEUqSHCce",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/mk2tW4iN4jl]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/49233891",
+        "type": "crm:E21_Person",
+        "label": "Andersen, Marguerite, 1924-2022",
+        "description": "Andersen, Marguerite, 1924-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
