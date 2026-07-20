@@ -548,7 +548,7 @@
                                 </ref>.</ref>
                         </ref>
                     </p>
-                    <p xml:id="p1366">C’est à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/LLDrw5CIjp2">Berlin</placeName> que son père, <persName key="Bohner, Theodor, 1882-1963" ref="http://viaf.org/viaf/194237270" ana="webannotation:http://temp.lincsproject.ca/k69L5AhWlxY">Theo</persName>, qui s’oppose à <persName key="Hitler, Adolf, 1889-1945." ref="http://viaf.org/viaf/38190770" ana="webannotation:http://temp.lincsproject.ca/z80MCep1FFW">Hitler</persName> et aux idées antisémites de son propre beau-père, est démis de ses fonctions et passe la guerre, avec sa femme et ses trois filles, ayant dû quitter leur logement opulent du centre-ville pour un quartier beaucoup plus modeste de la périphérie. <ref target="#economics">Pour subvenir aux besoins de sa famille, <persName key="Bohner, Theodor, 1882-1963" ref="http://viaf.org/viaf/194237270" ana="webannotation:http://temp.lincsproject.ca/5wEvkqDOoOF">Theo</persName> vit de sa plume en composant des romans, des biographies et des études de légendes, tout en craignant d’être frappé du <hi rend="italic" xml:lang="de-DE">Schreibverbot</hi>
+                    <p xml:id="p1366">C’est à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/LLDrw5CIjp2">Berlin</placeName> que son père, <persName key="Bohner, Theodor, 1882-1963" ref="http://viaf.org/viaf/194237270" ana="webannotation:http://temp.lincsproject.ca/k69L5AhWlxY">Theo</persName>, qui s’oppose à <persName key="Hitler, Adolf, 1889-1945." ref="http://viaf.org/viaf/38190770" ana="webannotation:http://temp.lincsproject.ca/rugotTOQN8G">Hitler</persName> et aux idées antisémites de son propre beau-père, est démis de ses fonctions et passe la guerre, avec sa femme et ses trois filles, ayant dû quitter leur logement opulent du centre-ville pour un quartier beaucoup plus modeste de la périphérie. <ref target="#economics">Pour subvenir aux besoins de sa famille, <persName key="Bohner, Theodor, 1882-1963" ref="http://viaf.org/viaf/194237270" ana="webannotation:http://temp.lincsproject.ca/5wEvkqDOoOF">Theo</persName> vit de sa plume en composant des romans, des biographies et des études de légendes, tout en craignant d’être frappé du <hi rend="italic" xml:lang="de-DE">Schreibverbot</hi>
                             <note place="inline">
                                 <bibl>
                                     <title level="m">Figuier</title> 197</bibl>
@@ -10832,20 +10832,20 @@
 				
 </rdf:Description>
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/z80MCep1FFW">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/rugotTOQN8G">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/z80MCep1FFW",
+    "id": "http://temp.lincsproject.ca/rugotTOQN8G",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-07-20T15:27:35.956Z",
+    "created": "2026-07-20T15:28:02.272Z",
     "creator": {
         "id": "https://github.com/doyleym15",
         "type": "crm:E21_Person",
@@ -10905,6 +10905,14 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/z80MCep1FFW]"
+            },
+            {
+                "id": "/target/4cPqVZIKEFn/selector/css/ryAaLQrkeCi",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/rugotTOQN8G]"
             }
         ]
     },
