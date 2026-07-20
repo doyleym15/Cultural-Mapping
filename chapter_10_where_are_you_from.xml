@@ -824,7 +824,7 @@
                     <p xml:id="p1379">
                         <ref target="#spatiality">
                             <ref target="voice_or_narration">Il ne faut cependant pas oublier que la ville est une structure narrative construite par l’auteure, un espace-temps à forte teneur symbolique</ref>. <ref target="#violence">
-                                <ref target="race_issue">Ainsi, dans <title level="m">La vie devant elles</title>, on retrouve une attitude plus critique envers le pays d’accueil, lorsqu’Ariane, petite-fille de Marguerite, fait du camping en Ontario avec son mari togolais et leurs deux enfants et qu’ils sont confrontés à cette occasion au profilage racial, un policier les arrêtant sans motif valable</ref>.</ref> Si <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/Bq7bCZib96B">Toronto</placeName> apparaît dans <title level="m">Le figuier sur le toit</title> comme un lieu de tolérance et de paix, <ref target="#history">c’est pour souligner le contraste avec un <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/IOlauxua4dO">Berlin</placeName> soumis aux affres de la guerre. C’est peut-être aussi pour rappeler que le Berlin d’avant la guerre apparaissait, lui aussi, comme un milieu ouvert à la diversité et à l’épanouissement culturel et artistique. Témoigner des atrocités de guerre, c’est également une façon de rappeler les dangers de la suffisance et de l’orgueil.</ref>
+                                <ref target="race_issue">Ainsi, dans <title level="m">La vie devant elles</title>, on retrouve une attitude plus critique envers le pays d’accueil, lorsqu’Ariane, petite-fille de Marguerite, fait du camping en <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/LkKVklsMhQ1">Ontario</placeName> avec son mari togolais et leurs deux enfants et qu’ils sont confrontés à cette occasion au profilage racial, un policier les arrêtant sans motif valable</ref>.</ref> Si <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/Bq7bCZib96B">Toronto</placeName> apparaît dans <title level="m">Le figuier sur le toit</title> comme un lieu de tolérance et de paix, <ref target="#history">c’est pour souligner le contraste avec un <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/IOlauxua4dO">Berlin</placeName> soumis aux affres de la guerre. C’est peut-être aussi pour rappeler que le Berlin d’avant la guerre apparaissait, lui aussi, comme un milieu ouvert à la diversité et à l’épanouissement culturel et artistique. Témoigner des atrocités de guerre, c’est également une façon de rappeler les dangers de la suffisance et de l’orgueil.</ref>
                         </ref>
                     </p>
                     <p xml:id="p1380">
@@ -17412,6 +17412,95 @@
         "type": "crm:E21_Person",
         "label": "Sebald, W.G. 1944-2001",
         "description": "Sebald, W.G. (Winfried Georg), 1944-2001"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/LkKVklsMhQ1">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/LkKVklsMhQ1",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:56:18.489Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/TAbxDMhtfYa",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/TAbxDMhtfYa/selector/textPosition/ycEXDxf13eq",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 43112,
+                "end": 43119,
+                "refinedBy": {
+                    "id": "/target/TAbxDMhtfYa/selector/textQuote/nRZ6hoLFCmS",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ontario",
+                    "prefix": " \n                                Ainsi, dans La vie devant elles, on retrouve une attitude plus critique envers le pays d’accueil, lorsqu’Ariane, petite-fille de Marguerite, fait du camping en",
+                    "suffix": "avec son mari togolais et leurs deux enfants et qu’ils sont confrontés à cette occasion au profilage racial, un policier les arrêtant sans motif valable"
+                }
+            },
+            {
+                "id": "/target/TAbxDMhtfYa/selector/css/gTe7CJosRDM",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/LkKVklsMhQ1]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6093943",
+        "type": "crm:E53_Place",
+        "label": "Ontario",
+        "description": "Ontario, CA"
     },
     "P2_has_type": [
         "oa:identifying"
