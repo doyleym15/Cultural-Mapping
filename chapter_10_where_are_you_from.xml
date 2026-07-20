@@ -756,7 +756,7 @@
                                     <note place="inline">
                                         <bibl>
                                             <title level="m">Parallèles</title> 200</bibl>
-                                    </note>, elle-même parvient à vivre en français</ref>. <ref target="genre_fiction">Elle passe la fin de sa vie à Place Saint-Laurent, une résidence francophone pour personnes âgées.</ref> D’ailleurs, <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/DWdISCf4whB">Lucienne</persName> n’est pas la seule membre de la Société des écrivain(e)s de Toronto à figurer dans cette <q>fiction-documentaire</q> : <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/7O363scZbfU">Marguerite</persName> mentionne également, entre autres, <q><persName key="Cloutier, Cécile 1930-..." ref="http://viaf.org/viaf/103651301" ana="webannotation:http://temp.lincsproject.ca/1XeY6QSkVEc">Cécile</persName></q> (Cloutier), <q>Mireille</q> (Déjarlais-Heynneman) et <q><persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/H4bHJfgynCS">Lélia</persName></q> (Young)<note xml:id="n88" place="end">Voir à ce propos <bibl><persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/RSZ0mM1NPtF">Young</persName> 206-07</bibl>, qui décrit ainsi l’évolution du groupe littéraire : d’abord le Regroupement des écrivains de Toronto, ensuite la Société des écrivains canadiens de <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/hLg1pf4iAUw">Toronto</placeName> et enfin la Société des écrivain(e)s de Toronto.</note>
+                                    </note>, elle-même parvient à vivre en français</ref>. <ref target="genre_fiction">Elle passe la fin de sa vie à <placeName key="place Saint-Laurent" ref="http://www.wikidata.org/entity/Q118470389" ana="webannotation:http://temp.lincsproject.ca/lselzgEcoLM">Place Saint-Laurent</placeName>, une résidence francophone pour personnes âgées.</ref> D’ailleurs, <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/DWdISCf4whB">Lucienne</persName> n’est pas la seule membre de la Société des écrivain(e)s de Toronto à figurer dans cette <q>fiction-documentaire</q> : <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/7O363scZbfU">Marguerite</persName> mentionne également, entre autres, <q><persName key="Cloutier, Cécile 1930-..." ref="http://viaf.org/viaf/103651301" ana="webannotation:http://temp.lincsproject.ca/1XeY6QSkVEc">Cécile</persName></q> (Cloutier), <q>Mireille</q> (Déjarlais-Heynneman) et <q><persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/H4bHJfgynCS">Lélia</persName></q> (Young)<note xml:id="n88" place="end">Voir à ce propos <bibl><persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/RSZ0mM1NPtF">Young</persName> 206-07</bibl>, qui décrit ainsi l’évolution du groupe littéraire : d’abord le Regroupement des écrivains de Toronto, ensuite la Société des écrivains canadiens de <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/hLg1pf4iAUw">Toronto</placeName> et enfin la Société des écrivain(e)s de Toronto.</note>
                                 <bibl>
                                     <title level="m">Parallèles</title> 212</bibl>
                             </ref>.</ref>
@@ -16611,6 +16611,95 @@
         "type": "crm:E53_Place",
         "label": "Québec",
         "description": "Quebec, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/lselzgEcoLM">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/lselzgEcoLM",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:56:29.788Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/kpMgklZq7Gh",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/kpMgklZq7Gh/selector/textPosition/R7AjwrgTdVI",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 35761,
+                "end": 35780,
+                "refinedBy": {
+                    "id": "/target/kpMgklZq7Gh/selector/textQuote/IzMmJRBf4Tc",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Place Saint-Laurent",
+                    "prefix": " Elle passe la fin de sa vie à",
+                    "suffix": " une résidence francophone pour personnes âgées"
+                }
+            },
+            {
+                "id": "/target/kpMgklZq7Gh/selector/css/RUX1lqdURm7",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/lselzgEcoLM]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q118470389",
+        "type": "crm:E53_Place",
+        "label": "place Saint-Laurent",
+        "description": "square in Grenoble, Isère, Auvergne-Rhône-Alpes, France"
     },
     "P2_has_type": [
         "oa:identifying"
