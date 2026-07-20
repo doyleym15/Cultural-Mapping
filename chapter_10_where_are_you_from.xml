@@ -784,7 +784,7 @@
                 <div type="section">
                     <head>La ville multiculturelle et le figuier déterré</head>
                     <p xml:id="p1377">
-                        <ref target="#spatiality"><placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/rjeoq622Tx2">Toronto</placeName>, tout en renvoyant, pour <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/edAsAaPwaQC">Andersen</persName>, au <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/q2QTzdloECf">Berlin</placeName> du père écrivain comme site urbain de l’institution littéraire, se démarque par un <hi rend="italic">zeitgeist</hi> qui contraste avec les idéaux de pureté ethnique et culturelle prônés par le grand-père <persName key="Seeberg, Reinhold, 1859-1935." ref="http://viaf.org/viaf/44538041" ana="webannotation:http://temp.lincsproject.ca/84473ccEu27">Seeberg</persName> à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/aV7tJOBZEPF">Berlin</placeName> avant la <ref target="#history">Seconde Guerre mondiale</ref>. Dans cette optique, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/Fw5XVlhxPxz">Toronto</placeName> incarnerait la réussite de <ref target="#politics">la politique canadienne de multiculturalisme, dont l’idéologie demeure d’ailleurs fortement critiquée de nos jours</ref>. <ref target="#intertextuality">On pourrait dès lors se poser la question : est-ce qu’Andersen tombe dans le piège de ce que Daniel Coleman appelle la <q>civilité blanche</q> (<q>
+                        <ref target="#spatiality"><placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/rjeoq622Tx2">Toronto</placeName>, tout en renvoyant, pour <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/edAsAaPwaQC">Andersen</persName>, au <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/q2QTzdloECf">Berlin</placeName> du père écrivain comme site urbain de l’institution littéraire, se démarque par un <hi rend="italic">zeitgeist</hi> qui contraste avec les idéaux de pureté ethnique et culturelle prônés par le grand-père <persName key="Seeberg, Reinhold, 1859-1935." ref="http://viaf.org/viaf/44538041" ana="webannotation:http://temp.lincsproject.ca/84473ccEu27">Seeberg</persName> à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/aV7tJOBZEPF">Berlin</placeName> avant la <ref target="#history">Seconde Guerre mondiale</ref>. Dans cette optique, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/Fw5XVlhxPxz">Toronto</placeName> incarnerait la réussite de <ref target="#politics">la politique canadienne de multiculturalisme, dont l’idéologie demeure d’ailleurs fortement critiquée de nos jours</ref>. <ref target="#intertextuality">On pourrait dès lors se poser la question : est-ce qu’Andersen tombe dans le piège de ce que <persName key="Coleman, Daniel, 1961-" ref="http://viaf.org/viaf/24827953" ana="webannotation:http://temp.lincsproject.ca/vj6Ku2MfSfN">Daniel Coleman</persName> appelle la <q>civilité blanche</q> (<q>
                                     <hi rend="italic" xml:lang="en-CA">white civility</hi>
                                 </q>) <note place="inline">
                                     <bibl>32-33</bibl>
@@ -12639,6 +12639,95 @@
         "type": "crm:E21_Person",
         "label": "Seeberg, Reinhold, 1859-1935.",
         "description": "Seeberg, Reinhold"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/vj6Ku2MfSfN">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/vj6Ku2MfSfN",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T16:02:25.422Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/fyNi8EQGPyL",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/fyNi8EQGPyL/selector/textPosition/pY64EmYbMTq",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 39638,
+                "end": 39652,
+                "refinedBy": {
+                    "id": "/target/fyNi8EQGPyL/selector/textQuote/CLc1puw5x2Y",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Daniel Coleman",
+                    "prefix": " On pourrait dès lors se poser la question : est-ce qu’Andersen tombe dans le piège de ce que",
+                    "suffix": "appelle la civilité blanche (\n                                    white civility\n                                ) \n                                    32-33\n                                 au Canada, cette tendance à se faire valoir en se vantant de sa tolérance envers les dépossédés et les marginalisés?\n                        \n                    \n                    \n                        \n                            Le figuier sur le toit, dont le cadre principal est la ville de Toronto, véhicule en fait un message quelque peu paradoxal"
+                }
+            },
+            {
+                "id": "/target/fyNi8EQGPyL/selector/css/oFxvroIwu2l",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/vj6Ku2MfSfN]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/24827953",
+        "type": "crm:E21_Person",
+        "label": "Coleman, Daniel, 1961-",
+        "description": "Coleman, Daniel"
     },
     "P2_has_type": [
         "oa:identifying"
