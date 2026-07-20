@@ -676,7 +676,7 @@
                     <p xml:id="p1372">
                         <ref target="#spatiality">
                             <ref target="#genre_lifeWriting">Il est à noter que dans <title level="m">La vie devant elles</title>, composé des récits biofictionnels de ses petits-enfants, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/nA6OZ2s6c0N">Andersen</persName> construit une vision plus valorisante de Montréal</ref>. <ref target="#nationality">
-                                <ref target="#education">Le fils de Marguerite se souvient de ses études universitaires</ref> et de la rencontre avec sa femme polonaise, Zosia, avec qui il crée lui-même une cellule familiale <hi rend="italic" xml:lang="de-DE">Vater, Mutter, Kind</hi>, quitte à se présenter comme français en taisant ses origines allemandes auprès de ses enfants et de ses amis</ref>. <ref target="#education"><placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/H84Mcu77Eoz">Montréal</placeName> se présente sous un autre jour encore dans le récit de la petite-fille Claire, qui quitte Ottawa pour étudier à l’Université McGill</ref>. En tant que Franco-Ontarienne, elle perçoit Montréal plutôt comme une métropole culturelle en ébullition : <q>Mais Claire choisit d’étudier à McGill, comme tant de jeunes Franco-Ontariens ambitieux, à <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/uMq2vtjeJPN">Montréal</placeName>, comme le fera plus tard sa sœur Ariane. La grande ville, les deux langues, la culture, les arts aux courants multiples l’attirent</q>
+                                <ref target="#education">Le fils de Marguerite se souvient de ses études universitaires</ref> et de la rencontre avec sa femme polonaise, Zosia, avec qui il crée lui-même une cellule familiale <hi rend="italic" xml:lang="de-DE">Vater, Mutter, Kind</hi>, quitte à se présenter comme français en taisant ses origines allemandes auprès de ses enfants et de ses amis</ref>. <ref target="#education"><placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/H84Mcu77Eoz">Montréal</placeName> se présente sous un autre jour encore dans le récit de la petite-fille Claire, qui quitte <placeName key="Ottawa" ref="https://sws.geonames.org/6094817" ana="webannotation:http://temp.lincsproject.ca/tfMWHkYNblV">Ottawa</placeName> pour étudier à l’Université McGill</ref>. En tant que Franco-Ontarienne, elle perçoit Montréal plutôt comme une métropole culturelle en ébullition : <q>Mais Claire choisit d’étudier à McGill, comme tant de jeunes Franco-Ontariens ambitieux, à <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/uMq2vtjeJPN">Montréal</placeName>, comme le fera plus tard sa sœur Ariane. La grande ville, les deux langues, la culture, les arts aux courants multiples l’attirent</q>
                             <note place="inline">
                                 <bibl>
                                     <title level="m">Vie devant elles</title> 198</bibl>
@@ -744,7 +744,7 @@
                             <ref target="#spatiality">Par exemple, lorsque <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/XNQgr7gxo91" type="real" cert="high">Lucienne</persName> quitte <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/tazJTd4cIa4">Montréal</placeName> et arrive à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/pd5kC65F8rI">Toronto</placeName>, elle est accueillie par une Anglaise qui l’envoie à l’église Sacré-Cœur, à l’angle des rues Sherbourne et Carlton. Pour <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/Z4CAAIgJ4za">Lucienne</persName>, <q>migrant[e] de l’intérieur</q>
                                 <note place="inline">
                                     <bibl>Harel 30</bibl>
-                                </note>, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/dX7LzXZot3Z">Toronto</placeName> représente un havre après sa vie au Québec, qui apparaît comme soumis aux valeurs patriarcales de l’Église catholique de l’époque. <ref target="#violence">À travers la vie de Lucienne, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/iJeouPk5YFA">Andersen</persName> esquisse en effet le portrait d’une Église oppressive qui condamne les femmes aux grossesses fréquentes, ce qui épuise des femmes comme la mère de Lucienne, qui meurt dans un asile après un épisode de dépression post-partum.</ref> L’Église catholique parraine alors l’Institut des équipières sociales, dont <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/fx0DyXOpOzN">Lucienne</persName> avait fait partie à Ottawa et à <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/6viNLlW0EQz">Montréal</placeName> et qui impose aux pénitentes de marcher avec des fèves dans les souliers <q>pour s’empêcher de courir après le plaisir</q>
+                                </note>, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/dX7LzXZot3Z">Toronto</placeName> représente un havre après sa vie au Québec, qui apparaît comme soumis aux valeurs patriarcales de l’Église catholique de l’époque. <ref target="#violence">À travers la vie de Lucienne, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/iJeouPk5YFA">Andersen</persName> esquisse en effet le portrait d’une Église oppressive qui condamne les femmes aux grossesses fréquentes, ce qui épuise des femmes comme la mère de Lucienne, qui meurt dans un asile après un épisode de dépression post-partum.</ref> L’Église catholique parraine alors l’Institut des équipières sociales, dont <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/fx0DyXOpOzN">Lucienne</persName> avait fait partie à <placeName key="Ottawa" ref="https://sws.geonames.org/6094817" ana="webannotation:http://temp.lincsproject.ca/c5bANQ4A2Vd">Ottawa</placeName> et à <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/6viNLlW0EQz">Montréal</placeName> et qui impose aux pénitentes de marcher avec des fèves dans les souliers <q>pour s’empêcher de courir après le plaisir</q>
                                 <note place="inline">
                                     <bibl>
                                         <title level="m">Parallèles</title> 135</bibl>
@@ -869,7 +869,7 @@
                         <bibl><persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/BxHsDhMxvzA">Andersen</persName>, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/IC9VkdXRNbL">Marguerite</persName>. <title level="a" xml:lang="en-CA">Autobiography: Tightrope Across the Search for Understanding</title>. <title level="j" xml:lang="en-CA">Institut Simone de Beauvoir Institute Review/<hi xml:lang="fr-FR">Revue</hi>
                             </title> 18-19 (2000): 113-28.</bibl>
                         <bibl>. <title level="m">Bleu sur blanc</title>. Sudbury, ON: Prise de parole, 2000.</bibl>
-                        <bibl>. <title level="m">De mémoire de femme</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/zEwV1bm8AzF">Montréal</placeName>: Quinze, 1982. Nouvelle édition revue et corrigée, <hi rend="small-caps">bcf</hi>, Ottawa: L’Interligne, 2002.</bibl>
+                        <bibl>. <title level="m">De mémoire de femme</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/zEwV1bm8AzF">Montréal</placeName>: Quinze, 1982. Nouvelle édition revue et corrigée, <hi rend="small-caps">bcf</hi>, <placeName key="Ottawa" ref="https://sws.geonames.org/6094817" ana="webannotation:http://temp.lincsproject.ca/0MosCviK9DW">Ottawa</placeName>: L’Interligne, 2002.</bibl>
                         <bibl>. <title level="m">Le figuier sur le toit</title>. Ottawa: L’Interligne, 2008.</bibl>
                         <bibl>. <title level="m">Parallèles</title>. Sudbury, ON: Prise de parole, 2004.</bibl>
                         <bibl>. <title level="m">La vie devant elles</title>. Sudbury, ON: Prise de parole, 2011.</bibl>
@@ -15523,6 +15523,273 @@
         "type": "crm:E21_Person",
         "label": "Harel, Simon, 1957-....",
         "description": "Harel, Simon"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/tfMWHkYNblV">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/tfMWHkYNblV",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:55:36.189Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Q3KSfNvIz9q",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Q3KSfNvIz9q/selector/textPosition/aphYknojA4Q",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27769,
+                "end": 27775,
+                "refinedBy": {
+                    "id": "/target/Q3KSfNvIz9q/selector/textQuote/F0WQzc525zf",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ottawa",
+                    "prefix": " Montréal se présente sous un autre jour encore dans le récit de la petite-fille Claire, qui quitte",
+                    "suffix": "pour étudier à l’Université McGill"
+                }
+            },
+            {
+                "id": "/target/Q3KSfNvIz9q/selector/css/twTxmm0yp3J",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/tfMWHkYNblV]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6094817",
+        "type": "crm:E53_Place",
+        "label": "Ottawa",
+        "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/c5bANQ4A2Vd">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/c5bANQ4A2Vd",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:55:36.253Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/NAGLxi2x37s",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/NAGLxi2x37s/selector/textPosition/if28t8sigVR",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 34964,
+                "end": 34970,
+                "refinedBy": {
+                    "id": "/target/NAGLxi2x37s/selector/textQuote/h3iOlRWceJM",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ottawa",
+                    "prefix": " L’Église catholique parraine alors l’Institut des équipières sociales, dont Lucienne avait fait partie à",
+                    "suffix": "et à Montréal et qui impose aux pénitentes de marcher avec des fèves dans les souliers pour s’empêcher de courir après le plaisir\n                                \n                                    \n                                        Parallèles 135\n                                \n                            "
+                }
+            },
+            {
+                "id": "/target/NAGLxi2x37s/selector/css/MDesH0GuINJ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/c5bANQ4A2Vd]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6094817",
+        "type": "crm:E53_Place",
+        "label": "Ottawa",
+        "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/0MosCviK9DW">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/0MosCviK9DW",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:55:36.290Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/90ZVV0Hq8Pd",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/90ZVV0Hq8Pd/selector/textPosition/SX5OesxcMBR",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 49720,
+                "end": 49726,
+                "refinedBy": {
+                    "id": "/target/90ZVV0Hq8Pd/selector/textQuote/DdrobosArxI",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ottawa",
+                    "prefix": " Nouvelle édition revue et corrigée, bcf,",
+                    "suffix": " L’Interligne, 2002"
+                }
+            },
+            {
+                "id": "/target/90ZVV0Hq8Pd/selector/css/f7TEAp8Gebu",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/0MosCviK9DW]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6094817",
+        "type": "crm:E53_Place",
+        "label": "Ottawa",
+        "description": ""
     },
     "P2_has_type": [
         "oa:identifying"
