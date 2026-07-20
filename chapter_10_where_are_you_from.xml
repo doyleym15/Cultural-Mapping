@@ -676,7 +676,7 @@
                     <p xml:id="p1372">
                         <ref target="#spatiality">
                             <ref target="#genre_lifeWriting">Il est à noter que dans <title level="m">La vie devant elles</title>, composé des récits biofictionnels de ses petits-enfants, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/nA6OZ2s6c0N">Andersen</persName> construit une vision plus valorisante de Montréal</ref>. <ref target="#nationality">
-                                <ref target="#education">Le fils de Marguerite se souvient de ses études universitaires</ref> et de la rencontre avec sa femme polonaise, Zosia, avec qui il crée lui-même une cellule familiale <hi rend="italic" xml:lang="de-DE">Vater, Mutter, Kind</hi>, quitte à se présenter comme français en taisant ses origines allemandes auprès de ses enfants et de ses amis</ref>. <ref target="#education"><placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/H84Mcu77Eoz">Montréal</placeName> se présente sous un autre jour encore dans le récit de la petite-fille Claire, qui quitte <placeName key="Ottawa" ref="https://sws.geonames.org/6094817" ana="webannotation:http://temp.lincsproject.ca/tfMWHkYNblV">Ottawa</placeName> pour étudier à l’Université McGill</ref>. En tant que Franco-Ontarienne, elle perçoit Montréal plutôt comme une métropole culturelle en ébullition : <q>Mais Claire choisit d’étudier à McGill, comme tant de jeunes Franco-Ontariens ambitieux, à <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/uMq2vtjeJPN">Montréal</placeName>, comme le fera plus tard sa sœur Ariane. La grande ville, les deux langues, la culture, les arts aux courants multiples l’attirent</q>
+                                <ref target="#education">Le fils de Marguerite se souvient de ses études universitaires</ref> et de la rencontre avec sa femme polonaise, Zosia, avec qui il crée lui-même une cellule familiale <hi rend="italic" xml:lang="de-DE">Vater, Mutter, Kind</hi>, quitte à se présenter comme français en taisant ses origines allemandes auprès de ses enfants et de ses amis</ref>. <ref target="#education"><placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/H84Mcu77Eoz">Montréal</placeName> se présente sous un autre jour encore dans le récit de la petite-fille Claire, qui quitte <placeName key="Ottawa" ref="https://sws.geonames.org/6094817" ana="webannotation:http://temp.lincsproject.ca/tfMWHkYNblV">Ottawa</placeName> pour étudier à l’Université McGill</ref>. En tant que Franco-Ontarienne, elle perçoit Montréal plutôt comme une métropole culturelle en ébullition : <q>Mais Claire choisit d’étudier à <orgName key="McGill University." ref="http://viaf.org/viaf/134855926" ana="webannotation:http://temp.lincsproject.ca/P9fc1sRpsXb">McGill</orgName>, comme tant de jeunes Franco-Ontariens ambitieux, à <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/uMq2vtjeJPN">Montréal</placeName>, comme le fera plus tard sa sœur Ariane. La grande ville, les deux langues, la culture, les arts aux courants multiples l’attirent</q>
                             <note place="inline">
                                 <bibl>
                                     <title level="m">Vie devant elles</title> 198</bibl>
@@ -756,7 +756,7 @@
                                     <note place="inline">
                                         <bibl>
                                             <title level="m">Parallèles</title> 200</bibl>
-                                    </note>, elle-même parvient à vivre en français</ref>. <ref target="genre_fiction">Elle passe la fin de sa vie à <placeName key="place Saint-Laurent" ref="http://www.wikidata.org/entity/Q118470389" ana="webannotation:http://temp.lincsproject.ca/lselzgEcoLM">Place Saint-Laurent</placeName>, une résidence francophone pour personnes âgées.</ref> D’ailleurs, <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/DWdISCf4whB">Lucienne</persName> n’est pas la seule membre de <orgName key="Société des écrivain-e-s de Toronto" ref="http://viaf.org/viaf/155882028" ana="webannotation:http://temp.lincsproject.ca/q44Eyz3N8R4">la Société des écrivain(e)s de Toronto</orgName> à figurer dans cette <q>fiction-documentaire</q> : <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/7O363scZbfU">Marguerite</persName> mentionne également, entre autres, <q><persName key="Cloutier, Cécile 1930-..." ref="http://viaf.org/viaf/103651301" ana="webannotation:http://temp.lincsproject.ca/1XeY6QSkVEc">Cécile</persName></q> (Cloutier), <q>Mireille</q> (Déjarlais-Heynneman) et <q><persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/H4bHJfgynCS">Lélia</persName></q> (Young)<note xml:id="n88" place="end">Voir à ce propos <bibl><persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/RSZ0mM1NPtF">Young</persName> 206-07</bibl>, qui décrit ainsi l’évolution du groupe littéraire : d’abord le Regroupement des écrivains de Toronto, ensuite la Société des écrivains canadiens de <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/hLg1pf4iAUw">Toronto</placeName> et enfin la Société des écrivain(e)s de Toronto.</note>
+                                    </note>, elle-même parvient à vivre en français</ref>. <ref target="genre_fiction">Elle passe la fin de sa vie à <placeName key="place Saint-Laurent" ref="http://www.wikidata.org/entity/Q118470389" ana="webannotation:http://temp.lincsproject.ca/lselzgEcoLM">Place Saint-Laurent</placeName>, une résidence francophone pour personnes âgées.</ref> D’ailleurs, <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/DWdISCf4whB">Lucienne</persName> n’est pas la seule membre de <orgName key="Société des écrivain-e-s de Toronto" ref="http://viaf.org/viaf/155882028" ana="webannotation:http://temp.lincsproject.ca/q44Eyz3N8R4">la Société des écrivain(e)s de Toronto</orgName> à figurer dans cette <q>fiction-documentaire</q> : <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/7O363scZbfU">Marguerite</persName> mentionne également, entre autres, <q><persName key="Cloutier, Cécile 1930-..." ref="http://viaf.org/viaf/103651301" ana="webannotation:http://temp.lincsproject.ca/1XeY6QSkVEc">Cécile</persName></q> (Cloutier), <q>Mireille</q> (Déjarlais-Heynneman) et <q><persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/H4bHJfgynCS">Lélia</persName></q> (Young)<note xml:id="n88" place="end">Voir à ce propos <bibl><persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/RSZ0mM1NPtF">Young</persName> 206-07</bibl>, qui décrit ainsi l’évolution du groupe littéraire : d’abord le Regroupement des écrivains de Toronto, ensuite la Société des écrivains canadiens de <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/hLg1pf4iAUw">Toronto</placeName> et enfin <orgName key="Société des écrivain-e-s de Toronto" ref="http://viaf.org/viaf/155882028" ana="webannotation:http://temp.lincsproject.ca/5fYtOUaPdbq">la Société des écrivain(e)s de Toronto</orgName>.</note>
                                 <bibl>
                                     <title level="m">Parallèles</title> 212</bibl>
                             </ref>.</ref>
@@ -13733,6 +13733,94 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/5fYtOUaPdbq">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/5fYtOUaPdbq",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T19:18:42.795Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/JR2tT1al08B",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/JR2tT1al08B/selector/textPosition/ItEdEk2FMEl",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 36271,
+                "end": 36309,
+                "refinedBy": {
+                    "id": "/target/JR2tT1al08B/selector/textQuote/WGWgpA95wJD",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "la Société des écrivain(e)s de Toronto",
+                    "prefix": " D’ailleurs, Lucienne n’est pas la seule membre de la Société des écrivain(e)s de Toronto à figurer dans cette fiction-documentaire : Marguerite mentionne également, entre autres, Cécile (Cloutier), Mireille (Déjarlais-Heynneman) et Lélia (Young)Voir à ce propos Young 206-07, qui décrit ainsi l’évolution du groupe littéraire : d’abord le Regroupement des écrivains de Toronto, ensuite la Société des écrivains canadiens de Toronto et enfin",
+                    "suffix": "\n                                \n                                    Parallèles 212\n                            "
+                }
+            },
+            {
+                "id": "/target/JR2tT1al08B/selector/css/jatlwmiOPYE",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/5fYtOUaPdbq]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/155882028",
+        "type": "crm:E74_Group",
+        "label": "Société des écrivain-e-s de Toronto"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/9r3BAQKJSSb">
 <![CDATA[{
     "@context": [
@@ -16766,6 +16854,95 @@
         "type": "crm:E53_Place",
         "label": "Ottawa",
         "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/P9fc1sRpsXb">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/P9fc1sRpsXb",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T19:20:09.139Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/gu0loV8QVGp",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/gu0loV8QVGp/selector/textPosition/p1MvBE55LR2",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27951,
+                "end": 27957,
+                "refinedBy": {
+                    "id": "/target/gu0loV8QVGp/selector/textQuote/jDgE4He0sTt",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "McGill",
+                    "prefix": " En tant que Franco-Ontarienne, elle perçoit Montréal plutôt comme une métropole culturelle en ébullition : Mais Claire choisit d’étudier à",
+                    "suffix": " comme tant de jeunes Franco-Ontariens ambitieux, à Montréal, comme le fera plus tard sa sœur Ariane"
+                }
+            },
+            {
+                "id": "/target/gu0loV8QVGp/selector/css/mAFOy7cxKSo",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/P9fc1sRpsXb]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/134855926",
+        "type": "crm:E74_Group",
+        "label": "McGill University.",
+        "description": "McGill University Montréal"
     },
     "P2_has_type": [
         "oa:identifying"
