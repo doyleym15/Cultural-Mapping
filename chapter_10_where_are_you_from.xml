@@ -430,7 +430,7 @@
                                 </ref>
                             </ref>. <ref target="#theme_or_topic">
                                 <ref target="#spatiality">
-                                    <ref target="#childhood">La recherche mémorielle du paradis perdu, celui de l’espace-temps de l’enfance berlinoise innocente, est une thématique qui traverse l’ensemble de l’œuvre autofictionnelle d’Andersen : le profond sentiment de culpabilité d’avoir vécu sous le régime nazi obsède Marguerite tout au long de sa vie, la poursuivant de Berlin à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/sKfFzQrKBUx">Toronto</placeName></ref>
+                                    <ref target="#childhood">La recherche mémorielle du paradis perdu, celui de l’espace-temps de l’enfance berlinoise innocente, est une thématique qui traverse l’ensemble de l’œuvre autofictionnelle d’Andersen : le profond sentiment de culpabilité d’avoir vécu sous le régime nazi obsède Marguerite tout au long de sa vie, la poursuivant de Berlin à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/sKfFzQrKBUx" type="real">Toronto</placeName></ref>
                                 </ref>
                             </ref>
                         </ref>.</ref>
@@ -975,7 +975,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -1064,7 +1067,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -1153,7 +1159,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -1242,7 +1251,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -1331,7 +1343,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -1420,7 +1435,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -1509,7 +1527,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -1598,7 +1619,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -1687,7 +1711,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -1776,7 +1803,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -1865,7 +1895,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -1954,7 +1987,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -2043,7 +2079,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -2132,7 +2171,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -2221,7 +2263,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -2310,7 +2355,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -2399,7 +2447,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -2488,7 +2539,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -2577,7 +2631,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -2666,7 +2723,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -2755,7 +2815,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -2844,7 +2907,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -2933,7 +2999,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -3022,7 +3091,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -3111,7 +3183,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -3200,7 +3275,10 @@
         "id": "https://sws.geonames.org/6167865",
         "type": "crm:E53_Place",
         "label": "Toronto",
-        "description": ""
+        "description": "",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
