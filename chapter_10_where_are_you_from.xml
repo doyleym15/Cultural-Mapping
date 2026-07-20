@@ -727,7 +727,7 @@
                                         <bibl>
                                             <title level="m">Mémoire</title> 32</bibl>
                                     </note>
-                                </ref>. <ref target="#response_formal">D’ailleurs, comme le remarque <persName key="Paré, François, 1949-" ref="http://viaf.org/viaf/66577014" ana="webannotation:http://temp.lincsproject.ca/zGP8kO4NpeF" type="real">François Paré</persName> dans une étude sur les nouvelles d’Andersen, on retrouve chez cette auteure un <q>refus de la ville anglophone</q>
+                                </ref>. <ref target="#response_formal">D’ailleurs, comme le remarque <persName key="Paré, François, 1949-" ref="http://viaf.org/viaf/66577014" ana="webannotation:http://temp.lincsproject.ca/zGP8kO4NpeF" type="real" cert="medium">François Paré</persName> dans une étude sur les nouvelles d’Andersen, on retrouve chez cette auteure un <q>refus de la ville anglophone</q>
                                     <note place="inline">
                                         <bibl>825</bibl>
                                     </note>, une tendance à transformer <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/Z4WV1jWDbfP">Toronto</placeName> en un espace <q>où la plupart des habitants portent des noms et des prénoms français et fréquentent des lieux appartenant clairement à la communauté francophone</q>
@@ -741,22 +741,22 @@
                                 <bibl>178</bibl>
                             </note>
                         </ref>. Toutes les institutions francophones de <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/y2SZ1hMvd4s">Toronto</placeName> sont mises à l’honneur. <ref target="#religion">
-                            <ref target="#spatiality">Par exemple, lorsque Lucienne quitte Montréal et arrive à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/pd5kC65F8rI">Toronto</placeName>, elle est accueillie par une Anglaise qui l’envoie à l’église Sacré-Cœur, à l’angle des rues Sherbourne et Carlton. Pour Lucienne, <q>migrant[e] de l’intérieur</q>
+                            <ref target="#spatiality">Par exemple, lorsque <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/XNQgr7gxo91">Lucienne</persName> quitte Montréal et arrive à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/pd5kC65F8rI">Toronto</placeName>, elle est accueillie par une Anglaise qui l’envoie à l’église Sacré-Cœur, à l’angle des rues Sherbourne et Carlton. Pour <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/Z4CAAIgJ4za">Lucienne</persName>, <q>migrant[e] de l’intérieur</q>
                                 <note place="inline">
                                     <bibl>Harel 30</bibl>
-                                </note>, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/dX7LzXZot3Z">Toronto</placeName> représente un havre après sa vie au Québec, qui apparaît comme soumis aux valeurs patriarcales de l’Église catholique de l’époque. <ref target="#violence">À travers la vie de Lucienne, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/iJeouPk5YFA">Andersen</persName> esquisse en effet le portrait d’une Église oppressive qui condamne les femmes aux grossesses fréquentes, ce qui épuise des femmes comme la mère de Lucienne, qui meurt dans un asile après un épisode de dépression post-partum.</ref> L’Église catholique parraine alors l’Institut des équipières sociales, dont Lucienne avait fait partie à Ottawa et à Montréal et qui impose aux pénitentes de marcher avec des fèves dans les souliers <q>pour s’empêcher de courir après le plaisir</q>
+                                </note>, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/dX7LzXZot3Z">Toronto</placeName> représente un havre après sa vie au Québec, qui apparaît comme soumis aux valeurs patriarcales de l’Église catholique de l’époque. <ref target="#violence">À travers la vie de Lucienne, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/iJeouPk5YFA">Andersen</persName> esquisse en effet le portrait d’une Église oppressive qui condamne les femmes aux grossesses fréquentes, ce qui épuise des femmes comme la mère de Lucienne, qui meurt dans un asile après un épisode de dépression post-partum.</ref> L’Église catholique parraine alors l’Institut des équipières sociales, dont <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/fx0DyXOpOzN">Lucienne</persName> avait fait partie à Ottawa et à Montréal et qui impose aux pénitentes de marcher avec des fèves dans les souliers <q>pour s’empêcher de courir après le plaisir</q>
                                 <note place="inline">
                                     <bibl>
                                         <title level="m">Parallèles</title> 135</bibl>
                                 </note>
                             </ref>. <ref target="#politics">
-                                <ref target="#language">Même si Lucienne choisit d’élever ses enfants en anglais à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/wh2ilVIx6JC">Toronto</placeName> pour leur éviter d’être des <q>
+                                <ref target="#language">Même si <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/m5lCe7WSs0K">Lucienne</persName> choisit d’élever ses enfants en anglais à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/wh2ilVIx6JC">Toronto</placeName> pour leur éviter d’être des <q>
                                         <hi rend="italic" xml:lang="en-CA">second class citizen</hi>
                                     </q>
                                     <note place="inline">
                                         <bibl>
                                             <title level="m">Parallèles</title> 200</bibl>
-                                    </note>, elle-même parvient à vivre en français</ref>. <ref target="genre_fiction">Elle passe la fin de sa vie à Place Saint-Laurent, une résidence francophone pour personnes âgées.</ref> D’ailleurs, Lucienne n’est pas la seule membre de la Société des écrivain(e)s de Toronto à figurer dans cette <q>fiction-documentaire</q> : <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/7O363scZbfU">Marguerite</persName> mentionne également, entre autres, <q>Cécile</q> (Cloutier), <q>Mireille</q> (Déjarlais-Heynneman) et <q>Lélia</q> (Young)<note xml:id="n88" place="end">Voir à ce propos <bibl>Young 206-07</bibl>, qui décrit ainsi l’évolution du groupe littéraire : d’abord le Regroupement des écrivains de Toronto, ensuite la Société des écrivains canadiens de <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/hLg1pf4iAUw">Toronto</placeName> et enfin la Société des écrivain(e)s de Toronto.</note>
+                                    </note>, elle-même parvient à vivre en français</ref>. <ref target="genre_fiction">Elle passe la fin de sa vie à Place Saint-Laurent, une résidence francophone pour personnes âgées.</ref> D’ailleurs, <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/DWdISCf4whB">Lucienne</persName> n’est pas la seule membre de la Société des écrivain(e)s de Toronto à figurer dans cette <q>fiction-documentaire</q> : <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/7O363scZbfU">Marguerite</persName> mentionne également, entre autres, <q>Cécile</q> (Cloutier), <q>Mireille</q> (Déjarlais-Heynneman) et <q>Lélia</q> (Young)<note xml:id="n88" place="end">Voir à ce propos <bibl>Young 206-07</bibl>, qui décrit ainsi l’évolution du groupe littéraire : d’abord le Regroupement des écrivains de Toronto, ensuite la Société des écrivains canadiens de <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/hLg1pf4iAUw">Toronto</placeName> et enfin la Société des écrivain(e)s de Toronto.</note>
                                 <bibl>
                                     <title level="m">Parallèles</title> 212</bibl>
                             </ref>.</ref>
@@ -11554,6 +11554,452 @@
         "P2_has_type": [
             "edit:modeReal"
         ]
+    },
+    "P2_has_type": [
+        "oa:identifying",
+        "edit:certaintyMedium"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/XNQgr7gxo91">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/XNQgr7gxo91",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T15:50:56.627Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/2i4GGwq8tta",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/2i4GGwq8tta/selector/textPosition/TydrwdDnbbe",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 34142,
+                "end": 34150,
+                "refinedBy": {
+                    "id": "/target/2i4GGwq8tta/selector/textQuote/n5byIVaRpdA",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Lucienne",
+                    "prefix": " \n                            Par exemple, lorsque",
+                    "suffix": "quitte Montréal et arrive à Toronto, elle est accueillie par une Anglaise qui l’envoie à l’église Sacré-Cœur, à l’angle des rues Sherbourne et Carlton"
+                }
+            },
+            {
+                "id": "/target/2i4GGwq8tta/selector/css/x4giW1rIiKw",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/XNQgr7gxo91]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/105038592",
+        "type": "crm:E21_Person",
+        "label": "Lacasse-Lovsted, Lucienne, 1923-1999",
+        "description": "Lacasse, Lucienne, 1923-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Z4CAAIgJ4za">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Z4CAAIgJ4za",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T15:50:56.723Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/sPa1nGSt5ir",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/sPa1nGSt5ir/selector/textPosition/Ks4Jv9ma1YI",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 34308,
+                "end": 34316,
+                "refinedBy": {
+                    "id": "/target/sPa1nGSt5ir/selector/textQuote/uglUIxH64b6",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Lucienne",
+                    "prefix": " Pour",
+                    "suffix": " migrant[e] de l’intérieur\n                                \n                                    Harel 30\n                                , Toronto représente un havre après sa vie au Québec, qui apparaît comme soumis aux valeurs patriarcales de l’Église catholique de l’époque"
+                }
+            },
+            {
+                "id": "/target/sPa1nGSt5ir/selector/css/HHS5yRnnDXi",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Z4CAAIgJ4za]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/105038592",
+        "type": "crm:E21_Person",
+        "label": "Lacasse-Lovsted, Lucienne, 1923-1999",
+        "description": "Lacasse, Lucienne, 1923-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/fx0DyXOpOzN">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/fx0DyXOpOzN",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T15:50:57.148Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/IoLb6KjxvDO",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/IoLb6KjxvDO/selector/textPosition/R9Xf98pYouh",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 34935,
+                "end": 34943,
+                "refinedBy": {
+                    "id": "/target/IoLb6KjxvDO/selector/textQuote/bCCeH9Ivloi",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Lucienne",
+                    "prefix": " L’Église catholique parraine alors l’Institut des équipières sociales, dont",
+                    "suffix": "avait fait partie à Ottawa et à Montréal et qui impose aux pénitentes de marcher avec des fèves dans les souliers pour s’empêcher de courir après le plaisir\n                                \n                                    \n                                        Parallèles 135\n                                \n                            "
+                }
+            },
+            {
+                "id": "/target/IoLb6KjxvDO/selector/css/L9gAjt2Eez9",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/fx0DyXOpOzN]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/105038592",
+        "type": "crm:E21_Person",
+        "label": "Lacasse-Lovsted, Lucienne, 1923-1999",
+        "description": "Lacasse, Lucienne, 1923-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/m5lCe7WSs0K">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/m5lCe7WSs0K",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T15:50:57.148Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/yQSBtzSc3kh",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/yQSBtzSc3kh/selector/textPosition/7iuWBelvPHX",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 35330,
+                "end": 35338,
+                "refinedBy": {
+                    "id": "/target/yQSBtzSc3kh/selector/textQuote/MHrDB10z0P4",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Lucienne",
+                    "prefix": " \n                                Même si",
+                    "suffix": "choisit d’élever ses enfants en anglais à Toronto pour leur éviter d’être des \n                                        second class citizen\n                                    \n                                    \n                                        \n                                            Parallèles 200\n                                    , elle-même parvient à vivre en français"
+                }
+            },
+            {
+                "id": "/target/yQSBtzSc3kh/selector/css/oQHdq5VZeGx",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/m5lCe7WSs0K]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/105038592",
+        "type": "crm:E21_Person",
+        "label": "Lacasse-Lovsted, Lucienne, 1923-1999",
+        "description": "Lacasse, Lucienne, 1923-...."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/DWdISCf4whB">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/DWdISCf4whB",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T15:50:57.148Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ic34FYKNjFM",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ic34FYKNjFM/selector/textPosition/DdEKHDAyQmS",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 35842,
+                "end": 35850,
+                "refinedBy": {
+                    "id": "/target/ic34FYKNjFM/selector/textQuote/waGO1gcvlLb",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Lucienne",
+                    "prefix": " D’ailleurs,",
+                    "suffix": "n’est pas la seule membre de la Société des écrivain(e)s de Toronto à figurer dans cette fiction-documentaire : Marguerite mentionne également, entre autres, Cécile (Cloutier), Mireille (Déjarlais-Heynneman) et Lélia (Young)Voir à ce propos Young 206-07, qui décrit ainsi l’évolution du groupe littéraire : d’abord le Regroupement des écrivains de Toronto, ensuite la Société des écrivains canadiens de Toronto et enfin la Société des écrivain(e)s de Toronto"
+                }
+            },
+            {
+                "id": "/target/ic34FYKNjFM/selector/css/Uwy9GXNB5SD",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/DWdISCf4whB]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/105038592",
+        "type": "crm:E21_Person",
+        "label": "Lacasse-Lovsted, Lucienne, 1923-1999",
+        "description": "Lacasse, Lucienne, 1923-...."
     },
     "P2_has_type": [
         "oa:identifying"
