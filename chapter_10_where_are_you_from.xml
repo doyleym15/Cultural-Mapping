@@ -756,7 +756,7 @@
                                     <note place="inline">
                                         <bibl>
                                             <title level="m">Parallèles</title> 200</bibl>
-                                    </note>, elle-même parvient à vivre en français</ref>. <ref target="genre_fiction">Elle passe la fin de sa vie à Place Saint-Laurent, une résidence francophone pour personnes âgées.</ref> D’ailleurs, <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/DWdISCf4whB">Lucienne</persName> n’est pas la seule membre de la Société des écrivain(e)s de Toronto à figurer dans cette <q>fiction-documentaire</q> : <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/7O363scZbfU">Marguerite</persName> mentionne également, entre autres, <q><persName key="Cloutier, Cécile 1930-..." ref="http://viaf.org/viaf/103651301" ana="webannotation:http://temp.lincsproject.ca/1XeY6QSkVEc">Cécile</persName></q> (Cloutier), <q>Mireille</q> (Déjarlais-Heynneman) et <q><persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/H4bHJfgynCS">Lélia</persName></q> (Young)<note xml:id="n88" place="end">Voir à ce propos <bibl>Young 206-07</bibl>, qui décrit ainsi l’évolution du groupe littéraire : d’abord le Regroupement des écrivains de Toronto, ensuite la Société des écrivains canadiens de <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/hLg1pf4iAUw">Toronto</placeName> et enfin la Société des écrivain(e)s de Toronto.</note>
+                                    </note>, elle-même parvient à vivre en français</ref>. <ref target="genre_fiction">Elle passe la fin de sa vie à Place Saint-Laurent, une résidence francophone pour personnes âgées.</ref> D’ailleurs, <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/DWdISCf4whB">Lucienne</persName> n’est pas la seule membre de la Société des écrivain(e)s de Toronto à figurer dans cette <q>fiction-documentaire</q> : <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/7O363scZbfU">Marguerite</persName> mentionne également, entre autres, <q><persName key="Cloutier, Cécile 1930-..." ref="http://viaf.org/viaf/103651301" ana="webannotation:http://temp.lincsproject.ca/1XeY6QSkVEc">Cécile</persName></q> (Cloutier), <q>Mireille</q> (Déjarlais-Heynneman) et <q><persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/H4bHJfgynCS">Lélia</persName></q> (Young)<note xml:id="n88" place="end">Voir à ce propos <bibl><persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/RSZ0mM1NPtF">Young</persName> 206-07</bibl>, qui décrit ainsi l’évolution du groupe littéraire : d’abord le Regroupement des écrivains de Toronto, ensuite la Société des écrivains canadiens de <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/hLg1pf4iAUw">Toronto</placeName> et enfin la Société des écrivain(e)s de Toronto.</note>
                                 <bibl>
                                     <title level="m">Parallèles</title> 212</bibl>
                             </ref>.</ref>
@@ -883,7 +883,7 @@
                             <title level="m">La Sainte Bible</title>. Traduite d’après les textes originaux hébreu et grec par Louis Segond. Édition revue avec références. Paris: La Société biblique, 1972.</bibl>
                         <bibl>Tennier, Julie. <title level="a"><persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/mk2tW4iN4jl">Marguerite Andersen</persName> et le moi en l’absence de l’autre : <title level="m">De mémoire de femme</title>
                             </title>. <title level="j">Voix plurielles</title> 9.1 (2012): 58-68.</bibl>
-                        <bibl>Young, <persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/gN70u4oXOHm">Lélia</persName>. <title level="m">Poésie franco-ontarienne: Un aperçu</title>. <title level="m">Perspectives sur la littérature franco-ontarienne</title>. Dir. Ali Reguigui et Hédi Bouraoui. Édition revue et augmentée. Sudbury, ON: Prise de parole, 2007. 205-33.</bibl>
+                        <bibl><persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/MPZ5ORPWYKP">Young</persName>, <persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/gN70u4oXOHm">Lélia</persName>. <title level="m">Poésie franco-ontarienne: Un aperçu</title>. <title level="m">Perspectives sur la littérature franco-ontarienne</title>. Dir. Ali Reguigui et Hédi Bouraoui. Édition revue et augmentée. Sudbury, ON: Prise de parole, 2007. 205-33.</bibl>
                     </listBibl>
                 </div>
             </div>
@@ -12275,6 +12275,184 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/gN70u4oXOHm]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/45990175",
+        "type": "crm:E21_Person",
+        "label": "Young, Lélia, 1950-",
+        "description": "Young, Lélia L. M."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/RSZ0mM1NPtF">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/RSZ0mM1NPtF",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T15:57:10.325Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/jk0v5tjv1s4",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/jk0v5tjv1s4/selector/textPosition/JkVbSHJkgSr",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 36092,
+                "end": 36097,
+                "refinedBy": {
+                    "id": "/target/jk0v5tjv1s4/selector/textQuote/O9uQIlkZ4Pz",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Young",
+                    "prefix": " D’ailleurs, Lucienne n’est pas la seule membre de la Société des écrivain(e)s de Toronto à figurer dans cette fiction-documentaire : Marguerite mentionne également, entre autres, Cécile (Cloutier), Mireille (Déjarlais-Heynneman) et Lélia (Young)Voir à ce propos",
+                    "suffix": "206-07, qui décrit ainsi l’évolution du groupe littéraire : d’abord le Regroupement des écrivains de Toronto, ensuite la Société des écrivains canadiens de Toronto et enfin la Société des écrivain(e)s de Toronto"
+                }
+            },
+            {
+                "id": "/target/jk0v5tjv1s4/selector/css/CpSo7yfsLO8",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/RSZ0mM1NPtF]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/45990175",
+        "type": "crm:E21_Person",
+        "label": "Young, Lélia, 1950-",
+        "description": "Young, Lélia L. M."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/MPZ5ORPWYKP">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/MPZ5ORPWYKP",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T15:57:10.405Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/VoNSCkwcSVa",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/VoNSCkwcSVa/selector/textPosition/uq1JsdQeLhC",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 51420,
+                "end": 51425,
+                "refinedBy": {
+                    "id": "/target/VoNSCkwcSVa/selector/textQuote/tP2Ch6RjVzZ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Young",
+                    "prefix": "\n                       ",
+                    "suffix": " Lélia"
+                }
+            },
+            {
+                "id": "/target/VoNSCkwcSVa/selector/css/oNyq8eLa3zh",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/MPZ5ORPWYKP]"
             }
         ]
     },
