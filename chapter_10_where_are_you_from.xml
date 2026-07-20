@@ -463,7 +463,7 @@
                                             </note>
                                         </ref>
                                     </ref>
-                                </ref>.</note> : <ref target="#spatiality">elle fuit <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/GFgYMCmanmk">Berlin</placeName> en 1945 pour s’installer successivement à <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/6JZtcuGKQAR">Londres</placeName>, à <placeName key="Tunis" ref="https://sws.geonames.org/2464470" ana="webannotation:http://temp.lincsproject.ca/eMLux5MQsqs">Tunis</placeName>, à <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/XCPBuPwwqLz">Montréal</placeName>, à <placeName key="Addis Ababa" ref="https://sws.geonames.org/344979" ana="webannotation:http://temp.lincsproject.ca/w6gFp7imMQd">Addis-Abeba</placeName> et enfin à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/oTsylQlhyoa">Toronto</placeName>, au gré de ses amours et de sa carrière universitaire</ref>.</ref>
+                                </ref>.</note> : <ref target="#spatiality">elle fuit <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/GFgYMCmanmk">Berlin</placeName> en 1945 pour s’installer successivement à <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/6JZtcuGKQAR">Londres</placeName>, à <placeName key="Tunis" ref="https://sws.geonames.org/2464470" ana="webannotation:http://temp.lincsproject.ca/eMLux5MQsqs">Tunis</placeName>, à <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/XCPBuPwwqLz" type="real">Montréal</placeName>, à <placeName key="Addis Ababa" ref="https://sws.geonames.org/344979" ana="webannotation:http://temp.lincsproject.ca/w6gFp7imMQd">Addis-Abeba</placeName> et enfin à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/oTsylQlhyoa">Toronto</placeName>, au gré de ses amours et de sa carrière universitaire</ref>.</ref>
                     </ref>
                 </p>
                 <p xml:id="p1363">
@@ -471,7 +471,7 @@
                             <note place="inline">
                                 <bibl>
                                     <title level="m">Bleu sur blanc</title> 17</bibl>
-                            </note>.</ref> Divorcée, elle s’évade à Montréal, où elle poursuit une carrière universitaire exigeante et mène une vie privée déchirante. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/Nsluccltu54">Paris</placeName>, ville-lumière et lieu de congé sabbatique, lui offre brièvement le temps et le loisir pour la création littéraire. C’est pourtant <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/QiBiFmlNlcM">Toronto</placeName> qu’Andersen présente comme le lieu privilégié non seulement de l’écriture mais aussi de la convivialité d’une communauté artistique, ville où elle participe au débuts de la Société des écrivain(e)s de Toronto ainsi que de l’Association des auteures et des auteurs de l’Ontario français. <ref target="#childhood">De <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/gaxo9iUbPn1">Berlin</placeName> à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/hI3a8MwXyjP">Toronto</placeName>, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/n5CBqnYEKYx">Andersen</persName> entreprend la quête difficile de se réconcilier avec une enfance vécue sous le régime nazi ainsi qu’avec le père écrivain et le paradis perdu de l’enfance, représenté dans l’œuvre comme le triangle sacré <hi rend="italic" xml:lang="de-DE">Vater, Mutter, Kind</hi> (père, mère, enfant).</ref>
+                            </note>.</ref> Divorcée, elle s’évade à <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/v3ICZqkDg26">Montréal</placeName>, où elle poursuit une carrière universitaire exigeante et mène une vie privée déchirante. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/Nsluccltu54">Paris</placeName>, ville-lumière et lieu de congé sabbatique, lui offre brièvement le temps et le loisir pour la création littéraire. C’est pourtant <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/QiBiFmlNlcM">Toronto</placeName> qu’Andersen présente comme le lieu privilégié non seulement de l’écriture mais aussi de la convivialité d’une communauté artistique, ville où elle participe au débuts de la Société des écrivain(e)s de Toronto ainsi que de l’Association des auteures et des auteurs de l’Ontario français. <ref target="#childhood">De <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/gaxo9iUbPn1">Berlin</placeName> à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/hI3a8MwXyjP">Toronto</placeName>, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/n5CBqnYEKYx">Andersen</persName> entreprend la quête difficile de se réconcilier avec une enfance vécue sous le régime nazi ainsi qu’avec le père écrivain et le paradis perdu de l’enfance, représenté dans l’œuvre comme le triangle sacré <hi rend="italic" xml:lang="de-DE">Vater, Mutter, Kind</hi> (père, mère, enfant).</ref>
                     </ref>
                 </p>
                 <div type="section">
@@ -585,7 +585,7 @@
                 <div type="section">
                     <head><placeName key="Tunis" ref="https://sws.geonames.org/2464470" ana="webannotation:http://temp.lincsproject.ca/CCy7ysd0Oor">Tunis</placeName>, un paysage de beauté, de pauvreté et de douleur</head>
                     <p xml:id="p1368">
-                        <ref target="#spatiality">Entre Berlin et <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/gFazeOjSUZy">Toronto</placeName>, entre ces deux espaces urbains et leurs institutions littéraires, cinq villes figurent comme espaces intermédiaires : <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/wH6MxGgkUK2">Londres</placeName>, <placeName key="Tunis" ref="https://sws.geonames.org/2464470" ana="webannotation:http://temp.lincsproject.ca/l1HetxVsyao">Tunis</placeName>, Montréal, <placeName key="Addis Ababa" ref="https://sws.geonames.org/344979" ana="webannotation:http://temp.lincsproject.ca/XjdqdOnHlyD">Addis-Abeba</placeName> et <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/VfeFeWfUePx">Paris</placeName>. Ville réelle mais aussi espace-temps construit par l’auteure, <placeName key="Tunis" ref="https://sws.geonames.org/2464470" ana="webannotation:http://temp.lincsproject.ca/xNmF7wPfTsB">Tunis</placeName> apparaît sous deux jours différents. <ref target="#intertextuality">
+                        <ref target="#spatiality">Entre Berlin et <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/gFazeOjSUZy">Toronto</placeName>, entre ces deux espaces urbains et leurs institutions littéraires, cinq villes figurent comme espaces intermédiaires : <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/wH6MxGgkUK2">Londres</placeName>, <placeName key="Tunis" ref="https://sws.geonames.org/2464470" ana="webannotation:http://temp.lincsproject.ca/l1HetxVsyao">Tunis</placeName>, <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/EImAHYTs3S3">Montréal</placeName>, <placeName key="Addis Ababa" ref="https://sws.geonames.org/344979" ana="webannotation:http://temp.lincsproject.ca/XjdqdOnHlyD">Addis-Abeba</placeName> et <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/VfeFeWfUePx">Paris</placeName>. Ville réelle mais aussi espace-temps construit par l’auteure, <placeName key="Tunis" ref="https://sws.geonames.org/2464470" ana="webannotation:http://temp.lincsproject.ca/xNmF7wPfTsB">Tunis</placeName> apparaît sous deux jours différents. <ref target="#intertextuality">
                                 <ref target="#genre_poetry">Dans <title level="m">Bleu sur blanc</title>, où <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/liHSyokyJOT">Marguerite</persName> choisit de ne pas parler <q>des amours floués</q>
                                     <note place="inline">
                                         <bibl>7</bibl>
@@ -633,14 +633,14 @@
                             <note place="inline">
                                 <bibl>
                                     <title level="m">Bleu sur blanc</title> 75</bibl>
-                            </note> après l’indépendance de la Tunisie en 1955, relâche son emprise sur ses fils, qui passent un certain temps à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/E4rjR8ame0D">Berlin</placeName> avec leur famille allemande. L’émigration à Montréal fournit à <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/pzur3jovVKt">Marguerite</persName> l’occasion de refaire sa vie, même si elle doit se contenter pour un temps de laisser l’un de ses fils avec son père.</ref>
+                            </note> après l’indépendance de la Tunisie en 1955, relâche son emprise sur ses fils, qui passent un certain temps à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/E4rjR8ame0D">Berlin</placeName> avec leur famille allemande. L’émigration à <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/YMwopyln0BX">Montréal</placeName> fournit à <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/pzur3jovVKt">Marguerite</persName> l’occasion de refaire sa vie, même si elle doit se contenter pour un temps de laisser l’un de ses fils avec son père.</ref>
                     </p>
                 </div>
                 <div type="section">
-                    <head>Montréal, espace urbain dysphorique</head>
+                    <head><placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/32yOWjhxsRf">Montréal</placeName>, espace urbain dysphorique</head>
                     <p xml:id="p1370">
                         <ref target="#genre_lifeWriting">
-                            <ref target="#spatiality">Dans l’ensemble de l’œuvre autofictionnelle, Montréal, où <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/X1WB2tdaZVz">Marguerite</persName> s’installe en 1958, se présente comme un endroit excessivement pieux et nationaliste. <ref target="#theory">La scène de <q>l’arrivée en ville</q>, l’intrusion potentiellement subversive de l’étranger dans l’espace urbain dont <persName key="Harel, Simon, 1957-...." ref="http://viaf.org/viaf/2527335" ana="webannotation:http://temp.lincsproject.ca/hJZMggIudMm">parle Simon Harel</persName> dans <title level="m">Le Voleur de parcours</title>
+                            <ref target="#spatiality">Dans l’ensemble de l’œuvre autofictionnelle, <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/StCIqxtgzCO">Montréal</placeName>, où <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/X1WB2tdaZVz">Marguerite</persName> s’installe en 1958, se présente comme un endroit excessivement pieux et nationaliste. <ref target="#theory">La scène de <q>l’arrivée en ville</q>, l’intrusion potentiellement subversive de l’étranger dans l’espace urbain dont <persName key="Harel, Simon, 1957-...." ref="http://viaf.org/viaf/2527335" ana="webannotation:http://temp.lincsproject.ca/hJZMggIudMm">parle Simon Harel</persName> dans <title level="m">Le Voleur de parcours</title>
                                     <note place="inline">
                                         <bibl>43</bibl>
                                     </note>, coïncide avec l’arrivée au Canada</ref>
@@ -661,14 +661,14 @@
                                             <title level="m">Mémoire</title> 82</bibl>
                                     </note>
                                 </ref>
-                            </ref>. Elle ne s’attarde pas non plus sur son activisme dans l’association des professeurs. Montréal est surtout le lieu de la culpabilité au féminin : dans <title level="m">De mémoire de femme</title>, <ref target="#representation_of_women"><persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/dFIshCqZPMx">Andersen</persName> fait le portrait de la mère gagne-pain et de la femme amoureuse qui néglige son fils aîné et sa vieille mère infirme pour se dévouer à un mari difficile et à une carrière exigeante</ref>. <ref target="#voice_or_narration">Du point de vue du fils aîné, narrateur à son tour, Montréal est un espace dysphorique associé au souterrain. Il est relégué au sous-sol pour faire place à l’amant possessif de sa mère, un homme d’origine <ref target="#nationality">danoise</ref> qui deviendra son beau-père.</ref>
+                            </ref>. Elle ne s’attarde pas non plus sur son activisme dans l’association des professeurs. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/EopSO5RVk52">Montréal</placeName> est surtout le lieu de la culpabilité au féminin : dans <title level="m">De mémoire de femme</title>, <ref target="#representation_of_women"><persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/dFIshCqZPMx">Andersen</persName> fait le portrait de la mère gagne-pain et de la femme amoureuse qui néglige son fils aîné et sa vieille mère infirme pour se dévouer à un mari difficile et à une carrière exigeante</ref>. <ref target="#voice_or_narration">Du point de vue du fils aîné, narrateur à son tour, <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/sHcPSAUvyMW">Montréal</placeName> est un espace dysphorique associé au souterrain. Il est relégué au sous-sol pour faire place à l’amant possessif de sa mère, un homme d’origine <ref target="#nationality">danoise</ref> qui deviendra son beau-père.</ref>
                             <ref target="#education">
                                 <ref target="#language">On envoie le fils en pensionnat pendant la semaine dans une école anglaise de banlieue</ref>
                             </ref>, près des raffineries de pétrole, et il s’agit pour lui carrément d’une descente en enfer : <q>Je ne vois pas que ces flammes sont celles de l’enfer, que le pasteur qui gère le pensionnat est l’ange des ténèbres</q>
                             <note place="inline">
                                 <bibl>
                                     <title level="m">Mémoire</title> 301</bibl>
-                            </note>. <ref target="women_writing">Dans <title level="m">De mémoire de femme</title> et <title level="m">Parallèles</title>, Montréal est associée moins à l’écriture créatrice qu’à l’écriture alimentaire : la femme exilée s’occupe de la rédaction de dissertations et de la correction de travaux d’étudiants, travail qu’elle effectue non seulement pour son propre compte mais aussi pour celui de son nouveau mari, fainéant</ref>.</ref>
+                            </note>. <ref target="women_writing">Dans <title level="m">De mémoire de femme</title> et <title level="m">Parallèles</title>, <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/YIp1DgFD0jz">Montréal</placeName> est associée moins à l’écriture créatrice qu’à l’écriture alimentaire : la femme exilée s’occupe de la rédaction de dissertations et de la correction de travaux d’étudiants, travail qu’elle effectue non seulement pour son propre compte mais aussi pour celui de son nouveau mari, fainéant</ref>.</ref>
                     </p>
                     <p xml:id="p1371">
                         <ref target="#voice_or_narration">Les défaillances de ce mariage ne disparaissent pas au cours du séjour d’enseignement de la narratrice et de son mari à <placeName key="Addis Ababa" ref="https://sws.geonames.org/344979" ana="webannotation:http://temp.lincsproject.ca/w1ScxH3S53l">Addis-Abeba</placeName>, même si c’est là qu’elle a le bonheur de donner naissance à sa fille. Sa tentative de retrouver le paradis douillet de <hi rend="italic" xml:lang="de-DE">Vater, Mutter, Kind</hi> échoue encore. <ref target="#violence"><persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/ppmWx0uGu3c">Marguerite</persName> et sa famille sont chassées du pays par les puces éthiopiennes, qui se délectent de la peau tendre du mari.</ref> Celui-ci est loin d’incarner la vision idéalisée de la figure paternelle. Le bonheur reviendra plus tard sous une configuration familiale moins traditionnelle qui exclut le père.</ref>
@@ -676,11 +676,11 @@
                     <p xml:id="p1372">
                         <ref target="#spatiality">
                             <ref target="#genre_lifeWriting">Il est à noter que dans <title level="m">La vie devant elles</title>, composé des récits biofictionnels de ses petits-enfants, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/nA6OZ2s6c0N">Andersen</persName> construit une vision plus valorisante de Montréal</ref>. <ref target="#nationality">
-                                <ref target="#education">Le fils de Marguerite se souvient de ses études universitaires</ref> et de la rencontre avec sa femme polonaise, Zosia, avec qui il crée lui-même une cellule familiale <hi rend="italic" xml:lang="de-DE">Vater, Mutter, Kind</hi>, quitte à se présenter comme français en taisant ses origines allemandes auprès de ses enfants et de ses amis</ref>. <ref target="#education">Montréal se présente sous un autre jour encore dans le récit de la petite-fille Claire, qui quitte Ottawa pour étudier à l’Université McGill</ref>. En tant que Franco-Ontarienne, elle perçoit Montréal plutôt comme une métropole culturelle en ébullition : <q>Mais Claire choisit d’étudier à McGill, comme tant de jeunes Franco-Ontariens ambitieux, à Montréal, comme le fera plus tard sa sœur Ariane. La grande ville, les deux langues, la culture, les arts aux courants multiples l’attirent</q>
+                                <ref target="#education">Le fils de Marguerite se souvient de ses études universitaires</ref> et de la rencontre avec sa femme polonaise, Zosia, avec qui il crée lui-même une cellule familiale <hi rend="italic" xml:lang="de-DE">Vater, Mutter, Kind</hi>, quitte à se présenter comme français en taisant ses origines allemandes auprès de ses enfants et de ses amis</ref>. <ref target="#education"><placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/H84Mcu77Eoz">Montréal</placeName> se présente sous un autre jour encore dans le récit de la petite-fille Claire, qui quitte Ottawa pour étudier à l’Université McGill</ref>. En tant que Franco-Ontarienne, elle perçoit Montréal plutôt comme une métropole culturelle en ébullition : <q>Mais Claire choisit d’étudier à McGill, comme tant de jeunes Franco-Ontariens ambitieux, à <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/uMq2vtjeJPN">Montréal</placeName>, comme le fera plus tard sa sœur Ariane. La grande ville, les deux langues, la culture, les arts aux courants multiples l’attirent</q>
                             <note place="inline">
                                 <bibl>
                                     <title level="m">Vie devant elles</title> 198</bibl>
-                            </note>. Montréal, après avoir été le lieu d’exil douloureux d’une <q>personne déplacée</q> s’évadant de son passé berlinois, finit par incarner chez Andersen la métropole à prééminence artistique, surtout selon la perspective de ses petits-enfants nés au Canada.</ref>
+                            </note>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/Op3T7vWXwTO">Montréal</placeName>, après avoir été le lieu d’exil douloureux d’une <q>personne déplacée</q> s’évadant de son passé berlinois, finit par incarner chez Andersen la métropole à prééminence artistique, surtout selon la perspective de ses petits-enfants nés au Canada.</ref>
                     </p>
                 </div>
                 <div type="section">
@@ -697,7 +697,7 @@
                                         <bibl>
                                             <title level="m">Mémoire</title> 20</bibl>
                                     </note>
-                                </ref>. Le cadre parisien ne se présente cependant pas uniquement comme lieu de pèlerinage littéraire. <ref target="voice_or_narration">La narratrice autodiégétique</ref> de <title level="m">De mémoire de femme</title>, Anne Grimm, s’installe en banlieue, à Bourg-la-Reine, dont le centre commercial évoque pour elle les lieux familiers de l’espace montréalais : <q>L’endroit m’a rappelé le Canada. S’il n’y avait pas eu le drapeau tricolore flottant sur le parking, je me serais crue à la place Alexis-Nihon, à Montréal</q>
+                                </ref>. Le cadre parisien ne se présente cependant pas uniquement comme lieu de pèlerinage littéraire. <ref target="voice_or_narration">La narratrice autodiégétique</ref> de <title level="m">De mémoire de femme</title>, Anne Grimm, s’installe en banlieue, à Bourg-la-Reine, dont le centre commercial évoque pour elle les lieux familiers de l’espace montréalais : <q>L’endroit m’a rappelé le Canada. S’il n’y avait pas eu le drapeau tricolore flottant sur le parking, je me serais crue à la place Alexis-Nihon, à <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/UTiENUOn82o">Montréal</placeName></q>
                                 <note place="inline">
                                     <bibl>231</bibl>
                                 </note>. Il s’agit d’un <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/Awkj9cXp1SL">Paris</placeName> moderne, où elle peut même ressasser les souvenirs de <placeName key="Tunis" ref="https://sws.geonames.org/2464470" ana="webannotation:http://temp.lincsproject.ca/75bL9esOep9">Tunis</placeName> en fréquentant le hammam du quartier. <ref target="#gender_issue">
@@ -741,10 +741,10 @@
                                 <bibl>178</bibl>
                             </note>
                         </ref>. Toutes les institutions francophones de <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/y2SZ1hMvd4s">Toronto</placeName> sont mises à l’honneur. <ref target="#religion">
-                            <ref target="#spatiality">Par exemple, lorsque <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/XNQgr7gxo91" type="real" cert="high">Lucienne</persName> quitte Montréal et arrive à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/pd5kC65F8rI">Toronto</placeName>, elle est accueillie par une Anglaise qui l’envoie à l’église Sacré-Cœur, à l’angle des rues Sherbourne et Carlton. Pour <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/Z4CAAIgJ4za">Lucienne</persName>, <q>migrant[e] de l’intérieur</q>
+                            <ref target="#spatiality">Par exemple, lorsque <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/XNQgr7gxo91" type="real" cert="high">Lucienne</persName> quitte <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/tazJTd4cIa4">Montréal</placeName> et arrive à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/pd5kC65F8rI">Toronto</placeName>, elle est accueillie par une Anglaise qui l’envoie à l’église Sacré-Cœur, à l’angle des rues Sherbourne et Carlton. Pour <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/Z4CAAIgJ4za">Lucienne</persName>, <q>migrant[e] de l’intérieur</q>
                                 <note place="inline">
                                     <bibl>Harel 30</bibl>
-                                </note>, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/dX7LzXZot3Z">Toronto</placeName> représente un havre après sa vie au Québec, qui apparaît comme soumis aux valeurs patriarcales de l’Église catholique de l’époque. <ref target="#violence">À travers la vie de Lucienne, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/iJeouPk5YFA">Andersen</persName> esquisse en effet le portrait d’une Église oppressive qui condamne les femmes aux grossesses fréquentes, ce qui épuise des femmes comme la mère de Lucienne, qui meurt dans un asile après un épisode de dépression post-partum.</ref> L’Église catholique parraine alors l’Institut des équipières sociales, dont <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/fx0DyXOpOzN">Lucienne</persName> avait fait partie à Ottawa et à Montréal et qui impose aux pénitentes de marcher avec des fèves dans les souliers <q>pour s’empêcher de courir après le plaisir</q>
+                                </note>, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/dX7LzXZot3Z">Toronto</placeName> représente un havre après sa vie au Québec, qui apparaît comme soumis aux valeurs patriarcales de l’Église catholique de l’époque. <ref target="#violence">À travers la vie de Lucienne, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/iJeouPk5YFA">Andersen</persName> esquisse en effet le portrait d’une Église oppressive qui condamne les femmes aux grossesses fréquentes, ce qui épuise des femmes comme la mère de Lucienne, qui meurt dans un asile après un épisode de dépression post-partum.</ref> L’Église catholique parraine alors l’Institut des équipières sociales, dont <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/fx0DyXOpOzN">Lucienne</persName> avait fait partie à Ottawa et à <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/6viNLlW0EQz">Montréal</placeName> et qui impose aux pénitentes de marcher avec des fèves dans les souliers <q>pour s’empêcher de courir après le plaisir</q>
                                 <note place="inline">
                                     <bibl>
                                         <title level="m">Parallèles</title> 135</bibl>
@@ -869,16 +869,16 @@
                         <bibl><persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/BxHsDhMxvzA">Andersen</persName>, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/IC9VkdXRNbL">Marguerite</persName>. <title level="a" xml:lang="en-CA">Autobiography: Tightrope Across the Search for Understanding</title>. <title level="j" xml:lang="en-CA">Institut Simone de Beauvoir Institute Review/<hi xml:lang="fr-FR">Revue</hi>
                             </title> 18-19 (2000): 113-28.</bibl>
                         <bibl>. <title level="m">Bleu sur blanc</title>. Sudbury, ON: Prise de parole, 2000.</bibl>
-                        <bibl>. <title level="m">De mémoire de femme</title>. Montréal: Quinze, 1982. Nouvelle édition revue et corrigée, <hi rend="small-caps">bcf</hi>, Ottawa: L’Interligne, 2002.</bibl>
+                        <bibl>. <title level="m">De mémoire de femme</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/zEwV1bm8AzF">Montréal</placeName>: Quinze, 1982. Nouvelle édition revue et corrigée, <hi rend="small-caps">bcf</hi>, Ottawa: L’Interligne, 2002.</bibl>
                         <bibl>. <title level="m">Le figuier sur le toit</title>. Ottawa: L’Interligne, 2008.</bibl>
                         <bibl>. <title level="m">Parallèles</title>. Sudbury, ON: Prise de parole, 2004.</bibl>
                         <bibl>. <title level="m">La vie devant elles</title>. Sudbury, ON: Prise de parole, 2011.</bibl>
                         <bibl><persName key="Coleman, Daniel, 1961-" ref="http://viaf.org/viaf/24827953" ana="webannotation:http://temp.lincsproject.ca/K14YCvxw4dJ">Coleman</persName>, Patrick. <title level="a" xml:lang="en-CA">From Canadian Trance to TransCanada: White Civility to Wry Civility in the Canlit Project</title>. <title level="m" xml:lang="en-CA">Trans.Can.Lit: Resituating the Study of Canadian Literature</title>. Dir. Smaro Kamboureli et Roy Miki. Waterloo, ON: Wilfrid Laurier University Press, 2007. 25-44.</bibl>
-                        <bibl><persName key="Harel, Simon, 1957-...." ref="http://viaf.org/viaf/2527335" ana="webannotation:http://temp.lincsproject.ca/Uz1LSqnBkEP">Harel</persName>, Simon. <title level="m">Le voleur de parcours: Identité et cosmopolitisme dans la littérature québécoise contemporaine</title>. Montréal: <hi rend="small-caps">xyz</hi>, 1999.</bibl>
+                        <bibl><persName key="Harel, Simon, 1957-...." ref="http://viaf.org/viaf/2527335" ana="webannotation:http://temp.lincsproject.ca/Uz1LSqnBkEP">Harel</persName>, Simon. <title level="m">Le voleur de parcours: Identité et cosmopolitisme dans la littérature québécoise contemporaine</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/Ng9k9nTwDgb">Montréal</placeName>: <hi rend="small-caps">xyz</hi>, 1999.</bibl>
                         <bibl><persName key="Hotte, Lucie, 1959-" ref="http://viaf.org/viaf/32220127" ana="webannotation:http://temp.lincsproject.ca/JhyV6IQZkzh">Hotte</persName>, Lucie. <title level="a">Préface : L’écriture et la vie</title>. <title level="m">De mémoire de femme</title>. <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/8IpFEjeMDoh">Marguerite Andersen</persName>. Édition revue et corrigée, <hi rend="small-caps">bcf</hi>. Ottawa: L’Interligne, 2002. 7-12.</bibl>
                         <bibl><persName key="Lejeune, Philippe, 1938-...." ref="http://viaf.org/viaf/76358606" ana="webannotation:http://temp.lincsproject.ca/Cmtz9UTkY2v">Lejeune</persName>, Philippe. <title level="m">Le pacte autobiographique</title>. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/oTSQVXuUPWN">Paris</placeName>: Seuil, 1975.</bibl>
                         <bibl><persName key="Paré, François, 1949-" ref="http://viaf.org/viaf/66577014" ana="webannotation:http://temp.lincsproject.ca/gqS180zIiHA">Paré</persName>, François. <title level="a">Souveraineté et détournement du regard dans les nouvelles de Marguerite Andersen</title>. <title level="j" xml:lang="en-CA">University of Toronto Quarterly</title> 68.4 (automne 1999): 823-34.</bibl>
-                        <bibl><persName key="Robin, Régine, 1939-2021" ref="http://viaf.org/viaf/36923835" ana="webannotation:http://temp.lincsproject.ca/XUm4nbRwAxj">Robin</persName>, Régine. <title level="m">Le roman mémoriel : de l’histoire à l’écriture du hors-lieu</title>. Montréal: Le Préambule, 1989.</bibl>
+                        <bibl><persName key="Robin, Régine, 1939-2021" ref="http://viaf.org/viaf/36923835" ana="webannotation:http://temp.lincsproject.ca/XUm4nbRwAxj">Robin</persName>, Régine. <title level="m">Le roman mémoriel : de l’histoire à l’écriture du hors-lieu</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/Yf7HXqmhvFA">Montréal</placeName>: Le Préambule, 1989.</bibl>
                         <bibl>
                             <title level="m">La Sainte Bible</title>. Traduite d’après les textes originaux hébreu et grec par Louis Segond. Édition revue avec références. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/yRuKqazmm8b">Paris</placeName>: La Société biblique, 1972.</bibl>
                         <bibl>Tennier, Julie. <title level="a"><persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/mk2tW4iN4jl">Marguerite Andersen</persName> et le moi en l’absence de l’autre : <title level="m">De mémoire de femme</title>
@@ -10552,7 +10552,1574 @@
         "id": "https://sws.geonames.org/6077243",
         "type": "crm:E53_Place",
         "label": "Montréal",
-        "description": "Quebec, Municipio E, CA"
+        "description": "Quebec, Municipio E, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/v3ICZqkDg26">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/v3ICZqkDg26",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:52:11.777Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/xPL70ncQdMu",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/xPL70ncQdMu/selector/textPosition/jjxaLqIEBrq",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5947,
+                "end": 5955,
+                "refinedBy": {
+                    "id": "/target/xPL70ncQdMu/selector/textQuote/Y3DFOSAJOEL",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Montréal",
+                    "prefix": " Divorcée, elle s’évade à",
+                    "suffix": " où elle poursuit une carrière universitaire exigeante et mène une vie privée déchirante"
+                }
+            },
+            {
+                "id": "/target/xPL70ncQdMu/selector/css/79dMU7BXt26",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/v3ICZqkDg26]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6077243",
+        "type": "crm:E53_Place",
+        "label": "Montréal",
+        "description": "Quebec, Municipio E, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/EImAHYTs3S3">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/EImAHYTs3S3",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:52:11.818Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/GfOH822lviE",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/GfOH822lviE/selector/textPosition/nxehpYwTYTF",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 18253,
+                "end": 18261,
+                "refinedBy": {
+                    "id": "/target/GfOH822lviE/selector/textQuote/BOSX2tXBzr0",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Montréal",
+                    "prefix": "\n                \n                \n                    Tunis, un paysage de beauté, de pauvreté et de douleur\n                    \n                        Entre Berlin et Toronto, entre ces deux espaces urbains et leurs institutions littéraires, cinq villes figurent comme espaces intermédiaires : Londres, Tunis,",
+                    "suffix": " Addis-Abeba et Paris"
+                }
+            },
+            {
+                "id": "/target/GfOH822lviE/selector/css/WAvkpkDTlBL",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/EImAHYTs3S3]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6077243",
+        "type": "crm:E53_Place",
+        "label": "Montréal",
+        "description": "Quebec, Municipio E, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/YMwopyln0BX">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/YMwopyln0BX",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:52:11.854Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/OUm4F5TCYOa",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/OUm4F5TCYOa/selector/textPosition/RAMuo3AN0Ww",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 22379,
+                "end": 22387,
+                "refinedBy": {
+                    "id": "/target/OUm4F5TCYOa/selector/textQuote/pDWMITpc63G",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Montréal",
+                    "prefix": " L’émigration à",
+                    "suffix": "fournit à Marguerite l’occasion de refaire sa vie, même si elle doit se contenter pour un temps de laisser l’un de ses fils avec son père"
+                }
+            },
+            {
+                "id": "/target/OUm4F5TCYOa/selector/css/zG2EWI8gxM7",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/YMwopyln0BX]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6077243",
+        "type": "crm:E53_Place",
+        "label": "Montréal",
+        "description": "Quebec, Municipio E, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/32yOWjhxsRf">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/32yOWjhxsRf",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:52:11.891Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/AZjfGTIPzyi",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/AZjfGTIPzyi/selector/textPosition/aXbqCKF6Rmg",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 22602,
+                "end": 22610,
+                "refinedBy": {
+                    "id": "/target/AZjfGTIPzyi/selector/textQuote/3YKHrIgc7Qf",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Montréal",
+                    "prefix": "\n                    \n                \n                \n                   ",
+                    "suffix": " espace urbain dysphorique\n                    \n                        \n                            Dans l’ensemble de l’œuvre autofictionnelle, Montréal, où Marguerite s’installe en 1958, se présente comme un endroit excessivement pieux et nationaliste"
+                }
+            },
+            {
+                "id": "/target/AZjfGTIPzyi/selector/css/Bi78a5oPwP8",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/32yOWjhxsRf]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6077243",
+        "type": "crm:E53_Place",
+        "label": "Montréal",
+        "description": "Quebec, Municipio E, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/StCIqxtgzCO">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/StCIqxtgzCO",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:52:12.205Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/hjtNeDBpOU8",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/hjtNeDBpOU8/selector/textPosition/JnRpolxGK2T",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 22757,
+                "end": 22765,
+                "refinedBy": {
+                    "id": "/target/hjtNeDBpOU8/selector/textQuote/ik3DI8JOTOx",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Montréal",
+                    "prefix": "\n                    \n                \n                \n                    Montréal, espace urbain dysphorique\n                    \n                        \n                            Dans l’ensemble de l’œuvre autofictionnelle,",
+                    "suffix": " où Marguerite s’installe en 1958, se présente comme un endroit excessivement pieux et nationaliste"
+                }
+            },
+            {
+                "id": "/target/hjtNeDBpOU8/selector/css/JGS6SZoWkj0",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/StCIqxtgzCO]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6077243",
+        "type": "crm:E53_Place",
+        "label": "Montréal",
+        "description": "Quebec, Municipio E, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/EopSO5RVk52">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/EopSO5RVk52",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:52:12.205Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/iawnvlpiR5Z",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/iawnvlpiR5Z/selector/textPosition/qCgTQ7yG7sk",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 25053,
+                "end": 25061,
+                "refinedBy": {
+                    "id": "/target/iawnvlpiR5Z/selector/textQuote/4m6Ayw7V7B9",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Montréal",
+                    "prefix": "",
+                    "suffix": "est surtout le lieu de la culpabilité au féminin : dans De mémoire de femme, Andersen fait le portrait de la mère gagne-pain et de la femme amoureuse qui néglige son fils aîné et sa vieille mère infirme pour se dévouer à un mari difficile et à une carrière exigeante"
+                }
+            },
+            {
+                "id": "/target/iawnvlpiR5Z/selector/css/UHNOdHEIkpi",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/EopSO5RVk52]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6077243",
+        "type": "crm:E53_Place",
+        "label": "Montréal",
+        "description": "Quebec, Municipio E, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/sHcPSAUvyMW">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/sHcPSAUvyMW",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:52:12.206Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Y8Z50fDYpys",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Y8Z50fDYpys/selector/textPosition/jJSJMvuYLS3",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 25382,
+                "end": 25390,
+                "refinedBy": {
+                    "id": "/target/Y8Z50fDYpys/selector/textQuote/qWowKzXNZ4T",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Montréal",
+                    "prefix": " Du point de vue du fils aîné, narrateur à son tour,",
+                    "suffix": "est un espace dysphorique associé au souterrain"
+                }
+            },
+            {
+                "id": "/target/Y8Z50fDYpys/selector/css/o5mPXVX4Jz1",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/sHcPSAUvyMW]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6077243",
+        "type": "crm:E53_Place",
+        "label": "Montréal",
+        "description": "Quebec, Municipio E, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/YIp1DgFD0jz">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/YIp1DgFD0jz",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:52:12.206Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/CsaFlyzDRei",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/CsaFlyzDRei/selector/textPosition/7AjtncFRRfp",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 26138,
+                "end": 26146,
+                "refinedBy": {
+                    "id": "/target/CsaFlyzDRei/selector/textQuote/Jn4IRFZPYbT",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Montréal",
+                    "prefix": " Dans De mémoire de femme et Parallèles,",
+                    "suffix": "est associée moins à l’écriture créatrice qu’à l’écriture alimentaire : la femme exilée s’occupe de la rédaction de dissertations et de la correction de travaux d’étudiants, travail qu’elle effectue non seulement pour son propre compte mais aussi pour celui de son nouveau mari, fainéant"
+                }
+            },
+            {
+                "id": "/target/CsaFlyzDRei/selector/css/C1sDyuYkWNe",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/YIp1DgFD0jz]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6077243",
+        "type": "crm:E53_Place",
+        "label": "Montréal",
+        "description": "Quebec, Municipio E, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/H84Mcu77Eoz">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/H84Mcu77Eoz",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:52:12.206Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/rPr1trvn0oH",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/rPr1trvn0oH/selector/textPosition/NN8c4ugdvrb",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27670,
+                "end": 27678,
+                "refinedBy": {
+                    "id": "/target/rPr1trvn0oH/selector/textQuote/8TXMTxv2lFM",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Montréal",
+                    "prefix": "",
+                    "suffix": "se présente sous un autre jour encore dans le récit de la petite-fille Claire, qui quitte Ottawa pour étudier à l’Université McGill"
+                }
+            },
+            {
+                "id": "/target/rPr1trvn0oH/selector/css/eBwuHr8294q",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/H84Mcu77Eoz]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6077243",
+        "type": "crm:E53_Place",
+        "label": "Montréal",
+        "description": "Quebec, Municipio E, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/uMq2vtjeJPN">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/uMq2vtjeJPN",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:52:12.206Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/0HvF01WP7Ce",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/0HvF01WP7Ce/selector/textPosition/8gd8P4ExvT4",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 28010,
+                "end": 28018,
+                "refinedBy": {
+                    "id": "/target/0HvF01WP7Ce/selector/textQuote/Z4UiKDOcKdq",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Montréal",
+                    "prefix": " En tant que Franco-Ontarienne, elle perçoit Montréal plutôt comme une métropole culturelle en ébullition : Mais Claire choisit d’étudier à McGill, comme tant de jeunes Franco-Ontariens ambitieux, à",
+                    "suffix": " comme le fera plus tard sa sœur Ariane"
+                }
+            },
+            {
+                "id": "/target/0HvF01WP7Ce/selector/css/2exZ5HLyhGQ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/uMq2vtjeJPN]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6077243",
+        "type": "crm:E53_Place",
+        "label": "Montréal",
+        "description": "Quebec, Municipio E, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Op3T7vWXwTO">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Op3T7vWXwTO",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:52:12.206Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/uBp63awel4g",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/uBp63awel4g/selector/textPosition/euaSkuoC8KY",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 28299,
+                "end": 28307,
+                "refinedBy": {
+                    "id": "/target/uBp63awel4g/selector/textQuote/f369Q9FkWXp",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Montréal",
+                    "prefix": "",
+                    "suffix": " après avoir été le lieu d’exil douloureux d’une personne déplacée s’évadant de son passé berlinois, finit par incarner chez Andersen la métropole à prééminence artistique, surtout selon la perspective de ses petits-enfants nés au Canada"
+                }
+            },
+            {
+                "id": "/target/uBp63awel4g/selector/css/A9YIpoXOn7D",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Op3T7vWXwTO]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6077243",
+        "type": "crm:E53_Place",
+        "label": "Montréal",
+        "description": "Quebec, Municipio E, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/UTiENUOn82o">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/UTiENUOn82o",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:52:12.206Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/wJbDyVOvJjz",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/wJbDyVOvJjz/selector/textPosition/Uo2HRn6Fr9y",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 30145,
+                "end": 30153,
+                "refinedBy": {
+                    "id": "/target/wJbDyVOvJjz/selector/textQuote/6PGukKFfw3K",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Montréal",
+                    "prefix": " S’il n’y avait pas eu le drapeau tricolore flottant sur le parking, je me serais crue à la place Alexis-Nihon, à",
+                    "suffix": "                                \n                                    231\n                                "
+                }
+            },
+            {
+                "id": "/target/wJbDyVOvJjz/selector/css/WzABg1GyGXS",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/UTiENUOn82o]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6077243",
+        "type": "crm:E53_Place",
+        "label": "Montréal",
+        "description": "Quebec, Municipio E, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/tazJTd4cIa4">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/tazJTd4cIa4",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:52:12.207Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/PbYTC8flTUy",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/PbYTC8flTUy/selector/textPosition/4FSK35pj2jl",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 34158,
+                "end": 34166,
+                "refinedBy": {
+                    "id": "/target/PbYTC8flTUy/selector/textQuote/fGalLaSG4aD",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Montréal",
+                    "prefix": " \n                            Par exemple, lorsque Lucienne quitte",
+                    "suffix": "et arrive à Toronto, elle est accueillie par une Anglaise qui l’envoie à l’église Sacré-Cœur, à l’angle des rues Sherbourne et Carlton"
+                }
+            },
+            {
+                "id": "/target/PbYTC8flTUy/selector/css/rekwFCFGdXO",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/tazJTd4cIa4]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6077243",
+        "type": "crm:E53_Place",
+        "label": "Montréal",
+        "description": "Quebec, Municipio E, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/6viNLlW0EQz">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/6viNLlW0EQz",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:52:12.207Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ED0ZGlENkzD",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ED0ZGlENkzD/selector/textPosition/GF7oXRXgdfU",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 34976,
+                "end": 34984,
+                "refinedBy": {
+                    "id": "/target/ED0ZGlENkzD/selector/textQuote/QG6xbutIKXY",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Montréal",
+                    "prefix": " L’Église catholique parraine alors l’Institut des équipières sociales, dont Lucienne avait fait partie à Ottawa et à",
+                    "suffix": "et qui impose aux pénitentes de marcher avec des fèves dans les souliers pour s’empêcher de courir après le plaisir\n                                \n                                    \n                                        Parallèles 135\n                                \n                            "
+                }
+            },
+            {
+                "id": "/target/ED0ZGlENkzD/selector/css/tfhsgo5mFfl",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/6viNLlW0EQz]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6077243",
+        "type": "crm:E53_Place",
+        "label": "Montréal",
+        "description": "Quebec, Municipio E, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/zEwV1bm8AzF">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/zEwV1bm8AzF",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:52:12.339Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ZIQKYkiSzDJ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ZIQKYkiSzDJ/selector/textPosition/KzcrPMwsep3",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 49655,
+                "end": 49663,
+                "refinedBy": {
+                    "id": "/target/ZIQKYkiSzDJ/selector/textQuote/p0toP671TWC",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Montréal",
+                    "prefix": "",
+                    "suffix": " Quinze, 1982"
+                }
+            },
+            {
+                "id": "/target/ZIQKYkiSzDJ/selector/css/9xpq0W9KhHt",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/zEwV1bm8AzF]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6077243",
+        "type": "crm:E53_Place",
+        "label": "Montréal",
+        "description": "Quebec, Municipio E, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Ng9k9nTwDgb">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Ng9k9nTwDgb",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:52:12.340Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/CTnMsMSlrN1",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/CTnMsMSlrN1/selector/textPosition/RkKW59Bs4cS",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 50407,
+                "end": 50415,
+                "refinedBy": {
+                    "id": "/target/CTnMsMSlrN1/selector/textQuote/FGgthDKH9PL",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Montréal",
+                    "prefix": "",
+                    "suffix": " xyz, 1999"
+                }
+            },
+            {
+                "id": "/target/CTnMsMSlrN1/selector/css/pr28CfK4m4K",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Ng9k9nTwDgb]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6077243",
+        "type": "crm:E53_Place",
+        "label": "Montréal",
+        "description": "Quebec, Municipio E, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Yf7HXqmhvFA">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Yf7HXqmhvFA",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:52:12.340Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/XsFpgpCAdDT",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/XsFpgpCAdDT/selector/textPosition/KkfRu9pLGO1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 50979,
+                "end": 50987,
+                "refinedBy": {
+                    "id": "/target/XsFpgpCAdDT/selector/textQuote/p1yt1kE8aaT",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Montréal",
+                    "prefix": "",
+                    "suffix": " Le Préambule, 1989"
+                }
+            },
+            {
+                "id": "/target/XsFpgpCAdDT/selector/css/QQWWuGuqCo7",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Yf7HXqmhvFA]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/6077243",
+        "type": "crm:E53_Place",
+        "label": "Montréal",
+        "description": "Quebec, Municipio E, CA",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
