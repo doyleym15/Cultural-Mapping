@@ -478,7 +478,7 @@
                     <head>Une enfance berlinoise : l’enfant et le père écrivain</head>
                     <p xml:id="p1364">
                         <ref target="#spatiality">
-                            <ref target="#childhood">Bien qu’Andersen soit née à Magdebourg, petite ville proche de <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/mufCTTVWoP0">Berlin</placeName>, c’est <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/1AQs2b9xA0D">Berlin</placeName>, où elle emménage avec sa famille à l’âge de quatre ans, qui incarne surtout le lieu de son enfance</ref>. D’ailleurs, dans <title level="m">Parallèles</title>, la narratrice a <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/dV2kcvLHPoK">Berlin</placeName> comme lieu de naissance <note place="inline">
+                            <ref target="#childhood">Bien qu’Andersen soit née à <placeName key="Magdeburg" ref="https://sws.geonames.org/2874545" ana="webannotation:http://temp.lincsproject.ca/9r3BAQKJSSb">Magdebourg</placeName>, petite ville proche de <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/mufCTTVWoP0">Berlin</placeName>, c’est <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/1AQs2b9xA0D">Berlin</placeName>, où elle emménage avec sa famille à l’âge de quatre ans, qui incarne surtout le lieu de son enfance</ref>. D’ailleurs, dans <title level="m">Parallèles</title>, la narratrice a <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/dV2kcvLHPoK">Berlin</placeName> comme lieu de naissance <note place="inline">
                                 <bibl>19</bibl>
                             </note>. Ses parents y côtoient des intellectuels, des artistes et des scientifiques. On pourrait même dire qu’elle vient au monde par l’intermédiaire de l’écriture de son père, <persName key="Bohner, Theodor, 1882-1963" ref="http://viaf.org/viaf/194237270" ana="webannotation:http://temp.lincsproject.ca/CEBuMzhFAes">Theo</persName>, lui-même auteur à tendance autofictionnelle. <ref target="#genre_fiction">Celui-ci raconte la naissance de sa fille dans son roman <title level="m" xml:lang="de-DE">Das Licht und sein Schatten</title> (<title level="m">La lumière et son ombre</title>) publié en 1937</ref>
                             <note xml:id="n87" place="end">Pour satisfaire aux exigences de ce que <persName key="Robin, Régine, 1939-2021" ref="http://viaf.org/viaf/36923835" ana="webannotation:http://temp.lincsproject.ca/ZAgJAo7riy0">Robin</persName> appelle la mémoire savante, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/f0KaNJbZQpl">Andersen</persName> inclut en annexe dans <title level="m">Le figuier sur le toit</title> la bibliographie des œuvres de son père.</note>. <ref target="#genre_lifeWriting">Que la protagoniste et sa sœur Emma s’identifient toutes deux à ce nouveau-né souligne le caractère équivoque de l’écriture autofictionnelle</ref>
@@ -688,7 +688,7 @@
                     <p xml:id="p1373">
                         <ref target="#genre_lifeWriting">
                             <ref target="#spatiality">
-                                <ref target="#history">S’installer à Paris en congé sabbatique pendant un an pour écrire, quel rêve pour l’ex-Berlinoise! Nous avons vu que le <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/DeTNpWE7NmF">Berlin</placeName> des années 1920, <q>ville en compétition intellectuelle et artistique avec Paris</q>, se mesurait à l’aune de la ville-lumière <note place="inline">
+                                <ref target="#history">S’installer à <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/NdxW5YltyOm">Paris</placeName> en congé sabbatique pendant un an pour écrire, quel rêve pour l’ex-Berlinoise! Nous avons vu que le <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/DeTNpWE7NmF">Berlin</placeName> des années 1920, <q>ville en compétition intellectuelle et artistique avec <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/o3oJxoZas0y">Paris</placeName></q>, se mesurait à l’aune de la ville-lumière <note place="inline">
                                         <bibl>
                                             <title level="m">Figuier</title> 154</bibl>
                                     </note>
@@ -700,7 +700,7 @@
                                 </ref>. Le cadre parisien ne se présente cependant pas uniquement comme lieu de pèlerinage littéraire. <ref target="voice_or_narration">La narratrice autodiégétique</ref> de <title level="m">De mémoire de femme</title>, Anne Grimm, s’installe en banlieue, à Bourg-la-Reine, dont le centre commercial évoque pour elle les lieux familiers de l’espace montréalais : <q>L’endroit m’a rappelé le Canada. S’il n’y avait pas eu le drapeau tricolore flottant sur le parking, je me serais crue à la place Alexis-Nihon, à Montréal</q>
                                 <note place="inline">
                                     <bibl>231</bibl>
-                                </note>. Il s’agit d’un Paris moderne, où elle peut même ressasser les souvenirs de <placeName key="Tunis" ref="https://sws.geonames.org/2464470" ana="webannotation:http://temp.lincsproject.ca/75bL9esOep9">Tunis</placeName> en fréquentant le hammam du quartier. <ref target="#gender_issue">
+                                </note>. Il s’agit d’un <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/Awkj9cXp1SL">Paris</placeName> moderne, où elle peut même ressasser les souvenirs de <placeName key="Tunis" ref="https://sws.geonames.org/2464470" ana="webannotation:http://temp.lincsproject.ca/75bL9esOep9">Tunis</placeName> en fréquentant le hammam du quartier. <ref target="#gender_issue">
                                     <ref target="#intertextuality">
                                         <ref target="#representation_of_women">Le point culminant de cette autofiction est le retour au Canada, lorsque la protagoniste participe à une table ronde composée des femmes qui l’ont influencée, ce que Julie Tennier définit comme <q>lieu féminin collectif utopique</q>
                                             <note place="inline">
@@ -876,11 +876,11 @@
                         <bibl><persName key="Coleman, Daniel, 1961-" ref="http://viaf.org/viaf/24827953" ana="webannotation:http://temp.lincsproject.ca/K14YCvxw4dJ">Coleman</persName>, Patrick. <title level="a" xml:lang="en-CA">From Canadian Trance to TransCanada: White Civility to Wry Civility in the Canlit Project</title>. <title level="m" xml:lang="en-CA">Trans.Can.Lit: Resituating the Study of Canadian Literature</title>. Dir. Smaro Kamboureli et Roy Miki. Waterloo, ON: Wilfrid Laurier University Press, 2007. 25-44.</bibl>
                         <bibl><persName key="Harel, Simon, 1957-...." ref="http://viaf.org/viaf/2527335" ana="webannotation:http://temp.lincsproject.ca/Uz1LSqnBkEP">Harel</persName>, Simon. <title level="m">Le voleur de parcours: Identité et cosmopolitisme dans la littérature québécoise contemporaine</title>. Montréal: <hi rend="small-caps">xyz</hi>, 1999.</bibl>
                         <bibl><persName key="Hotte, Lucie, 1959-" ref="http://viaf.org/viaf/32220127" ana="webannotation:http://temp.lincsproject.ca/JhyV6IQZkzh">Hotte</persName>, Lucie. <title level="a">Préface : L’écriture et la vie</title>. <title level="m">De mémoire de femme</title>. <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/8IpFEjeMDoh">Marguerite Andersen</persName>. Édition revue et corrigée, <hi rend="small-caps">bcf</hi>. Ottawa: L’Interligne, 2002. 7-12.</bibl>
-                        <bibl><persName key="Lejeune, Philippe, 1938-...." ref="http://viaf.org/viaf/76358606" ana="webannotation:http://temp.lincsproject.ca/Cmtz9UTkY2v">Lejeune</persName>, Philippe. <title level="m">Le pacte autobiographique</title>. Paris: Seuil, 1975.</bibl>
+                        <bibl><persName key="Lejeune, Philippe, 1938-...." ref="http://viaf.org/viaf/76358606" ana="webannotation:http://temp.lincsproject.ca/Cmtz9UTkY2v">Lejeune</persName>, Philippe. <title level="m">Le pacte autobiographique</title>. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/oTSQVXuUPWN">Paris</placeName>: Seuil, 1975.</bibl>
                         <bibl><persName key="Paré, François, 1949-" ref="http://viaf.org/viaf/66577014" ana="webannotation:http://temp.lincsproject.ca/gqS180zIiHA">Paré</persName>, François. <title level="a">Souveraineté et détournement du regard dans les nouvelles de Marguerite Andersen</title>. <title level="j" xml:lang="en-CA">University of Toronto Quarterly</title> 68.4 (automne 1999): 823-34.</bibl>
                         <bibl><persName key="Robin, Régine, 1939-2021" ref="http://viaf.org/viaf/36923835" ana="webannotation:http://temp.lincsproject.ca/XUm4nbRwAxj">Robin</persName>, Régine. <title level="m">Le roman mémoriel : de l’histoire à l’écriture du hors-lieu</title>. Montréal: Le Préambule, 1989.</bibl>
                         <bibl>
-                            <title level="m">La Sainte Bible</title>. Traduite d’après les textes originaux hébreu et grec par Louis Segond. Édition revue avec références. Paris: La Société biblique, 1972.</bibl>
+                            <title level="m">La Sainte Bible</title>. Traduite d’après les textes originaux hébreu et grec par Louis Segond. Édition revue avec références. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/yRuKqazmm8b">Paris</placeName>: La Société biblique, 1972.</bibl>
                         <bibl>Tennier, Julie. <title level="a"><persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/mk2tW4iN4jl">Marguerite Andersen</persName> et le moi en l’absence de l’autre : <title level="m">De mémoire de femme</title>
                             </title>. <title level="j">Voix plurielles</title> 9.1 (2012): 58-68.</bibl>
                         <bibl><persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/MPZ5ORPWYKP">Young</persName>, <persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/gN70u4oXOHm">Lélia</persName>. <title level="m">Poésie franco-ontarienne: Un aperçu</title>. <title level="m">Perspectives sur la littérature franco-ontarienne</title>. Dir. Ali Reguigui et Hédi Bouraoui. Édition revue et augmentée. Sudbury, ON: Prise de parole, 2007. 205-33.</bibl>
@@ -11358,6 +11358,540 @@
         "type": "crm:E53_Place",
         "label": "Paris",
         "description": "Île-de-France, Paris, FR"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/NdxW5YltyOm">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/NdxW5YltyOm",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:42:54.799Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ebm25J7mmnm",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ebm25J7mmnm/selector/textPosition/ZDfjK79cAIn",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 28786,
+                "end": 28791,
+                "refinedBy": {
+                    "id": "/target/ebm25J7mmnm/selector/textQuote/9jCkGehhy8S",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Paris",
+                    "prefix": "\n                    \n                \n                \n                    Paris, ville-lumière, métropole culturelle\n                    \n                        \n                            \n                                S’installer à",
+                    "suffix": "en congé sabbatique pendant un an pour écrire, quel rêve pour l’ex-Berlinoise! Nous avons vu que le Berlin des années 1920, ville en compétition intellectuelle et artistique avec Paris, se mesurait à l’aune de la ville-lumière \n                                        \n                                            Figuier 154\n                                    \n                                "
+                }
+            },
+            {
+                "id": "/target/ebm25J7mmnm/selector/css/y01hSDQY4ht",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/NdxW5YltyOm]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2988507",
+        "type": "crm:E53_Place",
+        "label": "Paris",
+        "description": "Île-de-France, Paris, FR"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/o3oJxoZas0y">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/o3oJxoZas0y",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:42:54.836Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/N8GBOpaIoxj",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/N8GBOpaIoxj/selector/textPosition/04VVMDg7sHc",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 28971,
+                "end": 28976,
+                "refinedBy": {
+                    "id": "/target/N8GBOpaIoxj/selector/textQuote/1Rv0NUnMoZX",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Paris",
+                    "prefix": "\n                    \n                \n                \n                    Paris, ville-lumière, métropole culturelle\n                    \n                        \n                            \n                                S’installer à Paris en congé sabbatique pendant un an pour écrire, quel rêve pour l’ex-Berlinoise! Nous avons vu que le Berlin des années 1920, ville en compétition intellectuelle et artistique avec",
+                    "suffix": " se mesurait à l’aune de la ville-lumière \n                                        \n                                            Figuier 154\n                                    \n                                "
+                }
+            },
+            {
+                "id": "/target/N8GBOpaIoxj/selector/css/18MEtkCdFwH",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/o3oJxoZas0y]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2988507",
+        "type": "crm:E53_Place",
+        "label": "Paris",
+        "description": "Île-de-France, Paris, FR"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Awkj9cXp1SL">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Awkj9cXp1SL",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:42:54.999Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/kgkoAug9y1j",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/kgkoAug9y1j/selector/textPosition/4aI1lJTGPOF",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 30276,
+                "end": 30281,
+                "refinedBy": {
+                    "id": "/target/kgkoAug9y1j/selector/textQuote/gstxVy8ptwX",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Paris",
+                    "prefix": " Il s’agit d’un",
+                    "suffix": "moderne, où elle peut même ressasser les souvenirs de Tunis en fréquentant le hammam du quartier"
+                }
+            },
+            {
+                "id": "/target/kgkoAug9y1j/selector/css/m7trXbxbje6",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Awkj9cXp1SL]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2988507",
+        "type": "crm:E53_Place",
+        "label": "Paris",
+        "description": "Île-de-France, Paris, FR"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/oTSQVXuUPWN">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/oTSQVXuUPWN",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:42:54.999Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/lKHCC3SMsJz",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/lKHCC3SMsJz/selector/textPosition/jN1t0UAzhMq",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 50676,
+                "end": 50681,
+                "refinedBy": {
+                    "id": "/target/lKHCC3SMsJz/selector/textQuote/wn4bx3IQrOc",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Paris",
+                    "prefix": "",
+                    "suffix": " Seuil, 1975"
+                }
+            },
+            {
+                "id": "/target/lKHCC3SMsJz/selector/css/hXN8KUg1Tpr",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/oTSQVXuUPWN]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2988507",
+        "type": "crm:E53_Place",
+        "label": "Paris",
+        "description": "Île-de-France, Paris, FR"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/yRuKqazmm8b">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/yRuKqazmm8b",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:42:54.999Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/UtlBkGGY0Dc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/UtlBkGGY0Dc/selector/textPosition/SOcHd5pytiq",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 51181,
+                "end": 51186,
+                "refinedBy": {
+                    "id": "/target/UtlBkGGY0Dc/selector/textQuote/hpEpq8ZA3FR",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Paris",
+                    "prefix": "",
+                    "suffix": " La Société biblique, 1972"
+                }
+            },
+            {
+                "id": "/target/UtlBkGGY0Dc/selector/css/FK2AMKeHzd3",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/yRuKqazmm8b]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2988507",
+        "type": "crm:E53_Place",
+        "label": "Paris",
+        "description": "Île-de-France, Paris, FR"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/9r3BAQKJSSb">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/9r3BAQKJSSb",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:48:25.559Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/aelbnMNdSeb",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/aelbnMNdSeb/selector/textPosition/KlFzaM38Ab1",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6985,
+                "end": 6995,
+                "refinedBy": {
+                    "id": "/target/aelbnMNdSeb/selector/textQuote/xkAE3uBIygy",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Magdebourg",
+                    "prefix": "\n                    \n                \n                \n                    Une enfance berlinoise : l’enfant et le père écrivain\n                    \n                        \n                            Bien qu’Andersen soit née à",
+                    "suffix": " petite ville proche de Berlin, c’est Berlin, où elle emménage avec sa famille à l’âge de quatre ans, qui incarne surtout le lieu de son enfance"
+                }
+            },
+            {
+                "id": "/target/aelbnMNdSeb/selector/css/zNAgU3TmU30",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/9r3BAQKJSSb]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2874545",
+        "type": "crm:E53_Place",
+        "label": "Magdeburg",
+        "description": "Saxony-Anhalt, DE"
     },
     "P2_has_type": [
         "oa:identifying"
