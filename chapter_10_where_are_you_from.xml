@@ -448,7 +448,7 @@
                             </note>. Dans ces autofictions, le <q>pacte autobiographique</q>
                             <note place="inline">
                                 <bibl>Lejeune</bibl>
-                            </note> est scellé par le nom propre — parfois, il est vrai, de façon indirecte. Ainsi, dans <title level="m">Bleu sur blanc</title>, <title level="m">Parallèles</title>, <title level="m">Le figuier sur le toit</title> et <title level="m">La vie devant elles</title>, la protagoniste s’appelle Marguerite; <ref target="#intertextuality">dans <title level="m">De mémoire de femme</title>, comme le remarque Lucie Hotte, le nom d’Anne Grimm établit de façon ludique un lien entre les frères allemands, conteurs renommés, et l’auteur danois Hans Christian Andersen, qui porte le même nom que l’écrivaine <note place="inline">
+                            </note> est scellé par le nom propre — parfois, il est vrai, de façon indirecte. Ainsi, dans <title level="m">Bleu sur blanc</title>, <title level="m">Parallèles</title>, <title level="m">Le figuier sur le toit</title> et <title level="m">La vie devant elles</title>, la protagoniste s’appelle <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/zQ37tZDxAqc">Marguerite</persName>; <ref target="#intertextuality">dans <title level="m">De mémoire de femme</title>, comme le remarque Lucie Hotte, le nom d’Anne Grimm établit de façon ludique un lien entre les frères allemands, conteurs renommés, et l’auteur danois Hans Christian Andersen, qui porte le même nom que l’écrivaine <note place="inline">
                                     <bibl>Hotte 11</bibl>
                                 </note>
                             </ref>. <ref target="#theme_or_topic">
@@ -7516,6 +7516,95 @@
         "P2_has_type": [
             "edit:modeReal"
         ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/zQ37tZDxAqc">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/zQ37tZDxAqc",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:38:48.168Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Da6OMOBgU0k",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Da6OMOBgU0k/selector/textPosition/CwUSvb1kc7L",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 3321,
+                "end": 3331,
+                "refinedBy": {
+                    "id": "/target/Da6OMOBgU0k/selector/textQuote/ywPPFKKTztY",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Marguerite",
+                    "prefix": " Ainsi, dans Bleu sur blanc, Parallèles, Le figuier sur le toit et La vie devant elles, la protagoniste s’appelle",
+                    "suffix": " dans De mémoire de femme, comme le remarque Lucie Hotte, le nom d’Anne Grimm établit de façon ludique un lien entre les frères allemands, conteurs renommés, et l’auteur danois Hans Christian Andersen, qui porte le même nom que l’écrivaine \n                                    Hotte 11\n                                \n                            "
+                }
+            },
+            {
+                "id": "/target/Da6OMOBgU0k/selector/css/lhn3LYTpy8d",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/zQ37tZDxAqc]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/49233891",
+        "type": "crm:E21_Person",
+        "label": "Andersen, Marguerite, 1924-2022",
+        "description": "Andersen, Marguerite, 1924-"
     },
     "P2_has_type": [
         "oa:identifying"
