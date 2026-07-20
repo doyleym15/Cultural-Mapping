@@ -480,7 +480,7 @@
                         <ref target="#spatiality">
                             <ref target="#childhood">Bien qu’Andersen soit née à Magdebourg, petite ville proche de <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/mufCTTVWoP0">Berlin</placeName>, c’est <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/1AQs2b9xA0D">Berlin</placeName>, où elle emménage avec sa famille à l’âge de quatre ans, qui incarne surtout le lieu de son enfance</ref>. D’ailleurs, dans <title level="m">Parallèles</title>, la narratrice a <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/dV2kcvLHPoK">Berlin</placeName> comme lieu de naissance <note place="inline">
                                 <bibl>19</bibl>
-                            </note>. Ses parents y côtoient des intellectuels, des artistes et des scientifiques. On pourrait même dire qu’elle vient au monde par l’intermédiaire de l’écriture de son père, Theo, lui-même auteur à tendance autofictionnelle. <ref target="#genre_fiction">Celui-ci raconte la naissance de sa fille dans son roman <title level="m" xml:lang="de-DE">Das Licht und sein Schatten</title> (<title level="m">La lumière et son ombre</title>) publié en 1937</ref>
+                            </note>. Ses parents y côtoient des intellectuels, des artistes et des scientifiques. On pourrait même dire qu’elle vient au monde par l’intermédiaire de l’écriture de son père, <persName key="Bohner, Theodor, 1882-1963" ref="http://viaf.org/viaf/194237270" ana="webannotation:http://temp.lincsproject.ca/CEBuMzhFAes">Theo</persName>, lui-même auteur à tendance autofictionnelle. <ref target="#genre_fiction">Celui-ci raconte la naissance de sa fille dans son roman <title level="m" xml:lang="de-DE">Das Licht und sein Schatten</title> (<title level="m">La lumière et son ombre</title>) publié en 1937</ref>
                             <note xml:id="n87" place="end">Pour satisfaire aux exigences de ce que <persName key="Robin, Régine, 1939-2021" ref="http://viaf.org/viaf/36923835" ana="webannotation:http://temp.lincsproject.ca/ZAgJAo7riy0">Robin</persName> appelle la mémoire savante, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/f0KaNJbZQpl">Andersen</persName> inclut en annexe dans <title level="m">Le figuier sur le toit</title> la bibliographie des œuvres de son père.</note>. <ref target="#genre_lifeWriting">Que la protagoniste et sa sœur Emma s’identifient toutes deux à ce nouveau-né souligne le caractère équivoque de l’écriture autofictionnelle</ref>
                             <note place="inline">
                                 <bibl>
@@ -509,7 +509,7 @@
                                         <bibl>
                                             <title level="m">Mémoire</title> 42</bibl>
                                     </note>
-                                </ref>. <ref target="#spatiality">Ce paradis fantasmé est celui du bonheur enfantin et innocent, qui ignore les conflits et les infidélités des parents dans la vie mondaine de <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/U9we7CTJdc6">Berlin</placeName>. Lorsque le père exige de la mère la vente de la maison d’été de Ahrensoop, territoire du grand-père et du beau-frère <ref target="#violence">antisémites</ref>, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/PfvE0rcutlQ">Marguerite</persName> se sent expulsée du paradis : <q>Il fallait que quelqu’un me chasse de mon paradis, Theo, le dieu de mon enfance, était prédestiné à ce rôle rien que par son nom</q>
+                                </ref>. <ref target="#spatiality">Ce paradis fantasmé est celui du bonheur enfantin et innocent, qui ignore les conflits et les infidélités des parents dans la vie mondaine de <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/U9we7CTJdc6">Berlin</placeName>. Lorsque le père exige de la mère la vente de la maison d’été de Ahrensoop, territoire du grand-père et du beau-frère <ref target="#violence">antisémites</ref>, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/PfvE0rcutlQ">Marguerite</persName> se sent expulsée du paradis : <q>Il fallait que quelqu’un me chasse de mon paradis, <persName key="Bohner, Theodor, 1882-1963" ref="http://viaf.org/viaf/194237270" ana="webannotation:http://temp.lincsproject.ca/bmzy0NGvQvH">Theo</persName>, le dieu de mon enfance, était prédestiné à ce rôle rien que par son nom</q>
                                     <note place="inline">
                                         <bibl>
                                             <title level="m">Figuier</title> 105</bibl>
@@ -878,7 +878,7 @@
                         <bibl>Hotte, Lucie. <title level="a">Préface : L’écriture et la vie</title>. <title level="m">De mémoire de femme</title>. <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/8IpFEjeMDoh">Marguerite Andersen</persName>. Édition revue et corrigée, <hi rend="small-caps">bcf</hi>. Ottawa: L’Interligne, 2002. 7-12.</bibl>
                         <bibl>Lejeune, Philippe. <title level="m">Le pacte autobiographique</title>. Paris: Seuil, 1975.</bibl>
                         <bibl>Paré, François. <title level="a">Souveraineté et détournement du regard dans les nouvelles de Marguerite Andersen</title>. <title level="j" xml:lang="en-CA">University of Toronto Quarterly</title> 68.4 (automne 1999): 823-34.</bibl>
-                        <bibl>Robin, Régine. <title level="m">Le roman mémoriel : de l’histoire à l’écriture du hors-lieu</title>. Montréal: Le Préambule, 1989.</bibl>
+                        <bibl><persName key="Robin, Régine, 1939-2021" ref="http://viaf.org/viaf/36923835" ana="webannotation:http://temp.lincsproject.ca/XUm4nbRwAxj">Robin</persName>, Régine. <title level="m">Le roman mémoriel : de l’histoire à l’écriture du hors-lieu</title>. Montréal: Le Préambule, 1989.</bibl>
                         <bibl>
                             <title level="m">La Sainte Bible</title>. Traduite d’après les textes originaux hébreu et grec par Louis Segond. Édition revue avec références. Paris: La Société biblique, 1972.</bibl>
                         <bibl>Tennier, Julie. <title level="a"><persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/mk2tW4iN4jl">Marguerite Andersen</persName> et le moi en l’absence de l’autre : <title level="m">De mémoire de femme</title>
@@ -9586,6 +9586,184 @@
 				
 </rdf:Description>
 				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/CEBuMzhFAes">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/CEBuMzhFAes",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T15:10:19.578Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/v27yVXoylvu",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/v27yVXoylvu/selector/textPosition/7esv1r4RHFs",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 7453,
+                "end": 7457,
+                "refinedBy": {
+                    "id": "/target/v27yVXoylvu/selector/textQuote/SCi15E5JEc6",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Theo",
+                    "prefix": " On pourrait même dire qu’elle vient au monde par l’intermédiaire de l’écriture de son père,",
+                    "suffix": " lui-même auteur à tendance autofictionnelle"
+                }
+            },
+            {
+                "id": "/target/v27yVXoylvu/selector/css/uHBapFmjbzm",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/CEBuMzhFAes]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/194237270",
+        "type": "crm:E21_Person",
+        "label": "Bohner, Theodor, 1882-1963",
+        "description": "Bohner, Theodor"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/bmzy0NGvQvH">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/bmzy0NGvQvH",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T15:10:19.659Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/JJzlfXETfSf",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/JJzlfXETfSf/selector/textPosition/wW5fEz6bKmw",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 10728,
+                "end": 10732,
+                "refinedBy": {
+                    "id": "/target/JJzlfXETfSf/selector/textQuote/pAUeh0H0Szy",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Theo",
+                    "prefix": " Lorsque le père exige de la mère la vente de la maison d’été de Ahrensoop, territoire du grand-père et du beau-frère antisémites, Marguerite se sent expulsée du paradis : Il fallait que quelqu’un me chasse de mon paradis,",
+                    "suffix": " le dieu de mon enfance, était prédestiné à ce rôle rien que par son nom\n                                    \n                                        \n                                            Figuier 105\n                                    \n                                "
+                }
+            },
+            {
+                "id": "/target/JJzlfXETfSf/selector/css/tGFptb8HjkU",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/bmzy0NGvQvH]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/194237270",
+        "type": "crm:E21_Person",
+        "label": "Bohner, Theodor, 1882-1963",
+        "description": "Bohner, Theodor"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ZAgJAo7riy0">
 <![CDATA[{
     "@context": [
@@ -9659,6 +9837,95 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/ZAgJAo7riy0]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/36923835",
+        "type": "crm:E21_Person",
+        "label": "Robin, Régine, 1939-2021",
+        "description": "Robin, Régine, 1939-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/XUm4nbRwAxj">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/XUm4nbRwAxj",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T15:09:43.824Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/86dAbyb2nJj",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/86dAbyb2nJj/selector/textPosition/7JnZD8jEN4w",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 50903,
+                "end": 50908,
+                "refinedBy": {
+                    "id": "/target/86dAbyb2nJj/selector/textQuote/cnXwnNv1fEp",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Robin",
+                    "prefix": "\n                       ",
+                    "suffix": " Régine"
+                }
+            },
+            {
+                "id": "/target/86dAbyb2nJj/selector/css/zL1zoKayQlt",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/XUm4nbRwAxj]"
             }
         ]
     },
