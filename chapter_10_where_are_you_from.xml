@@ -467,7 +467,7 @@
                     </ref>
                 </p>
                 <p xml:id="p1363">
-                    <ref target="#spatiality">Chaque ville représente une nouvelle étape dans sa vie. <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/PyfjXrjXNRM">Berlin</placeName>, ville qui inspire culpabilité et honte à <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/xeuTwROkIYQ">Andersen</persName>, est également le lieu privilégié de son père, <persName key="Bohner, Theodor, 1882-1963" ref="http://viaf.org/viaf/194237270" ana="webannotation:http://temp.lincsproject.ca/uEyRNbjfEZ5" type="real" cert="high">Theodor Werner Bohner</persName>, <ref target="#religion">fils d’un missionnaire luthérien</ref>, ancien député au <hi rend="italic" xml:lang="de-DE">Landtag</hi>, romancier, biographe et essayiste, qui constitue à la fois un rival et une source d’inspiration. <ref target="#nationality"><placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/wIujyZskIwU">Londres</placeName> est le lieu d’une évasion désespérée à la fin de la guerre pour sa famille, qui possède des passeports britanniques grâce à la naissance du père au Ghana. Marguerite perd sa citoyenneté allemande en se mariant à un soldat français qu’elle accompagne à <placeName key="Tunis" ref="https://sws.geonames.org/2464470" ana="webannotation:http://temp.lincsproject.ca/KsYKe9Ou8d9">Tunis</placeName> : <q>J’avais rencontré un Français, jeune officier, j’allais l’épouser… L’amour? Au fond, je m’échappais, personne déplacée parmi tant d’autres</q>
+                    <ref target="#spatiality">Chaque ville représente une nouvelle étape dans sa vie. <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/PyfjXrjXNRM">Berlin</placeName>, ville qui inspire culpabilité et honte à <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/xeuTwROkIYQ">Andersen</persName>, est également le lieu privilégié de son père, <persName key="Bohner, Theodor, 1882-1963" ref="http://viaf.org/viaf/194237270" ana="webannotation:http://temp.lincsproject.ca/uEyRNbjfEZ5" type="real" cert="high">Theodor Werner Bohner</persName>, <ref target="#religion">fils d’un missionnaire luthérien</ref>, ancien député au <hi rend="italic" xml:lang="de-DE">Landtag</hi>, romancier, biographe et essayiste, qui constitue à la fois un rival et une source d’inspiration. <ref target="#nationality"><placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/wIujyZskIwU">Londres</placeName> est le lieu d’une évasion désespérée à la fin de la guerre pour sa famille, qui possède des passeports britanniques grâce à la naissance du père au <placeName key="Ghana" ref="https://sws.geonames.org/2300660" ana="webannotation:http://temp.lincsproject.ca/7b0QWZudTbP">Ghana</placeName>. Marguerite perd sa citoyenneté allemande en se mariant à un soldat français qu’elle accompagne à <placeName key="Tunis" ref="https://sws.geonames.org/2464470" ana="webannotation:http://temp.lincsproject.ca/KsYKe9Ou8d9">Tunis</placeName> : <q>J’avais rencontré un Français, jeune officier, j’allais l’épouser… L’amour? Au fond, je m’échappais, personne déplacée parmi tant d’autres</q>
                             <note place="inline">
                                 <bibl>
                                     <title level="m">Bleu sur blanc</title> 17</bibl>
@@ -10827,6 +10827,95 @@
     "P2_has_type": [
         "oa:identifying",
         "edit:certaintyHigh"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/7b0QWZudTbP">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/7b0QWZudTbP",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:42:43.204Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/RazwLyU4OAA",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/RazwLyU4OAA/selector/textPosition/KPJ2OXxprAX",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5525,
+                "end": 5530,
+                "refinedBy": {
+                    "id": "/target/RazwLyU4OAA/selector/textQuote/ThlbZB6zEGz",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ghana",
+                    "prefix": " Londres est le lieu d’une évasion désespérée à la fin de la guerre pour sa famille, qui possède des passeports britanniques grâce à la naissance du père au",
+                    "suffix": " Marguerite perd sa citoyenneté allemande en se mariant à un soldat français qu’elle accompagne à Tunis : J’avais rencontré un Français, jeune officier, j’allais l’épouser… L’amour? Au fond, je m’échappais, personne déplacée parmi tant d’autres\n                            \n                                \n                                    Bleu sur blanc 17\n                            "
+                }
+            },
+            {
+                "id": "/target/RazwLyU4OAA/selector/css/2mrBOrHnivH",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/7b0QWZudTbP]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2300660",
+        "type": "crm:E53_Place",
+        "label": "Ghana",
+        "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
     ]
 }]]>
 				
