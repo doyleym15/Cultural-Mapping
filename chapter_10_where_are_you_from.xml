@@ -727,7 +727,7 @@
                                         <bibl>
                                             <title level="m">Mémoire</title> 32</bibl>
                                     </note>
-                                </ref>. <ref target="#response_formal">D’ailleurs, comme le remarque François Paré dans une étude sur les nouvelles d’Andersen, on retrouve chez cette auteure un <q>refus de la ville anglophone</q>
+                                </ref>. <ref target="#response_formal">D’ailleurs, comme le remarque <persName key="Paré, François, 1949-" ref="http://viaf.org/viaf/66577014" ana="webannotation:http://temp.lincsproject.ca/zGP8kO4NpeF">François Paré</persName> dans une étude sur les nouvelles d’Andersen, on retrouve chez cette auteure un <q>refus de la ville anglophone</q>
                                     <note place="inline">
                                         <bibl>825</bibl>
                                     </note>, une tendance à transformer <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/Z4WV1jWDbfP">Toronto</placeName> en un espace <q>où la plupart des habitants portent des noms et des prénoms français et fréquentent des lieux appartenant clairement à la communauté francophone</q>
@@ -11462,6 +11462,95 @@
         "type": "crm:E21_Person",
         "label": "Harel, Simon, 1957-....",
         "description": "Harel, Simon"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/zGP8kO4NpeF">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/zGP8kO4NpeF",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T15:48:48.735Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/eT1w79mmwFk",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/eT1w79mmwFk/selector/textPosition/lB2KImiPiL0",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 33015,
+                "end": 33028,
+                "refinedBy": {
+                    "id": "/target/eT1w79mmwFk/selector/textQuote/LMmYXcLXl8Q",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "François Paré",
+                    "prefix": " D’ailleurs, comme le remarque",
+                    "suffix": "dans une étude sur les nouvelles d’Andersen, on retrouve chez cette auteure un refus de la ville anglophone\n                                    \n                                        825\n                                    , une tendance à transformer Toronto en un espace où la plupart des habitants portent des noms et des prénoms français et fréquentent des lieux appartenant clairement à la communauté francophone\n                                    \n                                        825\n                                    \n                                "
+                }
+            },
+            {
+                "id": "/target/eT1w79mmwFk/selector/css/bhC38EAJaoE",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/zGP8kO4NpeF]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/66577014",
+        "type": "crm:E21_Person",
+        "label": "Paré, François, 1949-",
+        "description": "Paré, François"
     },
     "P2_has_type": [
         "oa:identifying"
