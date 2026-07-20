@@ -440,7 +440,7 @@
                         <ref target="#intellectual_history">Née en 1924, auteure et éditrice <ref target="#nationality">franco-ontarienne</ref>, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/rTxuKbqAut2">Marguerite Andersen</persName> est venue à l’écriture de fiction à l’âge de cinquante-trois ans, mariant cette nouvelle carrière à celle de professeure de littérature française.</ref>
                         <ref target="#recognitions">Elle fait son entrée sur la scène littéraire en 1982 avec <ref target="#genre_lifeWriting">
                                 <title level="m">De mémoire de femme</title>, <q>récit en partie autobiographique</q>
-                            </ref> pour lequel elle reçoit le Prix du Journal de Montréal. Grande admiratrice de Simone de Beauvoir et de ses œuvres autobiographiques, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/wzdy3FxlIzi">Andersen</persName> récidive en littérature intime avec <ref target="#genre_poetry">la prose poétique <title level="m">Bleu sur blanc</title>
+                            </ref> pour lequel elle reçoit le Prix du Journal de Montréal. Grande admiratrice de Simone de Beauvoir et de ses œuvres autobiographiques, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/wzdy3FxlIzi" type="real">Andersen</persName> récidive en littérature intime avec <ref target="#genre_poetry">la prose poétique <title level="m">Bleu sur blanc</title>
                             </ref> en 2000, avec <ref target="#genre_fiction">la fiction documentaire <title level="m">Parallèles</title>
                             </ref> en 2004 et avec <ref target="#genre_fiction">le roman <title level="m">Le figuier sur le toit</title>
                             </ref>, pour lequel elle reçoit le Prix Trillium en 2008</ref>. <ref target="#genre_lifeWriting">Dans l’avant-propos de <title level="m">La vie devant elles</title>, paru en 2011, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/ZMTa8epIi6D">Andersen</persName> se présente comme <q>écrivaine à tendance autofictionnelle</q> mais précise que, dans cet ouvrage, elle construit plutôt <q>trois récits biofictionnels</q> à partir de la vie de ses six petites-filles <note place="inline">
@@ -467,11 +467,11 @@
                     </ref>
                 </p>
                 <p xml:id="p1363">
-                    <ref target="#spatiality">Chaque ville représente une nouvelle étape dans sa vie. <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/PyfjXrjXNRM">Berlin</placeName>, ville qui inspire culpabilité et honte à Andersen, est également le lieu privilégié de son père, Theodor Werner Bohner, <ref target="#religion">fils d’un missionnaire luthérien</ref>, ancien député au <hi rend="italic" xml:lang="de-DE">Landtag</hi>, romancier, biographe et essayiste, qui constitue à la fois un rival et une source d’inspiration. <ref target="#nationality">Londres est le lieu d’une évasion désespérée à la fin de la guerre pour sa famille, qui possède des passeports britanniques grâce à la naissance du père au Ghana. Marguerite perd sa citoyenneté allemande en se mariant à un soldat français qu’elle accompagne à Tunis : <q>J’avais rencontré un Français, jeune officier, j’allais l’épouser… L’amour? Au fond, je m’échappais, personne déplacée parmi tant d’autres</q>
+                    <ref target="#spatiality">Chaque ville représente une nouvelle étape dans sa vie. <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/PyfjXrjXNRM">Berlin</placeName>, ville qui inspire culpabilité et honte à <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/xeuTwROkIYQ">Andersen</persName>, est également le lieu privilégié de son père, Theodor Werner Bohner, <ref target="#religion">fils d’un missionnaire luthérien</ref>, ancien député au <hi rend="italic" xml:lang="de-DE">Landtag</hi>, romancier, biographe et essayiste, qui constitue à la fois un rival et une source d’inspiration. <ref target="#nationality">Londres est le lieu d’une évasion désespérée à la fin de la guerre pour sa famille, qui possède des passeports britanniques grâce à la naissance du père au Ghana. Marguerite perd sa citoyenneté allemande en se mariant à un soldat français qu’elle accompagne à Tunis : <q>J’avais rencontré un Français, jeune officier, j’allais l’épouser… L’amour? Au fond, je m’échappais, personne déplacée parmi tant d’autres</q>
                             <note place="inline">
                                 <bibl>
                                     <title level="m">Bleu sur blanc</title> 17</bibl>
-                            </note>.</ref> Divorcée, elle s’évade à Montréal, où elle poursuit une carrière universitaire exigeante et mène une vie privée déchirante. Paris, ville-lumière et lieu de congé sabbatique, lui offre brièvement le temps et le loisir pour la création littéraire. C’est pourtant <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/QiBiFmlNlcM">Toronto</placeName> qu’Andersen présente comme le lieu privilégié non seulement de l’écriture mais aussi de la convivialité d’une communauté artistique, ville où elle participe au débuts de la Société des écrivain(e)s de Toronto ainsi que de l’Association des auteures et des auteurs de l’Ontario français. <ref target="#childhood">De <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/gaxo9iUbPn1">Berlin</placeName> à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/hI3a8MwXyjP">Toronto</placeName>, Andersen entreprend la quête difficile de se réconcilier avec une enfance vécue sous le régime nazi ainsi qu’avec le père écrivain et le paradis perdu de l’enfance, représenté dans l’œuvre comme le triangle sacré <hi rend="italic" xml:lang="de-DE">Vater, Mutter, Kind</hi> (père, mère, enfant).</ref>
+                            </note>.</ref> Divorcée, elle s’évade à Montréal, où elle poursuit une carrière universitaire exigeante et mène une vie privée déchirante. Paris, ville-lumière et lieu de congé sabbatique, lui offre brièvement le temps et le loisir pour la création littéraire. C’est pourtant <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/QiBiFmlNlcM">Toronto</placeName> qu’Andersen présente comme le lieu privilégié non seulement de l’écriture mais aussi de la convivialité d’une communauté artistique, ville où elle participe au débuts de la Société des écrivain(e)s de Toronto ainsi que de l’Association des auteures et des auteurs de l’Ontario français. <ref target="#childhood">De <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/gaxo9iUbPn1">Berlin</placeName> à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/hI3a8MwXyjP">Toronto</placeName>, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/n5CBqnYEKYx">Andersen</persName> entreprend la quête difficile de se réconcilier avec une enfance vécue sous le régime nazi ainsi qu’avec le père écrivain et le paradis perdu de l’enfance, représenté dans l’œuvre comme le triangle sacré <hi rend="italic" xml:lang="de-DE">Vater, Mutter, Kind</hi> (père, mère, enfant).</ref>
                     </ref>
                 </p>
                 <div type="section">
@@ -481,7 +481,7 @@
                             <ref target="#childhood">Bien qu’Andersen soit née à Magdebourg, petite ville proche de <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/mufCTTVWoP0">Berlin</placeName>, c’est <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/1AQs2b9xA0D">Berlin</placeName>, où elle emménage avec sa famille à l’âge de quatre ans, qui incarne surtout le lieu de son enfance</ref>. D’ailleurs, dans <title level="m">Parallèles</title>, la narratrice a <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/dV2kcvLHPoK">Berlin</placeName> comme lieu de naissance <note place="inline">
                                 <bibl>19</bibl>
                             </note>. Ses parents y côtoient des intellectuels, des artistes et des scientifiques. On pourrait même dire qu’elle vient au monde par l’intermédiaire de l’écriture de son père, Theo, lui-même auteur à tendance autofictionnelle. <ref target="#genre_fiction">Celui-ci raconte la naissance de sa fille dans son roman <title level="m" xml:lang="de-DE">Das Licht und sein Schatten</title> (<title level="m">La lumière et son ombre</title>) publié en 1937</ref>
-                            <note xml:id="n87" place="end">Pour satisfaire aux exigences de ce que Robin appelle la mémoire savante, Andersen inclut en annexe dans <title level="m">Le figuier sur le toit</title> la bibliographie des œuvres de son père.</note>. <ref target="#genre_lifeWriting">Que la protagoniste et sa sœur Emma s’identifient toutes deux à ce nouveau-né souligne le caractère équivoque de l’écriture autofictionnelle</ref>
+                            <note xml:id="n87" place="end">Pour satisfaire aux exigences de ce que Robin appelle la mémoire savante, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/f0KaNJbZQpl">Andersen</persName> inclut en annexe dans <title level="m">Le figuier sur le toit</title> la bibliographie des œuvres de son père.</note>. <ref target="#genre_lifeWriting">Que la protagoniste et sa sœur Emma s’identifient toutes deux à ce nouveau-né souligne le caractère équivoque de l’écriture autofictionnelle</ref>
                             <note place="inline">
                                 <bibl>
                                     <title level="m">Mémoire</title> 40</bibl>
@@ -491,7 +491,7 @@
                                 <bibl>
                                     <title level="m">Mémoire</title> 43</bibl>
                             </note>. <ref target="#intertextuality">
-                                <ref target="#gender_issue">Dans la version du père, la mère est déçue d’avoir eu une fille plutôt qu’un garçon, implorant le père de regarder de plus près pour bien vérifier le sexe de l’enfant, alors que le père n’en est pas trop inquiet, semble-t-il. Cette scène cruciale, Andersen la reprend dans plus d’une version <q>revue et corrigée par l’intéressée</q>
+                                <ref target="#gender_issue">Dans la version du père, la mère est déçue d’avoir eu une fille plutôt qu’un garçon, implorant le père de regarder de plus près pour bien vérifier le sexe de l’enfant, alors que le père n’en est pas trop inquiet, semble-t-il. Cette scène cruciale, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/5FH4bugtTvD">Andersen</persName> la reprend dans plus d’une version <q>revue et corrigée par l’intéressée</q>
                                     <note place="inline">
                                         <bibl>
                                             <title level="m">Mémoire</title> 41</bibl>; voir aussi <note place="inline">
@@ -661,7 +661,7 @@
                                             <title level="m">Mémoire</title> 82</bibl>
                                     </note>
                                 </ref>
-                            </ref>. Elle ne s’attarde pas non plus sur son activisme dans l’association des professeurs. Montréal est surtout le lieu de la culpabilité au féminin : dans <title level="m">De mémoire de femme</title>, <ref target="#representation_of_women">Andersen fait le portrait de la mère gagne-pain et de la femme amoureuse qui néglige son fils aîné et sa vieille mère infirme pour se dévouer à un mari difficile et à une carrière exigeante</ref>. <ref target="#voice_or_narration">Du point de vue du fils aîné, narrateur à son tour, Montréal est un espace dysphorique associé au souterrain. Il est relégué au sous-sol pour faire place à l’amant possessif de sa mère, un homme d’origine <ref target="#nationality">danoise</ref> qui deviendra son beau-père.</ref>
+                            </ref>. Elle ne s’attarde pas non plus sur son activisme dans l’association des professeurs. Montréal est surtout le lieu de la culpabilité au féminin : dans <title level="m">De mémoire de femme</title>, <ref target="#representation_of_women"><persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/dFIshCqZPMx">Andersen</persName> fait le portrait de la mère gagne-pain et de la femme amoureuse qui néglige son fils aîné et sa vieille mère infirme pour se dévouer à un mari difficile et à une carrière exigeante</ref>. <ref target="#voice_or_narration">Du point de vue du fils aîné, narrateur à son tour, Montréal est un espace dysphorique associé au souterrain. Il est relégué au sous-sol pour faire place à l’amant possessif de sa mère, un homme d’origine <ref target="#nationality">danoise</ref> qui deviendra son beau-père.</ref>
                             <ref target="#education">
                                 <ref target="#language">On envoie le fils en pensionnat pendant la semaine dans une école anglaise de banlieue</ref>
                             </ref>, près des raffineries de pétrole, et il s’agit pour lui carrément d’une descente en enfer : <q>Je ne vois pas que ces flammes sont celles de l’enfer, que le pasteur qui gère le pensionnat est l’ange des ténèbres</q>
@@ -675,7 +675,7 @@
                     </p>
                     <p xml:id="p1372">
                         <ref target="#spatiality">
-                            <ref target="#genre_lifeWriting">Il est à noter que dans <title level="m">La vie devant elles</title>, composé des récits biofictionnels de ses petits-enfants, Andersen construit une vision plus valorisante de Montréal</ref>. <ref target="#nationality">
+                            <ref target="#genre_lifeWriting">Il est à noter que dans <title level="m">La vie devant elles</title>, composé des récits biofictionnels de ses petits-enfants, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/nA6OZ2s6c0N">Andersen</persName> construit une vision plus valorisante de Montréal</ref>. <ref target="#nationality">
                                 <ref target="#education">Le fils de Marguerite se souvient de ses études universitaires</ref> et de la rencontre avec sa femme polonaise, Zosia, avec qui il crée lui-même une cellule familiale <hi rend="italic" xml:lang="de-DE">Vater, Mutter, Kind</hi>, quitte à se présenter comme français en taisant ses origines allemandes auprès de ses enfants et de ses amis</ref>. <ref target="#education">Montréal se présente sous un autre jour encore dans le récit de la petite-fille Claire, qui quitte Ottawa pour étudier à l’Université McGill</ref>. En tant que Franco-Ontarienne, elle perçoit Montréal plutôt comme une métropole culturelle en ébullition : <q>Mais Claire choisit d’étudier à McGill, comme tant de jeunes Franco-Ontariens ambitieux, à Montréal, comme le fera plus tard sa sœur Ariane. La grande ville, les deux langues, la culture, les arts aux courants multiples l’attirent</q>
                             <note place="inline">
                                 <bibl>
@@ -744,7 +744,7 @@
                             <ref target="#spatiality">Par exemple, lorsque Lucienne quitte Montréal et arrive à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/pd5kC65F8rI">Toronto</placeName>, elle est accueillie par une Anglaise qui l’envoie à l’église Sacré-Cœur, à l’angle des rues Sherbourne et Carlton. Pour Lucienne, <q>migrant[e] de l’intérieur</q>
                                 <note place="inline">
                                     <bibl>Harel 30</bibl>
-                                </note>, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/dX7LzXZot3Z">Toronto</placeName> représente un havre après sa vie au Québec, qui apparaît comme soumis aux valeurs patriarcales de l’Église catholique de l’époque. <ref target="#violence">À travers la vie de Lucienne, Andersen esquisse en effet le portrait d’une Église oppressive qui condamne les femmes aux grossesses fréquentes, ce qui épuise des femmes comme la mère de Lucienne, qui meurt dans un asile après un épisode de dépression post-partum.</ref> L’Église catholique parraine alors l’Institut des équipières sociales, dont Lucienne avait fait partie à Ottawa et à Montréal et qui impose aux pénitentes de marcher avec des fèves dans les souliers <q>pour s’empêcher de courir après le plaisir</q>
+                                </note>, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/dX7LzXZot3Z">Toronto</placeName> représente un havre après sa vie au Québec, qui apparaît comme soumis aux valeurs patriarcales de l’Église catholique de l’époque. <ref target="#violence">À travers la vie de Lucienne, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/iJeouPk5YFA">Andersen</persName> esquisse en effet le portrait d’une Église oppressive qui condamne les femmes aux grossesses fréquentes, ce qui épuise des femmes comme la mère de Lucienne, qui meurt dans un asile après un épisode de dépression post-partum.</ref> L’Église catholique parraine alors l’Institut des équipières sociales, dont Lucienne avait fait partie à Ottawa et à Montréal et qui impose aux pénitentes de marcher avec des fèves dans les souliers <q>pour s’empêcher de courir après le plaisir</q>
                                 <note place="inline">
                                     <bibl>
                                         <title level="m">Parallèles</title> 135</bibl>
@@ -763,7 +763,7 @@
                     </p>
                     <p xml:id="p1375">
                         <ref target="#spatiality">
-                            <ref target="genre_lifeWriting">Pour Andersen, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/AxD28Ia7iBB">Toronto</placeName> constitue donc un milieu privilégié de convivialité artistique. Dans <title level="m">Parallèles</title>, la narratrice Marguerite fait l’éloge des institutions culturelles francophones, par exemple du Prix Trillium en langue française, créé en 1994 (pour ceux qui ne peuvent participer pleinement à la version anglophone, créée en 1988), ou de l’Association des auteures et des auteurs de l’Ontario français, dont <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/JOS8ZDAwgmN">Marguerite Andersen</persName> a été présidente de 2000 à 2004. Elle parle également de son travail en tant qu’éditrice de la revue franco-ontarienne <title level="j">Virages</title> consacrée à la nouvelle. C’est par cette célébration des institutions littéraires franco-torontoises dont elle fait partie que Marguerite finit par rejoindre le père d’une façon positive. <ref target="#archive">Elle décrit dans <title level="m">Le figuier sur le toit</title> la boîte d’archives personnelles marquée <q>Famille</q> qu’elle a transportée jusqu’à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/keqvyI2DntT">Toronto</placeName> et dans laquelle elle conserve les documents de la société d’écrivains allemands dont son père avait été président avant le régime nazi</ref>. Écrivaine torontoise, elle retrouve alors un point de contact positif avec le père, écrivain berlinois :</ref>
+                            <ref target="genre_lifeWriting">Pour <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/WyrOHsVciTb">Andersen</persName>, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/AxD28Ia7iBB">Toronto</placeName> constitue donc un milieu privilégié de convivialité artistique. Dans <title level="m">Parallèles</title>, la narratrice Marguerite fait l’éloge des institutions culturelles francophones, par exemple du Prix Trillium en langue française, créé en 1994 (pour ceux qui ne peuvent participer pleinement à la version anglophone, créée en 1988), ou de l’Association des auteures et des auteurs de l’Ontario français, dont <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/JOS8ZDAwgmN">Marguerite Andersen</persName> a été présidente de 2000 à 2004. Elle parle également de son travail en tant qu’éditrice de la revue franco-ontarienne <title level="j">Virages</title> consacrée à la nouvelle. C’est par cette célébration des institutions littéraires franco-torontoises dont elle fait partie que Marguerite finit par rejoindre le père d’une façon positive. <ref target="#archive">Elle décrit dans <title level="m">Le figuier sur le toit</title> la boîte d’archives personnelles marquée <q>Famille</q> qu’elle a transportée jusqu’à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/keqvyI2DntT">Toronto</placeName> et dans laquelle elle conserve les documents de la société d’écrivains allemands dont son père avait été président avant le régime nazi</ref>. Écrivaine torontoise, elle retrouve alors un point de contact positif avec le père, écrivain berlinois :</ref>
                         </ref>
                     </p>
                     <q type="block">
@@ -784,7 +784,7 @@
                 <div type="section">
                     <head>La ville multiculturelle et le figuier déterré</head>
                     <p xml:id="p1377">
-                        <ref target="#spatiality"><placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/rjeoq622Tx2">Toronto</placeName>, tout en renvoyant, pour Andersen, au <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/q2QTzdloECf">Berlin</placeName> du père écrivain comme site urbain de l’institution littéraire, se démarque par un <hi rend="italic">zeitgeist</hi> qui contraste avec les idéaux de pureté ethnique et culturelle prônés par le grand-père Seeberg à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/aV7tJOBZEPF">Berlin</placeName> avant la <ref target="#history">Seconde Guerre mondiale</ref>. Dans cette optique, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/Fw5XVlhxPxz">Toronto</placeName> incarnerait la réussite de <ref target="#politics">la politique canadienne de multiculturalisme, dont l’idéologie demeure d’ailleurs fortement critiquée de nos jours</ref>. <ref target="#intertextuality">On pourrait dès lors se poser la question : est-ce qu’Andersen tombe dans le piège de ce que Daniel Coleman appelle la <q>civilité blanche</q> (<q>
+                        <ref target="#spatiality"><placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/rjeoq622Tx2">Toronto</placeName>, tout en renvoyant, pour <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/edAsAaPwaQC">Andersen</persName>, au <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/q2QTzdloECf">Berlin</placeName> du père écrivain comme site urbain de l’institution littéraire, se démarque par un <hi rend="italic">zeitgeist</hi> qui contraste avec les idéaux de pureté ethnique et culturelle prônés par le grand-père Seeberg à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/aV7tJOBZEPF">Berlin</placeName> avant la <ref target="#history">Seconde Guerre mondiale</ref>. Dans cette optique, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/Fw5XVlhxPxz">Toronto</placeName> incarnerait la réussite de <ref target="#politics">la politique canadienne de multiculturalisme, dont l’idéologie demeure d’ailleurs fortement critiquée de nos jours</ref>. <ref target="#intertextuality">On pourrait dès lors se poser la question : est-ce qu’Andersen tombe dans le piège de ce que Daniel Coleman appelle la <q>civilité blanche</q> (<q>
                                     <hi rend="italic" xml:lang="en-CA">white civility</hi>
                                 </q>) <note place="inline">
                                     <bibl>32-33</bibl>
@@ -798,7 +798,7 @@
                             </q>
                         </ref>. <ref target="#intertextuality">
                             <ref target="#violence">
-                                <ref target="#history">À l’instar de l’auteur anglo-allemand W.G. Sebald, entre autres, Andersen entreprend alors de révéler l’antisémitisme du grand-père Seeberg et de ses pairs, les atrocités de l’Holocauste et la culpabilité des <ref target="#nationality">Allemands</ref> témoins de toutes les brutalités imposées par le régime nazi ainsi que les effets dévastateurs de la guerre <note place="inline">
+                                <ref target="#history">À l’instar de l’auteur anglo-allemand W.G. Sebald, entre autres, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/EWcmCwbBPjo">Andersen</persName> entreprend alors de révéler l’antisémitisme du grand-père Seeberg et de ses pairs, les atrocités de l’Holocauste et la culpabilité des <ref target="#nationality">Allemands</ref> témoins de toutes les brutalités imposées par le régime nazi ainsi que les effets dévastateurs de la guerre <note place="inline">
                                         <bibl>
                                             <title level="m">Figuier</title> 196</bibl>
                                     </note>
@@ -845,7 +845,7 @@
                     <p xml:id="p1381">
                         <ref target="#spatiality">
                             <ref target="#voice_or_narration">
-                                <ref target="#history">L’écrivaine a finalement réussi, en regardant en face son passé et en affrontant l’angoisse liée à ses souvenirs du régime nazi, à s’adonner à la création littéraire et à jouir de la convivialité d’une communauté artistique. À <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/qU0wWGzYqRg">Toronto</placeName>, où elle demeure fortement impliquée dans l’émergence d’institutions littéraires franco-ontariennes, Andersen réussit à régler ses comptes avec le père berlinois, à lui rendre hommage en tant qu’écrivain tout en acceptant ses faiblesses en tant qu’être humain. Elle a pu y affronter avec lucidité, grâce à l’écriture mémorielle, son passé empreint de culpabilité. Le figuier mort rappelle ce passé honteux, examiné et présenté au lecteur en guise de témoignage. Déterrer l’arbre est un geste de libération personnelle.</ref>
+                                <ref target="#history">L’écrivaine a finalement réussi, en regardant en face son passé et en affrontant l’angoisse liée à ses souvenirs du régime nazi, à s’adonner à la création littéraire et à jouir de la convivialité d’une communauté artistique. À <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/qU0wWGzYqRg">Toronto</placeName>, où elle demeure fortement impliquée dans l’émergence d’institutions littéraires franco-ontariennes, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/0H6d26lcLK0">Andersen</persName> réussit à régler ses comptes avec le père berlinois, à lui rendre hommage en tant qu’écrivain tout en acceptant ses faiblesses en tant qu’être humain. Elle a pu y affronter avec lucidité, grâce à l’écriture mémorielle, son passé empreint de culpabilité. Le figuier mort rappelle ce passé honteux, examiné et présenté au lecteur en guise de témoignage. Déterrer l’arbre est un geste de libération personnelle.</ref>
                             </ref>
                         </ref>
                     </p>
@@ -866,7 +866,7 @@
                 <div type="section">
                     <head>Bibliographie</head>
                     <listBibl>
-                        <bibl>Andersen, Marguerite. <title level="a" xml:lang="en-CA">Autobiography: Tightrope Across the Search for Understanding</title>. <title level="j" xml:lang="en-CA">Institut Simone de Beauvoir Institute Review/<hi xml:lang="fr-FR">Revue</hi>
+                        <bibl><persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/BxHsDhMxvzA">Andersen</persName>, Marguerite. <title level="a" xml:lang="en-CA">Autobiography: Tightrope Across the Search for Understanding</title>. <title level="j" xml:lang="en-CA">Institut Simone de Beauvoir Institute Review/<hi xml:lang="fr-FR">Revue</hi>
                             </title> 18-19 (2000): 113-28.</bibl>
                         <bibl>. <title level="m">Bleu sur blanc</title>. Sudbury, ON: Prise de parole, 2000.</bibl>
                         <bibl>. <title level="m">De mémoire de femme</title>. Montréal: Quinze, 1982. Nouvelle édition revue et corrigée, <hi rend="small-caps">bcf</hi>, Ottawa: L’Interligne, 2002.</bibl>
@@ -6224,7 +6224,10 @@
         "id": "http://viaf.org/viaf/49233891",
         "type": "crm:E21_Person",
         "label": "Andersen, Marguerite, 1924-2022",
-        "description": "Andersen, Marguerite, 1924-"
+        "description": "Andersen, Marguerite, 1924-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -6313,7 +6316,10 @@
         "id": "http://viaf.org/viaf/49233891",
         "type": "crm:E21_Person",
         "label": "Andersen, Marguerite, 1924-2022",
-        "description": "Andersen, Marguerite, 1924-"
+        "description": "Andersen, Marguerite, 1924-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -6402,7 +6408,1114 @@
         "id": "http://viaf.org/viaf/49233891",
         "type": "crm:E21_Person",
         "label": "Andersen, Marguerite, 1924-2022",
-        "description": "Andersen, Marguerite, 1924-"
+        "description": "Andersen, Marguerite, 1924-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/xeuTwROkIYQ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/xeuTwROkIYQ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:38:21.461Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/mWJvHSG9l8B",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/mWJvHSG9l8B/selector/textPosition/8LWD6JO24WZ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5133,
+                "end": 5141,
+                "refinedBy": {
+                    "id": "/target/mWJvHSG9l8B/selector/textQuote/qNgF9142fgd",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Andersen",
+                    "prefix": " Berlin, ville qui inspire culpabilité et honte à",
+                    "suffix": " est également le lieu privilégié de son père, Theodor Werner Bohner, fils d’un missionnaire luthérien, ancien député au Landtag, romancier, biographe et essayiste, qui constitue à la fois un rival et une source d’inspiration"
+                }
+            },
+            {
+                "id": "/target/mWJvHSG9l8B/selector/css/MIuxJgpXCQF",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/xeuTwROkIYQ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/49233891",
+        "type": "crm:E21_Person",
+        "label": "Andersen, Marguerite, 1924-2022",
+        "description": "Andersen, Marguerite, 1924-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/n5CBqnYEKYx">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/n5CBqnYEKYx",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:38:21.461Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/aizZdFbL9pw",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/aizZdFbL9pw/selector/textPosition/ZYKdh4S2Kyr",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6499,
+                "end": 6507,
+                "refinedBy": {
+                    "id": "/target/aizZdFbL9pw/selector/textQuote/uygjQKLPnDQ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Andersen",
+                    "prefix": " De Berlin à Toronto,",
+                    "suffix": "entreprend la quête difficile de se réconcilier avec une enfance vécue sous le régime nazi ainsi qu’avec le père écrivain et le paradis perdu de l’enfance, représenté dans l’œuvre comme le triangle sacré Vater, Mutter, Kind (père, mère, enfant)"
+                }
+            },
+            {
+                "id": "/target/aizZdFbL9pw/selector/css/bob6eqlaRT4",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/n5CBqnYEKYx]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/49233891",
+        "type": "crm:E21_Person",
+        "label": "Andersen, Marguerite, 1924-2022",
+        "description": "Andersen, Marguerite, 1924-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/f0KaNJbZQpl">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/f0KaNJbZQpl",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:38:21.462Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/geQhQhcmO95",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/geQhQhcmO95/selector/textPosition/vozc3k6SlMt",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 7732,
+                "end": 7740,
+                "refinedBy": {
+                    "id": "/target/geQhQhcmO95/selector/textQuote/8zJe2t6q14H",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Andersen",
+                    "prefix": " Celui-ci raconte la naissance de sa fille dans son roman Das Licht und sein Schatten (La lumière et son ombre) publié en 1937\n                            Pour satisfaire aux exigences de ce que Robin appelle la mémoire savante,",
+                    "suffix": "inclut en annexe dans Le figuier sur le toit la bibliographie des œuvres de son père"
+                }
+            },
+            {
+                "id": "/target/geQhQhcmO95/selector/css/PzzIFOiAGz9",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/f0KaNJbZQpl]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/49233891",
+        "type": "crm:E21_Person",
+        "label": "Andersen, Marguerite, 1924-2022",
+        "description": "Andersen, Marguerite, 1924-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/5FH4bugtTvD">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/5FH4bugtTvD",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:38:21.462Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/oTIAa1IyVxM",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/oTIAa1IyVxM/selector/textPosition/krjUZFoFPaX",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 8723,
+                "end": 8731,
+                "refinedBy": {
+                    "id": "/target/oTIAa1IyVxM/selector/textQuote/qjEc4IZwOgC",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Andersen",
+                    "prefix": " Cette scène cruciale,",
+                    "suffix": "la reprend dans plus d’une version revue et corrigée par l’intéressée\n                                    \n                                        \n                                            Mémoire 41; voir aussi \n                                            \n                                                Parallèles 40-41\n                                        \n                                    \n                                "
+                }
+            },
+            {
+                "id": "/target/oTIAa1IyVxM/selector/css/n1kx1QUhT8L",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/5FH4bugtTvD]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/49233891",
+        "type": "crm:E21_Person",
+        "label": "Andersen, Marguerite, 1924-2022",
+        "description": "Andersen, Marguerite, 1924-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/dFIshCqZPMx">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/dFIshCqZPMx",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:38:21.462Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/guTNwKtVkGL",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/guTNwKtVkGL/selector/textPosition/qCi1jb0PrlN",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 25139,
+                "end": 25147,
+                "refinedBy": {
+                    "id": "/target/guTNwKtVkGL/selector/textQuote/keTeiM9jvzW",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Andersen",
+                    "prefix": " Montréal est surtout le lieu de la culpabilité au féminin : dans De mémoire de femme,",
+                    "suffix": "fait le portrait de la mère gagne-pain et de la femme amoureuse qui néglige son fils aîné et sa vieille mère infirme pour se dévouer à un mari difficile et à une carrière exigeante"
+                }
+            },
+            {
+                "id": "/target/guTNwKtVkGL/selector/css/5gP39FcfaUW",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/dFIshCqZPMx]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/49233891",
+        "type": "crm:E21_Person",
+        "label": "Andersen, Marguerite, 1924-2022",
+        "description": "Andersen, Marguerite, 1924-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/nA6OZ2s6c0N">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/nA6OZ2s6c0N",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:38:21.462Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/fYBWGQIRooi",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/fYBWGQIRooi/selector/textPosition/d1ZNBvU4UJL",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 27284,
+                "end": 27292,
+                "refinedBy": {
+                    "id": "/target/fYBWGQIRooi/selector/textQuote/0Mdvsblqd4U",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Andersen",
+                    "prefix": "\n                    \n                    \n                        \n                            Il est à noter que dans La vie devant elles, composé des récits biofictionnels de ses petits-enfants,",
+                    "suffix": "construit une vision plus valorisante de Montréal"
+                }
+            },
+            {
+                "id": "/target/fYBWGQIRooi/selector/css/NzCP1agGNHS",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/nA6OZ2s6c0N]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/49233891",
+        "type": "crm:E21_Person",
+        "label": "Andersen, Marguerite, 1924-2022",
+        "description": "Andersen, Marguerite, 1924-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/iJeouPk5YFA">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/iJeouPk5YFA",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:38:21.462Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ODsaH1DuvWP",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ODsaH1DuvWP/selector/textPosition/Q8Ngrrft8Ni",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 34625,
+                "end": 34633,
+                "refinedBy": {
+                    "id": "/target/ODsaH1DuvWP/selector/textQuote/ocaDn8VZYUv",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Andersen",
+                    "prefix": " À travers la vie de Lucienne,",
+                    "suffix": "esquisse en effet le portrait d’une Église oppressive qui condamne les femmes aux grossesses fréquentes, ce qui épuise des femmes comme la mère de Lucienne, qui meurt dans un asile après un épisode de dépression post-partum"
+                }
+            },
+            {
+                "id": "/target/ODsaH1DuvWP/selector/css/N4Sa5sH9UtC",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/iJeouPk5YFA]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/49233891",
+        "type": "crm:E21_Person",
+        "label": "Andersen, Marguerite, 1924-2022",
+        "description": "Andersen, Marguerite, 1924-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/WyrOHsVciTb">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/WyrOHsVciTb",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:38:21.462Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/AlUX058goID",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/AlUX058goID/selector/textPosition/7dfliKRzDSC",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 36525,
+                "end": 36533,
+                "refinedBy": {
+                    "id": "/target/AlUX058goID/selector/textQuote/1sd4zdhwDHF",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Andersen",
+                    "prefix": "\n                    \n                    \n                        \n                            Pour",
+                    "suffix": " Toronto constitue donc un milieu privilégié de convivialité artistique"
+                }
+            },
+            {
+                "id": "/target/AlUX058goID/selector/css/JMYZRacDLP7",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/WyrOHsVciTb]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/49233891",
+        "type": "crm:E21_Person",
+        "label": "Andersen, Marguerite, 1924-2022",
+        "description": "Andersen, Marguerite, 1924-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/edAsAaPwaQC">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/edAsAaPwaQC",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:38:21.463Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/LrvHAKkK1Nn",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/LrvHAKkK1Nn/selector/textPosition/dzTuAmzblJv",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 39122,
+                "end": 39130,
+                "refinedBy": {
+                    "id": "/target/LrvHAKkK1Nn/selector/textQuote/6yDmiNehKGc",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Andersen",
+                    "prefix": "\n                    \n                \n                \n                    La ville multiculturelle et le figuier déterré\n                    \n                        Toronto, tout en renvoyant, pour",
+                    "suffix": " au Berlin du père écrivain comme site urbain de l’institution littéraire, se démarque par un zeitgeist qui contraste avec les idéaux de pureté ethnique et culturelle prônés par le grand-père Seeberg à Berlin avant la Seconde Guerre mondiale"
+                }
+            },
+            {
+                "id": "/target/LrvHAKkK1Nn/selector/css/vPx8LJvpD63",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/edAsAaPwaQC]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/49233891",
+        "type": "crm:E21_Person",
+        "label": "Andersen, Marguerite, 1924-2022",
+        "description": "Andersen, Marguerite, 1924-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/EWcmCwbBPjo">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/EWcmCwbBPjo",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:38:21.463Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/7Z1pNYGkoiX",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/7Z1pNYGkoiX/selector/textPosition/GTALN4q1VDt",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 40569,
+                "end": 40577,
+                "refinedBy": {
+                    "id": "/target/7Z1pNYGkoiX/selector/textQuote/OZ5uQFsZhAS",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Andersen",
+                    "prefix": " Sebald, entre autres,",
+                    "suffix": "entreprend alors de révéler l’antisémitisme du grand-père Seeberg et de ses pairs, les atrocités de l’Holocauste et la culpabilité des Allemands témoins de toutes les brutalités imposées par le régime nazi ainsi que les effets dévastateurs de la guerre \n                                        \n                                            Figuier 196\n                                    \n                                \n                            \n                        "
+                }
+            },
+            {
+                "id": "/target/7Z1pNYGkoiX/selector/css/vr0VqwgHRex",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/EWcmCwbBPjo]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/49233891",
+        "type": "crm:E21_Person",
+        "label": "Andersen, Marguerite, 1924-2022",
+        "description": "Andersen, Marguerite, 1924-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/0H6d26lcLK0">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/0H6d26lcLK0",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:38:21.741Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Zmwo1vJmn3g",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Zmwo1vJmn3g/selector/textPosition/ASwknLrGlgv",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 46441,
+                "end": 46449,
+                "refinedBy": {
+                    "id": "/target/Zmwo1vJmn3g/selector/textQuote/fdmoc2lOUpR",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Andersen",
+                    "prefix": " À Toronto, où elle demeure fortement impliquée dans l’émergence d’institutions littéraires franco-ontariennes,",
+                    "suffix": "réussit à régler ses comptes avec le père berlinois, à lui rendre hommage en tant qu’écrivain tout en acceptant ses faiblesses en tant qu’être humain"
+                }
+            },
+            {
+                "id": "/target/Zmwo1vJmn3g/selector/css/waPsqcGsd1f",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/0H6d26lcLK0]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/49233891",
+        "type": "crm:E21_Person",
+        "label": "Andersen, Marguerite, 1924-2022",
+        "description": "Andersen, Marguerite, 1924-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/BxHsDhMxvzA">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/BxHsDhMxvzA",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:38:21.741Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/7iLMXdkmtFI",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/7iLMXdkmtFI/selector/textPosition/H9WrUj3n72g",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 49344,
+                "end": 49352,
+                "refinedBy": {
+                    "id": "/target/7iLMXdkmtFI/selector/textQuote/UeQ2QUF7tZ1",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Andersen",
+                    "prefix": " Pour qu’on n’oublie jamais la capacité humaine pour l’atrocité, il s’agit plutôt d’espérer que l’écrivaine ne deviendra jamais sage!\n                    \n                \n                \n                    Bibliographie\n                    \n                       ",
+                    "suffix": " Marguerite"
+                }
+            },
+            {
+                "id": "/target/7iLMXdkmtFI/selector/css/Ro9dutxIMwM",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/BxHsDhMxvzA]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/49233891",
+        "type": "crm:E21_Person",
+        "label": "Andersen, Marguerite, 1924-2022",
+        "description": "Andersen, Marguerite, 1924-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
