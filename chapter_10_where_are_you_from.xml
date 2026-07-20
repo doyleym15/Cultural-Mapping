@@ -528,7 +528,7 @@
                                 </ref>. Il est également l’auteur du <title level="m" xml:lang="de-DE">Seeberg-Adresse</title>, <q>document de nature pangermaniste et militariste</q> signé en 1915 par 1 347 intellectuels berlinois, dont 352 professeurs d’université <note place="inline">
                                     <bibl>
                                         <title level="m">Figuier</title> 142</bibl>
-                                </note>. Même s’il refuse de signer le document de son beau-père, <persName key="Bohner, Theodor, 1882-1963" ref="http://viaf.org/viaf/194237270" ana="webannotation:http://temp.lincsproject.ca/ii0ZesYAIQd">Theodor Bohner</persName>, professeur lui-même, n’endosse pas non plus le contre-manifeste signé entre autres par Max Planck et <persName key="Einstein, Albert, 1879-1955." ref="http://viaf.org/viaf/75121530" ana="webannotation:http://temp.lincsproject.ca/xOqhAGPvreG">Albert Einstein</persName> <note place="inline">
+                                </note>. Même s’il refuse de signer le document de son beau-père, <persName key="Bohner, Theodor, 1882-1963" ref="http://viaf.org/viaf/194237270" ana="webannotation:http://temp.lincsproject.ca/ii0ZesYAIQd">Theodor Bohner</persName>, professeur lui-même, n’endosse pas non plus le contre-manifeste signé entre autres par <persName key="Planck, Max, 1858-1947." ref="http://viaf.org/viaf/34487615" ana="webannotation:http://temp.lincsproject.ca/HEI56MZuhBq">Max Planck</persName> et <persName key="Einstein, Albert, 1879-1955." ref="http://viaf.org/viaf/75121530" ana="webannotation:http://temp.lincsproject.ca/xOqhAGPvreG">Albert Einstein</persName> <note place="inline">
                                     <bibl>
                                         <title level="m">Figuier</title> 142</bibl>
                                 </note>. En 1928, lorsque <persName key="Bohner, Theodor, 1882-1963" ref="http://viaf.org/viaf/194237270" ana="webannotation:http://temp.lincsproject.ca/pgzuwSJxzXM">Theodor Bohner</persName>, qui a reçu une promotion au ministère de l’Éducation, s’installe à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/CBEmaRXcAhR">Berlin</placeName> avec sa famille, il s’agit d’une <q>ville de quatre millions d’habitants, dont <ref target="#nationality">170 000 Juifs, et 50 000 Russes</ref> parmi 150 000 étrangers, ville en compétition intellectuelle et artistique avec Paris</q>
@@ -10646,6 +10646,95 @@
         "type": "crm:E21_Person",
         "label": "Bohner, Theodor, 1882-1963",
         "description": "Bohner, Theodor"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/HEI56MZuhBq">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/HEI56MZuhBq",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T15:22:10.182Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/AOXmOZDh7iZ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/AOXmOZDh7iZ/selector/textPosition/2PP6exQo20Q",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 12492,
+                "end": 12502,
+                "refinedBy": {
+                    "id": "/target/AOXmOZDh7iZ/selector/textQuote/JkhLJabmPQk",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Max Planck",
+                    "prefix": " Même s’il refuse de signer le document de son beau-père, Theodor Bohner, professeur lui-même, n’endosse pas non plus le contre-manifeste signé entre autres par",
+                    "suffix": "et Albert Einstein \n                                    \n                                        Figuier 142\n                                "
+                }
+            },
+            {
+                "id": "/target/AOXmOZDh7iZ/selector/css/IxNoAWYyOT9",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/HEI56MZuhBq]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/34487615",
+        "type": "crm:E21_Person",
+        "label": "Planck, Max, 1858-1947.",
+        "description": "Planck, Max"
     },
     "P2_has_type": [
         "oa:identifying"
