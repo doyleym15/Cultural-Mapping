@@ -463,11 +463,11 @@
                                             </note>
                                         </ref>
                                     </ref>
-                                </ref>.</note> : <ref target="#spatiality">elle fuit <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/GFgYMCmanmk">Berlin</placeName> en 1945 pour s’installer successivement à <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/6JZtcuGKQAR">Londres</placeName>, à Tunis, à Montréal, à Addis-Abeba et enfin à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/oTsylQlhyoa">Toronto</placeName>, au gré de ses amours et de sa carrière universitaire</ref>.</ref>
+                                </ref>.</note> : <ref target="#spatiality">elle fuit <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/GFgYMCmanmk">Berlin</placeName> en 1945 pour s’installer successivement à <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/6JZtcuGKQAR">Londres</placeName>, à <placeName key="Tunis" ref="https://sws.geonames.org/2464470" ana="webannotation:http://temp.lincsproject.ca/eMLux5MQsqs">Tunis</placeName>, à Montréal, à Addis-Abeba et enfin à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/oTsylQlhyoa">Toronto</placeName>, au gré de ses amours et de sa carrière universitaire</ref>.</ref>
                     </ref>
                 </p>
                 <p xml:id="p1363">
-                    <ref target="#spatiality">Chaque ville représente une nouvelle étape dans sa vie. <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/PyfjXrjXNRM">Berlin</placeName>, ville qui inspire culpabilité et honte à <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/xeuTwROkIYQ">Andersen</persName>, est également le lieu privilégié de son père, <persName key="Bohner, Theodor, 1882-1963" ref="http://viaf.org/viaf/194237270" ana="webannotation:http://temp.lincsproject.ca/uEyRNbjfEZ5" type="real" cert="high">Theodor Werner Bohner</persName>, <ref target="#religion">fils d’un missionnaire luthérien</ref>, ancien député au <hi rend="italic" xml:lang="de-DE">Landtag</hi>, romancier, biographe et essayiste, qui constitue à la fois un rival et une source d’inspiration. <ref target="#nationality"><placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/wIujyZskIwU">Londres</placeName> est le lieu d’une évasion désespérée à la fin de la guerre pour sa famille, qui possède des passeports britanniques grâce à la naissance du père au Ghana. Marguerite perd sa citoyenneté allemande en se mariant à un soldat français qu’elle accompagne à Tunis : <q>J’avais rencontré un Français, jeune officier, j’allais l’épouser… L’amour? Au fond, je m’échappais, personne déplacée parmi tant d’autres</q>
+                    <ref target="#spatiality">Chaque ville représente une nouvelle étape dans sa vie. <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/PyfjXrjXNRM">Berlin</placeName>, ville qui inspire culpabilité et honte à <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/xeuTwROkIYQ">Andersen</persName>, est également le lieu privilégié de son père, <persName key="Bohner, Theodor, 1882-1963" ref="http://viaf.org/viaf/194237270" ana="webannotation:http://temp.lincsproject.ca/uEyRNbjfEZ5" type="real" cert="high">Theodor Werner Bohner</persName>, <ref target="#religion">fils d’un missionnaire luthérien</ref>, ancien député au <hi rend="italic" xml:lang="de-DE">Landtag</hi>, romancier, biographe et essayiste, qui constitue à la fois un rival et une source d’inspiration. <ref target="#nationality"><placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/wIujyZskIwU">Londres</placeName> est le lieu d’une évasion désespérée à la fin de la guerre pour sa famille, qui possède des passeports britanniques grâce à la naissance du père au Ghana. Marguerite perd sa citoyenneté allemande en se mariant à un soldat français qu’elle accompagne à <placeName key="Tunis" ref="https://sws.geonames.org/2464470" ana="webannotation:http://temp.lincsproject.ca/KsYKe9Ou8d9">Tunis</placeName> : <q>J’avais rencontré un Français, jeune officier, j’allais l’épouser… L’amour? Au fond, je m’échappais, personne déplacée parmi tant d’autres</q>
                             <note place="inline">
                                 <bibl>
                                     <title level="m">Bleu sur blanc</title> 17</bibl>
@@ -577,15 +577,15 @@
                         </ref>
                     </q>
                     <p xml:id="p1367">
-                        <ref target="#nationality">Après la guerre, pour s’évader d’un pays en ruines, la narratrice se marie à un officier français, originaire de Tunis, qui lui donne deux fils et l’emprisonne dans un mariage malheureux et oppressif</ref>. Dans <title level="m">Parallèles</title>, la narratrice confie au lecteur ce sentiment de honte qui motive sa fuite de la langue et de la culture allemandes : <q>je me suis jetée dans un autre milieu, une autre langue. Ai caché mes origines. Pour ne pas être accusée des horreurs commises. Et sans y avoir participé, je m’en sens coupable, encore et toujours</q>
+                        <ref target="#nationality">Après la guerre, pour s’évader d’un pays en ruines, la narratrice se marie à un officier français, originaire de <placeName key="Tunis" ref="https://sws.geonames.org/2464470" ana="webannotation:http://temp.lincsproject.ca/4fzJnNORywo">Tunis</placeName>, qui lui donne deux fils et l’emprisonne dans un mariage malheureux et oppressif</ref>. Dans <title level="m">Parallèles</title>, la narratrice confie au lecteur ce sentiment de honte qui motive sa fuite de la langue et de la culture allemandes : <q>je me suis jetée dans un autre milieu, une autre langue. Ai caché mes origines. Pour ne pas être accusée des horreurs commises. Et sans y avoir participé, je m’en sens coupable, encore et toujours</q>
                         <note place="inline">
                             <bibl>220</bibl>
                         </note>. <ref target="#spatiality"><placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/I1yvvw7HXbp">Berlin</placeName> reste donc un espace narratif marqué par l’ambivalence : l’écriture du père est symbole de la richesse culturelle du Berlin d’antan, mais aussi symbole d’impuissance, pauvre substitut de l’action héroïque. Pour retrouver le bonheur fantasmé de la cellule familiale, la narratrice entretiendra des liaisons amoureuses condamnées à lui apporter de l’angoisse</ref>.</p>
                 </div>
                 <div type="section">
-                    <head>Tunis, un paysage de beauté, de pauvreté et de douleur</head>
+                    <head><placeName key="Tunis" ref="https://sws.geonames.org/2464470" ana="webannotation:http://temp.lincsproject.ca/CCy7ysd0Oor">Tunis</placeName>, un paysage de beauté, de pauvreté et de douleur</head>
                     <p xml:id="p1368">
-                        <ref target="#spatiality">Entre Berlin et <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/gFazeOjSUZy">Toronto</placeName>, entre ces deux espaces urbains et leurs institutions littéraires, cinq villes figurent comme espaces intermédiaires : <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/wH6MxGgkUK2">Londres</placeName>, Tunis, Montréal, Addis-Abeba et Paris. Ville réelle mais aussi espace-temps construit par l’auteure, Tunis apparaît sous deux jours différents. <ref target="#intertextuality">
+                        <ref target="#spatiality">Entre Berlin et <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/gFazeOjSUZy">Toronto</placeName>, entre ces deux espaces urbains et leurs institutions littéraires, cinq villes figurent comme espaces intermédiaires : <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/wH6MxGgkUK2">Londres</placeName>, <placeName key="Tunis" ref="https://sws.geonames.org/2464470" ana="webannotation:http://temp.lincsproject.ca/l1HetxVsyao">Tunis</placeName>, Montréal, Addis-Abeba et Paris. Ville réelle mais aussi espace-temps construit par l’auteure, <placeName key="Tunis" ref="https://sws.geonames.org/2464470" ana="webannotation:http://temp.lincsproject.ca/xNmF7wPfTsB">Tunis</placeName> apparaît sous deux jours différents. <ref target="#intertextuality">
                                 <ref target="#genre_poetry">Dans <title level="m">Bleu sur blanc</title>, où <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/liHSyokyJOT">Marguerite</persName> choisit de ne pas parler <q>des amours floués</q>
                                     <note place="inline">
                                         <bibl>7</bibl>
@@ -9752,6 +9752,540 @@
         "type": "crm:E53_Place",
         "label": "London",
         "description": "England, Greater London, GB"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/eMLux5MQsqs">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/eMLux5MQsqs",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:41:55.181Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Nt0pZUw3E3l",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Nt0pZUw3E3l/selector/textPosition/e157keP4QlB",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 4846,
+                "end": 4851,
+                "refinedBy": {
+                    "id": "/target/Nt0pZUw3E3l/selector/textQuote/VjBOVoP35o3",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Tunis",
+                    "prefix": " : elle fuit Berlin en 1945 pour s’installer successivement à Londres, à",
+                    "suffix": " à Montréal, à Addis-Abeba et enfin à Toronto, au gré de ses amours et de sa carrière universitaire"
+                }
+            },
+            {
+                "id": "/target/Nt0pZUw3E3l/selector/css/yLXTqhofBnF",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/eMLux5MQsqs]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2464470",
+        "type": "crm:E53_Place",
+        "label": "Tunis",
+        "description": "Tunis Governorate, TN"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/KsYKe9Ou8d9">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/KsYKe9Ou8d9",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:41:55.240Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/QCmZrw8aQ9X",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/QCmZrw8aQ9X/selector/textPosition/eG5pFDM3tdj",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5629,
+                "end": 5634,
+                "refinedBy": {
+                    "id": "/target/QCmZrw8aQ9X/selector/textQuote/A1uAyBs1fSF",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Tunis",
+                    "prefix": " Marguerite perd sa citoyenneté allemande en se mariant à un soldat français qu’elle accompagne à",
+                    "suffix": ": J’avais rencontré un Français, jeune officier, j’allais l’épouser… L’amour? Au fond, je m’échappais, personne déplacée parmi tant d’autres\n                            \n                                \n                                    Bleu sur blanc 17\n                            "
+                }
+            },
+            {
+                "id": "/target/QCmZrw8aQ9X/selector/css/w0w3qnmk0Ar",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/KsYKe9Ou8d9]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2464470",
+        "type": "crm:E53_Place",
+        "label": "Tunis",
+        "description": "Tunis Governorate, TN"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/4fzJnNORywo">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/4fzJnNORywo",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:41:55.280Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/p5yod1wVfwr",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/p5yod1wVfwr/selector/textPosition/JxkWhFjHIg2",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 17073,
+                "end": 17078,
+                "refinedBy": {
+                    "id": "/target/p5yod1wVfwr/selector/textQuote/f1fcDSuyP0V",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Tunis",
+                    "prefix": " \n                                    218\n                                \n                            \n                        \n                    \n                    \n                        Après la guerre, pour s’évader d’un pays en ruines, la narratrice se marie à un officier français, originaire de",
+                    "suffix": " qui lui donne deux fils et l’emprisonne dans un mariage malheureux et oppressif"
+                }
+            },
+            {
+                "id": "/target/p5yod1wVfwr/selector/css/nVLLzr8gfII",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/4fzJnNORywo]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2464470",
+        "type": "crm:E53_Place",
+        "label": "Tunis",
+        "description": "Tunis Governorate, TN"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/CCy7ysd0Oor">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/CCy7ysd0Oor",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:41:55.317Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/HzmZ6PYtylO",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/HzmZ6PYtylO/selector/textPosition/cLplfyyVeL3",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 17994,
+                "end": 17999,
+                "refinedBy": {
+                    "id": "/target/HzmZ6PYtylO/selector/textQuote/3RgLTZE6gRl",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Tunis",
+                    "prefix": "\n                \n                \n                   ",
+                    "suffix": " un paysage de beauté, de pauvreté et de douleur\n                    \n                        Entre Berlin et Toronto, entre ces deux espaces urbains et leurs institutions littéraires, cinq villes figurent comme espaces intermédiaires : Londres, Tunis, Montréal, Addis-Abeba et Paris"
+                }
+            },
+            {
+                "id": "/target/HzmZ6PYtylO/selector/css/bkIlL05GZDj",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/CCy7ysd0Oor]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2464470",
+        "type": "crm:E53_Place",
+        "label": "Tunis",
+        "description": "Tunis Governorate, TN"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/l1HetxVsyao">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/l1HetxVsyao",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:41:55.354Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/DOfrZShjrJK",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/DOfrZShjrJK/selector/textPosition/MXI3dYfLlSg",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 18246,
+                "end": 18251,
+                "refinedBy": {
+                    "id": "/target/DOfrZShjrJK/selector/textQuote/qRfCCIxiy0J",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Tunis",
+                    "prefix": "\n                \n                \n                    Tunis, un paysage de beauté, de pauvreté et de douleur\n                    \n                        Entre Berlin et Toronto, entre ces deux espaces urbains et leurs institutions littéraires, cinq villes figurent comme espaces intermédiaires : Londres,",
+                    "suffix": " Montréal, Addis-Abeba et Paris"
+                }
+            },
+            {
+                "id": "/target/DOfrZShjrJK/selector/css/Xm8pdEH5h6O",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/l1HetxVsyao]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2464470",
+        "type": "crm:E53_Place",
+        "label": "Tunis",
+        "description": "Tunis Governorate, TN"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/xNmF7wPfTsB">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/xNmF7wPfTsB",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:41:55.395Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/MpVs1w48UbG",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/MpVs1w48UbG/selector/textPosition/CqEQMNe6Yz9",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 18347,
+                "end": 18352,
+                "refinedBy": {
+                    "id": "/target/MpVs1w48UbG/selector/textQuote/81G9xBFGqn3",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Tunis",
+                    "prefix": " Ville réelle mais aussi espace-temps construit par l’auteure,",
+                    "suffix": "apparaît sous deux jours différents"
+                }
+            },
+            {
+                "id": "/target/MpVs1w48UbG/selector/css/pJK74g67Q4m",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/xNmF7wPfTsB]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2464470",
+        "type": "crm:E53_Place",
+        "label": "Tunis",
+        "description": "Tunis Governorate, TN"
     },
     "P2_has_type": [
         "oa:identifying"
