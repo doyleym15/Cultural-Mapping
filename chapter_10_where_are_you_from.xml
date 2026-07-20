@@ -640,7 +640,7 @@
                     <head>Montréal, espace urbain dysphorique</head>
                     <p xml:id="p1370">
                         <ref target="#genre_lifeWriting">
-                            <ref target="#spatiality">Dans l’ensemble de l’œuvre autofictionnelle, Montréal, où <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/X1WB2tdaZVz">Marguerite</persName> s’installe en 1958, se présente comme un endroit excessivement pieux et nationaliste. <ref target="#theory">La scène de <q>l’arrivée en ville</q>, l’intrusion potentiellement subversive de l’étranger dans l’espace urbain dont parle Simon Harel dans <title level="m">Le Voleur de parcours</title>
+                            <ref target="#spatiality">Dans l’ensemble de l’œuvre autofictionnelle, Montréal, où <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/X1WB2tdaZVz">Marguerite</persName> s’installe en 1958, se présente comme un endroit excessivement pieux et nationaliste. <ref target="#theory">La scène de <q>l’arrivée en ville</q>, l’intrusion potentiellement subversive de l’étranger dans l’espace urbain dont <persName key="Harel, Simon, 1957-...." ref="http://viaf.org/viaf/2527335" ana="webannotation:http://temp.lincsproject.ca/hJZMggIudMm">parle Simon Harel</persName> dans <title level="m">Le Voleur de parcours</title>
                                     <note place="inline">
                                         <bibl>43</bibl>
                                     </note>, coïncide avec l’arrivée au Canada</ref>
@@ -11373,6 +11373,95 @@
         "type": "crm:E21_Person",
         "label": "Camus, Albert, 1913-1960.",
         "description": "Camus, Albert"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/hJZMggIudMm">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/hJZMggIudMm",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T15:35:24.133Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/hD3PQbVoFws",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/hD3PQbVoFws/selector/textPosition/esStiFs7w4p",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 22978,
+                "end": 22995,
+                "refinedBy": {
+                    "id": "/target/hD3PQbVoFws/selector/textQuote/jPGpM2b0vuu",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "parle Simon Harel",
+                    "prefix": " La scène de l’arrivée en ville, l’intrusion potentiellement subversive de l’étranger dans l’espace urbain dont",
+                    "suffix": "dans Le Voleur de parcours\n                                    \n                                        43\n                                    , coïncide avec l’arrivée au Canada\n                            "
+                }
+            },
+            {
+                "id": "/target/hD3PQbVoFws/selector/css/2Kbwrs9guvJ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/hJZMggIudMm]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/2527335",
+        "type": "crm:E21_Person",
+        "label": "Harel, Simon, 1957-....",
+        "description": "Harel, Simon"
     },
     "P2_has_type": [
         "oa:identifying"
