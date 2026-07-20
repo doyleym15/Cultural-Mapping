@@ -463,11 +463,11 @@
                                             </note>
                                         </ref>
                                     </ref>
-                                </ref>.</note> : <ref target="#spatiality">elle fuit <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/GFgYMCmanmk">Berlin</placeName> en 1945 pour s’installer successivement à Londres, à Tunis, à Montréal, à Addis-Abeba et enfin à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/oTsylQlhyoa">Toronto</placeName>, au gré de ses amours et de sa carrière universitaire</ref>.</ref>
+                                </ref>.</note> : <ref target="#spatiality">elle fuit <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/GFgYMCmanmk">Berlin</placeName> en 1945 pour s’installer successivement à <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/6JZtcuGKQAR">Londres</placeName>, à Tunis, à Montréal, à Addis-Abeba et enfin à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/oTsylQlhyoa">Toronto</placeName>, au gré de ses amours et de sa carrière universitaire</ref>.</ref>
                     </ref>
                 </p>
                 <p xml:id="p1363">
-                    <ref target="#spatiality">Chaque ville représente une nouvelle étape dans sa vie. <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/PyfjXrjXNRM">Berlin</placeName>, ville qui inspire culpabilité et honte à <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/xeuTwROkIYQ">Andersen</persName>, est également le lieu privilégié de son père, <persName key="Bohner, Theodor, 1882-1963" ref="http://viaf.org/viaf/194237270" ana="webannotation:http://temp.lincsproject.ca/uEyRNbjfEZ5" type="real" cert="high">Theodor Werner Bohner</persName>, <ref target="#religion">fils d’un missionnaire luthérien</ref>, ancien député au <hi rend="italic" xml:lang="de-DE">Landtag</hi>, romancier, biographe et essayiste, qui constitue à la fois un rival et une source d’inspiration. <ref target="#nationality">Londres est le lieu d’une évasion désespérée à la fin de la guerre pour sa famille, qui possède des passeports britanniques grâce à la naissance du père au Ghana. Marguerite perd sa citoyenneté allemande en se mariant à un soldat français qu’elle accompagne à Tunis : <q>J’avais rencontré un Français, jeune officier, j’allais l’épouser… L’amour? Au fond, je m’échappais, personne déplacée parmi tant d’autres</q>
+                    <ref target="#spatiality">Chaque ville représente une nouvelle étape dans sa vie. <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/PyfjXrjXNRM">Berlin</placeName>, ville qui inspire culpabilité et honte à <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/xeuTwROkIYQ">Andersen</persName>, est également le lieu privilégié de son père, <persName key="Bohner, Theodor, 1882-1963" ref="http://viaf.org/viaf/194237270" ana="webannotation:http://temp.lincsproject.ca/uEyRNbjfEZ5" type="real" cert="high">Theodor Werner Bohner</persName>, <ref target="#religion">fils d’un missionnaire luthérien</ref>, ancien député au <hi rend="italic" xml:lang="de-DE">Landtag</hi>, romancier, biographe et essayiste, qui constitue à la fois un rival et une source d’inspiration. <ref target="#nationality"><placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/wIujyZskIwU">Londres</placeName> est le lieu d’une évasion désespérée à la fin de la guerre pour sa famille, qui possède des passeports britanniques grâce à la naissance du père au Ghana. Marguerite perd sa citoyenneté allemande en se mariant à un soldat français qu’elle accompagne à Tunis : <q>J’avais rencontré un Français, jeune officier, j’allais l’épouser… L’amour? Au fond, je m’échappais, personne déplacée parmi tant d’autres</q>
                             <note place="inline">
                                 <bibl>
                                     <title level="m">Bleu sur blanc</title> 17</bibl>
@@ -585,7 +585,7 @@
                 <div type="section">
                     <head>Tunis, un paysage de beauté, de pauvreté et de douleur</head>
                     <p xml:id="p1368">
-                        <ref target="#spatiality">Entre Berlin et <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/gFazeOjSUZy">Toronto</placeName>, entre ces deux espaces urbains et leurs institutions littéraires, cinq villes figurent comme espaces intermédiaires : Londres, Tunis, Montréal, Addis-Abeba et Paris. Ville réelle mais aussi espace-temps construit par l’auteure, Tunis apparaît sous deux jours différents. <ref target="#intertextuality">
+                        <ref target="#spatiality">Entre Berlin et <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/gFazeOjSUZy">Toronto</placeName>, entre ces deux espaces urbains et leurs institutions littéraires, cinq villes figurent comme espaces intermédiaires : <placeName key="London" ref="https://sws.geonames.org/2643743" ana="webannotation:http://temp.lincsproject.ca/wH6MxGgkUK2">Londres</placeName>, Tunis, Montréal, Addis-Abeba et Paris. Ville réelle mais aussi espace-temps construit par l’auteure, Tunis apparaît sous deux jours différents. <ref target="#intertextuality">
                                 <ref target="#genre_poetry">Dans <title level="m">Bleu sur blanc</title>, où <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/liHSyokyJOT">Marguerite</persName> choisit de ne pas parler <q>des amours floués</q>
                                     <note place="inline">
                                         <bibl>7</bibl>
@@ -9485,6 +9485,273 @@
         "type": "crm:E21_Person",
         "label": "Robin, Régine, 1939-2021",
         "description": "Robin, Régine, 1939-"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/6JZtcuGKQAR">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/6JZtcuGKQAR",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:41:33.332Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/AptV34Qln9I",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/AptV34Qln9I/selector/textPosition/Zdf4vcXz3uq",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 4835,
+                "end": 4842,
+                "refinedBy": {
+                    "id": "/target/AptV34Qln9I/selector/textQuote/utAMKyxptLX",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Londres",
+                    "prefix": " : elle fuit Berlin en 1945 pour s’installer successivement à",
+                    "suffix": " à Tunis, à Montréal, à Addis-Abeba et enfin à Toronto, au gré de ses amours et de sa carrière universitaire"
+                }
+            },
+            {
+                "id": "/target/AptV34Qln9I/selector/css/v5OLDEa8mNN",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/6JZtcuGKQAR]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "type": "crm:E53_Place",
+        "label": "London",
+        "description": "England, Greater London, GB"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/wIujyZskIwU">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/wIujyZskIwU",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:41:33.400Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/Jhd1KK1DEWR",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Jhd1KK1DEWR/selector/textPosition/tEMgGiMD3Xs",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5369,
+                "end": 5376,
+                "refinedBy": {
+                    "id": "/target/Jhd1KK1DEWR/selector/textQuote/Ep2YHv0kTrD",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Londres",
+                    "prefix": "",
+                    "suffix": "est le lieu d’une évasion désespérée à la fin de la guerre pour sa famille, qui possède des passeports britanniques grâce à la naissance du père au Ghana"
+                }
+            },
+            {
+                "id": "/target/Jhd1KK1DEWR/selector/css/dnfbuXhBOGB",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/wIujyZskIwU]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "type": "crm:E53_Place",
+        "label": "London",
+        "description": "England, Greater London, GB"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/wH6MxGgkUK2">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/wH6MxGgkUK2",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T18:41:34.003Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/cQWlwojsgil",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/cQWlwojsgil/selector/textPosition/B79NezITgWa",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 18237,
+                "end": 18244,
+                "refinedBy": {
+                    "id": "/target/cQWlwojsgil/selector/textQuote/mHFs9C5Cosf",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Londres",
+                    "prefix": "\n                \n                \n                    Tunis, un paysage de beauté, de pauvreté et de douleur\n                    \n                        Entre Berlin et Toronto, entre ces deux espaces urbains et leurs institutions littéraires, cinq villes figurent comme espaces intermédiaires :",
+                    "suffix": " Tunis, Montréal, Addis-Abeba et Paris"
+                }
+            },
+            {
+                "id": "/target/cQWlwojsgil/selector/css/0o4dfITtksN",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/wH6MxGgkUK2]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2643743",
+        "type": "crm:E53_Place",
+        "label": "London",
+        "description": "England, Greater London, GB"
     },
     "P2_has_type": [
         "oa:identifying"
