@@ -415,7 +415,7 @@
                     </title>
                 </head>
                 <byline>La ville et l’écriture migrante dans l’autofiction de <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/UoFDiUSu7DL" type="real" cert="high">Marguerite Andersen</persName></byline>
-                <docAuthor> <persName key="Kellett, Kathleen, 1959-" ref="http://viaf.org/viaf/316787087" ana="webannotation:http://temp.lincsproject.ca/ZldSrdhoJpp">Kathleen Kellett</persName></docAuthor>
+                <docAuthor> <persName key="Kellett, Kathleen, 1959-" ref="http://viaf.org/viaf/316787087" ana="webannotation:http://temp.lincsproject.ca/ZldSrdhoJpp" type="real">Kathleen Kellett</persName></docAuthor>
                 <p xml:id="p1361">
                     <ref target="#genre_lifeWriting">
                         <ref target="#characterization">Dans <title level="m">Le figuier sur le toit</title>, la narratrice, une vieille dame du nom de Marguerite, est incitée à la veille de ses quatre-vingt-quatre ans à se remémorer les détails de sa vie, aiguillonnée par cette question désobligeante que <ref target="#nationality">les Canadiens anglais</ref> tiennent à poser aux immigrants dès qu’ils décèlent les moindres traces d’accent</ref> : <q xml:lang="en-CA">
@@ -1435,7 +1435,10 @@
     "body": {
         "id": "http://viaf.org/viaf/316787087",
         "type": "crm:E21_Person",
-        "label": "Kellett, Kathleen, 1959-"
+        "label": "Kellett, Kathleen, 1959-",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
