@@ -448,7 +448,7 @@
                             </note>. Dans ces autofictions, le <q>pacte autobiographique</q>
                             <note place="inline">
                                 <bibl>Lejeune</bibl>
-                            </note> est scellé par le nom propre — parfois, il est vrai, de façon indirecte. Ainsi, dans <title level="m">Bleu sur blanc</title>, <title level="m">Parallèles</title>, <title level="m">Le figuier sur le toit</title> et <title level="m">La vie devant elles</title>, la protagoniste s’appelle <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/zQ37tZDxAqc">Marguerite</persName>; <ref target="#intertextuality">dans <title level="m">De mémoire de femme</title>, comme le remarque <persName key="Hotte, Lucie, 1959-" ref="http://viaf.org/viaf/32220127" ana="webannotation:http://temp.lincsproject.ca/5yrgQnyxIvQ">Lucie Hotte</persName>, le nom d’Anne Grimm établit de façon ludique un lien entre les frères allemands, conteurs renommés, et l’auteur danois <persName key="Andersen, Hans Christian, 1805-1875." ref="http://viaf.org/viaf/4925902" ana="webannotation:http://temp.lincsproject.ca/c5lJscE5Ryx">Hans Christian Andersen</persName>, qui porte le même nom que l’écrivaine <note place="inline">
+                            </note> est scellé par le nom propre — parfois, il est vrai, de façon indirecte. Ainsi, dans <title level="m">Bleu sur blanc</title>, <title level="m">Parallèles</title>, <title level="m">Le figuier sur le toit</title> et <title level="m">La vie devant elles</title>, la protagoniste s’appelle <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/zQ37tZDxAqc">Marguerite</persName>; <ref target="#intertextuality">dans <title level="m">De mémoire de femme</title>, comme le remarque <persName key="Hotte, Lucie, 1959-" ref="http://viaf.org/viaf/32220127" ana="webannotation:http://temp.lincsproject.ca/5yrgQnyxIvQ">Lucie Hotte</persName>, le nom d’Anne Grimm établit de façon ludique un lien entre les frères allemands, conteurs renommés, et l’auteur danois <persName key="Andersen, Hans Christian, 1805-1875." ref="http://viaf.org/viaf/4925902" ana="webannotation:http://temp.lincsproject.ca/c5lJscE5Ryx" type="real">Hans Christian Andersen</persName>, qui porte le même nom que l’écrivaine <note place="inline">
                                     <bibl>Hotte 11</bibl>
                                 </note>
                             </ref>. <ref target="#theme_or_topic">
@@ -9391,7 +9391,10 @@
         "id": "http://viaf.org/viaf/4925902",
         "type": "crm:E21_Person",
         "label": "Andersen, Hans Christian, 1805-1875.",
-        "description": "Andersen, H. C. (Hans Christian), 1805-1875"
+        "description": "Andersen, H. C. (Hans Christian), 1805-1875",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
