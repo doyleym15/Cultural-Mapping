@@ -784,7 +784,7 @@
                 <div type="section">
                     <head>La ville multiculturelle et le figuier déterré</head>
                     <p xml:id="p1377">
-                        <ref target="#spatiality"><placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/rjeoq622Tx2">Toronto</placeName>, tout en renvoyant, pour <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/edAsAaPwaQC">Andersen</persName>, au <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/q2QTzdloECf">Berlin</placeName> du père écrivain comme site urbain de l’institution littéraire, se démarque par un <hi rend="italic">zeitgeist</hi> qui contraste avec les idéaux de pureté ethnique et culturelle prônés par le grand-père Seeberg à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/aV7tJOBZEPF">Berlin</placeName> avant la <ref target="#history">Seconde Guerre mondiale</ref>. Dans cette optique, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/Fw5XVlhxPxz">Toronto</placeName> incarnerait la réussite de <ref target="#politics">la politique canadienne de multiculturalisme, dont l’idéologie demeure d’ailleurs fortement critiquée de nos jours</ref>. <ref target="#intertextuality">On pourrait dès lors se poser la question : est-ce qu’Andersen tombe dans le piège de ce que Daniel Coleman appelle la <q>civilité blanche</q> (<q>
+                        <ref target="#spatiality"><placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/rjeoq622Tx2">Toronto</placeName>, tout en renvoyant, pour <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/edAsAaPwaQC">Andersen</persName>, au <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/q2QTzdloECf">Berlin</placeName> du père écrivain comme site urbain de l’institution littéraire, se démarque par un <hi rend="italic">zeitgeist</hi> qui contraste avec les idéaux de pureté ethnique et culturelle prônés par le grand-père <persName key="Seeberg, Reinhold, 1859-1935." ref="http://viaf.org/viaf/44538041" ana="webannotation:http://temp.lincsproject.ca/84473ccEu27">Seeberg</persName> à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/aV7tJOBZEPF">Berlin</placeName> avant la <ref target="#history">Seconde Guerre mondiale</ref>. Dans cette optique, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/Fw5XVlhxPxz">Toronto</placeName> incarnerait la réussite de <ref target="#politics">la politique canadienne de multiculturalisme, dont l’idéologie demeure d’ailleurs fortement critiquée de nos jours</ref>. <ref target="#intertextuality">On pourrait dès lors se poser la question : est-ce qu’Andersen tombe dans le piège de ce que Daniel Coleman appelle la <q>civilité blanche</q> (<q>
                                     <hi rend="italic" xml:lang="en-CA">white civility</hi>
                                 </q>) <note place="inline">
                                     <bibl>32-33</bibl>
@@ -798,7 +798,7 @@
                             </q>
                         </ref>. <ref target="#intertextuality">
                             <ref target="#violence">
-                                <ref target="#history">À l’instar de l’auteur anglo-allemand W.G. Sebald, entre autres, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/EWcmCwbBPjo">Andersen</persName> entreprend alors de révéler l’antisémitisme du grand-père Seeberg et de ses pairs, les atrocités de l’Holocauste et la culpabilité des <ref target="#nationality">Allemands</ref> témoins de toutes les brutalités imposées par le régime nazi ainsi que les effets dévastateurs de la guerre <note place="inline">
+                                <ref target="#history">À l’instar de l’auteur anglo-allemand W.G. Sebald, entre autres, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/EWcmCwbBPjo">Andersen</persName> entreprend alors de révéler l’antisémitisme du grand-père <persName key="Seeberg, Reinhold, 1859-1935." ref="http://viaf.org/viaf/44538041" ana="webannotation:http://temp.lincsproject.ca/0D3t02Ov5am">Seeberg</persName> et de ses pairs, les atrocités de l’Holocauste et la culpabilité des <ref target="#nationality">Allemands</ref> témoins de toutes les brutalités imposées par le régime nazi ainsi que les effets dévastateurs de la guerre <note place="inline">
                                         <bibl>
                                             <title level="m">Figuier</title> 196</bibl>
                                     </note>
@@ -12461,6 +12461,184 @@
         "type": "crm:E21_Person",
         "label": "Young, Lélia, 1950-",
         "description": "Young, Lélia L. M."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/84473ccEu27">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/84473ccEu27",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T15:58:01.719Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/8a770dXKWjC",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/8a770dXKWjC/selector/textPosition/ss5b5fCxnPe",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 39323,
+                "end": 39330,
+                "refinedBy": {
+                    "id": "/target/8a770dXKWjC/selector/textQuote/FlLc7hyLagB",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Seeberg",
+                    "prefix": "\n                    \n                \n                \n                    La ville multiculturelle et le figuier déterré\n                    \n                        Toronto, tout en renvoyant, pour Andersen, au Berlin du père écrivain comme site urbain de l’institution littéraire, se démarque par un zeitgeist qui contraste avec les idéaux de pureté ethnique et culturelle prônés par le grand-père",
+                    "suffix": "à Berlin avant la Seconde Guerre mondiale"
+                }
+            },
+            {
+                "id": "/target/8a770dXKWjC/selector/css/lDWQ62OHD3U",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/84473ccEu27]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/44538041",
+        "type": "crm:E21_Person",
+        "label": "Seeberg, Reinhold, 1859-1935.",
+        "description": "Seeberg, Reinhold"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/0D3t02Ov5am">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/0D3t02Ov5am",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T15:58:01.810Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/VZ4A8qhaA9d",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/VZ4A8qhaA9d/selector/textPosition/LkyBpTbmkPA",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 40636,
+                "end": 40643,
+                "refinedBy": {
+                    "id": "/target/VZ4A8qhaA9d/selector/textQuote/aQXUqKWz98N",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Seeberg",
+                    "prefix": " Sebald, entre autres, Andersen entreprend alors de révéler l’antisémitisme du grand-père",
+                    "suffix": "et de ses pairs, les atrocités de l’Holocauste et la culpabilité des Allemands témoins de toutes les brutalités imposées par le régime nazi ainsi que les effets dévastateurs de la guerre \n                                        \n                                            Figuier 196\n                                    \n                                \n                            \n                        "
+                }
+            },
+            {
+                "id": "/target/VZ4A8qhaA9d/selector/css/1xTi25Cgaj1",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/0D3t02Ov5am]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/44538041",
+        "type": "crm:E21_Person",
+        "label": "Seeberg, Reinhold, 1859-1935.",
+        "description": "Seeberg, Reinhold"
     },
     "P2_has_type": [
         "oa:identifying"
