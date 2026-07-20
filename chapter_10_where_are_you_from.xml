@@ -426,7 +426,7 @@
                         </note>. <ref target="#history">
                             <ref target="#violence">
                                 <ref target="#nationality">
-                                    <ref target="#race_and_ethnicity">La question la plonge dans les souvenirs de son enfance à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/y1RZq3WrCac">Berlin</placeName> d’avant et d’après l’arrivée au pouvoir du régime nazi qui entraîne la persécution puis le génocide des Juifs ainsi que l’exécution des homosexuels, des malades mentaux, des Roms et des infirmes</ref>
+                                    <ref target="#race_and_ethnicity">La question la plonge dans les souvenirs de son enfance à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/y1RZq3WrCac" type="real">Berlin</placeName> d’avant et d’après l’arrivée au pouvoir du régime nazi qui entraîne la persécution puis le génocide des Juifs ainsi que l’exécution des homosexuels, des malades mentaux, des Roms et des infirmes</ref>
                                 </ref>
                             </ref>. <ref target="#theme_or_topic">
                                 <ref target="#spatiality">
@@ -463,22 +463,22 @@
                                             </note>
                                         </ref>
                                     </ref>
-                                </ref>.</note> : <ref target="#spatiality">elle fuit Berlin en 1945 pour s’installer successivement à Londres, à Tunis, à Montréal, à Addis-Abeba et enfin à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/oTsylQlhyoa">Toronto</placeName>, au gré de ses amours et de sa carrière universitaire</ref>.</ref>
+                                </ref>.</note> : <ref target="#spatiality">elle fuit <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/GFgYMCmanmk">Berlin</placeName> en 1945 pour s’installer successivement à Londres, à Tunis, à Montréal, à Addis-Abeba et enfin à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/oTsylQlhyoa">Toronto</placeName>, au gré de ses amours et de sa carrière universitaire</ref>.</ref>
                     </ref>
                 </p>
                 <p xml:id="p1363">
-                    <ref target="#spatiality">Chaque ville représente une nouvelle étape dans sa vie. Berlin, ville qui inspire culpabilité et honte à Andersen, est également le lieu privilégié de son père, Theodor Werner Bohner, <ref target="#religion">fils d’un missionnaire luthérien</ref>, ancien député au <hi rend="italic" xml:lang="de-DE">Landtag</hi>, romancier, biographe et essayiste, qui constitue à la fois un rival et une source d’inspiration. <ref target="#nationality">Londres est le lieu d’une évasion désespérée à la fin de la guerre pour sa famille, qui possède des passeports britanniques grâce à la naissance du père au Ghana. Marguerite perd sa citoyenneté allemande en se mariant à un soldat français qu’elle accompagne à Tunis : <q>J’avais rencontré un Français, jeune officier, j’allais l’épouser… L’amour? Au fond, je m’échappais, personne déplacée parmi tant d’autres</q>
+                    <ref target="#spatiality">Chaque ville représente une nouvelle étape dans sa vie. <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/PyfjXrjXNRM">Berlin</placeName>, ville qui inspire culpabilité et honte à Andersen, est également le lieu privilégié de son père, Theodor Werner Bohner, <ref target="#religion">fils d’un missionnaire luthérien</ref>, ancien député au <hi rend="italic" xml:lang="de-DE">Landtag</hi>, romancier, biographe et essayiste, qui constitue à la fois un rival et une source d’inspiration. <ref target="#nationality">Londres est le lieu d’une évasion désespérée à la fin de la guerre pour sa famille, qui possède des passeports britanniques grâce à la naissance du père au Ghana. Marguerite perd sa citoyenneté allemande en se mariant à un soldat français qu’elle accompagne à Tunis : <q>J’avais rencontré un Français, jeune officier, j’allais l’épouser… L’amour? Au fond, je m’échappais, personne déplacée parmi tant d’autres</q>
                             <note place="inline">
                                 <bibl>
                                     <title level="m">Bleu sur blanc</title> 17</bibl>
-                            </note>.</ref> Divorcée, elle s’évade à Montréal, où elle poursuit une carrière universitaire exigeante et mène une vie privée déchirante. Paris, ville-lumière et lieu de congé sabbatique, lui offre brièvement le temps et le loisir pour la création littéraire. C’est pourtant <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/QiBiFmlNlcM">Toronto</placeName> qu’Andersen présente comme le lieu privilégié non seulement de l’écriture mais aussi de la convivialité d’une communauté artistique, ville où elle participe au débuts de la Société des écrivain(e)s de Toronto ainsi que de l’Association des auteures et des auteurs de l’Ontario français. <ref target="#childhood">De Berlin à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/hI3a8MwXyjP">Toronto</placeName>, Andersen entreprend la quête difficile de se réconcilier avec une enfance vécue sous le régime nazi ainsi qu’avec le père écrivain et le paradis perdu de l’enfance, représenté dans l’œuvre comme le triangle sacré <hi rend="italic" xml:lang="de-DE">Vater, Mutter, Kind</hi> (père, mère, enfant).</ref>
+                            </note>.</ref> Divorcée, elle s’évade à Montréal, où elle poursuit une carrière universitaire exigeante et mène une vie privée déchirante. Paris, ville-lumière et lieu de congé sabbatique, lui offre brièvement le temps et le loisir pour la création littéraire. C’est pourtant <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/QiBiFmlNlcM">Toronto</placeName> qu’Andersen présente comme le lieu privilégié non seulement de l’écriture mais aussi de la convivialité d’une communauté artistique, ville où elle participe au débuts de la Société des écrivain(e)s de Toronto ainsi que de l’Association des auteures et des auteurs de l’Ontario français. <ref target="#childhood">De <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/gaxo9iUbPn1">Berlin</placeName> à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/hI3a8MwXyjP">Toronto</placeName>, Andersen entreprend la quête difficile de se réconcilier avec une enfance vécue sous le régime nazi ainsi qu’avec le père écrivain et le paradis perdu de l’enfance, représenté dans l’œuvre comme le triangle sacré <hi rend="italic" xml:lang="de-DE">Vater, Mutter, Kind</hi> (père, mère, enfant).</ref>
                     </ref>
                 </p>
                 <div type="section">
                     <head>Une enfance berlinoise : l’enfant et le père écrivain</head>
                     <p xml:id="p1364">
                         <ref target="#spatiality">
-                            <ref target="#childhood">Bien qu’Andersen soit née à Magdebourg, petite ville proche de Berlin, c’est Berlin, où elle emménage avec sa famille à l’âge de quatre ans, qui incarne surtout le lieu de son enfance</ref>. D’ailleurs, dans <title level="m">Parallèles</title>, la narratrice a Berlin comme lieu de naissance <note place="inline">
+                            <ref target="#childhood">Bien qu’Andersen soit née à Magdebourg, petite ville proche de <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/mufCTTVWoP0">Berlin</placeName>, c’est <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/1AQs2b9xA0D">Berlin</placeName>, où elle emménage avec sa famille à l’âge de quatre ans, qui incarne surtout le lieu de son enfance</ref>. D’ailleurs, dans <title level="m">Parallèles</title>, la narratrice a <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/dV2kcvLHPoK">Berlin</placeName> comme lieu de naissance <note place="inline">
                                 <bibl>19</bibl>
                             </note>. Ses parents y côtoient des intellectuels, des artistes et des scientifiques. On pourrait même dire qu’elle vient au monde par l’intermédiaire de l’écriture de son père, Theo, lui-même auteur à tendance autofictionnelle. <ref target="#genre_fiction">Celui-ci raconte la naissance de sa fille dans son roman <title level="m" xml:lang="de-DE">Das Licht und sein Schatten</title> (<title level="m">La lumière et son ombre</title>) publié en 1937</ref>
                             <note xml:id="n87" place="end">Pour satisfaire aux exigences de ce que Robin appelle la mémoire savante, Andersen inclut en annexe dans <title level="m">Le figuier sur le toit</title> la bibliographie des œuvres de son père.</note>. <ref target="#genre_lifeWriting">Que la protagoniste et sa sœur Emma s’identifient toutes deux à ce nouveau-né souligne le caractère équivoque de l’écriture autofictionnelle</ref>
@@ -509,7 +509,7 @@
                                         <bibl>
                                             <title level="m">Mémoire</title> 42</bibl>
                                     </note>
-                                </ref>. <ref target="#spatiality">Ce paradis fantasmé est celui du bonheur enfantin et innocent, qui ignore les conflits et les infidélités des parents dans la vie mondaine de Berlin. Lorsque le père exige de la mère la vente de la maison d’été de Ahrensoop, territoire du grand-père et du beau-frère <ref target="#violence">antisémites</ref>, Marguerite se sent expulsée du paradis : <q>Il fallait que quelqu’un me chasse de mon paradis, Theo, le dieu de mon enfance, était prédestiné à ce rôle rien que par son nom</q>
+                                </ref>. <ref target="#spatiality">Ce paradis fantasmé est celui du bonheur enfantin et innocent, qui ignore les conflits et les infidélités des parents dans la vie mondaine de <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/U9we7CTJdc6">Berlin</placeName>. Lorsque le père exige de la mère la vente de la maison d’été de Ahrensoop, territoire du grand-père et du beau-frère <ref target="#violence">antisémites</ref>, Marguerite se sent expulsée du paradis : <q>Il fallait que quelqu’un me chasse de mon paradis, Theo, le dieu de mon enfance, était prédestiné à ce rôle rien que par son nom</q>
                                     <note place="inline">
                                         <bibl>
                                             <title level="m">Figuier</title> 105</bibl>
@@ -523,7 +523,7 @@
                                 <ref target="#childhood">La perte de l’innocence enfantine fait écho à la destruction de la société berlinoise des années 1920, celle d’avant le régime hitlérien, celle d’une métropole culturelle et intellectuelle qui ne connaît pas encore le feu du Reichstag ni celui de la <hi rend="italic" xml:lang="de-DE">Kristallnacht</hi> (Nuit de cristal), ne connaît pas non plus la brutalité du nazisme, bien que les germes de l’antisémitisme y soient déjà bien enracinés.</ref>
                                 <ref target="#education">
                                     <ref target="#intellectual_history">
-                                        <ref target="#religion">C’est à Berlin que le grand-père maternel, Reinhold Seeberg, recteur de la <hi xml:lang="de-DE">Freidrich-Wilhelms-Universität</hi>, enseigne et rédige des livres de théologie qui font encore autorité dans ce domaine</ref>
+                                        <ref target="#religion">C’est à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/Nqq0HjbCBJg">Berlin</placeName> que le grand-père maternel, Reinhold Seeberg, recteur de la <hi xml:lang="de-DE">Freidrich-Wilhelms-Universität</hi>, enseigne et rédige des livres de théologie qui font encore autorité dans ce domaine</ref>
                                     </ref>
                                 </ref>. Il est également l’auteur du <title level="m" xml:lang="de-DE">Seeberg-Adresse</title>, <q>document de nature pangermaniste et militariste</q> signé en 1915 par 1 347 intellectuels berlinois, dont 352 professeurs d’université <note place="inline">
                                     <bibl>
@@ -531,7 +531,7 @@
                                 </note>. Même s’il refuse de signer le document de son beau-père, Theodor Bohner, professeur lui-même, n’endosse pas non plus le contre-manifeste signé entre autres par Max Planck et Albert Einstein <note place="inline">
                                     <bibl>
                                         <title level="m">Figuier</title> 142</bibl>
-                                </note>. En 1928, lorsque Theodor Bohner, qui a reçu une promotion au ministère de l’Éducation, s’installe à Berlin avec sa famille, il s’agit d’une <q>ville de quatre millions d’habitants, dont <ref target="#nationality">170 000 Juifs, et 50 000 Russes</ref> parmi 150 000 étrangers, ville en compétition intellectuelle et artistique avec Paris</q>
+                                </note>. En 1928, lorsque Theodor Bohner, qui a reçu une promotion au ministère de l’Éducation, s’installe à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/CBEmaRXcAhR">Berlin</placeName> avec sa famille, il s’agit d’une <q>ville de quatre millions d’habitants, dont <ref target="#nationality">170 000 Juifs, et 50 000 Russes</ref> parmi 150 000 étrangers, ville en compétition intellectuelle et artistique avec Paris</q>
                                 <note place="inline">
                                     <bibl>
                                         <title level="m">Figuier</title> 154</bibl>
@@ -548,7 +548,7 @@
                                 </ref>.</ref>
                         </ref>
                     </p>
-                    <p xml:id="p1366">C’est à Berlin que son père, Theo, qui s’oppose à Hitler et aux idées antisémites de son propre beau-père, est démis de ses fonctions et passe la guerre, avec sa femme et ses trois filles, ayant dû quitter leur logement opulent du centre-ville pour un quartier beaucoup plus modeste de la périphérie. <ref target="#economics">Pour subvenir aux besoins de sa famille, Theo vit de sa plume en composant des romans, des biographies et des études de légendes, tout en craignant d’être frappé du <hi rend="italic" xml:lang="de-DE">Schreibverbot</hi>
+                    <p xml:id="p1366">C’est à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/LLDrw5CIjp2">Berlin</placeName> que son père, Theo, qui s’oppose à Hitler et aux idées antisémites de son propre beau-père, est démis de ses fonctions et passe la guerre, avec sa femme et ses trois filles, ayant dû quitter leur logement opulent du centre-ville pour un quartier beaucoup plus modeste de la périphérie. <ref target="#economics">Pour subvenir aux besoins de sa famille, Theo vit de sa plume en composant des romans, des biographies et des études de légendes, tout en craignant d’être frappé du <hi rend="italic" xml:lang="de-DE">Schreibverbot</hi>
                             <note place="inline">
                                 <bibl>
                                     <title level="m">Figuier</title> 197</bibl>
@@ -559,14 +559,14 @@
                             </note>
                         </ref>. <ref target="#education">
                             <ref target="#history">
-                                <ref target="#childhood">Étudiante à Berlin, la narratrice est obligée de se joindre au mouvement de jeunesse hitlérienne pour pouvoir continuer d’aller au lycée. L’enseignement pro-nazi est contesté par la famille Bohner</ref> : <ref target="#intertextuality">
+                                <ref target="#childhood">Étudiante à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/5SYf2zk1Ot5">Berlin</placeName>, la narratrice est obligée de se joindre au mouvement de jeunesse hitlérienne pour pouvoir continuer d’aller au lycée. L’enseignement pro-nazi est contesté par la famille Bohner</ref> : <ref target="#intertextuality">
                                     <ref target="#genre_lifeWriting">dans une scène racontée dans <title level="m">Parallèles</title> ainsi que dans <title level="m">Le figuier sur le toit</title>, la mère s’emporte contre Marguerite, la giflant lorsque celle-ci arrive à la maison avec un drapeau portant la croix gammée. La jeune fille n’est pas à l’abri de la propagande hitlérienne, qui lui inspire un roman familial reposant sur le récit édénique du <hi rend="italic" xml:lang="de-DE">Vater, Mutter, Kind,</hi> mais revu : <q>Marguerite rêvait parfois, le soir, dans son lit, que le <hi rend="italic" xml:lang="de-DE">Führer</hi> était son vrai père… Que Theo n’était rien en comparaison de cet homme important, le plus important du pays</q>
                                         <note place="inline">
                                             <bibl>
                                                 <title level="m">Figuier</title> 219</bibl>
                                         </note>
                                     </ref>
-                                </ref>.</ref> Vers la fin de la guerre, alors que les autres membres de la famille s’enfuient en Autriche, le père reste à Berlin pour soutenir ses amis, qui planifient l’attentat manqué contre Hitler du 20 juillet 1944, et parmi eux Julius Leber. Ce Berlin de l’époque de la guerre ne suscite que de la culpabilité, ce que la narratrice exprime ainsi dans <title level="m">Parallèles</title> :</ref>
+                                </ref>.</ref> Vers la fin de la guerre, alors que les autres membres de la famille s’enfuient en Autriche, le père reste à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/rdP59Hv415c">Berlin</placeName> pour soutenir ses amis, qui planifient l’attentat manqué contre Hitler du 20 juillet 1944, et parmi eux Julius Leber. Ce <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/1KDUqBQJJCk">Berlin</placeName> de l’époque de la guerre ne suscite que de la culpabilité, ce que la narratrice exprime ainsi dans <title level="m">Parallèles</title> :</ref>
                     </p>
                     <q type="block">
                         <ref target="#history">
@@ -580,7 +580,7 @@
                         <ref target="#nationality">Après la guerre, pour s’évader d’un pays en ruines, la narratrice se marie à un officier français, originaire de Tunis, qui lui donne deux fils et l’emprisonne dans un mariage malheureux et oppressif</ref>. Dans <title level="m">Parallèles</title>, la narratrice confie au lecteur ce sentiment de honte qui motive sa fuite de la langue et de la culture allemandes : <q>je me suis jetée dans un autre milieu, une autre langue. Ai caché mes origines. Pour ne pas être accusée des horreurs commises. Et sans y avoir participé, je m’en sens coupable, encore et toujours</q>
                         <note place="inline">
                             <bibl>220</bibl>
-                        </note>. <ref target="#spatiality">Berlin reste donc un espace narratif marqué par l’ambivalence : l’écriture du père est symbole de la richesse culturelle du Berlin d’antan, mais aussi symbole d’impuissance, pauvre substitut de l’action héroïque. Pour retrouver le bonheur fantasmé de la cellule familiale, la narratrice entretiendra des liaisons amoureuses condamnées à lui apporter de l’angoisse</ref>.</p>
+                        </note>. <ref target="#spatiality"><placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/I1yvvw7HXbp">Berlin</placeName> reste donc un espace narratif marqué par l’ambivalence : l’écriture du père est symbole de la richesse culturelle du Berlin d’antan, mais aussi symbole d’impuissance, pauvre substitut de l’action héroïque. Pour retrouver le bonheur fantasmé de la cellule familiale, la narratrice entretiendra des liaisons amoureuses condamnées à lui apporter de l’angoisse</ref>.</p>
                 </div>
                 <div type="section">
                     <head>Tunis, un paysage de beauté, de pauvreté et de douleur</head>
@@ -633,7 +633,7 @@
                             <note place="inline">
                                 <bibl>
                                     <title level="m">Bleu sur blanc</title> 75</bibl>
-                            </note> après l’indépendance de la Tunisie en 1955, relâche son emprise sur ses fils, qui passent un certain temps à Berlin avec leur famille allemande. L’émigration à Montréal fournit à Marguerite l’occasion de refaire sa vie, même si elle doit se contenter pour un temps de laisser l’un de ses fils avec son père.</ref>
+                            </note> après l’indépendance de la Tunisie en 1955, relâche son emprise sur ses fils, qui passent un certain temps à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/E4rjR8ame0D">Berlin</placeName> avec leur famille allemande. L’émigration à Montréal fournit à Marguerite l’occasion de refaire sa vie, même si elle doit se contenter pour un temps de laisser l’un de ses fils avec son père.</ref>
                     </p>
                 </div>
                 <div type="section">
@@ -688,7 +688,7 @@
                     <p xml:id="p1373">
                         <ref target="#genre_lifeWriting">
                             <ref target="#spatiality">
-                                <ref target="#history">S’installer à Paris en congé sabbatique pendant un an pour écrire, quel rêve pour l’ex-Berlinoise! Nous avons vu que le Berlin des années 1920, <q>ville en compétition intellectuelle et artistique avec Paris</q>, se mesurait à l’aune de la ville-lumière <note place="inline">
+                                <ref target="#history">S’installer à Paris en congé sabbatique pendant un an pour écrire, quel rêve pour l’ex-Berlinoise! Nous avons vu que le <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/DeTNpWE7NmF">Berlin</placeName> des années 1920, <q>ville en compétition intellectuelle et artistique avec Paris</q>, se mesurait à l’aune de la ville-lumière <note place="inline">
                                         <bibl>
                                             <title level="m">Figuier</title> 154</bibl>
                                     </note>
@@ -722,7 +722,7 @@
                                 <ref target="#language">Si le père représente l’autorité quant à <q>l’allemand</q> et que l’anglais appartient à la sœur aînée <note place="inline">
                                         <bibl>
                                             <title level="m">Mémoire</title> 32</bibl>
-                                    </note>, quelle langue faut-il choisir pour écrire? Paradoxalement, dans cette ville à prédominance anglophone, Marguerite choisit d’écrire en français, langue qu’elle considère comme maternelle puisque c’est sa mère qui l’a amenée à l’étudier chez une dame belge au cœur brisé : <q>Le français reste néanmoins la langue de mon choix. Grâce au séjour de Mlle Gralier à Berlin, il est ma langue maternelle. C’est toi, ma mère, qui m’as dotée de cette langue que je choisis aujourd’hui pour m’exprimer</q>
+                                    </note>, quelle langue faut-il choisir pour écrire? Paradoxalement, dans cette ville à prédominance anglophone, Marguerite choisit d’écrire en français, langue qu’elle considère comme maternelle puisque c’est sa mère qui l’a amenée à l’étudier chez une dame belge au cœur brisé : <q>Le français reste néanmoins la langue de mon choix. Grâce au séjour de Mlle Gralier à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/G6oHGq28A8J">Berlin</placeName>, il est ma langue maternelle. C’est toi, ma mère, qui m’as dotée de cette langue que je choisis aujourd’hui pour m’exprimer</q>
                                     <note place="inline">
                                         <bibl>
                                             <title level="m">Mémoire</title> 32</bibl>
@@ -767,7 +767,7 @@
                         </ref>
                     </p>
                     <q type="block">
-                        <ref target="#economics">La coïncidence est remarquable : Berlin, un écrivain, une association professionnelle — <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/JqYv0afG9g9">Toronto</placeName>, une écrivaine, des associations professionnelles. Tel père, telle fille! Des époques différentes, mais les mêmes objectifs : liberté d’expression, droit d’auteur, revenu acceptable, habitations à loyer modéré, paiement pour le prêt public, subventions gouvernementales.</ref>
+                        <ref target="#economics">La coïncidence est remarquable : <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/KLpRlNPy9ox">Berlin</placeName>, un écrivain, une association professionnelle — <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/JqYv0afG9g9">Toronto</placeName>, une écrivaine, des associations professionnelles. Tel père, telle fille! Des époques différentes, mais les mêmes objectifs : liberté d’expression, droit d’auteur, revenu acceptable, habitations à loyer modéré, paiement pour le prêt public, subventions gouvernementales.</ref>
                         <note place="inline">
                             <bibl>
                                 <title level="m">Figuier</title> 171</bibl>
@@ -778,13 +778,13 @@
                             <note place="inline">
                                 <bibl>
                                     <title level="m">Figuier</title> 172</bibl>
-                            </note>. Le discours mémoriel réunit donc père et fille, Berlin et <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/r8yYiRuoJ4s">Toronto</placeName>, une littérature allemande renommée et une littérature franco-ontarienne en émergence. Le monde de la convivialité artistique finit par l’emporter sur l’ancien idéal de la famille nucléaire.</ref>
+                            </note>. Le discours mémoriel réunit donc père et fille, <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/qQLG60u1C2L">Berlin</placeName> et <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/r8yYiRuoJ4s">Toronto</placeName>, une littérature allemande renommée et une littérature franco-ontarienne en émergence. Le monde de la convivialité artistique finit par l’emporter sur l’ancien idéal de la famille nucléaire.</ref>
                     </p>
                 </div>
                 <div type="section">
                     <head>La ville multiculturelle et le figuier déterré</head>
                     <p xml:id="p1377">
-                        <ref target="#spatiality"><placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/rjeoq622Tx2">Toronto</placeName>, tout en renvoyant, pour Andersen, au Berlin du père écrivain comme site urbain de l’institution littéraire, se démarque par un <hi rend="italic">zeitgeist</hi> qui contraste avec les idéaux de pureté ethnique et culturelle prônés par le grand-père Seeberg à Berlin avant la <ref target="#history">Seconde Guerre mondiale</ref>. Dans cette optique, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/Fw5XVlhxPxz">Toronto</placeName> incarnerait la réussite de <ref target="#politics">la politique canadienne de multiculturalisme, dont l’idéologie demeure d’ailleurs fortement critiquée de nos jours</ref>. <ref target="#intertextuality">On pourrait dès lors se poser la question : est-ce qu’Andersen tombe dans le piège de ce que Daniel Coleman appelle la <q>civilité blanche</q> (<q>
+                        <ref target="#spatiality"><placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/rjeoq622Tx2">Toronto</placeName>, tout en renvoyant, pour Andersen, au <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/q2QTzdloECf">Berlin</placeName> du père écrivain comme site urbain de l’institution littéraire, se démarque par un <hi rend="italic">zeitgeist</hi> qui contraste avec les idéaux de pureté ethnique et culturelle prônés par le grand-père Seeberg à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/aV7tJOBZEPF">Berlin</placeName> avant la <ref target="#history">Seconde Guerre mondiale</ref>. Dans cette optique, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/Fw5XVlhxPxz">Toronto</placeName> incarnerait la réussite de <ref target="#politics">la politique canadienne de multiculturalisme, dont l’idéologie demeure d’ailleurs fortement critiquée de nos jours</ref>. <ref target="#intertextuality">On pourrait dès lors se poser la question : est-ce qu’Andersen tombe dans le piège de ce que Daniel Coleman appelle la <q>civilité blanche</q> (<q>
                                     <hi rend="italic" xml:lang="en-CA">white civility</hi>
                                 </q>) <note place="inline">
                                     <bibl>32-33</bibl>
@@ -809,7 +809,7 @@
                                 <bibl>
                                     <title level="m">Figuier</title> 257-58</bibl>
                             </note>. <ref target="#violence">
-                                <ref target="#genre_lifeWriting">La vieille dame témoigne de la persécution des Juifs (de la perte de leurs droits jusqu’au génocide), de la persécution des amis homosexuels de ses parents à Berlin, des efforts de sa mère de protéger sa tante toxicomane (que les autorités pouvaient faire disparaître en tant que malade mentale)</ref>. Elle conclut cette autofiction en affirmant : <q>Après tout, les réponses aux <hi rend="italic" xml:lang="en-CA">Where are you from</hi>, mes enfants et les leurs n’en ont pas vraiment besoin</q>
+                                <ref target="#genre_lifeWriting">La vieille dame témoigne de la persécution des Juifs (de la perte de leurs droits jusqu’au génocide), de la persécution des amis homosexuels de ses parents à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/M7QQ2kPB3Mf">Berlin</placeName>, des efforts de sa mère de protéger sa tante toxicomane (que les autorités pouvaient faire disparaître en tant que malade mentale)</ref>. Elle conclut cette autofiction en affirmant : <q>Après tout, les réponses aux <hi rend="italic" xml:lang="en-CA">Where are you from</hi>, mes enfants et les leurs n’en ont pas vraiment besoin</q>
                                 <note place="inline">
                                     <bibl>
                                         <title level="m">Figuier</title> 255</bibl>
@@ -824,7 +824,7 @@
                     <p xml:id="p1379">
                         <ref target="#spatiality">
                             <ref target="voice_or_narration">Il ne faut cependant pas oublier que la ville est une structure narrative construite par l’auteure, un espace-temps à forte teneur symbolique</ref>. <ref target="#violence">
-                                <ref target="race_issue">Ainsi, dans <title level="m">La vie devant elles</title>, on retrouve une attitude plus critique envers le pays d’accueil, lorsqu’Ariane, petite-fille de Marguerite, fait du camping en Ontario avec son mari togolais et leurs deux enfants et qu’ils sont confrontés à cette occasion au profilage racial, un policier les arrêtant sans motif valable</ref>.</ref> Si <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/Bq7bCZib96B">Toronto</placeName> apparaît dans <title level="m">Le figuier sur le toit</title> comme un lieu de tolérance et de paix, <ref target="#history">c’est pour souligner le contraste avec un Berlin soumis aux affres de la guerre. C’est peut-être aussi pour rappeler que le Berlin d’avant la guerre apparaissait, lui aussi, comme un milieu ouvert à la diversité et à l’épanouissement culturel et artistique. Témoigner des atrocités de guerre, c’est également une façon de rappeler les dangers de la suffisance et de l’orgueil.</ref>
+                                <ref target="race_issue">Ainsi, dans <title level="m">La vie devant elles</title>, on retrouve une attitude plus critique envers le pays d’accueil, lorsqu’Ariane, petite-fille de Marguerite, fait du camping en Ontario avec son mari togolais et leurs deux enfants et qu’ils sont confrontés à cette occasion au profilage racial, un policier les arrêtant sans motif valable</ref>.</ref> Si <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/Bq7bCZib96B">Toronto</placeName> apparaît dans <title level="m">Le figuier sur le toit</title> comme un lieu de tolérance et de paix, <ref target="#history">c’est pour souligner le contraste avec un <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/IOlauxua4dO">Berlin</placeName> soumis aux affres de la guerre. C’est peut-être aussi pour rappeler que le Berlin d’avant la guerre apparaissait, lui aussi, comme un milieu ouvert à la diversité et à l’épanouissement culturel et artistique. Témoigner des atrocités de guerre, c’est également une façon de rappeler les dangers de la suffisance et de l’orgueil.</ref>
                         </ref>
                     </p>
                     <p xml:id="p1380">
@@ -850,7 +850,7 @@
                         </ref>
                     </p>
                     <p xml:id="p1382">
-                        <ref target="#genre_lifeWriting">C’est ce sentiment de libération qui prédomine dans les récits biofictionnels qui composent <title level="m">La vie devant elles</title>, où la réconciliation avec le père ainsi qu’avec le passé berlinois se fait à travers les voyages des petites-filles de Marguerite. <ref target="#spatiality">Lorsque la vieille dame fait un séjour à Berlin avec sa petite-fille Isa, elle brise le silence sur le passé. Elle lui révèle que son père (le fils de Marguerite), qui a toujours caché ses origines allemandes, a passé une partie de sa jeunesse dans la ville. Elles se délectent de la richesse culturelle du Berlin restauré, de ses musées d’art et de ses magasins. Ensemble, elles visitent le Musée du Judaïsme, elles traversent l’axe de l’Holocauste, l’axe de l’exil et celui de la continuité. L’espace mémoriel révèle les actes honteux du régime nazi et offre en retour une possibilité de guérison. Ariane, autre petite-fille de Marguerite, en voyage en Afrique pour établir un programme d’aide auprès des femmes du Ghana, complète quant à elle le processus de réconciliation avec le passé en retrouvant le pays de naissance de son arrière-grand-père Theo, et elle donne à son fils le nom africain de son aïeul, Kwabla</ref>.</ref>
+                        <ref target="#genre_lifeWriting">C’est ce sentiment de libération qui prédomine dans les récits biofictionnels qui composent <title level="m">La vie devant elles</title>, où la réconciliation avec le père ainsi qu’avec le passé berlinois se fait à travers les voyages des petites-filles de Marguerite. <ref target="#spatiality">Lorsque la vieille dame fait un séjour à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/cbI4oLF0t1a">Berlin</placeName> avec sa petite-fille Isa, elle brise le silence sur le passé. Elle lui révèle que son père (le fils de Marguerite), qui a toujours caché ses origines allemandes, a passé une partie de sa jeunesse dans la ville. Elles se délectent de la richesse culturelle du Berlin restauré, de ses musées d’art et de ses magasins. Ensemble, elles visitent le Musée du Judaïsme, elles traversent l’axe de l’Holocauste, l’axe de l’exil et celui de la continuité. L’espace mémoriel révèle les actes honteux du régime nazi et offre en retour une possibilité de guérison. Ariane, autre petite-fille de Marguerite, en voyage en Afrique pour établir un programme d’aide auprès des femmes du Ghana, complète quant à elle le processus de réconciliation avec le passé en retrouvant le pays de naissance de son arrière-grand-père Theo, et elle donne à son fils le nom africain de son aïeul, Kwabla</ref>.</ref>
                     </p>
                 </div>
                 <div type="section">
@@ -975,7 +975,10 @@
         "id": "https://sws.geonames.org/2950159",
         "type": "crm:E53_Place",
         "label": "Berlin",
-        "description": "Berlin, DE"
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -1064,7 +1067,2218 @@
         "id": "https://sws.geonames.org/2950159",
         "type": "crm:E53_Place",
         "label": "Berlin",
-        "description": "Berlin, DE"
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/GFgYMCmanmk">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/GFgYMCmanmk",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:33:12.387Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/0V7PwExk8Dv",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/0V7PwExk8Dv/selector/textPosition/f7o0kmugGKn",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 4786,
+                "end": 4792,
+                "refinedBy": {
+                    "id": "/target/0V7PwExk8Dv/selector/textQuote/ySrhuhVwBu9",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": " : elle fuit",
+                    "suffix": "en 1945 pour s’installer successivement à Londres, à Tunis, à Montréal, à Addis-Abeba et enfin à Toronto, au gré de ses amours et de sa carrière universitaire"
+                }
+            },
+            {
+                "id": "/target/0V7PwExk8Dv/selector/css/PdyK43Kf4DL",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/GFgYMCmanmk]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2950159",
+        "type": "crm:E53_Place",
+        "label": "Berlin",
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/PyfjXrjXNRM">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/PyfjXrjXNRM",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:33:12.528Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/CWPsZaTosO0",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/CWPsZaTosO0/selector/textPosition/vkWmGwZmH1h",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 5084,
+                "end": 5090,
+                "refinedBy": {
+                    "id": "/target/CWPsZaTosO0/selector/textQuote/eXFUbPrGXA8",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": "",
+                    "suffix": " ville qui inspire culpabilité et honte à Andersen, est également le lieu privilégié de son père, Theodor Werner Bohner, fils d’un missionnaire luthérien, ancien député au Landtag, romancier, biographe et essayiste, qui constitue à la fois un rival et une source d’inspiration"
+                }
+            },
+            {
+                "id": "/target/CWPsZaTosO0/selector/css/WRLel3AI2Jd",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/PyfjXrjXNRM]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2950159",
+        "type": "crm:E53_Place",
+        "label": "Berlin",
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/gaxo9iUbPn1">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/gaxo9iUbPn1",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:33:12.971Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/YC3i0gAo9Km",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/YC3i0gAo9Km/selector/textPosition/6YL96riqrQp",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6481,
+                "end": 6487,
+                "refinedBy": {
+                    "id": "/target/YC3i0gAo9Km/selector/textQuote/Z6zLKBROPlb",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": " De",
+                    "suffix": "à Toronto, Andersen entreprend la quête difficile de se réconcilier avec une enfance vécue sous le régime nazi ainsi qu’avec le père écrivain et le paradis perdu de l’enfance, représenté dans l’œuvre comme le triangle sacré Vater, Mutter, Kind (père, mère, enfant)"
+                }
+            },
+            {
+                "id": "/target/YC3i0gAo9Km/selector/css/xL4AjWEQQHI",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/gaxo9iUbPn1]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2950159",
+        "type": "crm:E53_Place",
+        "label": "Berlin",
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/mufCTTVWoP0">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/mufCTTVWoP0",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:33:12.972Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/eEQ2e4Q2YxG",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/eEQ2e4Q2YxG/selector/textPosition/1arlxiIW8R7",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 7020,
+                "end": 7026,
+                "refinedBy": {
+                    "id": "/target/eEQ2e4Q2YxG/selector/textQuote/gKjl3EmeGGN",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": "\n                    \n                \n                \n                    Une enfance berlinoise : l’enfant et le père écrivain\n                    \n                        \n                            Bien qu’Andersen soit née à Magdebourg, petite ville proche de",
+                    "suffix": " c’est Berlin, où elle emménage avec sa famille à l’âge de quatre ans, qui incarne surtout le lieu de son enfance"
+                }
+            },
+            {
+                "id": "/target/eEQ2e4Q2YxG/selector/css/fhy5QxVvwlR",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/mufCTTVWoP0]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2950159",
+        "type": "crm:E53_Place",
+        "label": "Berlin",
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/1AQs2b9xA0D">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/1AQs2b9xA0D",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:33:12.973Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/OJnp8RaMaUJ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/OJnp8RaMaUJ/selector/textPosition/NshCJbViDHF",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 7034,
+                "end": 7040,
+                "refinedBy": {
+                    "id": "/target/OJnp8RaMaUJ/selector/textQuote/MAvB7l0UhXb",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": "\n                    \n                \n                \n                    Une enfance berlinoise : l’enfant et le père écrivain\n                    \n                        \n                            Bien qu’Andersen soit née à Magdebourg, petite ville proche de Berlin, c’est",
+                    "suffix": " où elle emménage avec sa famille à l’âge de quatre ans, qui incarne surtout le lieu de son enfance"
+                }
+            },
+            {
+                "id": "/target/OJnp8RaMaUJ/selector/css/RgIjtLWJ2Em",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/1AQs2b9xA0D]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2950159",
+        "type": "crm:E53_Place",
+        "label": "Berlin",
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/dV2kcvLHPoK">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/dV2kcvLHPoK",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:33:12.973Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/IgfVhSGHlUt",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/IgfVhSGHlUt/selector/textPosition/D91mcVDZON7",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 7187,
+                "end": 7193,
+                "refinedBy": {
+                    "id": "/target/IgfVhSGHlUt/selector/textQuote/3cID5wU3Eu9",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": " D’ailleurs, dans Parallèles, la narratrice a",
+                    "suffix": "comme lieu de naissance \n                                19\n                            "
+                }
+            },
+            {
+                "id": "/target/IgfVhSGHlUt/selector/css/vtNL4y7SkYk",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/dV2kcvLHPoK]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2950159",
+        "type": "crm:E53_Place",
+        "label": "Berlin",
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/U9we7CTJdc6">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/U9we7CTJdc6",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:33:12.974Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/SO7B9rat0Pc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/SO7B9rat0Pc/selector/textPosition/FSFVbDQQMNv",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 10498,
+                "end": 10504,
+                "refinedBy": {
+                    "id": "/target/SO7B9rat0Pc/selector/textQuote/7EmvxXwoUDg",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": " Ce paradis fantasmé est celui du bonheur enfantin et innocent, qui ignore les conflits et les infidélités des parents dans la vie mondaine de",
+                    "suffix": " Lorsque le père exige de la mère la vente de la maison d’été de Ahrensoop, territoire du grand-père et du beau-frère antisémites, Marguerite se sent expulsée du paradis : Il fallait que quelqu’un me chasse de mon paradis, Theo, le dieu de mon enfance, était prédestiné à ce rôle rien que par son nom\n                                    \n                                        \n                                            Figuier 105\n                                    \n                                "
+                }
+            },
+            {
+                "id": "/target/SO7B9rat0Pc/selector/css/M6zLe3y3Gdu",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/U9we7CTJdc6]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2950159",
+        "type": "crm:E53_Place",
+        "label": "Berlin",
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Nqq0HjbCBJg">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Nqq0HjbCBJg",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:33:12.975Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/VGcoNv7oeLk",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/VGcoNv7oeLk/selector/textPosition/sMzdlsWsXOx",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 11777,
+                "end": 11783,
+                "refinedBy": {
+                    "id": "/target/VGcoNv7oeLk/selector/textQuote/5EDHHj8O1LQ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": "\n                                \n                                    \n                                        C’est à",
+                    "suffix": "que le grand-père maternel, Reinhold Seeberg, recteur de la Freidrich-Wilhelms-Universität, enseigne et rédige des livres de théologie qui font encore autorité dans ce domaine\n                                    \n                                "
+                }
+            },
+            {
+                "id": "/target/VGcoNv7oeLk/selector/css/azEMpOs7a9p",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Nqq0HjbCBJg]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2950159",
+        "type": "crm:E53_Place",
+        "label": "Berlin",
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/CBEmaRXcAhR">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/CBEmaRXcAhR",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:33:12.976Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/XhiVVETnZuS",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/XhiVVETnZuS/selector/textPosition/5skvOKmZ5lf",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 12746,
+                "end": 12752,
+                "refinedBy": {
+                    "id": "/target/XhiVVETnZuS/selector/textQuote/gojCrQWoVNr",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": " En 1928, lorsque Theodor Bohner, qui a reçu une promotion au ministère de l’Éducation, s’installe à",
+                    "suffix": "avec sa famille, il s’agit d’une ville de quatre millions d’habitants, dont 170 000 Juifs, et 50 000 Russes parmi 150 000 étrangers, ville en compétition intellectuelle et artistique avec Paris\n                                \n                                    \n                                        Figuier 154\n                                \n                            "
+                }
+            },
+            {
+                "id": "/target/XhiVVETnZuS/selector/css/GW3jm9c1ohq",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/CBEmaRXcAhR]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2950159",
+        "type": "crm:E53_Place",
+        "label": "Berlin",
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/LLDrw5CIjp2">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/LLDrw5CIjp2",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:33:12.977Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/DYGLNYdUVht",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/DYGLNYdUVht/selector/textPosition/bqV4WdqeQxp",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 14033,
+                "end": 14039,
+                "refinedBy": {
+                    "id": "/target/DYGLNYdUVht/selector/textQuote/9LJq4W0NvHJ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": "\n                        \n                    \n                    C’est à",
+                    "suffix": "que son père, Theo, qui s’oppose à Hitler et aux idées antisémites de son propre beau-père, est démis de ses fonctions et passe la guerre, avec sa femme et ses trois filles, ayant dû quitter leur logement opulent du centre-ville pour un quartier beaucoup plus modeste de la périphérie"
+                }
+            },
+            {
+                "id": "/target/DYGLNYdUVht/selector/css/BVcNYlvW1aW",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/LLDrw5CIjp2]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2950159",
+        "type": "crm:E53_Place",
+        "label": "Berlin",
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/5SYf2zk1Ot5">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/5SYf2zk1Ot5",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:33:12.977Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/suNcdoukqw9",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/suNcdoukqw9/selector/textPosition/4dxhb0kqrxk",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 14974,
+                "end": 14980,
+                "refinedBy": {
+                    "id": "/target/suNcdoukqw9/selector/textQuote/kCqGeLm8jnO",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": " \n                            \n                                Étudiante à",
+                    "suffix": " la narratrice est obligée de se joindre au mouvement de jeunesse hitlérienne pour pouvoir continuer d’aller au lycée"
+                }
+            },
+            {
+                "id": "/target/suNcdoukqw9/selector/css/ipgSf6NFrF7",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/5SYf2zk1Ot5]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2950159",
+        "type": "crm:E53_Place",
+        "label": "Berlin",
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/rdP59Hv415c">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/rdP59Hv415c",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:33:12.978Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/FEx1M8v7ncb",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/FEx1M8v7ncb/selector/textPosition/n83LAkgxqQd",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 16106,
+                "end": 16112,
+                "refinedBy": {
+                    "id": "/target/FEx1M8v7ncb/selector/textQuote/OnkjO63MENv",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": " Vers la fin de la guerre, alors que les autres membres de la famille s’enfuient en Autriche, le père reste à",
+                    "suffix": "pour soutenir ses amis, qui planifient l’attentat manqué contre Hitler du 20 juillet 1944, et parmi eux Julius Leber"
+                }
+            },
+            {
+                "id": "/target/FEx1M8v7ncb/selector/css/qDzmPLch6Sy",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/rdP59Hv415c]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2950159",
+        "type": "crm:E53_Place",
+        "label": "Berlin",
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/1KDUqBQJJCk">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/1KDUqBQJJCk",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:33:13.206Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/CiAqXcRnBcO",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/CiAqXcRnBcO/selector/textPosition/rZbuqzXi1rh",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 16234,
+                "end": 16240,
+                "refinedBy": {
+                    "id": "/target/CiAqXcRnBcO/selector/textQuote/d3B2vmyXBzs",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": " Ce",
+                    "suffix": "de l’époque de la guerre ne suscite que de la culpabilité, ce que la narratrice exprime ainsi dans Parallèles :\n                    \n                    \n                        \n                            La mère arrêtée brièvement, en 1942, pour avoir écouté Radio-Londres"
+                }
+            },
+            {
+                "id": "/target/CiAqXcRnBcO/selector/css/RTCV9ZhPKIp",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/1KDUqBQJJCk]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2950159",
+        "type": "crm:E53_Place",
+        "label": "Berlin",
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/I1yvvw7HXbp">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/I1yvvw7HXbp",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:33:13.206Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/D6NOnrwxNKi",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/D6NOnrwxNKi/selector/textPosition/AmpLYRBhb4L",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 17575,
+                "end": 17581,
+                "refinedBy": {
+                    "id": "/target/D6NOnrwxNKi/selector/textQuote/aD50hoJX6tu",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": "",
+                    "suffix": "reste donc un espace narratif marqué par l’ambivalence : l’écriture du père est symbole de la richesse culturelle du Berlin d’antan, mais aussi symbole d’impuissance, pauvre substitut de l’action héroïque"
+                }
+            },
+            {
+                "id": "/target/D6NOnrwxNKi/selector/css/wmFX4ugNUQF",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/I1yvvw7HXbp]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2950159",
+        "type": "crm:E53_Place",
+        "label": "Berlin",
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/E4rjR8ame0D">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/E4rjR8ame0D",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:33:13.207Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/P4R8AIhvvsZ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/P4R8AIhvvsZ/selector/textPosition/tQC5p2mGrSS",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 22328,
+                "end": 22334,
+                "refinedBy": {
+                    "id": "/target/P4R8AIhvvsZ/selector/textQuote/hP4QRCQnXvn",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": " Le père, lui-même personne déplacée\n                            \n                                \n                                    Bleu sur blanc 75\n                             après l’indépendance de la Tunisie en 1955, relâche son emprise sur ses fils, qui passent un certain temps à",
+                    "suffix": "avec leur famille allemande"
+                }
+            },
+            {
+                "id": "/target/P4R8AIhvvsZ/selector/css/Wnosr2Mfc67",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/E4rjR8ame0D]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2950159",
+        "type": "crm:E53_Place",
+        "label": "Berlin",
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/DeTNpWE7NmF">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/DeTNpWE7NmF",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:33:13.207Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/QZfGxFjaOnK",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/QZfGxFjaOnK/selector/textPosition/oTNM05a2iM5",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 28892,
+                "end": 28898,
+                "refinedBy": {
+                    "id": "/target/QZfGxFjaOnK/selector/textQuote/gY4CYZgKyK9",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": "\n                    \n                \n                \n                    Paris, ville-lumière, métropole culturelle\n                    \n                        \n                            \n                                S’installer à Paris en congé sabbatique pendant un an pour écrire, quel rêve pour l’ex-Berlinoise! Nous avons vu que le",
+                    "suffix": "des années 1920, ville en compétition intellectuelle et artistique avec Paris, se mesurait à l’aune de la ville-lumière \n                                        \n                                            Figuier 154\n                                    \n                                "
+                }
+            },
+            {
+                "id": "/target/QZfGxFjaOnK/selector/css/6B9wNmzNOhs",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/DeTNpWE7NmF]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2950159",
+        "type": "crm:E53_Place",
+        "label": "Berlin",
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/G6oHGq28A8J">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/G6oHGq28A8J",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:33:13.207Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/SrLYBqz2GTq",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/SrLYBqz2GTq/selector/textPosition/PKpShTbrB6M",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 32650,
+                "end": 32656,
+                "refinedBy": {
+                    "id": "/target/SrLYBqz2GTq/selector/textQuote/uaG5FUiXxAT",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": " Grâce au séjour de Mlle Gralier à",
+                    "suffix": " il est ma langue maternelle"
+                }
+            },
+            {
+                "id": "/target/SrLYBqz2GTq/selector/css/0QdDfS6rehn",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/G6oHGq28A8J]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2950159",
+        "type": "crm:E53_Place",
+        "label": "Berlin",
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/KLpRlNPy9ox">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/KLpRlNPy9ox",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:33:13.208Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/7om8jvRxVVB",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/7om8jvRxVVB/selector/textPosition/l7KEtJvmWpi",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 37761,
+                "end": 37767,
+                "refinedBy": {
+                    "id": "/target/7om8jvRxVVB/selector/textQuote/gzNnW9ucz7H",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": " Écrivaine torontoise, elle retrouve alors un point de contact positif avec le père, écrivain berlinois :\n                        \n                    \n                    \n                        La coïncidence est remarquable :",
+                    "suffix": " un écrivain, une association professionnelle — Toronto, une écrivaine, des associations professionnelles"
+                }
+            },
+            {
+                "id": "/target/7om8jvRxVVB/selector/css/1SidijweDiR",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/KLpRlNPy9ox]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2950159",
+        "type": "crm:E53_Place",
+        "label": "Berlin",
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/qQLG60u1C2L">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/qQLG60u1C2L",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:33:13.208Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/PgovgOlQGRK",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/PgovgOlQGRK/selector/textPosition/r6TDAmVSJtW",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 38713,
+                "end": 38719,
+                "refinedBy": {
+                    "id": "/target/PgovgOlQGRK/selector/textQuote/oobYRNF09DD",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": " Le discours mémoriel réunit donc père et fille,",
+                    "suffix": "et Toronto, une littérature allemande renommée et une littérature franco-ontarienne en émergence"
+                }
+            },
+            {
+                "id": "/target/PgovgOlQGRK/selector/css/l0r4tHvpYjG",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/qQLG60u1C2L]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2950159",
+        "type": "crm:E53_Place",
+        "label": "Berlin",
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/q2QTzdloECf">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/q2QTzdloECf",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:33:13.209Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/0LmF9gavpsD",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/0LmF9gavpsD/selector/textPosition/LJePHNCyjKk",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 39135,
+                "end": 39141,
+                "refinedBy": {
+                    "id": "/target/0LmF9gavpsD/selector/textQuote/pj4GqTOFO0j",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": "\n                    \n                \n                \n                    La ville multiculturelle et le figuier déterré\n                    \n                        Toronto, tout en renvoyant, pour Andersen, au",
+                    "suffix": "du père écrivain comme site urbain de l’institution littéraire, se démarque par un zeitgeist qui contraste avec les idéaux de pureté ethnique et culturelle prônés par le grand-père Seeberg à Berlin avant la Seconde Guerre mondiale"
+                }
+            },
+            {
+                "id": "/target/0LmF9gavpsD/selector/css/b7ssFrwdO5b",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/q2QTzdloECf]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2950159",
+        "type": "crm:E53_Place",
+        "label": "Berlin",
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/aV7tJOBZEPF">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/aV7tJOBZEPF",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:33:13.209Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/QwBbwo174EI",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/QwBbwo174EI/selector/textPosition/94dxiyi5Q8K",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 39333,
+                "end": 39339,
+                "refinedBy": {
+                    "id": "/target/QwBbwo174EI/selector/textQuote/iZ9Gn3ZjZXy",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": "\n                    \n                \n                \n                    La ville multiculturelle et le figuier déterré\n                    \n                        Toronto, tout en renvoyant, pour Andersen, au Berlin du père écrivain comme site urbain de l’institution littéraire, se démarque par un zeitgeist qui contraste avec les idéaux de pureté ethnique et culturelle prônés par le grand-père Seeberg à",
+                    "suffix": "avant la Seconde Guerre mondiale"
+                }
+            },
+            {
+                "id": "/target/QwBbwo174EI/selector/css/bIdPNvYlXbb",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/aV7tJOBZEPF]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2950159",
+        "type": "crm:E53_Place",
+        "label": "Berlin",
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/M7QQ2kPB3Mf">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/M7QQ2kPB3Mf",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:33:13.209Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/gouxCmeG4Z2",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/gouxCmeG4Z2/selector/textPosition/VkHaka4N9gX",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 41555,
+                "end": 41561,
+                "refinedBy": {
+                    "id": "/target/gouxCmeG4Z2/selector/textQuote/iLt2EFk7uxB",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": " \n                                La vieille dame témoigne de la persécution des Juifs (de la perte de leurs droits jusqu’au génocide), de la persécution des amis homosexuels de ses parents à",
+                    "suffix": " des efforts de sa mère de protéger sa tante toxicomane (que les autorités pouvaient faire disparaître en tant que malade mentale)"
+                }
+            },
+            {
+                "id": "/target/gouxCmeG4Z2/selector/css/WjQJ5RSKHz1",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/M7QQ2kPB3Mf]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2950159",
+        "type": "crm:E53_Place",
+        "label": "Berlin",
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/IOlauxua4dO">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/IOlauxua4dO",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:33:13.468Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/avNujiOnxE4",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/avNujiOnxE4/selector/textPosition/B2nU5TH8gQJ",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 43403,
+                "end": 43409,
+                "refinedBy": {
+                    "id": "/target/avNujiOnxE4/selector/textQuote/9jXwDGwfMnt",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": " Si Toronto apparaît dans Le figuier sur le toit comme un lieu de tolérance et de paix, c’est pour souligner le contraste avec un",
+                    "suffix": "soumis aux affres de la guerre"
+                }
+            },
+            {
+                "id": "/target/avNujiOnxE4/selector/css/DadyrwSaKI0",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/IOlauxua4dO]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2950159",
+        "type": "crm:E53_Place",
+        "label": "Berlin",
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/cbI4oLF0t1a">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/cbI4oLF0t1a",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-20T14:33:13.468Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/9KjbesAbPck",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/9KjbesAbPck/selector/textPosition/6O67lX57aDa",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 47264,
+                "end": 47270,
+                "refinedBy": {
+                    "id": "/target/9KjbesAbPck/selector/textQuote/9ho2jXz3dsT",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Berlin",
+                    "prefix": " Lorsque la vieille dame fait un séjour à",
+                    "suffix": "avec sa petite-fille Isa, elle brise le silence sur le passé"
+                }
+            },
+            {
+                "id": "/target/9KjbesAbPck/selector/css/39GquCJwHLG",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/cbI4oLF0t1a]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://sws.geonames.org/2950159",
+        "type": "crm:E53_Place",
+        "label": "Berlin",
+        "description": "Berlin, DE",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
