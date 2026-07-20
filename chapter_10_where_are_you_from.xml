@@ -741,7 +741,7 @@
                                 <bibl>178</bibl>
                             </note>
                         </ref>. Toutes les institutions francophones de <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/y2SZ1hMvd4s">Toronto</placeName> sont mises à l’honneur. <ref target="#religion">
-                            <ref target="#spatiality">Par exemple, lorsque <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/XNQgr7gxo91" type="real">Lucienne</persName> quitte Montréal et arrive à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/pd5kC65F8rI">Toronto</placeName>, elle est accueillie par une Anglaise qui l’envoie à l’église Sacré-Cœur, à l’angle des rues Sherbourne et Carlton. Pour <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/Z4CAAIgJ4za">Lucienne</persName>, <q>migrant[e] de l’intérieur</q>
+                            <ref target="#spatiality">Par exemple, lorsque <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/XNQgr7gxo91" type="real" cert="high">Lucienne</persName> quitte Montréal et arrive à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/pd5kC65F8rI">Toronto</placeName>, elle est accueillie par une Anglaise qui l’envoie à l’église Sacré-Cœur, à l’angle des rues Sherbourne et Carlton. Pour <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/Z4CAAIgJ4za">Lucienne</persName>, <q>migrant[e] de l’intérieur</q>
                                 <note place="inline">
                                     <bibl>Harel 30</bibl>
                                 </note>, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/dX7LzXZot3Z">Toronto</placeName> représente un havre après sa vie au Québec, qui apparaît comme soumis aux valeurs patriarcales de l’Église catholique de l’époque. <ref target="#violence">À travers la vie de Lucienne, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/iJeouPk5YFA">Andersen</persName> esquisse en effet le portrait d’une Église oppressive qui condamne les femmes aux grossesses fréquentes, ce qui épuise des femmes comme la mère de Lucienne, qui meurt dans un asile après un épisode de dépression post-partum.</ref> L’Église catholique parraine alors l’Institut des équipières sociales, dont <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/fx0DyXOpOzN">Lucienne</persName> avait fait partie à Ottawa et à Montréal et qui impose aux pénitentes de marcher avec des fèves dans les souliers <q>pour s’empêcher de courir après le plaisir</q>
@@ -11649,7 +11649,8 @@
         ]
     },
     "P2_has_type": [
-        "oa:identifying"
+        "oa:identifying",
+        "edit:certaintyHigh"
     ]
 }]]>
 				
