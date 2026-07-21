@@ -763,7 +763,7 @@
                     </p>
                     <p xml:id="p1375">
                         <ref target="#spatiality">
-                            <ref target="genre_lifeWriting">Pour <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/WyrOHsVciTb">Andersen</persName>, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/AxD28Ia7iBB">Toronto</placeName> constitue donc un milieu privilégié de convivialité artistique. Dans <title level="m">Parallèles</title>, la narratrice <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/WtxwK1HoEWl">Marguerite</persName> fait l’éloge des institutions culturelles francophones, par exemple du Prix Trillium en langue française, créé en 1994 (pour ceux qui ne peuvent participer pleinement à la version anglophone, créée en 1988), ou de l’Association des auteures et des auteurs de l’Ontario français, dont <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/JOS8ZDAwgmN">Marguerite Andersen</persName> a été présidente de 2000 à 2004. Elle parle également de son travail en tant qu’éditrice de la revue franco-ontarienne <title level="j">Virages</title> consacrée à la nouvelle. C’est par cette célébration des institutions littéraires franco-torontoises dont elle fait partie que <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/JR7HXoymf0n">Marguerite</persName> finit par rejoindre le père d’une façon positive. <ref target="#archive">Elle décrit dans <title level="m">Le figuier sur le toit</title> la boîte d’archives personnelles marquée <q>Famille</q> qu’elle a transportée jusqu’à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/keqvyI2DntT">Toronto</placeName> et dans laquelle elle conserve les documents de la société d’écrivains allemands dont son père avait été président avant le régime nazi</ref>. Écrivaine torontoise, elle retrouve alors un point de contact positif avec le père, écrivain berlinois :</ref>
+                            <ref target="genre_lifeWriting">Pour <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/WyrOHsVciTb">Andersen</persName>, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/AxD28Ia7iBB">Toronto</placeName> constitue donc un milieu privilégié de convivialité artistique. Dans <title level="m">Parallèles</title>, la narratrice <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/WtxwK1HoEWl">Marguerite</persName> fait l’éloge des institutions culturelles francophones, par exemple du Prix Trillium en langue française, créé en 1994 (pour ceux qui ne peuvent participer pleinement à la version anglophone, créée en 1988), ou de <orgName key="Association des auteures et auteurs de l'Ontario français" ref="http://viaf.org/viaf/132477087" ana="webannotation:http://temp.lincsproject.ca/V7wPi4onVFJ">l’Association des auteures et des auteurs de l’Ontario français</orgName>, dont <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/JOS8ZDAwgmN">Marguerite Andersen</persName> a été présidente de 2000 à 2004. Elle parle également de son travail en tant qu’éditrice de la revue franco-ontarienne <title level="j">Virages</title> consacrée à la nouvelle. C’est par cette célébration des institutions littéraires franco-torontoises dont elle fait partie que <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/JR7HXoymf0n">Marguerite</persName> finit par rejoindre le père d’une façon positive. <ref target="#archive">Elle décrit dans <title level="m">Le figuier sur le toit</title> la boîte d’archives personnelles marquée <q>Famille</q> qu’elle a transportée jusqu’à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/keqvyI2DntT">Toronto</placeName> et dans laquelle elle conserve les documents de la société d’écrivains allemands dont son père avait été président avant le régime nazi</ref>. Écrivaine torontoise, elle retrouve alors un point de contact positif avec le père, écrivain berlinois :</ref>
                         </ref>
                     </p>
                     <q type="block">
@@ -18654,6 +18654,94 @@
         "type": "crm:E21_Person",
         "label": "Young, Lélia, 1950-",
         "description": "Young, Lélia L. M."
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/V7wPi4onVFJ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/V7wPi4onVFJ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T15:05:45.611Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/d43nrWfgIAp",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/d43nrWfgIAp/selector/textPosition/j08dyIKIXqY",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 36863,
+                "end": 36926,
+                "refinedBy": {
+                    "id": "/target/d43nrWfgIAp/selector/textQuote/turDGIQJiXV",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "l’Association des auteures et des auteurs de l’Ontario français",
+                    "prefix": " Dans Parallèles, la narratrice Marguerite fait l’éloge des institutions culturelles francophones, par exemple du Prix Trillium en langue française, créé en 1994 (pour ceux qui ne peuvent participer pleinement à la version anglophone, créée en 1988), ou de",
+                    "suffix": " dont Marguerite Andersen a été présidente de 2000 à 2004"
+                }
+            },
+            {
+                "id": "/target/d43nrWfgIAp/selector/css/nPLpvxv2qz8",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/V7wPi4onVFJ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/132477087",
+        "type": "crm:E74_Group",
+        "label": "Association des auteures et auteurs de l'Ontario français"
     },
     "P2_has_type": [
         "oa:identifying"
