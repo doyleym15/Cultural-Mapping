@@ -756,7 +756,7 @@
                                     <note place="inline">
                                         <bibl>
                                             <title level="m">Parallèles</title> 200</bibl>
-                                    </note>, elle-même parvient à vivre en français</ref>. <ref target="genre_fiction">Elle passe la fin de sa vie à <placeName key="place Saint-Laurent" ref="http://www.wikidata.org/entity/Q118470389" ana="webannotation:http://temp.lincsproject.ca/lselzgEcoLM">Place Saint-Laurent</placeName>, une résidence francophone pour personnes âgées.</ref> D’ailleurs, <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/DWdISCf4whB">Lucienne</persName> n’est pas la seule membre de <orgName key="Société des écrivain-e-s de Toronto" ref="http://viaf.org/viaf/155882028" ana="webannotation:http://temp.lincsproject.ca/q44Eyz3N8R4">la Société des écrivain(e)s de Toronto</orgName> à figurer dans cette <q>fiction-documentaire</q> : <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/7O363scZbfU">Marguerite</persName> mentionne également, entre autres, <q><persName key="Cloutier, Cécile 1930-..." ref="http://viaf.org/viaf/103651301" ana="webannotation:http://temp.lincsproject.ca/1XeY6QSkVEc">Cécile</persName></q> (Cloutier), <q>Mireille</q> (Déjarlais-Heynneman) et <q><persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/H4bHJfgynCS">Lélia</persName></q> (Young)<note xml:id="n88" place="end">Voir à ce propos <bibl><persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/RSZ0mM1NPtF">Young</persName> 206-07</bibl>, qui décrit ainsi l’évolution du groupe littéraire : d’abord le Regroupement des écrivains de Toronto, ensuite la Société des écrivains canadiens de <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/hLg1pf4iAUw">Toronto</placeName> et enfin <orgName key="Société des écrivain-e-s de Toronto" ref="http://viaf.org/viaf/155882028" ana="webannotation:http://temp.lincsproject.ca/5fYtOUaPdbq">la Société des écrivain(e)s de Toronto</orgName>.</note>
+                                    </note>, elle-même parvient à vivre en français</ref>. <ref target="genre_fiction">Elle passe la fin de sa vie à <placeName key="place Saint-Laurent" ref="http://www.wikidata.org/entity/Q118470389" ana="webannotation:http://temp.lincsproject.ca/lselzgEcoLM">Place Saint-Laurent</placeName>, une résidence francophone pour personnes âgées.</ref> D’ailleurs, <persName key="Lacasse-Lovsted, Lucienne, 1923-1999" ref="http://viaf.org/viaf/105038592" ana="webannotation:http://temp.lincsproject.ca/DWdISCf4whB">Lucienne</persName> n’est pas la seule membre de <orgName key="Société des écrivain-e-s de Toronto" ref="http://viaf.org/viaf/155882028" ana="webannotation:http://temp.lincsproject.ca/q44Eyz3N8R4">la Société des écrivain(e)s de Toronto</orgName> à figurer dans cette <q>fiction-documentaire</q> : <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/7O363scZbfU">Marguerite</persName> mentionne également, entre autres, <q><persName key="Cloutier, Cécile 1930-..." ref="http://viaf.org/viaf/103651301" ana="webannotation:http://temp.lincsproject.ca/1XeY6QSkVEc">Cécile</persName></q> (Cloutier), <q><persName key="Desjarlais-Heynneman, Mireille, 1930-" ref="http://viaf.org/viaf/6621751" ana="webannotation:http://temp.lincsproject.ca/VS2P7N4jHXF">Mireille</persName></q> (Déjarlais-Heynneman) et <q><persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/H4bHJfgynCS">Lélia</persName></q> (Young)<note xml:id="n88" place="end">Voir à ce propos <bibl><persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/RSZ0mM1NPtF">Young</persName> 206-07</bibl>, qui décrit ainsi l’évolution du groupe littéraire : d’abord le Regroupement des écrivains de Toronto, ensuite la Société des écrivains canadiens de <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/hLg1pf4iAUw">Toronto</placeName> et enfin <orgName key="Société des écrivain-e-s de Toronto" ref="http://viaf.org/viaf/155882028" ana="webannotation:http://temp.lincsproject.ca/5fYtOUaPdbq">la Société des écrivain(e)s de Toronto</orgName>.</note>
                                 <bibl>
                                     <title level="m">Parallèles</title> 212</bibl>
                             </ref>.</ref>
@@ -18209,6 +18209,95 @@
         "type": "crm:E21_Person",
         "label": "Cloutier, Cécile 1930-...",
         "description": "Cloutier, Cécile"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/VS2P7N4jHXF">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/VS2P7N4jHXF",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T15:03:48.248Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/9JwpCcV7lqI",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/9JwpCcV7lqI/selector/textPosition/FXlOfkrY0sX",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 36028,
+                "end": 36036,
+                "refinedBy": {
+                    "id": "/target/9JwpCcV7lqI/selector/textQuote/p0AWfcP8SLl",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Mireille",
+                    "prefix": " D’ailleurs, Lucienne n’est pas la seule membre de la Société des écrivain(e)s de Toronto à figurer dans cette fiction-documentaire : Marguerite mentionne également, entre autres, Cécile (Cloutier),",
+                    "suffix": "(Déjarlais-Heynneman) et Lélia (Young)Voir à ce propos Young 206-07, qui décrit ainsi l’évolution du groupe littéraire : d’abord le Regroupement des écrivains de Toronto, ensuite la Société des écrivains canadiens de Toronto et enfin la Société des écrivain(e)s de Toronto"
+                }
+            },
+            {
+                "id": "/target/9JwpCcV7lqI/selector/css/pafOCKWPrey",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/VS2P7N4jHXF]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/6621751",
+        "type": "crm:E21_Person",
+        "label": "Desjarlais-Heynneman, Mireille, 1930-",
+        "description": "Desjarlais-Heynneman, Mireille"
     },
     "P2_has_type": [
         "oa:identifying"
