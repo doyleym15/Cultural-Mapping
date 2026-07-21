@@ -834,7 +834,7 @@
                                     <note place="inline">
                                         <bibl>250</bibl>
                                     </note>. <ref target="#religion">
-                                        <ref target="#intertextuality">Dans ce roman mémoriel aux accents édéniques, le figuier rappelle l’histoire de l’arbre du bien et du mal au paradis, où <persName key="Adam Personnage biblique" ref="http://viaf.org/viaf/104722105" ana="webannotation:http://temp.lincsproject.ca/rKvPyqaf4yh">Adam</persName> et <persName key="Eve, Biblical figure" ref="http://viaf.org/viaf/30876049" ana="webannotation:http://temp.lincsproject.ca/4iFaiLOQugC">Ève</persName> goûtent le fruit interdit au prix de leur expulsion. Le couple originel saisit alors des feuilles de figuier pour cacher leur nudité, dont ils ont honte. Perte de l’innocence, perte de l’illusion d’un monde sous le contrôle parfait de Dieu le père. On se souvient aussi de l’histoire du figuier maudit du Nouveau Testament : <persName key="Jésus-Christ" ref="http://viaf.org/viaf/141145970137232251241" ana="webannotation:http://temp.lincsproject.ca/YU3EzYYI3e2">Jésus</persName>, déçu de ne pas avoir trouvé de figues hors saison, condamne le figuier à ne plus jamais porter de fruit <note place="inline">
+                                        <ref target="#intertextuality">Dans ce roman mémoriel aux accents édéniques, le figuier rappelle l’histoire de l’arbre du bien et du mal au paradis, où <persName key="Adam Personnage biblique" ref="http://viaf.org/viaf/104722105" ana="webannotation:http://temp.lincsproject.ca/rKvPyqaf4yh">Adam</persName> et <persName key="Ève (Personnage biblique)" ref="http://viaf.org/viaf/104719482" ana="webannotation:http://temp.lincsproject.ca/YVQjyS5wdbc">Ève</persName> goûtent le fruit interdit au prix de leur expulsion. Le couple originel saisit alors des feuilles de figuier pour cacher leur nudité, dont ils ont honte. Perte de l’innocence, perte de l’illusion d’un monde sous le contrôle parfait de Dieu le père. On se souvient aussi de l’histoire du figuier maudit du Nouveau Testament : <persName key="Jésus-Christ" ref="http://viaf.org/viaf/141145970137232251241" ana="webannotation:http://temp.lincsproject.ca/YU3EzYYI3e2">Jésus</persName>, déçu de ne pas avoir trouvé de figues hors saison, condamne le figuier à ne plus jamais porter de fruit <note place="inline">
                                                 <bibl>Mathieu 21, <title level="m">Sainte Bible</title> 18-22</bibl>
                                             </note>
                                         </ref>. Que le figuier de Marguerite soit condamné au déterrement brutal n’est donc pas étonnant. Déterrer le figuier mort sans fruit implique ici renoncer au rêve irréalisable d’un paradis perdu, celui d’une famille traditionnelle, à la figure paternelle autoritaire mais rassurante.</ref>
@@ -19283,20 +19283,20 @@
 				
 </rdf:Description>
 				
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/4iFaiLOQugC">
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/YVQjyS5wdbc">
 <![CDATA[{
     "@context": [
         "http://www.w3.org/ns/anno.jsonld",
         "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
         "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
     ],
-    "id": "http://temp.lincsproject.ca/4iFaiLOQugC",
+    "id": "http://temp.lincsproject.ca/YVQjyS5wdbc",
     "type": [
         "Annotation",
         "crm:E33_Linguistic_Object"
     ],
     "motivation": "oa:identifying",
-    "created": "2026-07-21T15:42:54.771Z",
+    "created": "2026-07-21T15:44:23.818Z",
     "creator": {
         "id": "https://github.com/doyleym15",
         "type": "crm:E21_Person",
@@ -19356,14 +19356,21 @@
                     "crm:E73_Information_Object"
                 ],
                 "value": "[ana~=webannotation:http://temp.lincsproject.ca/4iFaiLOQugC]"
+            },
+            {
+                "id": "/target/tdnsDbnNmg5/selector/css/biKXVCZxQEV",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/YVQjyS5wdbc]"
             }
         ]
     },
     "body": {
-        "id": "http://viaf.org/viaf/30876049",
+        "id": "http://viaf.org/viaf/104719482",
         "type": "crm:E21_Person",
-        "label": "Eve, Biblical figure",
-        "description": "חוה (אישיות מקראית)"
+        "label": "Ève (Personnage biblique)"
     },
     "P2_has_type": [
         "oa:identifying"
