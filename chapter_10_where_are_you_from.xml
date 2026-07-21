@@ -869,7 +869,7 @@
                         <bibl><persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/BxHsDhMxvzA">Andersen</persName>, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/IC9VkdXRNbL">Marguerite</persName>. <title level="a" xml:lang="en-CA">Autobiography: Tightrope Across the Search for Understanding</title>. <title level="j" xml:lang="en-CA"><orgName key="Institut Simone de Beauvoir" ref="http://viaf.org/viaf/172430248" ana="webannotation:http://temp.lincsproject.ca/j3OzWMVWHN0">Institut Simone de Beauvoir Institute Review</orgName>/<hi xml:lang="fr-FR">Revue</hi>
                             </title> 18-19 (2000): 113-28.</bibl>
                         <bibl>. <title level="m">Bleu sur blanc</title>. <placeName key="Sudbury" ref="https://sws.geonames.org/6158840" ana="webannotation:http://temp.lincsproject.ca/NbBGWTvqs68">Sudbury</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/aR62FOcEeQM">ON</placeName>: <orgName key="Prise de parole (Firm)" ref="http://viaf.org/viaf/159375660" ana="webannotation:http://temp.lincsproject.ca/BSxkRo3Qliw">Prise de parole</orgName>, 2000.</bibl>
-                        <bibl>. <title level="m">De mémoire de femme</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/zEwV1bm8AzF">Montréal</placeName>: Quinze, 1982. Nouvelle édition revue et corrigée, <hi rend="small-caps">bcf</hi>, <placeName key="Ottawa" ref="https://sws.geonames.org/6094817" ana="webannotation:http://temp.lincsproject.ca/0MosCviK9DW">Ottawa</placeName>: L’Interligne, 2002.</bibl>
+                        <bibl>. <title level="m">De mémoire de femme</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/zEwV1bm8AzF">Montréal</placeName>: Quinze, 1982. Nouvelle édition revue et corrigée, <hi rend="small-caps">bcf</hi>, <placeName key="Ottawa" ref="https://sws.geonames.org/6094817" ana="webannotation:http://temp.lincsproject.ca/0MosCviK9DW">Ottawa</placeName>: <orgName key="Interligne (Firme)" ref="http://viaf.org/viaf/316966688" ana="webannotation:http://temp.lincsproject.ca/MK7tFVsSfAy">L’Interligne</orgName>, 2002.</bibl>
                         <bibl>. <title level="m">Le figuier sur le toit</title>. <placeName key="Ottawa" ref="https://sws.geonames.org/6094817" ana="webannotation:http://temp.lincsproject.ca/msTTBtthLlm">Ottawa</placeName>: L’Interligne, 2008.</bibl>
                         <bibl>. <title level="m">Parallèles</title>. <placeName key="Sudbury" ref="https://sws.geonames.org/6158840" ana="webannotation:http://temp.lincsproject.ca/npfY82XJdr1">Sudbury</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/VaznlBzA7hs">ON</placeName>: <orgName key="Prise de parole (Firm)" ref="http://viaf.org/viaf/159375660" ana="webannotation:http://temp.lincsproject.ca/sA7rx07E3ar">Prise de parole</orgName>, 2004.</bibl>
                         <bibl>. <title level="m">La vie devant elles</title>. <placeName key="Sudbury" ref="https://sws.geonames.org/6158840" ana="webannotation:http://temp.lincsproject.ca/lvWG7DweBiT">Sudbury</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/QOFliM1Cutn">ON</placeName>: <orgName key="Prise de parole (Firm)" ref="http://viaf.org/viaf/159375660" ana="webannotation:http://temp.lincsproject.ca/K35AzetArng">Prise de parole</orgName>, 2011.</bibl>
@@ -20700,6 +20700,94 @@
         "type": "crm:E74_Group",
         "label": "Prise de parole (Firm)",
         "description": "Prise de parole Éditions)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/MK7tFVsSfAy">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/MK7tFVsSfAy",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T15:16:36.187Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/QSGglOEqvhE",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/QSGglOEqvhE/selector/textPosition/i8ql2PoC94d",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 49728,
+                "end": 49740,
+                "refinedBy": {
+                    "id": "/target/QSGglOEqvhE/selector/textQuote/aoamrN60yWY",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "L’Interligne",
+                    "prefix": " Nouvelle édition revue et corrigée, bcf, Ottawa:",
+                    "suffix": " 2002"
+                }
+            },
+            {
+                "id": "/target/QSGglOEqvhE/selector/css/pqF553NCjfT",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/MK7tFVsSfAy]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/316966688",
+        "type": "crm:E74_Group",
+        "label": "Interligne (Firme)"
     },
     "P2_has_type": [
         "oa:identifying"
