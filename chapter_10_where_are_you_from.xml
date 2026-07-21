@@ -705,7 +705,7 @@
                                         <ref target="#representation_of_women">Le point culminant de cette autofiction est le retour au <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/ZsLWvK7UgF3">Canada</placeName>, lorsque la protagoniste participe à une table ronde composée des femmes qui l’ont influencée, ce que Julie Tennier définit comme <q>lieu féminin collectif utopique</q>
                                             <note place="inline">
                                                 <bibl>65</bibl>
-                                            </note> et qu’elle compare au <title level="m" xml:lang="en-CA">Dinner Party</title> de Judy Chicago et au <title level="m">Pique-nique sur l’Acropole</title> de l’auteure québécoise féministe Louky Bersianik <note place="inline">
+                                            </note> et qu’elle compare au <title level="m" xml:lang="en-CA">Dinner Party</title> de Judy Chicago et au <title level="m">Pique-nique sur l’Acropole</title> de l’auteure québécoise féministe <persName key="Bersianik, Louky, 1930-2011" ref="http://viaf.org/viaf/27094343" ana="webannotation:http://temp.lincsproject.ca/mPKVEEfkpji">Louky Bersianik</persName> <note place="inline">
                                                 <bibl>68</bibl>
                                             </note>
                                         </ref>. La table ronde constitue une affirmation féministe de solidarité, une image du désir d’Andersen de remplacer l’idéal du triangle <hi rend="italic" xml:lang="de-DE">Vater, Mutter, Kind</hi> afin de retrouver une autonomie créatrice appuyée par un milieu artistique convivial</ref>
@@ -17299,6 +17299,95 @@
         "type": "crm:E21_Person",
         "label": "Balzac, Honoré de, 1799-1850.",
         "description": "Balzac, Honoré de"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/mPKVEEfkpji">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/mPKVEEfkpji",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T15:01:47.828Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/oEWLC0EqLtz",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/oEWLC0EqLtz/selector/textPosition/nvMYJX2UPtn",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 30943,
+                "end": 30958,
+                "refinedBy": {
+                    "id": "/target/oEWLC0EqLtz/selector/textQuote/bSanXFo1Rnj",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Louky Bersianik",
+                    "prefix": " \n                                    \n                                        Le point culminant de cette autofiction est le retour au Canada, lorsque la protagoniste participe à une table ronde composée des femmes qui l’ont influencée, ce que Julie Tennier définit comme lieu féminin collectif utopique\n                                            \n                                                65\n                                             et qu’elle compare au Dinner Party de Judy Chicago et au Pique-nique sur l’Acropole de l’auteure québécoise féministe",
+                    "suffix": "\n                                                68\n                                            \n                                        "
+                }
+            },
+            {
+                "id": "/target/oEWLC0EqLtz/selector/css/aaJWDYE6vAZ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/mPKVEEfkpji]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/27094343",
+        "type": "crm:E21_Person",
+        "label": "Bersianik, Louky, 1930-2011",
+        "description": "Bersianik, Louky"
     },
     "P2_has_type": [
         "oa:identifying"
