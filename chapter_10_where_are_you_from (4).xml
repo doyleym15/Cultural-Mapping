@@ -481,7 +481,7 @@
                             <ref target="#childhood">Bien qu’Andersen soit née à <placeName key="Magdeburg" ref="https://sws.geonames.org/2874545" ana="webannotation:http://temp.lincsproject.ca/9r3BAQKJSSb">Magdebourg</placeName>, petite ville proche de <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/mufCTTVWoP0">Berlin</placeName>, c’est <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/1AQs2b9xA0D">Berlin</placeName>, où elle emménage avec sa famille à l’âge de quatre ans, qui incarne surtout le lieu de son enfance</ref>. D’ailleurs, dans <title level="m"/>, la narratrice a <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/dV2kcvLHPoK">Berlin</placeName> comme lieu de naissance <note place="inline">
                                 <bibl>19</bibl>
                             </note>. Ses parents y côtoient des intellectuels, des artistes et des scientifiques. On pourrait même dire qu’elle vient au monde par l’intermédiaire de l’écriture de son père, <persName key="Bohner, Theodor, 1882-1963" ref="http://viaf.org/viaf/194237270" ana="webannotation:http://temp.lincsproject.ca/CEBuMzhFAes">Theo</persName>, lui-même auteur à tendance autofictionnelle. <ref target="#genre_fiction">Celui-ci raconte la naissance de sa fille dans son roman <title level="m" xml:lang="de-DE">Das Licht und sein Schatten</title> (<title level="m">La lumière et son ombre</title>) publié en 1937</ref>
-                            <note xml:id="n87" place="end">Pour satisfaire aux exigences de ce que <persName key="Robin, Régine, 1939-2021" ref="http://viaf.org/viaf/36923835" ana="webannotation:http://temp.lincsproject.ca/ZAgJAo7riy0">Robin</persName> appelle la mémoire savante, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/f0KaNJbZQpl">Andersen</persName> inclut en annexe dans <title level="m">Le figuier sur le toit</title> la bibliographie des œuvres de son père.</note>. <ref target="#genre_lifeWriting">Que la protagoniste et sa sœur Emma s’identifient toutes deux à ce nouveau-né souligne le caractère équivoque de l’écriture autofictionnelle</ref>
+                            <note xml:id="n87" place="end">Pour satisfaire aux exigences de ce que <persName key="Robin, Régine, 1939-2021" ref="http://viaf.org/viaf/36923835" ana="webannotation:http://temp.lincsproject.ca/ZAgJAo7riy0">Robin</persName> appelle la mémoire savante, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/f0KaNJbZQpl">Andersen</persName> inclut en annexe dans <title level="m"><placeName key="Le figuier sur le toit" ref="http://www.wikidata.org/entity/Q122146367" ana="webannotation:http://temp.lincsproject.ca/vDkEDayhArE">Le figuier</placeName> sur le toit</title> la bibliographie des œuvres de son père.</note>. <ref target="#genre_lifeWriting">Que la protagoniste et sa sœur Emma s’identifient toutes deux à ce nouveau-né souligne le caractère équivoque de l’écriture autofictionnelle</ref>
                             <note place="inline">
                                 <bibl>
                                     <title level="m">Mémoire</title> 40</bibl>
@@ -717,7 +717,7 @@
                     <head><placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/4UBAsitrGZB">Toronto</placeName>, lieu de réconciliation avec le père écrivain</head>
                     <p xml:id="p1374">
                         <ref target="#spatiality">
-                            <ref target="women_writing"><placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/ZkquysFym8p">Toronto</placeName>, quoiqu’absente de l’ouvrage <title level="m">De mémoire de femme</title>, est la ville associée à l’écriture créatrice dans <title level="m"><placeName key="Parallèles" ref="https://www.wikidata.org/wiki/Q122069825" ana="webannotation:http://temp.lincsproject.ca/Qk9DZ3h6syy">Parallèles</placeName></title> comme dans <title level="m">Le figuier sur le toit</title>. C’est à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/qu3JPjl24Ap">Toronto</placeName> que la narratrice <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/cDHcf1f0nO2">Marguerite</persName> finit par assumer son identité d’écrivaine et joue un rôle dans l’établissement d’institutions littéraires franco-ontariennes. <ref target="#men_writing">C’est à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/F33C0HUciWK">Toronto</placeName> également qu’elle se réconcilie avec l’écrivain rival, le père</ref>
+                            <ref target="women_writing"><placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/ZkquysFym8p">Toronto</placeName>, quoiqu’absente de l’ouvrage <title level="m">De mémoire de femme</title>, est la ville associée à l’écriture créatrice dans <title level="m"><placeName key="Parallèles" ref="https://www.wikidata.org/wiki/Q122069825" ana="webannotation:http://temp.lincsproject.ca/Qk9DZ3h6syy">Parallèles</placeName></title> comme dans <title level="m"><placeName key="Le figuier sur le toit" ref="http://www.wikidata.org/entity/Q122146367" ana="webannotation:http://temp.lincsproject.ca/BzGj3NPqEiU">Le figuier</placeName> sur le toit</title>. C’est à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/qu3JPjl24Ap">Toronto</placeName> que la narratrice <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/cDHcf1f0nO2">Marguerite</persName> finit par assumer son identité d’écrivaine et joue un rôle dans l’établissement d’institutions littéraires franco-ontariennes. <ref target="#men_writing">C’est à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/F33C0HUciWK">Toronto</placeName> également qu’elle se réconcilie avec l’écrivain rival, le père</ref>
                             </ref>. <ref target="#childhood">
                                 <ref target="#language">Si le père représente l’autorité quant à <q>l’allemand</q> et que l’anglais appartient à la sœur aînée <note place="inline">
                                         <bibl>
@@ -824,7 +824,7 @@
                     <p xml:id="p1379">
                         <ref target="#spatiality">
                             <ref target="voice_or_narration">Il ne faut cependant pas oublier que la ville est une structure narrative construite par l’auteure, un espace-temps à forte teneur symbolique</ref>. <ref target="#violence">
-                                <ref target="race_issue">Ainsi, dans <title level="m">La vie devant elles</title>, on retrouve une attitude plus critique envers le pays d’accueil, lorsqu’Ariane, petite-fille de Marguerite, fait du camping en <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/LkKVklsMhQ1">Ontario</placeName> avec son mari togolais et leurs deux enfants et qu’ils sont confrontés à cette occasion au profilage racial, un policier les arrêtant sans motif valable</ref>.</ref> Si <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/Bq7bCZib96B">Toronto</placeName> apparaît dans <title level="m">Le figuier sur le toit</title> comme un lieu de tolérance et de paix, <ref target="#history">c’est pour souligner le contraste avec un <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/IOlauxua4dO">Berlin</placeName> soumis aux affres de la guerre. C’est peut-être aussi pour rappeler que le Berlin d’avant la guerre apparaissait, lui aussi, comme un milieu ouvert à la diversité et à l’épanouissement culturel et artistique. Témoigner des atrocités de guerre, c’est également une façon de rappeler les dangers de la suffisance et de l’orgueil.</ref>
+                                <ref target="race_issue">Ainsi, dans <title level="m">La vie devant elles</title>, on retrouve une attitude plus critique envers le pays d’accueil, lorsqu’Ariane, petite-fille de Marguerite, fait du camping en <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/LkKVklsMhQ1">Ontario</placeName> avec son mari togolais et leurs deux enfants et qu’ils sont confrontés à cette occasion au profilage racial, un policier les arrêtant sans motif valable</ref>.</ref> Si <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/Bq7bCZib96B">Toronto</placeName> apparaît dans <title level="m"><placeName key="Le figuier sur le toit" ref="http://www.wikidata.org/entity/Q122146367" ana="webannotation:http://temp.lincsproject.ca/XcPGRDIHjXI">Le figuier</placeName> sur le toit</title> comme un lieu de tolérance et de paix, <ref target="#history">c’est pour souligner le contraste avec un <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/IOlauxua4dO">Berlin</placeName> soumis aux affres de la guerre. C’est peut-être aussi pour rappeler que le Berlin d’avant la guerre apparaissait, lui aussi, comme un milieu ouvert à la diversité et à l’épanouissement culturel et artistique. Témoigner des atrocités de guerre, c’est également une façon de rappeler les dangers de la suffisance et de l’orgueil.</ref>
                         </ref>
                     </p>
                     <p xml:id="p1380">
@@ -23748,6 +23748,273 @@
         "id": "http://www.wikidata.org/entity/Q112892818",
         "type": "crm:E74_Group",
         "label": "Trillium Book Award, French"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/vDkEDayhArE">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/vDkEDayhArE",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T16:24:37.216Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/7VlAwyH6Kbm",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_10_where_are_you_from (4).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_10_where_are_you_from (4).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/7VlAwyH6Kbm/selector/textPosition/hDVCKxEysOk",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 7733,
+                "end": 7743,
+                "refinedBy": {
+                    "id": "/target/7VlAwyH6Kbm/selector/textQuote/DLmLfFnA3Wo",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Le figuier",
+                    "prefix": " Celui-ci raconte la naissance de sa fille dans son roman Das Licht und sein Schatten (La lumière et son ombre) publié en 1937\n                            Pour satisfaire aux exigences de ce que Robin appelle la mémoire savante, Andersen inclut en annexe dans",
+                    "suffix": "sur le toit la bibliographie des œuvres de son père"
+                }
+            },
+            {
+                "id": "/target/7VlAwyH6Kbm/selector/css/GnUMTIGKj55",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/vDkEDayhArE]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q122146367",
+        "type": "frbroo:F1",
+        "label": "Le figuier sur le toit",
+        "description": "literary work by Marguerite Andersen"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/BzGj3NPqEiU">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/BzGj3NPqEiU",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T16:24:37.363Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/EjRdQAzzV9s",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_10_where_are_you_from (4).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_10_where_are_you_from (4).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/EjRdQAzzV9s/selector/textPosition/YxaxDf3olmb",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 31674,
+                "end": 31684,
+                "refinedBy": {
+                    "id": "/target/EjRdQAzzV9s/selector/textQuote/3zqcW8xZx2U",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Le figuier",
+                    "prefix": "\n                        \n                    \n                \n                \n                    Toronto, lieu de réconciliation avec le père écrivain\n                    \n                        \n                            Toronto, quoiqu’absente de l’ouvrage De mémoire de femme, est la ville associée à l’écriture créatrice dans Parallèles comme dans",
+                    "suffix": "sur le toit"
+                }
+            },
+            {
+                "id": "/target/EjRdQAzzV9s/selector/css/gQVv0sh3QW4",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/BzGj3NPqEiU]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q122146367",
+        "type": "frbroo:F1",
+        "label": "Le figuier sur le toit",
+        "description": "literary work by Marguerite Andersen"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/XcPGRDIHjXI">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/XcPGRDIHjXI",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T16:24:37.480Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/3qhnGo3NIPJ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_10_where_are_you_from (4).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_10_where_are_you_from (4).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/3qhnGo3NIPJ/selector/textPosition/E72jfSffnR0",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 43229,
+                "end": 43239,
+                "refinedBy": {
+                    "id": "/target/3qhnGo3NIPJ/selector/textQuote/dXejC0xtDBi",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Le figuier",
+                    "prefix": " Si Toronto apparaît dans",
+                    "suffix": "sur le toit comme un lieu de tolérance et de paix, c’est pour souligner le contraste avec un Berlin soumis aux affres de la guerre"
+                }
+            },
+            {
+                "id": "/target/3qhnGo3NIPJ/selector/css/ndHwVzzzLCy",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/XcPGRDIHjXI]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q122146367",
+        "type": "frbroo:F1",
+        "label": "Le figuier sur le toit",
+        "description": "literary work by Marguerite Andersen"
     },
     "P2_has_type": [
         "oa:identifying"
