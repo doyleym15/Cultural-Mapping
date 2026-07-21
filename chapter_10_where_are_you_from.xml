@@ -540,7 +540,7 @@
                                 <note place="inline">
                                     <bibl>
                                         <title level="m">Figuier</title> 73</bibl>
-                                </note>. <ref target="#intellectual_history">Son père lui fait remarquer la beauté du style Haute Renaissance italienne du bâtiment créé par l’architecte célèbre M. Wallot : <q>Peu importe d’ailleurs, bientôt le Reichstag sera détruit par les flammes</q>
+                                </note>. <ref target="#intellectual_history">Son père lui fait remarquer la beauté du style Haute Renaissance italienne du bâtiment créé par l’architecte célèbre M. Wallot : <q>Peu importe d’ailleurs, bientôt le <orgName key="Reichstagsgebäude (Berlin, Germany)" ref="http://viaf.org/viaf/316746236" ana="webannotation:http://temp.lincsproject.ca/ndKn3uemSa8">Reichstag</orgName> sera détruit par les flammes</q>
                                     <note place="inline">
                                         <bibl>
                                             <title level="m">Figuier</title> 75</bibl>
@@ -15237,6 +15237,95 @@
         "type": "crm:E21_Person",
         "label": "Einstein, Albert, 1879-1955.",
         "description": "Einstein, Albert"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ndKn3uemSa8">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ndKn3uemSa8",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T14:51:32.894Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/xv6puJAW1WV",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/xv6puJAW1WV/selector/textPosition/unIve9FuXCh",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 13716,
+                "end": 13725,
+                "refinedBy": {
+                    "id": "/target/xv6puJAW1WV/selector/textQuote/pCvdrkU2WUn",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Reichstag",
+                    "prefix": " Wallot : Peu importe d’ailleurs, bientôt le",
+                    "suffix": "sera détruit par les flammes\n                                    \n                                        \n                                            Figuier 75\n                                    \n                                "
+                }
+            },
+            {
+                "id": "/target/xv6puJAW1WV/selector/css/34torVtOzrt",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ndKn3uemSa8]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/316746236",
+        "type": "crm:E74_Group",
+        "label": "Reichstagsgebäude (Berlin, Germany)",
+        "description": "Reichstagsgebäude"
     },
     "P2_has_type": [
         "oa:identifying"
