@@ -443,7 +443,7 @@
                             </ref> pour lequel elle reçoit <title key="prix littéraires du Journal de Montréal" ref="http://www.wikidata.org/entity/Q3406041" ana="webannotation:http://temp.lincsproject.ca/I4DdjM7VrLK">le Prix du Journal de Montréal</title>. Grande admiratrice de <persName key="Beauvoir, Simone de 1908-1986" ref="http://viaf.org/viaf/2466221" ana="webannotation:http://temp.lincsproject.ca/zGnGcKveQpy" type="real" cert="high">Simone de Beauvoir</persName> et de ses œuvres autobiographiques, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/wzdy3FxlIzi" type="real">Andersen</persName> récidive en littérature intime avec <ref target="#genre_poetry">la prose poétique <title level="m">Bleu sur blanc</title>
                             </ref> en 2000, avec <ref target="#genre_fiction">la fiction documentaire <title level="m"/>
                             </ref> en 2004 et avec <ref target="#genre_fiction">le roman <title level="m">Le figuier sur le toit</title>
-                            </ref>, pour lequel elle reçoit le Prix Trillium en 2008</ref>. <ref target="#genre_lifeWriting">Dans l’avant-propos de <title level="m">La vie devant elles</title>, paru en 2011, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/ZMTa8epIi6D">Andersen</persName> se présente comme <q>écrivaine à tendance autofictionnelle</q> mais précise que, dans cet ouvrage, elle construit plutôt <q>trois récits biofictionnels</q> à partir de la vie de ses six petites-filles <note place="inline">
+                            </ref>, pour lequel elle reçoit <title key="Trillium Book Award, French" ref="http://www.wikidata.org/entity/Q112892818" ana="webannotation:http://temp.lincsproject.ca/e94WYYfPsmJ">le Prix Trillium</title> en 2008</ref>. <ref target="#genre_lifeWriting">Dans l’avant-propos de <title level="m">La vie devant elles</title>, paru en 2011, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/ZMTa8epIi6D">Andersen</persName> se présente comme <q>écrivaine à tendance autofictionnelle</q> mais précise que, dans cet ouvrage, elle construit plutôt <q>trois récits biofictionnels</q> à partir de la vie de ses six petites-filles <note place="inline">
                                 <bibl>7</bibl>
                             </note>. Dans ces autofictions, le <q>pacte autobiographique</q>
                             <note place="inline">
@@ -23667,13 +23667,105 @@
 }]]>
 				
 </rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/e94WYYfPsmJ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/e94WYYfPsmJ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T16:19:22.155Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/EFVfFUwjRMh",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_10_where_are_you_from (4).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_10_where_are_you_from (4).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/EFVfFUwjRMh/selector/textPosition/RtzqbsRtT4C",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 2633,
+                "end": 2649,
+                "refinedBy": {
+                    "id": "/target/EFVfFUwjRMh/selector/textQuote/4cB24joOQFx",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "le Prix Trillium",
+                    "prefix": " Grande admiratrice de Simone de Beauvoir et de ses œuvres autobiographiques, Andersen récidive en littérature intime avec la prose poétique Bleu sur blanc\n                             en 2000, avec la fiction documentaire \n                             en 2004 et avec le roman Le figuier sur le toit\n                            , pour lequel elle reçoit",
+                    "suffix": "en 2008"
+                }
+            },
+            {
+                "id": "/target/EFVfFUwjRMh/selector/css/PZXcXLvBFD5",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/e94WYYfPsmJ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q112892818",
+        "type": "crm:E74_Group",
+        "label": "Trillium Book Award, French"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
 			
 </rdf:RDF>
 		
 
 		
+
+		
 </xenoData>
 	
+	
 	</standOff>
+
 
 </TEI>
