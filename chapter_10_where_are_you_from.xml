@@ -644,7 +644,7 @@
                                     <note place="inline">
                                         <bibl>43</bibl>
                                     </note>, coïncide avec l’arrivée au <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/EgBhH2NoKWd">Canada</placeName></ref>
-                            </ref>. <ref target="#politics">Dans <title level="m">Parallèles</title>, Marguerite, <ref target="voice_or_narration">la narratrice autodiégétique</ref>, est agressée verbalement par un officier, qui la traite de <q>voleuse de job</q> car elle est embauchée comme professeur par la Commission des écoles protestantes de Montréal alors que sa sœur à lui, enseignante également, mais francophone, n’a pas accès aux postes du conseil scolaire protestant : <q>
+                            </ref>. <ref target="#politics">Dans <title level="m">Parallèles</title>, Marguerite, <ref target="voice_or_narration">la narratrice autodiégétique</ref>, est agressée verbalement par un officier, qui la traite de <q>voleuse de job</q> car elle est embauchée comme professeur par <orgName key="Bureau des écoles protestantes du Grand Montréal" ref="http://viaf.org/viaf/141838903" ana="webannotation:http://temp.lincsproject.ca/wf8tO1P9H9V">la Commission des écoles protestantes de Montréal</orgName> alors que sa sœur à lui, enseignante également, mais francophone, n’a pas accès aux postes du conseil scolaire protestant : <q>
                                     <q>
                                         <ref target="#gender_issue">Nous n’avons pas besoin de professeurs au <placeName key="Canada" ref="https://sws.geonames.org/6251999" ana="webannotation:http://temp.lincsproject.ca/VzsJhjeBWNm">Canada</placeName>, nous avons besoin de femmes de ménage</ref>
                                     </q>, me lance-t-il</q>
@@ -16587,6 +16587,95 @@
         "type": "crm:E53_Place",
         "label": "Canada",
         "description": "null, CA"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/wf8tO1P9H9V">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/wf8tO1P9H9V",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T14:53:23.678Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/cwLGkzFkW6m",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/cwLGkzFkW6m/selector/textPosition/D1Fnc5wv2hv",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 23382,
+                "end": 23431,
+                "refinedBy": {
+                    "id": "/target/cwLGkzFkW6m/selector/textQuote/fwtf0xwIJIn",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "la Commission des écoles protestantes de Montréal",
+                    "prefix": " Dans Parallèles, Marguerite, la narratrice autodiégétique, est agressée verbalement par un officier, qui la traite de voleuse de job car elle est embauchée comme professeur par",
+                    "suffix": "alors que sa sœur à lui, enseignante également, mais francophone, n’a pas accès aux postes du conseil scolaire protestant : \n                                    \n                                        Nous n’avons pas besoin de professeurs au Canada, nous avons besoin de femmes de ménage\n                                    , me lance-t-il\n                                \n                                    151\n                                "
+                }
+            },
+            {
+                "id": "/target/cwLGkzFkW6m/selector/css/g12SW9I4B3J",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/wf8tO1P9H9V]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/141838903",
+        "type": "crm:E74_Group",
+        "label": "Bureau des écoles protestantes du Grand Montréal",
+        "description": "Protestant School Board of Greater Montreal"
     },
     "P2_has_type": [
         "oa:identifying"
