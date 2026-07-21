@@ -877,7 +877,7 @@
                         <bibl><persName key="Harel, Simon, 1957-...." ref="http://viaf.org/viaf/2527335" ana="webannotation:http://temp.lincsproject.ca/Uz1LSqnBkEP">Harel</persName>, Simon. <title level="m">Le voleur de parcours: Identité et cosmopolitisme dans la littérature québécoise contemporaine</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/Ng9k9nTwDgb">Montréal</placeName>: <hi rend="small-caps"><orgName key="XYZ éditeur" ref="http://viaf.org/viaf/264610728" ana="webannotation:http://temp.lincsproject.ca/FSeLO5RNuqD">xyz</orgName></hi>, 1999.</bibl>
                         <bibl><persName key="Hotte, Lucie, 1959-" ref="http://viaf.org/viaf/32220127" ana="webannotation:http://temp.lincsproject.ca/JhyV6IQZkzh">Hotte</persName>, Lucie. <title level="a">Préface : L’écriture et la vie</title>. <title level="m">De mémoire de femme</title>. <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/8IpFEjeMDoh">Marguerite Andersen</persName>. Édition revue et corrigée, <hi rend="small-caps">bcf</hi>. <placeName key="Ottawa" ref="https://sws.geonames.org/6094817" ana="webannotation:http://temp.lincsproject.ca/lRJheWJlT1r">Ottawa</placeName>: <orgName key="Interligne (Firme)" ref="http://viaf.org/viaf/316966688" ana="webannotation:http://temp.lincsproject.ca/bEernc2UEhA">L’Interligne</orgName>, 2002. 7-12.</bibl>
                         <bibl><persName key="Lejeune, Philippe, 1938-...." ref="http://viaf.org/viaf/76358606" ana="webannotation:http://temp.lincsproject.ca/Cmtz9UTkY2v">Lejeune</persName>, Philippe. <title level="m">Le pacte autobiographique</title>. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/oTSQVXuUPWN">Paris</placeName>: <orgName key="Éditions du Seuil." ref="http://viaf.org/viaf/125641585" ana="webannotation:http://temp.lincsproject.ca/7YpDFmFHc1g">Seuil</orgName>, 1975.</bibl>
-                        <bibl><persName key="Paré, François, 1949-" ref="http://viaf.org/viaf/66577014" ana="webannotation:http://temp.lincsproject.ca/gqS180zIiHA">Paré</persName>, François. <title level="a">Souveraineté et détournement du regard dans les nouvelles de Marguerite Andersen</title>. <title level="j" xml:lang="en-CA">University of Toronto Quarterly</title> 68.4 (automne 1999): 823-34.</bibl>
+                        <bibl><persName key="Paré, François, 1949-" ref="http://viaf.org/viaf/66577014" ana="webannotation:http://temp.lincsproject.ca/gqS180zIiHA">Paré</persName>, François. <title level="a">Souveraineté et détournement du regard dans les nouvelles de Marguerite Andersen</title>. <title level="j" xml:lang="en-CA"><orgName key="University of Toronto Quarterly" ref="http://www.wikidata.org/entity/Q7896494" ana="webannotation:http://temp.lincsproject.ca/PC2PHVyokoe">University of Toronto Quarterly</orgName></title> 68.4 (automne 1999): 823-34.</bibl>
                         <bibl><persName key="Robin, Régine, 1939-2021" ref="http://viaf.org/viaf/36923835" ana="webannotation:http://temp.lincsproject.ca/XUm4nbRwAxj">Robin</persName>, Régine. <title level="m">Le roman mémoriel : de l’histoire à l’écriture du hors-lieu</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/Yf7HXqmhvFA">Montréal</placeName>: Le Préambule, 1989.</bibl>
                         <bibl>
                             <title level="m">La Sainte Bible</title>. Traduite d’après les textes originaux hébreu et grec par Louis Segond. Édition revue avec références. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/yRuKqazmm8b">Paris</placeName>: La Société biblique, 1972.</bibl>
@@ -21676,6 +21676,95 @@
         "type": "crm:E21_Person",
         "label": "Paré, François, 1949-",
         "description": "Paré, François"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/PC2PHVyokoe">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/PC2PHVyokoe",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T15:19:22.995Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/y1GQW8DQHpo",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/y1GQW8DQHpo/selector/textPosition/Nhm5zw8dSlj",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 50818,
+                "end": 50849,
+                "refinedBy": {
+                    "id": "/target/y1GQW8DQHpo/selector/textQuote/m7lU1HCPcdA",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "University of Toronto Quarterly",
+                    "prefix": "",
+                    "suffix": "68"
+                }
+            },
+            {
+                "id": "/target/y1GQW8DQHpo/selector/css/GXUZQRdCycv",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/PC2PHVyokoe]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q7896494",
+        "type": "crm:E74_Group",
+        "label": "University of Toronto Quarterly",
+        "description": "journal"
     },
     "P2_has_type": [
         "oa:identifying"
