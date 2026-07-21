@@ -593,7 +593,7 @@
                                     <note place="inline">
                                         <bibl>9</bibl>
                                     </note>
-                                </ref>. <ref target="#genre_lifeWriting">Dans <title level="m">De mémoire de femme</title> et <title level="m">Le figuier sur le toit</title>, par contre, <ref target="#tone_or_style">le discours mémoriel dresse un portrait plus sombre de cette ville</ref>. Soumise au contrôle de son mari franco-tunisien et de sa mère, qui détestent les Allemands, désignés de l’épithète méprisant de <q>boches</q>, la narratrice est plongée dans <ref target="#economics">un monde de pauvreté</ref> :</ref>
+                                </ref>. <ref target="#genre_lifeWriting">Dans <title level="m"><placeName key="De mémoire de femme" ref="http://www.wikidata.org/entity/Q121846471" ana="webannotation:http://temp.lincsproject.ca/DiQhdNNOGU5">De mémoire de femme</placeName></title> et <title level="m">Le figuier sur le toit</title>, par contre, <ref target="#tone_or_style">le discours mémoriel dresse un portrait plus sombre de cette ville</ref>. Soumise au contrôle de son mari franco-tunisien et de sa mère, qui détestent les Allemands, désignés de l’épithète méprisant de <q>boches</q>, la narratrice est plongée dans <ref target="#economics">un monde de pauvreté</ref> :</ref>
                             </ref>
                         </ref>
                     </p>
@@ -24103,6 +24103,95 @@
         "id": "http://www.wikidata.org/entity/Q122146367",
         "type": "frbroo:F1",
         "label": "Le Figuier sur le toit",
+        "description": "literary work by Marguerite Andersen"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/DiQhdNNOGU5">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/DiQhdNNOGU5",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T16:27:35.320Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/me6UhXLHqZg",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_10_where_are_you_from (4).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_10_where_are_you_from (4).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/me6UhXLHqZg/selector/textPosition/FpZgWoP2j1i",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 19002,
+                "end": 19021,
+                "refinedBy": {
+                    "id": "/target/me6UhXLHqZg/selector/textQuote/0R2S9jQrdVu",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "De mémoire de femme",
+                    "prefix": " Dans",
+                    "suffix": "et Le figuier sur le toit, par contre, le discours mémoriel dresse un portrait plus sombre de cette ville"
+                }
+            },
+            {
+                "id": "/target/me6UhXLHqZg/selector/css/7mbxifgjhUW",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/DiQhdNNOGU5]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q121846471",
+        "type": "frbroo:F1",
+        "label": "De mémoire de femme",
         "description": "literary work by Marguerite Andersen"
     },
     "P2_has_type": [
