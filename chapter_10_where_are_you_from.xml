@@ -850,7 +850,7 @@
                         </ref>
                     </p>
                     <p xml:id="p1382">
-                        <ref target="#genre_lifeWriting">C’est ce sentiment de libération qui prédomine dans les récits biofictionnels qui composent <title level="m">La vie devant elles</title>, où la réconciliation avec le père ainsi qu’avec le passé berlinois se fait à travers les voyages des petites-filles de <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/TxZbSbylKui">Marguerite</persName>. <ref target="#spatiality">Lorsque la vieille dame fait un séjour à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/cbI4oLF0t1a">Berlin</placeName> avec sa petite-fille Isa, elle brise le silence sur le passé. Elle lui révèle que son père (le fils de <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/ff5w9FaY5dg">Marguerite</persName>), qui a toujours caché ses origines allemandes, a passé une partie de sa jeunesse dans la ville. Elles se délectent de la richesse culturelle du Berlin restauré, de ses musées d’art et de ses magasins. Ensemble, elles visitent le Musée du Judaïsme, elles traversent l’axe de l’Holocauste, l’axe de l’exil et celui de la continuité. L’espace mémoriel révèle les actes honteux du régime nazi et offre en retour une possibilité de guérison. Ariane, autre petite-fille de Marguerite, en voyage en <placeName key="Africa" ref="https://sws.geonames.org/6255146" ana="webannotation:http://temp.lincsproject.ca/AC2oJUKT7mH">Afrique</placeName> pour établir un programme d’aide auprès des femmes du <placeName key="Ghana" ref="https://sws.geonames.org/2300660" ana="webannotation:http://temp.lincsproject.ca/uXBsqLLwwTE">Ghana</placeName>, complète quant à elle le processus de réconciliation avec le passé en retrouvant le pays de naissance de son arrière-grand-père <persName key="Bohner, Theodor, 1882-1963" ref="http://viaf.org/viaf/194237270" ana="webannotation:http://temp.lincsproject.ca/Fl91h99AItx">Theo</persName>, et elle donne à son fils le nom africain de son aïeul, Kwabla</ref>.</ref>
+                        <ref target="#genre_lifeWriting">C’est ce sentiment de libération qui prédomine dans les récits biofictionnels qui composent <title level="m">La vie devant elles</title>, où la réconciliation avec le père ainsi qu’avec le passé berlinois se fait à travers les voyages des petites-filles de <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/TxZbSbylKui">Marguerite</persName>. <ref target="#spatiality">Lorsque la vieille dame fait un séjour à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/cbI4oLF0t1a">Berlin</placeName> avec sa petite-fille Isa, elle brise le silence sur le passé. Elle lui révèle que son père (le fils de <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/ff5w9FaY5dg">Marguerite</persName>), qui a toujours caché ses origines allemandes, a passé une partie de sa jeunesse dans la ville. Elles se délectent de la richesse culturelle du Berlin restauré, de ses musées d’art et de ses magasins. Ensemble, elles visitent <placeName key="Jüdisches Museum Berlin (1999-)" ref="http://viaf.org/viaf/144581570" ana="webannotation:http://temp.lincsproject.ca/HJfEOhKXz4Y">le Musée du Judaïsme</placeName>, elles traversent l’axe de l’Holocauste, l’axe de l’exil et celui de la continuité. L’espace mémoriel révèle les actes honteux du régime nazi et offre en retour une possibilité de guérison. Ariane, autre petite-fille de Marguerite, en voyage en <placeName key="Africa" ref="https://sws.geonames.org/6255146" ana="webannotation:http://temp.lincsproject.ca/AC2oJUKT7mH">Afrique</placeName> pour établir un programme d’aide auprès des femmes du <placeName key="Ghana" ref="https://sws.geonames.org/2300660" ana="webannotation:http://temp.lincsproject.ca/uXBsqLLwwTE">Ghana</placeName>, complète quant à elle le processus de réconciliation avec le passé en retrouvant le pays de naissance de son arrière-grand-père <persName key="Bohner, Theodor, 1882-1963" ref="http://viaf.org/viaf/194237270" ana="webannotation:http://temp.lincsproject.ca/Fl91h99AItx">Theo</persName>, et elle donne à son fils le nom africain de son aïeul, Kwabla</ref>.</ref>
                     </p>
                 </div>
                 <div type="section">
@@ -19276,6 +19276,95 @@
         "type": "crm:E21_Person",
         "label": "Jésus-Christ",
         "description": "Jesús"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/HJfEOhKXz4Y">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/HJfEOhKXz4Y",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T15:08:44.789Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/m2AIe4ikLlO",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/m2AIe4ikLlO/selector/textPosition/UQx2CH7wGGd",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 47612,
+                "end": 47632,
+                "refinedBy": {
+                    "id": "/target/m2AIe4ikLlO/selector/textQuote/SPvcUzDvtRy",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "le Musée du Judaïsme",
+                    "prefix": " Ensemble, elles visitent",
+                    "suffix": " elles traversent l’axe de l’Holocauste, l’axe de l’exil et celui de la continuité"
+                }
+            },
+            {
+                "id": "/target/m2AIe4ikLlO/selector/css/E3FCMl2j1na",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/HJfEOhKXz4Y]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/144581570",
+        "type": "crm:E74_Group",
+        "label": "Jüdisches Museum Berlin (1999-)",
+        "description": "המוזיאון היהודי (ברלין, 1999-)"
     },
     "P2_has_type": [
         "oa:identifying"
