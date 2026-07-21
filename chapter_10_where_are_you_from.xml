@@ -883,7 +883,7 @@
                             <title level="m">La Sainte Bible</title>. Traduite d’après les textes originaux hébreu et grec par <persName key="Segond, Louis, 1810-1885" ref="http://viaf.org/viaf/103646670" ana="webannotation:http://temp.lincsproject.ca/Mu0EtOz5LJj">Louis Segond</persName>. Édition revue avec références. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/yRuKqazmm8b">Paris</placeName>: <orgName key="United Bible Societies." ref="http://viaf.org/viaf/149549112" ana="webannotation:http://temp.lincsproject.ca/UrIK8BxGzTC">La Société biblique</orgName>, 1972.</bibl>
                         <bibl>Tennier, Julie. <title level="a"><persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/mk2tW4iN4jl">Marguerite Andersen</persName> et le moi en l’absence de l’autre : <title level="m">De mémoire de femme</title>
                             </title>. <title level="j">Voix plurielles</title> 9.1 (2012): 58-68.</bibl>
-                        <bibl><persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/MPZ5ORPWYKP">Young</persName>, <persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/gN70u4oXOHm">Lélia</persName>. <title level="m">Poésie franco-ontarienne: Un aperçu</title>. <title level="m">Perspectives sur la littérature franco-ontarienne</title>. Dir. <persName key="Reguigui, Ali" ref="http://viaf.org/viaf/52015898" ana="webannotation:http://temp.lincsproject.ca/U2dnrz4wT1j">Ali Reguigui</persName> et Hédi Bouraoui. Édition revue et augmentée. <placeName key="Sudbury" ref="https://sws.geonames.org/6158840" ana="webannotation:http://temp.lincsproject.ca/t4QsijpP4IZ">Sudbury</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/UfI5Yp5tvZF">ON</placeName>: <orgName key="Prise de parole (Firm)" ref="http://viaf.org/viaf/159375660" ana="webannotation:http://temp.lincsproject.ca/WHuK4hpcDLT">Prise de parole</orgName>, 2007. 205-33.</bibl>
+                        <bibl><persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/MPZ5ORPWYKP">Young</persName>, <persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/gN70u4oXOHm">Lélia</persName>. <title level="m">Poésie franco-ontarienne: Un aperçu</title>. <title level="m">Perspectives sur la littérature franco-ontarienne</title>. Dir. <persName key="Reguigui, Ali" ref="http://viaf.org/viaf/52015898" ana="webannotation:http://temp.lincsproject.ca/U2dnrz4wT1j">Ali Reguigui</persName> et <persName key="Bouraoui, Hédi, 1932-" ref="http://viaf.org/viaf/84969047" ana="webannotation:http://temp.lincsproject.ca/tOxoNORQnXG">Hédi Bouraoui</persName>. Édition revue et augmentée. <placeName key="Sudbury" ref="https://sws.geonames.org/6158840" ana="webannotation:http://temp.lincsproject.ca/t4QsijpP4IZ">Sudbury</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/UfI5Yp5tvZF">ON</placeName>: <orgName key="Prise de parole (Firm)" ref="http://viaf.org/viaf/159375660" ana="webannotation:http://temp.lincsproject.ca/WHuK4hpcDLT">Prise de parole</orgName>, 2007. 205-33.</bibl>
                     </listBibl>
                 </div>
             </div>
@@ -22387,6 +22387,95 @@
         "type": "crm:E21_Person",
         "label": "Reguigui, Ali",
         "description": "Reguigui, Ali Dr"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/tOxoNORQnXG">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/tOxoNORQnXG",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T15:38:18.447Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/cHkv6yFO3CI",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/cHkv6yFO3CI/selector/textPosition/44OSnfFmdpR",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 51543,
+                "end": 51556,
+                "refinedBy": {
+                    "id": "/target/cHkv6yFO3CI/selector/textQuote/9AwRCI7PAsW",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Hédi Bouraoui",
+                    "prefix": " Ali Reguigui et",
+                    "suffix": " Édition revue et augmentée"
+                }
+            },
+            {
+                "id": "/target/cHkv6yFO3CI/selector/css/tvDLa2MDeAI",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/tOxoNORQnXG]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/84969047",
+        "type": "crm:E21_Person",
+        "label": "Bouraoui, Hédi, 1932-",
+        "description": "Bouraoui, Hédi André"
     },
     "P2_has_type": [
         "oa:identifying"
