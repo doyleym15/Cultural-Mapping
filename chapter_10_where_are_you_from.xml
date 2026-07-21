@@ -880,7 +880,7 @@
                         <bibl><persName key="Paré, François, 1949-" ref="http://viaf.org/viaf/66577014" ana="webannotation:http://temp.lincsproject.ca/gqS180zIiHA">Paré</persName>, François. <title level="a">Souveraineté et détournement du regard dans les nouvelles de Marguerite Andersen</title>. <title level="j" xml:lang="en-CA"><orgName key="University of Toronto Quarterly" ref="http://www.wikidata.org/entity/Q7896494" ana="webannotation:http://temp.lincsproject.ca/PC2PHVyokoe">University of Toronto Quarterly</orgName></title> 68.4 (automne 1999): 823-34.</bibl>
                         <bibl><persName key="Robin, Régine, 1939-2021" ref="http://viaf.org/viaf/36923835" ana="webannotation:http://temp.lincsproject.ca/XUm4nbRwAxj">Robin</persName>, Régine. <title level="m">Le roman mémoriel : de l’histoire à l’écriture du hors-lieu</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/Yf7HXqmhvFA">Montréal</placeName>: <orgName key="Préambule (Firme)" ref="http://viaf.org/viaf/268159397440819301280" ana="webannotation:http://temp.lincsproject.ca/5XFHcLnLBxv">Le Préambule</orgName>, 1989.</bibl>
                         <bibl>
-                            <title level="m">La Sainte Bible</title>. Traduite d’après les textes originaux hébreu et grec par Louis Segond. Édition revue avec références. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/yRuKqazmm8b">Paris</placeName>: La Société biblique, 1972.</bibl>
+                            <title level="m">La Sainte Bible</title>. Traduite d’après les textes originaux hébreu et grec par Louis Segond. Édition revue avec références. <placeName key="Paris" ref="https://sws.geonames.org/2988507" ana="webannotation:http://temp.lincsproject.ca/yRuKqazmm8b">Paris</placeName>: <orgName key="United Bible Societies." ref="http://viaf.org/viaf/149549112" ana="webannotation:http://temp.lincsproject.ca/UrIK8BxGzTC">La Société biblique</orgName>, 1972.</bibl>
                         <bibl>Tennier, Julie. <title level="a"><persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/mk2tW4iN4jl">Marguerite Andersen</persName> et le moi en l’absence de l’autre : <title level="m">De mémoire de femme</title>
                             </title>. <title level="j">Voix plurielles</title> 9.1 (2012): 58-68.</bibl>
                         <bibl><persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/MPZ5ORPWYKP">Young</persName>, <persName key="Young, Lélia, 1950-" ref="http://viaf.org/viaf/45990175" ana="webannotation:http://temp.lincsproject.ca/gN70u4oXOHm">Lélia</persName>. <title level="m">Poésie franco-ontarienne: Un aperçu</title>. <title level="m">Perspectives sur la littérature franco-ontarienne</title>. Dir. Ali Reguigui et Hédi Bouraoui. Édition revue et augmentée. <placeName key="Sudbury" ref="https://sws.geonames.org/6158840" ana="webannotation:http://temp.lincsproject.ca/t4QsijpP4IZ">Sudbury</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/UfI5Yp5tvZF">ON</placeName>: <orgName key="Prise de parole (Firm)" ref="http://viaf.org/viaf/159375660" ana="webannotation:http://temp.lincsproject.ca/WHuK4hpcDLT">Prise de parole</orgName>, 2007. 205-33.</bibl>
@@ -21853,6 +21853,95 @@
         "id": "http://viaf.org/viaf/268159397440819301280",
         "type": "crm:E74_Group",
         "label": "Préambule (Firme)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/UrIK8BxGzTC">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/UrIK8BxGzTC",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T15:35:14.195Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/YgfiMA9rn0H",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/YgfiMA9rn0H/selector/textPosition/mYat6Kulvex",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 51188,
+                "end": 51207,
+                "refinedBy": {
+                    "id": "/target/YgfiMA9rn0H/selector/textQuote/I6kuqJyJNTk",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "La Société biblique",
+                    "prefix": " Paris:",
+                    "suffix": " 1972"
+                }
+            },
+            {
+                "id": "/target/YgfiMA9rn0H/selector/css/quBuWnQeGVG",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/UrIK8BxGzTC]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/149549112",
+        "type": "crm:E74_Group",
+        "label": "United Bible Societies.",
+        "description": "Alliance biblique universelle"
     },
     "P2_has_type": [
         "oa:identifying"
