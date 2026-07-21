@@ -440,7 +440,7 @@
                         <ref target="#intellectual_history">Née en 1924, auteure et éditrice <ref target="#nationality">franco-ontarienne</ref>, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/rTxuKbqAut2">Marguerite Andersen</persName> est venue à l’écriture de fiction à l’âge de cinquante-trois ans, mariant cette nouvelle carrière à celle de professeure de littérature française.</ref>
                         <ref target="#recognitions">Elle fait son entrée sur la scène littéraire en 1982 avec <ref target="#genre_lifeWriting">
                                 <title level="m">De mémoire de femme</title>, <q>récit en partie autobiographique</q>
-                            </ref> pour lequel elle reçoit le Prix du Journal de Montréal. Grande admiratrice de <persName key="Beauvoir, Simone de 1908-1986" ref="http://viaf.org/viaf/2466221" ana="webannotation:http://temp.lincsproject.ca/zGnGcKveQpy" type="real" cert="high">Simone de Beauvoir</persName> et de ses œuvres autobiographiques, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/wzdy3FxlIzi" type="real">Andersen</persName> récidive en littérature intime avec <ref target="#genre_poetry">la prose poétique <title level="m">Bleu sur blanc</title>
+                            </ref> pour lequel elle reçoit <title key="prix littéraires du Journal de Montréal" ref="http://www.wikidata.org/entity/Q3406041" ana="webannotation:http://temp.lincsproject.ca/I4DdjM7VrLK">le Prix du Journal de Montréal</title>. Grande admiratrice de <persName key="Beauvoir, Simone de 1908-1986" ref="http://viaf.org/viaf/2466221" ana="webannotation:http://temp.lincsproject.ca/zGnGcKveQpy" type="real" cert="high">Simone de Beauvoir</persName> et de ses œuvres autobiographiques, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/wzdy3FxlIzi" type="real">Andersen</persName> récidive en littérature intime avec <ref target="#genre_poetry">la prose poétique <title level="m">Bleu sur blanc</title>
                             </ref> en 2000, avec <ref target="#genre_fiction">la fiction documentaire <title level="m"/>
                             </ref> en 2004 et avec <ref target="#genre_fiction">le roman <title level="m">Le figuier sur le toit</title>
                             </ref>, pour lequel elle reçoit le Prix Trillium en 2008</ref>. <ref target="#genre_lifeWriting">Dans l’avant-propos de <title level="m">La vie devant elles</title>, paru en 2011, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/ZMTa8epIi6D">Andersen</persName> se présente comme <q>écrivaine à tendance autofictionnelle</q> mais précise que, dans cet ouvrage, elle construit plutôt <q>trois récits biofictionnels</q> à partir de la vie de ses six petites-filles <note place="inline">
@@ -23305,6 +23305,94 @@
         "type": "crm:E21_Person",
         "label": "Bouraoui, Hédi, 1932-",
         "description": "Bouraoui, Hédi André"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/I4DdjM7VrLK">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/I4DdjM7VrLK",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T16:01:08.108Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/4CO2rw6uYdO",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "/title",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/4CO2rw6uYdO/selector/textPosition/U2gfAzCz4xk",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 2247,
+                "end": 2277,
+                "refinedBy": {
+                    "id": "/target/4CO2rw6uYdO/selector/textQuote/LjAvq2wPBjt",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "le Prix du Journal de Montréal",
+                    "prefix": "\n                        Elle fait son entrée sur la scène littéraire en 1982 avec \n                                De mémoire de femme, récit en partie autobiographique\n                             pour lequel elle reçoit",
+                    "suffix": " Grande admiratrice de Simone de Beauvoir et de ses œuvres autobiographiques, Andersen récidive en littérature intime avec la prose poétique Bleu sur blanc\n                             en 2000, avec la fiction documentaire \n                             en 2004 et avec le roman Le figuier sur le toit\n                            , pour lequel elle reçoit le Prix Trillium en 2008"
+                }
+            },
+            {
+                "id": "/target/4CO2rw6uYdO/selector/css/APPYzMa0TOe",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/I4DdjM7VrLK]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q3406041",
+        "type": "crm:E74_Group",
+        "label": "prix littéraires du Journal de Montréal"
     },
     "P2_has_type": [
         "oa:identifying"
