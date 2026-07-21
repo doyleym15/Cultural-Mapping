@@ -414,7 +414,7 @@
                         <q>Where are you from?</q>
                     </title>
                 </head>
-                <byline>La ville et l’écriture migrante dans l’autofiction de <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/UoFDiUSu7DL" type="real" cert="high">Marguerite Andersen</persName></byline>
+                <byline>La ville et l’écriture migrante dans l’autofiction de <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/UoFDiUSu7DL" type="real" cert="high"><persName class="nerve-entity" data-nerve-entity-type="work" data-nerve-status="approved" data-nerve-wa-uuid="ZU9w27NPj0y" aria-expanded="false" data-nerve-action="hover" key="Parallèles" ref="https://www.wikidata.org/wiki/Q122069825" ana="webannotation:http://temp.lincsproject.ca/veDOgXTb6YT"><persName class="nerve-entity" data-nerve-entity-type="work" data-nerve-status="approved" data-nerve-wa-uuid="q5NJlsu-p3c" aria-expanded="false" key="Parallèles" ref="https://www.wikidata.org/wiki/Q122069825" ana="webannotation:http://temp.lincsproject.ca/IfjqxHXjJyd"><persName class="nerve-entity" data-nerve-entity-type="work" data-nerve-status="approved" data-nerve-wa-uuid="OT8pcymSK1f" aria-expanded="false" key="Parallèles" ref="https://www.wikidata.org/wiki/Q122069825" ana="webannotation:http://temp.lincsproject.ca/M22487lbJhR"><persName class="nerve-entity" data-nerve-entity-type="work" data-nerve-status="approved" data-nerve-wa-uuid="j4yYGkfrV9o" aria-expanded="false" key="Parallèles" ref="https://www.wikidata.org/wiki/Q122069825" ana="webannotation:http://temp.lincsproject.ca/uqBU9JNDkUN"><persName class="nerve-entity" data-nerve-entity-type="work" data-nerve-status="approved" data-nerve-wa-uuid="cwt-DxJUgni" aria-expanded="false" key="Parallèles" ref="https://www.wikidata.org/wiki/Q122069825" ana="webannotation:http://temp.lincsproject.ca/OU1Mn9gJU2G"><persName class="nerve-entity" data-nerve-entity-type="work" data-nerve-status="approved" data-nerve-wa-uuid="zmCx_Kq8b4b" aria-expanded="false" data-nerve-selected="true" key="Parallèles" ref="https://www.wikidata.org/wiki/Q122069825" ana="webannotation:http://temp.lincsproject.ca/fQSzhykMx5o">Marguerite Andersen</persName></persName></persName></persName></persName></persName></persName></byline>
                 <docAuthor> <persName key="Kellett, Kathleen, 1959-" ref="http://viaf.org/viaf/316787087" ana="webannotation:http://temp.lincsproject.ca/ZldSrdhoJpp" type="real" cert="high">Kathleen Kellett</persName></docAuthor>
                 <p xml:id="p1361">
                     <ref target="#genre_lifeWriting">
@@ -441,14 +441,14 @@
                         <ref target="#recognitions">Elle fait son entrée sur la scène littéraire en 1982 avec <ref target="#genre_lifeWriting">
                                 <title level="m">De mémoire de femme</title>, <q>récit en partie autobiographique</q>
                             </ref> pour lequel elle reçoit le Prix du Journal de Montréal. Grande admiratrice de <persName key="Beauvoir, Simone de 1908-1986" ref="http://viaf.org/viaf/2466221" ana="webannotation:http://temp.lincsproject.ca/zGnGcKveQpy" type="real" cert="high">Simone de Beauvoir</persName> et de ses œuvres autobiographiques, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/wzdy3FxlIzi" type="real">Andersen</persName> récidive en littérature intime avec <ref target="#genre_poetry">la prose poétique <title level="m">Bleu sur blanc</title>
-                            </ref> en 2000, avec <ref target="#genre_fiction">la fiction documentaire <title level="m">Parallèles</title>
+                            </ref> en 2000, avec <ref target="#genre_fiction">la fiction documentaire <title level="m"/>
                             </ref> en 2004 et avec <ref target="#genre_fiction">le roman <title level="m">Le figuier sur le toit</title>
                             </ref>, pour lequel elle reçoit le Prix Trillium en 2008</ref>. <ref target="#genre_lifeWriting">Dans l’avant-propos de <title level="m">La vie devant elles</title>, paru en 2011, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/ZMTa8epIi6D">Andersen</persName> se présente comme <q>écrivaine à tendance autofictionnelle</q> mais précise que, dans cet ouvrage, elle construit plutôt <q>trois récits biofictionnels</q> à partir de la vie de ses six petites-filles <note place="inline">
                                 <bibl>7</bibl>
                             </note>. Dans ces autofictions, le <q>pacte autobiographique</q>
                             <note place="inline">
                                 <bibl>Lejeune</bibl>
-                            </note> est scellé par le nom propre — parfois, il est vrai, de façon indirecte. Ainsi, dans <title level="m">Bleu sur blanc</title>, <title level="m">Parallèles</title>, <title level="m">Le figuier sur le toit</title> et <title level="m">La vie devant elles</title>, la protagoniste s’appelle <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/zQ37tZDxAqc">Marguerite</persName>; <ref target="#intertextuality">dans <title level="m">De mémoire de femme</title>, comme le remarque <persName key="Hotte, Lucie, 1959-" ref="http://viaf.org/viaf/32220127" ana="webannotation:http://temp.lincsproject.ca/5yrgQnyxIvQ">Lucie Hotte</persName>, le nom d’Anne Grimm établit de façon ludique un lien entre les frères allemands, conteurs renommés, et l’auteur danois <persName key="Andersen, Hans Christian, 1805-1875." ref="http://viaf.org/viaf/4925902" ana="webannotation:http://temp.lincsproject.ca/c5lJscE5Ryx" type="real" cert="high">Hans Christian Andersen</persName>, qui porte le même nom que l’écrivaine <note place="inline">
+                            </note> est scellé par le nom propre — parfois, il est vrai, de façon indirecte. Ainsi, dans <title level="m">Bleu sur blanc</title>, <title level="m"/>, <title level="m">Le figuier sur le toit</title> et <title level="m">La vie devant elles</title>, la protagoniste s’appelle <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/zQ37tZDxAqc">Marguerite</persName>; <ref target="#intertextuality">dans <title level="m">De mémoire de femme</title>, comme le remarque <persName key="Hotte, Lucie, 1959-" ref="http://viaf.org/viaf/32220127" ana="webannotation:http://temp.lincsproject.ca/5yrgQnyxIvQ">Lucie Hotte</persName>, le nom d’Anne Grimm établit de façon ludique un lien entre les frères allemands, conteurs renommés, et l’auteur danois <persName key="Andersen, Hans Christian, 1805-1875." ref="http://viaf.org/viaf/4925902" ana="webannotation:http://temp.lincsproject.ca/c5lJscE5Ryx" type="real" cert="high">Hans Christian Andersen</persName>, qui porte le même nom que l’écrivaine <note place="inline">
                                     <bibl>Hotte 11</bibl>
                                 </note>
                             </ref>. <ref target="#theme_or_topic">
@@ -478,7 +478,7 @@
                     <head>Une enfance berlinoise : l’enfant et le père écrivain</head>
                     <p xml:id="p1364">
                         <ref target="#spatiality">
-                            <ref target="#childhood">Bien qu’Andersen soit née à <placeName key="Magdeburg" ref="https://sws.geonames.org/2874545" ana="webannotation:http://temp.lincsproject.ca/9r3BAQKJSSb">Magdebourg</placeName>, petite ville proche de <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/mufCTTVWoP0">Berlin</placeName>, c’est <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/1AQs2b9xA0D">Berlin</placeName>, où elle emménage avec sa famille à l’âge de quatre ans, qui incarne surtout le lieu de son enfance</ref>. D’ailleurs, dans <title level="m">Parallèles</title>, la narratrice a <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/dV2kcvLHPoK">Berlin</placeName> comme lieu de naissance <note place="inline">
+                            <ref target="#childhood">Bien qu’Andersen soit née à <placeName key="Magdeburg" ref="https://sws.geonames.org/2874545" ana="webannotation:http://temp.lincsproject.ca/9r3BAQKJSSb">Magdebourg</placeName>, petite ville proche de <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/mufCTTVWoP0">Berlin</placeName>, c’est <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/1AQs2b9xA0D">Berlin</placeName>, où elle emménage avec sa famille à l’âge de quatre ans, qui incarne surtout le lieu de son enfance</ref>. D’ailleurs, dans <title level="m"/>, la narratrice a <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/dV2kcvLHPoK">Berlin</placeName> comme lieu de naissance <note place="inline">
                                 <bibl>19</bibl>
                             </note>. Ses parents y côtoient des intellectuels, des artistes et des scientifiques. On pourrait même dire qu’elle vient au monde par l’intermédiaire de l’écriture de son père, <persName key="Bohner, Theodor, 1882-1963" ref="http://viaf.org/viaf/194237270" ana="webannotation:http://temp.lincsproject.ca/CEBuMzhFAes">Theo</persName>, lui-même auteur à tendance autofictionnelle. <ref target="#genre_fiction">Celui-ci raconte la naissance de sa fille dans son roman <title level="m" xml:lang="de-DE">Das Licht und sein Schatten</title> (<title level="m">La lumière et son ombre</title>) publié en 1937</ref>
                             <note xml:id="n87" place="end">Pour satisfaire aux exigences de ce que <persName key="Robin, Régine, 1939-2021" ref="http://viaf.org/viaf/36923835" ana="webannotation:http://temp.lincsproject.ca/ZAgJAo7riy0">Robin</persName> appelle la mémoire savante, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/f0KaNJbZQpl">Andersen</persName> inclut en annexe dans <title level="m">Le figuier sur le toit</title> la bibliographie des œuvres de son père.</note>. <ref target="#genre_lifeWriting">Que la protagoniste et sa sœur Emma s’identifient toutes deux à ce nouveau-né souligne le caractère équivoque de l’écriture autofictionnelle</ref>
@@ -566,7 +566,7 @@
                                                 <title level="m">Figuier</title> 219</bibl>
                                         </note>
                                     </ref>
-                                </ref>.</ref> Vers la fin de la guerre, alors que les autres membres de la famille s’enfuient en Autriche, le père reste à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/rdP59Hv415c">Berlin</placeName> pour soutenir ses amis, qui planifient l’attentat manqué contre <persName key="Hitler, Adolf, 1889-1945." ref="http://viaf.org/viaf/38190770" ana="webannotation:http://temp.lincsproject.ca/SN4U8DNaCmZ">Hitler</persName> du 20 juillet 1944, et parmi eux <persName key="Leber, Julius, 1891-1945" ref="http://viaf.org/viaf/54198643" ana="webannotation:http://temp.lincsproject.ca/QCbyUjFYvOy" type="real" cert="high">Julius Leber</persName>. Ce <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/1KDUqBQJJCk">Berlin</placeName> de l’époque de la guerre ne suscite que de la culpabilité, ce que la narratrice exprime ainsi dans <title level="m">Parallèles</title> :</ref>
+                                </ref>.</ref> Vers la fin de la guerre, alors que les autres membres de la famille s’enfuient en Autriche, le père reste à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/rdP59Hv415c">Berlin</placeName> pour soutenir ses amis, qui planifient l’attentat manqué contre <persName key="Hitler, Adolf, 1889-1945." ref="http://viaf.org/viaf/38190770" ana="webannotation:http://temp.lincsproject.ca/SN4U8DNaCmZ">Hitler</persName> du 20 juillet 1944, et parmi eux <persName key="Leber, Julius, 1891-1945" ref="http://viaf.org/viaf/54198643" ana="webannotation:http://temp.lincsproject.ca/QCbyUjFYvOy" type="real" cert="high">Julius Leber</persName>. Ce <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/1KDUqBQJJCk">Berlin</placeName> de l’époque de la guerre ne suscite que de la culpabilité, ce que la narratrice exprime ainsi dans <title level="m"/> :</ref>
                     </p>
                     <q type="block">
                         <ref target="#history">
@@ -577,7 +577,7 @@
                         </ref>
                     </q>
                     <p xml:id="p1367">
-                        <ref target="#nationality">Après la guerre, pour s’évader d’un pays en ruines, la narratrice se marie à un officier français, originaire de <placeName key="Tunis" ref="https://sws.geonames.org/2464470" ana="webannotation:http://temp.lincsproject.ca/4fzJnNORywo">Tunis</placeName>, qui lui donne deux fils et l’emprisonne dans un mariage malheureux et oppressif</ref>. Dans <title level="m">Parallèles</title>, la narratrice confie au lecteur ce sentiment de honte qui motive sa fuite de la langue et de la culture allemandes : <q>je me suis jetée dans un autre milieu, une autre langue. Ai caché mes origines. Pour ne pas être accusée des horreurs commises. Et sans y avoir participé, je m’en sens coupable, encore et toujours</q>
+                        <ref target="#nationality">Après la guerre, pour s’évader d’un pays en ruines, la narratrice se marie à un officier français, originaire de <placeName key="Tunis" ref="https://sws.geonames.org/2464470" ana="webannotation:http://temp.lincsproject.ca/4fzJnNORywo">Tunis</placeName>, qui lui donne deux fils et l’emprisonne dans un mariage malheureux et oppressif</ref>. Dans <title level="m"/>, la narratrice confie au lecteur ce sentiment de honte qui motive sa fuite de la langue et de la culture allemandes : <q>je me suis jetée dans un autre milieu, une autre langue. Ai caché mes origines. Pour ne pas être accusée des horreurs commises. Et sans y avoir participé, je m’en sens coupable, encore et toujours</q>
                         <note place="inline">
                             <bibl>220</bibl>
                         </note>. <ref target="#spatiality"><placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/I1yvvw7HXbp">Berlin</placeName> reste donc un espace narratif marqué par l’ambivalence : l’écriture du père est symbole de la richesse culturelle du Berlin d’antan, mais aussi symbole d’impuissance, pauvre substitut de l’action héroïque. Pour retrouver le bonheur fantasmé de la cellule familiale, la narratrice entretiendra des liaisons amoureuses condamnées à lui apporter de l’angoisse</ref>.</p>
@@ -736,7 +736,7 @@
                                     </note>
                                 </ref>.</ref>
                         </ref>
-                        <ref target="#intertextuality">Dans <title level="m">Parallèles</title>, la narratrice choisit de raconter sa vie et celle de son amie Lucienne Lacasse-Lovsted, toutes deux membres fondatrices de <orgName key="Société des écrivain-e-s de Toronto" ref="http://viaf.org/viaf/155882028" ana="webannotation:http://temp.lincsproject.ca/ws1lcuqJEVg">la Société des écrivain(e)s de Toronto</orgName>, association décrite comme un <q>cercle de famille, regroupement de tribu</q>
+                        <ref target="#intertextuality">Dans <title level="m"/>, la narratrice choisit de raconter sa vie et celle de son amie Lucienne Lacasse-Lovsted, toutes deux membres fondatrices de <orgName key="Société des écrivain-e-s de Toronto" ref="http://viaf.org/viaf/155882028" ana="webannotation:http://temp.lincsproject.ca/ws1lcuqJEVg">la Société des écrivain(e)s de Toronto</orgName>, association décrite comme un <q>cercle de famille, regroupement de tribu</q>
                             <note place="inline">
                                 <bibl>178</bibl>
                             </note>
@@ -7701,6 +7701,540 @@
         "P2_has_type": [
             "edit:modeReal"
         ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/fQSzhykMx5o">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/fQSzhykMx5o",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T15:50:32.332Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/eEJelUHiu4k",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/eEJelUHiu4k/selector/textPosition/AelvGtuCoEr",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 2501,
+                "end": 2511,
+                "refinedBy": {
+                    "id": "/target/eEJelUHiu4k/selector/textQuote/jPWzyOL1VI4",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Parallèles",
+                    "prefix": " Grande admiratrice de Simone de Beauvoir et de ses œuvres autobiographiques, Andersen récidive en littérature intime avec la prose poétique Bleu sur blanc\n                             en 2000, avec la fiction documentaire",
+                    "suffix": "                             en 2004 et avec le roman Le figuier sur le toit\n                            , pour lequel elle reçoit le Prix Trillium en 2008"
+                }
+            },
+            {
+                "id": "/target/eEJelUHiu4k/selector/css/PcVVUDhSGyg",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/fQSzhykMx5o]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q122069825",
+        "label": "Parallèles",
+        "type": "frbroo:F1",
+        "entityType": "frbroo:F1"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/OU1Mn9gJU2G">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/OU1Mn9gJU2G",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T15:50:32.544Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/W1jnF7kJxR7",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/W1jnF7kJxR7/selector/textPosition/W5UE1KZs4OT",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 3236,
+                "end": 3246,
+                "refinedBy": {
+                    "id": "/target/W1jnF7kJxR7/selector/textQuote/P1UvZevGibP",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Parallèles",
+                    "prefix": " Ainsi, dans Bleu sur blanc,",
+                    "suffix": " Le figuier sur le toit et La vie devant elles, la protagoniste s’appelle Marguerite; dans De mémoire de femme, comme le remarque Lucie Hotte, le nom d’Anne Grimm établit de façon ludique un lien entre les frères allemands, conteurs renommés, et l’auteur danois Hans Christian Andersen, qui porte le même nom que l’écrivaine \n                                    Hotte 11\n                                \n                            "
+                }
+            },
+            {
+                "id": "/target/W1jnF7kJxR7/selector/css/E5JNyjFI7vM",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/OU1Mn9gJU2G]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q122069825",
+        "label": "Parallèles",
+        "type": "frbroo:F1",
+        "entityType": "frbroo:F1"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/uqBU9JNDkUN">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/uqBU9JNDkUN",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T15:50:32.647Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/4FgylSM469d",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/4FgylSM469d/selector/textPosition/rL0Arr6IMqI",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 7159,
+                "end": 7169,
+                "refinedBy": {
+                    "id": "/target/4FgylSM469d/selector/textQuote/ifJbmWieSH9",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Parallèles",
+                    "prefix": " D’ailleurs, dans",
+                    "suffix": " la narratrice a Berlin comme lieu de naissance \n                                19\n                            "
+                }
+            },
+            {
+                "id": "/target/4FgylSM469d/selector/css/uJgJahOfh3v",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/uqBU9JNDkUN]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q122069825",
+        "label": "Parallèles",
+        "type": "frbroo:F1",
+        "entityType": "frbroo:F1"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/M22487lbJhR">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/M22487lbJhR",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T15:50:32.754Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/xUfADMKfqIt",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/xUfADMKfqIt/selector/textPosition/mCSzSmrjLLW",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 16340,
+                "end": 16350,
+                "refinedBy": {
+                    "id": "/target/xUfADMKfqIt/selector/textQuote/sNwjlkXOszZ",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Parallèles",
+                    "prefix": " Ce Berlin de l’époque de la guerre ne suscite que de la culpabilité, ce que la narratrice exprime ainsi dans",
+                    "suffix": ":\n                    \n                    \n                        \n                            La mère arrêtée brièvement, en 1942, pour avoir écouté Radio-Londres"
+                }
+            },
+            {
+                "id": "/target/xUfADMKfqIt/selector/css/fROJm5k9AOb",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/M22487lbJhR]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q122069825",
+        "label": "Parallèles",
+        "type": "frbroo:F1",
+        "entityType": "frbroo:F1"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/IfjqxHXjJyd">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/IfjqxHXjJyd",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T15:50:32.869Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/m6x8TkGau9K",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/m6x8TkGau9K/selector/textPosition/0ooWc5Jw0h7",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 17166,
+                "end": 17176,
+                "refinedBy": {
+                    "id": "/target/m6x8TkGau9K/selector/textQuote/qnrBH3s5GeT",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Parallèles",
+                    "prefix": " Dans",
+                    "suffix": " la narratrice confie au lecteur ce sentiment de honte qui motive sa fuite de la langue et de la culture allemandes : je me suis jetée dans un autre milieu, une autre langue"
+                }
+            },
+            {
+                "id": "/target/m6x8TkGau9K/selector/css/GGXlTiVxq6Q",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/IfjqxHXjJyd]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q122069825",
+        "label": "Parallèles",
+        "type": "frbroo:F1",
+        "entityType": "frbroo:F1"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/veDOgXTb6YT">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/veDOgXTb6YT",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T15:50:32.971Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/SFCd6lLTakL",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/SFCd6lLTakL/selector/textPosition/nPQ1htRRAJq",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 33655,
+                "end": 33665,
+                "refinedBy": {
+                    "id": "/target/SFCd6lLTakL/selector/textQuote/PixcuHGAA1P",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Parallèles",
+                    "prefix": "\n                        \n                        Dans",
+                    "suffix": " la narratrice choisit de raconter sa vie et celle de son amie Lucienne Lacasse-Lovsted, toutes deux membres fondatrices de la Société des écrivain(e)s de Toronto, association décrite comme un cercle de famille, regroupement de tribu\n                            \n                                178\n                            \n                        "
+                }
+            },
+            {
+                "id": "/target/SFCd6lLTakL/selector/css/auLpRX2HGB7",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/veDOgXTb6YT]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q122069825",
+        "label": "Parallèles",
+        "type": "frbroo:F1",
+        "entityType": "frbroo:F1"
     },
     "P2_has_type": [
         "oa:identifying"
