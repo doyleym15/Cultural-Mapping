@@ -414,7 +414,7 @@
                         <q>Where are you from?</q>
                     </title>
                 </head>
-                <byline>La ville et l’écriture migrante dans l’autofiction de <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/UoFDiUSu7DL" type="real" cert="high"><persName class="nerve-entity" data-nerve-entity-type="work" data-nerve-status="approved" data-nerve-wa-uuid="ZU9w27NPj0y" aria-expanded="false" data-nerve-action="hover" key="Parallèles" ref="https://www.wikidata.org/wiki/Q122069825" ana="webannotation:http://temp.lincsproject.ca/veDOgXTb6YT"><persName class="nerve-entity" data-nerve-entity-type="work" data-nerve-status="approved" data-nerve-wa-uuid="q5NJlsu-p3c" aria-expanded="false" key="Parallèles" ref="https://www.wikidata.org/wiki/Q122069825" ana="webannotation:http://temp.lincsproject.ca/IfjqxHXjJyd"><persName class="nerve-entity" data-nerve-entity-type="work" data-nerve-status="approved" data-nerve-wa-uuid="OT8pcymSK1f" aria-expanded="false" key="Parallèles" ref="https://www.wikidata.org/wiki/Q122069825" ana="webannotation:http://temp.lincsproject.ca/M22487lbJhR"><persName class="nerve-entity" data-nerve-entity-type="work" data-nerve-status="approved" data-nerve-wa-uuid="j4yYGkfrV9o" aria-expanded="false" key="Parallèles" ref="https://www.wikidata.org/wiki/Q122069825" ana="webannotation:http://temp.lincsproject.ca/uqBU9JNDkUN"><persName class="nerve-entity" data-nerve-entity-type="work" data-nerve-status="approved" data-nerve-wa-uuid="cwt-DxJUgni" aria-expanded="false" key="Parallèles" ref="https://www.wikidata.org/wiki/Q122069825" ana="webannotation:http://temp.lincsproject.ca/OU1Mn9gJU2G"><persName class="nerve-entity" data-nerve-entity-type="work" data-nerve-status="approved" data-nerve-wa-uuid="zmCx_Kq8b4b" aria-expanded="false" data-nerve-selected="true" key="Parallèles" ref="https://www.wikidata.org/wiki/Q122069825" ana="webannotation:http://temp.lincsproject.ca/fQSzhykMx5o">Marguerite Andersen</persName></persName></persName></persName></persName></persName></persName></byline>
+                <byline>La ville et l’écriture migrante dans l’autofiction de <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/UoFDiUSu7DL" type="real" cert="high"><persName class="nerve-entity" data-nerve-entity-type="work" data-nerve-status="approved" data-nerve-wa-uuid="j9xmHJ17XWU" aria-expanded="false" key="Parallèles" ref="https://www.wikidata.org/wiki/Q122069825" ana="webannotation:http://temp.lincsproject.ca/kaSVjVNXOmE"><persName class="nerve-entity" data-nerve-entity-type="work" data-nerve-status="approved" data-nerve-wa-uuid="ZU9w27NPj0y" aria-expanded="false" key="Parallèles" ref="https://www.wikidata.org/wiki/Q122069825" ana="webannotation:http://temp.lincsproject.ca/veDOgXTb6YT"><persName class="nerve-entity" data-nerve-entity-type="work" data-nerve-status="approved" data-nerve-wa-uuid="q5NJlsu-p3c" aria-expanded="false" key="Parallèles" ref="https://www.wikidata.org/wiki/Q122069825" ana="webannotation:http://temp.lincsproject.ca/IfjqxHXjJyd"><persName class="nerve-entity" data-nerve-entity-type="work" data-nerve-status="approved" data-nerve-wa-uuid="OT8pcymSK1f" aria-expanded="false" key="Parallèles" ref="https://www.wikidata.org/wiki/Q122069825" ana="webannotation:http://temp.lincsproject.ca/M22487lbJhR"><persName class="nerve-entity" data-nerve-entity-type="work" data-nerve-status="approved" data-nerve-wa-uuid="j4yYGkfrV9o" aria-expanded="false" key="Parallèles" ref="https://www.wikidata.org/wiki/Q122069825" ana="webannotation:http://temp.lincsproject.ca/uqBU9JNDkUN"><persName class="nerve-entity" data-nerve-entity-type="work" data-nerve-status="approved" data-nerve-wa-uuid="cwt-DxJUgni" aria-expanded="false" key="Parallèles" ref="https://www.wikidata.org/wiki/Q122069825" ana="webannotation:http://temp.lincsproject.ca/OU1Mn9gJU2G"><persName class="nerve-entity" data-nerve-entity-type="work" data-nerve-status="approved" data-nerve-wa-uuid="zmCx_Kq8b4b" aria-expanded="false" key="Parallèles" ref="https://www.wikidata.org/wiki/Q122069825" ana="webannotation:http://temp.lincsproject.ca/fQSzhykMx5o" data-nerve-selected="true" data-nerve-action="hover" type="real">Marguerite Andersen</persName></persName></persName></persName></persName></persName></persName></persName></byline>
                 <docAuthor> <persName key="Kellett, Kathleen, 1959-" ref="http://viaf.org/viaf/316787087" ana="webannotation:http://temp.lincsproject.ca/ZldSrdhoJpp" type="real" cert="high">Kathleen Kellett</persName></docAuthor>
                 <p xml:id="p1361">
                     <ref target="#genre_lifeWriting">
@@ -763,7 +763,7 @@
                     </p>
                     <p xml:id="p1375">
                         <ref target="#spatiality">
-                            <ref target="genre_lifeWriting">Pour <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/WyrOHsVciTb">Andersen</persName>, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/AxD28Ia7iBB">Toronto</placeName> constitue donc un milieu privilégié de convivialité artistique. Dans <title level="m">Parallèles</title>, la narratrice <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/WtxwK1HoEWl">Marguerite</persName> fait l’éloge des institutions culturelles francophones, par exemple du Prix Trillium en langue française, créé en 1994 (pour ceux qui ne peuvent participer pleinement à la version anglophone, créée en 1988), ou de <orgName key="Association des auteures et auteurs de l'Ontario français" ref="http://viaf.org/viaf/132477087" ana="webannotation:http://temp.lincsproject.ca/V7wPi4onVFJ">l’Association des auteures et des auteurs de l’Ontario français</orgName>, dont <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/JOS8ZDAwgmN">Marguerite Andersen</persName> a été présidente de 2000 à 2004. Elle parle également de son travail en tant qu’éditrice de la revue franco-ontarienne <title level="j">Virages</title> consacrée à la nouvelle. C’est par cette célébration des institutions littéraires franco-torontoises dont elle fait partie que <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/JR7HXoymf0n">Marguerite</persName> finit par rejoindre le père d’une façon positive. <ref target="#archive">Elle décrit dans <title level="m">Le figuier sur le toit</title> la boîte d’archives personnelles marquée <q>Famille</q> qu’elle a transportée jusqu’à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/keqvyI2DntT">Toronto</placeName> et dans laquelle elle conserve les documents de la société d’écrivains allemands dont son père avait été président avant le régime nazi</ref>. Écrivaine torontoise, elle retrouve alors un point de contact positif avec le père, écrivain berlinois :</ref>
+                            <ref target="genre_lifeWriting">Pour <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/WyrOHsVciTb">Andersen</persName>, <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/AxD28Ia7iBB">Toronto</placeName> constitue donc un milieu privilégié de convivialité artistique. Dans <title level="m"/>, la narratrice <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/WtxwK1HoEWl">Marguerite</persName> fait l’éloge des institutions culturelles francophones, par exemple du Prix Trillium en langue française, créé en 1994 (pour ceux qui ne peuvent participer pleinement à la version anglophone, créée en 1988), ou de <orgName key="Association des auteures et auteurs de l'Ontario français" ref="http://viaf.org/viaf/132477087" ana="webannotation:http://temp.lincsproject.ca/V7wPi4onVFJ">l’Association des auteures et des auteurs de l’Ontario français</orgName>, dont <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/JOS8ZDAwgmN">Marguerite Andersen</persName> a été présidente de 2000 à 2004. Elle parle également de son travail en tant qu’éditrice de la revue franco-ontarienne <title level="j">Virages</title> consacrée à la nouvelle. C’est par cette célébration des institutions littéraires franco-torontoises dont elle fait partie que <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/JR7HXoymf0n">Marguerite</persName> finit par rejoindre le père d’une façon positive. <ref target="#archive">Elle décrit dans <title level="m">Le figuier sur le toit</title> la boîte d’archives personnelles marquée <q>Famille</q> qu’elle a transportée jusqu’à <placeName key="Toronto" ref="https://sws.geonames.org/6167865" ana="webannotation:http://temp.lincsproject.ca/keqvyI2DntT">Toronto</placeName> et dans laquelle elle conserve les documents de la société d’écrivains allemands dont son père avait été président avant le régime nazi</ref>. Écrivaine torontoise, elle retrouve alors un point de contact positif avec le père, écrivain berlinois :</ref>
                         </ref>
                     </p>
                     <q type="block">
@@ -7789,7 +7789,10 @@
         "id": "https://www.wikidata.org/wiki/Q122069825",
         "label": "Parallèles",
         "type": "frbroo:F1",
-        "entityType": "frbroo:F1"
+        "entityType": "frbroo:F1",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -7878,7 +7881,10 @@
         "id": "https://www.wikidata.org/wiki/Q122069825",
         "label": "Parallèles",
         "type": "frbroo:F1",
-        "entityType": "frbroo:F1"
+        "entityType": "frbroo:F1",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -7967,7 +7973,10 @@
         "id": "https://www.wikidata.org/wiki/Q122069825",
         "label": "Parallèles",
         "type": "frbroo:F1",
-        "entityType": "frbroo:F1"
+        "entityType": "frbroo:F1",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -8056,7 +8065,10 @@
         "id": "https://www.wikidata.org/wiki/Q122069825",
         "label": "Parallèles",
         "type": "frbroo:F1",
-        "entityType": "frbroo:F1"
+        "entityType": "frbroo:F1",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -8145,7 +8157,10 @@
         "id": "https://www.wikidata.org/wiki/Q122069825",
         "label": "Parallèles",
         "type": "frbroo:F1",
-        "entityType": "frbroo:F1"
+        "entityType": "frbroo:F1",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
@@ -8234,7 +8249,102 @@
         "id": "https://www.wikidata.org/wiki/Q122069825",
         "label": "Parallèles",
         "type": "frbroo:F1",
-        "entityType": "frbroo:F1"
+        "entityType": "frbroo:F1",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/kaSVjVNXOmE">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/kaSVjVNXOmE",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T15:50:33.064Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ZRZZXUlc71Q",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ZRZZXUlc71Q/selector/textPosition/mQlkVvUqMtc",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 36612,
+                "end": 36622,
+                "refinedBy": {
+                    "id": "/target/ZRZZXUlc71Q/selector/textQuote/e0e31V8c6WF",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Parallèles",
+                    "prefix": " Dans",
+                    "suffix": " la narratrice Marguerite fait l’éloge des institutions culturelles francophones, par exemple du Prix Trillium en langue française, créé en 1994 (pour ceux qui ne peuvent participer pleinement à la version anglophone, créée en 1988), ou de l’Association des auteures et des auteurs de l’Ontario français, dont Marguerite Andersen a été présidente de 2000 à 2004"
+                }
+            },
+            {
+                "id": "/target/ZRZZXUlc71Q/selector/css/Ti27nLumlGH",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/kaSVjVNXOmE]"
+            }
+        ]
+    },
+    "body": {
+        "id": "https://www.wikidata.org/wiki/Q122069825",
+        "label": "Parallèles",
+        "type": "frbroo:F1",
+        "entityType": "frbroo:F1",
+        "P2_has_type": [
+            "edit:modeReal"
+        ]
     },
     "P2_has_type": [
         "oa:identifying"
