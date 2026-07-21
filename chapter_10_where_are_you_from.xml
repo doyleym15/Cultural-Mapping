@@ -866,7 +866,7 @@
                 <div type="section">
                     <head>Bibliographie</head>
                     <listBibl>
-                        <bibl><persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/BxHsDhMxvzA">Andersen</persName>, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/IC9VkdXRNbL">Marguerite</persName>. <title level="a" xml:lang="en-CA">Autobiography: Tightrope Across the Search for Understanding</title>. <title level="j" xml:lang="en-CA">Institut Simone de Beauvoir Institute Review/<hi xml:lang="fr-FR">Revue</hi>
+                        <bibl><persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/BxHsDhMxvzA">Andersen</persName>, <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/IC9VkdXRNbL">Marguerite</persName>. <title level="a" xml:lang="en-CA">Autobiography: Tightrope Across the Search for Understanding</title>. <title level="j" xml:lang="en-CA"><orgName key="Institut Simone de Beauvoir" ref="http://viaf.org/viaf/172430248" ana="webannotation:http://temp.lincsproject.ca/j3OzWMVWHN0">Institut Simone de Beauvoir Institute Review</orgName>/<hi xml:lang="fr-FR">Revue</hi>
                             </title> 18-19 (2000): 113-28.</bibl>
                         <bibl>. <title level="m">Bleu sur blanc</title>. <placeName key="Sudbury" ref="https://sws.geonames.org/6158840" ana="webannotation:http://temp.lincsproject.ca/NbBGWTvqs68">Sudbury</placeName>, <placeName key="Ontario" ref="https://sws.geonames.org/6093943" ana="webannotation:http://temp.lincsproject.ca/aR62FOcEeQM">ON</placeName>: <orgName key="Prise de parole (Firm)" ref="http://viaf.org/viaf/159375660" ana="webannotation:http://temp.lincsproject.ca/BSxkRo3Qliw">Prise de parole</orgName>, 2000.</bibl>
                         <bibl>. <title level="m">De mémoire de femme</title>. <placeName key="Montréal" ref="https://sws.geonames.org/6077243" ana="webannotation:http://temp.lincsproject.ca/zEwV1bm8AzF">Montréal</placeName>: Quinze, 1982. Nouvelle édition revue et corrigée, <hi rend="small-caps">bcf</hi>, <placeName key="Ottawa" ref="https://sws.geonames.org/6094817" ana="webannotation:http://temp.lincsproject.ca/0MosCviK9DW">Ottawa</placeName>: L’Interligne, 2002.</bibl>
@@ -19454,6 +19454,95 @@
         "type": "crm:E53_Place",
         "label": "Africa",
         "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/j3OzWMVWHN0">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/j3OzWMVWHN0",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T15:12:03.509Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/ZMLNF293REW",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ZMLNF293REW/selector/textPosition/z0zSbLBZwuT",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 49428,
+                "end": 49472,
+                "refinedBy": {
+                    "id": "/target/ZMLNF293REW/selector/textQuote/3D9IaM3Mu8Q",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Institut Simone de Beauvoir Institute Review",
+                    "prefix": "",
+                    "suffix": "Revue\n                             18-19 (2000): 113-28"
+                }
+            },
+            {
+                "id": "/target/ZMLNF293REW/selector/css/pQ9VYbYnf5c",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/j3OzWMVWHN0]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/172430248",
+        "type": "crm:E74_Group",
+        "label": "Institut Simone de Beauvoir",
+        "description": "Simone de Beauvoir Institute (Montréal, Quebec)"
     },
     "P2_has_type": [
         "oa:identifying"
