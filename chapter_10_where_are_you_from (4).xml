@@ -560,7 +560,7 @@
                         </ref>. <ref target="#education">
                             <ref target="#history">
                                 <ref target="#childhood">Étudiante à <placeName key="Berlin" ref="https://sws.geonames.org/2950159" ana="webannotation:http://temp.lincsproject.ca/5SYf2zk1Ot5">Berlin</placeName>, la narratrice est obligée de se joindre au mouvement de jeunesse hitlérienne pour pouvoir continuer d’aller au lycée. L’enseignement pro-nazi est contesté par la famille Bohner</ref> : <ref target="#intertextuality">
-                                    <ref target="#genre_lifeWriting">dans une scène racontée dans <title level="m"><placeName key="Parallèles" ref="https://www.wikidata.org/wiki/Q122069825" ana="webannotation:http://temp.lincsproject.ca/dsruWORpUtV">Parallèles</placeName></title> ainsi que dans <title level="m">Le figuier sur le toit</title>, la mère s’emporte contre <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/31jus8JdcWP">Marguerite</persName>, la giflant lorsque celle-ci arrive à la maison avec un drapeau portant la croix gammée. La jeune fille n’est pas à l’abri de la propagande hitlérienne, qui lui inspire un roman familial reposant sur le récit édénique du <hi rend="italic" xml:lang="de-DE">Vater, Mutter, Kind,</hi> mais revu : <q><persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/A1qNBUskEwo">Marguerite</persName> rêvait parfois, le soir, dans son lit, que le <hi rend="italic" xml:lang="de-DE">Führer</hi> était son vrai père… Que <persName key="Bohner, Theodor, 1882-1963" ref="http://viaf.org/viaf/194237270" ana="webannotation:http://temp.lincsproject.ca/WsBfx3cKDNb">Theo</persName> n’était rien en comparaison de cet homme important, le plus important du pays</q>
+                                    <ref target="#genre_lifeWriting">dans une scène racontée dans <title level="m"><placeName key="Parallèles" ref="https://www.wikidata.org/wiki/Q122069825" ana="webannotation:http://temp.lincsproject.ca/dsruWORpUtV">Parallèles</placeName></title> ainsi que dans <title level="m"><placeName key="Le Figuier sur le toit" ref="http://www.wikidata.org/entity/Q122146367" ana="webannotation:http://temp.lincsproject.ca/uCs74bievdW">Le figuier sur le toit</placeName></title>, la mère s’emporte contre <persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/31jus8JdcWP">Marguerite</persName>, la giflant lorsque celle-ci arrive à la maison avec un drapeau portant la croix gammée. La jeune fille n’est pas à l’abri de la propagande hitlérienne, qui lui inspire un roman familial reposant sur le récit édénique du <hi rend="italic" xml:lang="de-DE">Vater, Mutter, Kind,</hi> mais revu : <q><persName key="Andersen, Marguerite, 1924-2022" ref="http://viaf.org/viaf/49233891" ana="webannotation:http://temp.lincsproject.ca/A1qNBUskEwo">Marguerite</persName> rêvait parfois, le soir, dans son lit, que le <hi rend="italic" xml:lang="de-DE">Führer</hi> était son vrai père… Que <persName key="Bohner, Theodor, 1882-1963" ref="http://viaf.org/viaf/194237270" ana="webannotation:http://temp.lincsproject.ca/WsBfx3cKDNb">Theo</persName> n’était rien en comparaison de cet homme important, le plus important du pays</q>
                                         <note place="inline">
                                             <bibl>
                                                 <title level="m">Figuier</title> 219</bibl>
@@ -23748,6 +23748,95 @@
         "id": "http://www.wikidata.org/entity/Q112892818",
         "type": "crm:E74_Group",
         "label": "Trillium Book Award, French"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/uCs74bievdW">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/uCs74bievdW",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-07-21T16:23:42.374Z",
+    "creator": {
+        "id": "https://github.com/doyleym15",
+        "type": "crm:E21_Person",
+        "name": "Megan Doyley"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.3.0"
+    },
+    "target": {
+        "id": "/target/qMGyUTllHnP",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_10_where_are_you_from (4).xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "da",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/doyleym15/Cultural-Mapping/main/chapter_10_where_are_you_from (4).xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "Where are you from?"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/qMGyUTllHnP/selector/textPosition/tziI9oGJd4Q",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 15223,
+                "end": 15245,
+                "refinedBy": {
+                    "id": "/target/qMGyUTllHnP/selector/textQuote/XvdmA6ot0P3",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Le figuier sur le toit",
+                    "prefix": " L’enseignement pro-nazi est contesté par la famille Bohner : \n                                    dans une scène racontée dans Parallèles ainsi que dans",
+                    "suffix": " la mère s’emporte contre Marguerite, la giflant lorsque celle-ci arrive à la maison avec un drapeau portant la croix gammée"
+                }
+            },
+            {
+                "id": "/target/qMGyUTllHnP/selector/css/hosyYHCxkOo",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/uCs74bievdW]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q122146367",
+        "type": "frbroo:F1",
+        "label": "Le Figuier sur le toit",
+        "description": "literary work by Marguerite Andersen"
     },
     "P2_has_type": [
         "oa:identifying"
